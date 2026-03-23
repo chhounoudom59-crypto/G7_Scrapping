@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://www.gouvernement.fr/partenaires-de-letat/nos-campagnes-en-cours",
+    "title": "Campagnes en cours",
+    "date": "2025-10-01",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:08:28.971180+00:00",
+    "content_hash": "730c5154c4472f47fd88330b3588d943",
+    "unique_id": "77a110e5c58df338"
+  },
+  {
+    "url": "https://www.gouvernement.fr/toute-l-actualite/decodage",
+    "title": "Décodage",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:52:52.431951+00:00",
+    "content_hash": "81ca71c568c0dd294abd795acb5bc489",
+    "unique_id": "fdfa09806377d561"
+  },
+  {
+    "url": "https://www.gouvernement.fr/toute-l-actualite/regards-croises",
+    "title": "Regards croisés",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:53:16.124958+00:00",
+    "content_hash": "4ac481ed0eda2a3ca066bfddb4864f14",
+    "unique_id": "1f7b4aeb86b84ec8"
+  },
+  {
+    "url": "https://www.gouvernement.fr/toute-l-actualite/carte-blanche",
+    "title": "Carte blanche",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:53:39.338483+00:00",
+    "content_hash": "a92cadcd2e2e62eaa7b4b044ad9133d4",
+    "unique_id": "966f45c401b4c922"
+  },
+  {
+    "url": "https://www.gouvernement.fr/toute-l-actualite/mode-demploi",
+    "title": "Mode d'emploi",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:54:59.254137+00:00",
+    "content_hash": "6e09dca5c86df7fa9f41dc40db94c0d0",
+    "unique_id": "5945e3fa5cf374ae"
+  },
+  {
+    "url": "https://www.gouvernement.fr/risques/infections-respiratoires-aigues",
+    "title": "Infections respiratoires aiguës",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:55:25.430877+00:00",
+    "content_hash": "5400f9760966019660ff6a67a9d78f97",
+    "unique_id": "907c91712653e18d"
+  },
+  {
+    "url": "https://www.gouvernement.fr/risques/se-preparer-a-une-situation-durgence",
+    "title": "Se préparer à une situation d’urgence",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:55:51.728103+00:00",
+    "content_hash": "6962843d0781fec8e7ac763fc95274b1",
+    "unique_id": "d90c77936fbc747e"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-second-tour",
+    "title": "Municipales 2026 : les résultats du second tour",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:56:30.492978+00:00",
+    "content_hash": "9769a40fcfa6d799c3a393dbafae33a5",
+    "unique_id": "e9baa1b678ba046f"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/lettre-aux-maires-de-france",
+    "title": "Lettre aux maires de France",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:56:58.259271+00:00",
+    "content_hash": "436a32b81caa920de3cbe3cbe8535a94",
+    "unique_id": "67bc67361b6a6e82"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-premier-tour",
+    "title": "Municipales 2026 : les résultats du premier tour",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:57:22.492972+00:00",
+    "content_hash": "0f0f4cc9a373c32b93628759f86a2eed",
+    "unique_id": "8f6207c5d2d28b95"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/elections-comment-sont-comptes-les-votes",
+    "title": "Élections :  comment les votes sont-ils comptés ?",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:57:49.683042+00:00",
+    "content_hash": "e4c5194ead03cd8bfb4bcb6bd23e9817",
+    "unique_id": "a773d061470838af"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/municipales-2026-comment-se-passe-un-vote",
+    "title": "Municipales 2026 : comment se passe un vote ?",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:58:15.225778+00:00",
+    "content_hash": "417ecb2c7ef1539989a33ad077a7fa12",
+    "unique_id": "3175a4c95f686764"
+  },
+  {
+    "url": "https://www.gouvernement.fr/videos",
+    "title": "Toutes les vidéos courtes d’info.gouv",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T14:59:43.524817+00:00",
+    "content_hash": "e71b2c3b85884d073d80a170f900d207",
+    "unique_id": "90774869de6e24b1"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/situation-au-moyen-orient-les-consignes-de-securite-aux-ressortissants-francais",
+    "title": "Situation au Moyen-Orient : les consignes de sécurité aux ressortissants français",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:01:08.782686+00:00",
+    "content_hash": "5bba417f3cd243c6c352ffd97ab34f0f",
+    "unique_id": "8fa6536cdc1e98e5"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/ce-qui-change-en-mars-2026",
+    "title": "Ce qui change en mars 2026",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:01:32.367823+00:00",
+    "content_hash": "0d271f9f14f97d519585db78d796aa40",
+    "unique_id": "2411b1ff8da43f4a"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/prix-des-carburants-500-controles-dans-les-stations-service",
+    "title": "Carburant : où trouver la station-service la moins chère ?",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:01:57.158576+00:00",
+    "content_hash": "41b3f2f1b4678779d2677db0027f1f96",
+    "unique_id": "25d1c5e7b5a143cf"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/taxe-sur-les-petits-colis-comment-ca-marche",
+    "title": "Taxe sur les petits colis : comment ça marche ?",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:02:20.271277+00:00",
+    "content_hash": "cd5afd211885332c695fa05ebd0376b6",
+    "unique_id": "922393c577e22ae8"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an",
+    "title": "« Mon soutien psy » : 12 séances remboursées par an",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:02:43.891774+00:00",
+    "content_hash": "6dd9f1a0484d8c172fae627657cc03fc",
+    "unique_id": "2a001161089ddf5e"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/troubles-bipolaires-quand-la-parole-se-libere",
+    "title": "Troubles bipolaires, quand la parole se libère",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:03:10.095692+00:00",
+    "content_hash": "fca8544dc942c6a013712eaa305dcc3b",
+    "unique_id": "4bf84d4074d25e27"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/depression-chez-l-adolescent-quand-les-resultats-scolaires-baissent-la-depression-est-souvent-deja-installee",
+    "title": "Dépression chez l’adolescent : « quand les résultats scolaires baissent, la dépression est souvent déjà installée  »",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:03:35.085162+00:00",
+    "content_hash": "c200f07c0219deb772ecde92351fcbeb",
+    "unique_id": "d27b6a36ba9ac4e1"
+  },
+  {
+    "url": "https://www.gouvernement.fr/grand-dossier/toutes-et-tous-egaux",
+    "title": "Toutes et tous égaux",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:03:58.314241+00:00",
+    "content_hash": "9611cf8d16c8894c266085101a6e6156",
+    "unique_id": "070848e7f321e8e8"
+  },
+  {
+    "url": "https://www.gouvernement.fr/grand-dossier/france-2030",
+    "title": "France 2030",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:04:23.917619+00:00",
+    "content_hash": "f6af76bb1a857b21e014018ba824471b",
+    "unique_id": "ab6be1334bc10b7f"
+  },
+  {
+    "url": "https://www.gouvernement.fr/grand-dossier/la-france-en-grand-angle",
+    "title": "La France en GRAND ANGLE",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:05:42.505442+00:00",
+    "content_hash": "4d6f0bf586025419d49116a49bffa0e3",
+    "unique_id": "b119c9b00aaf87db"
+  },
+  {
+    "url": "https://www.gouvernement.fr/partenaires-de-letat/pourquoi-sengager",
+    "title": "Pourquoi s'engager ?",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:07:28.889750+00:00",
+    "content_hash": "30d58f18f78d7978770ee8a5587ffb14",
+    "unique_id": "af81b52cdb702778"
+  },
+  {
+    "url": "https://www.gouvernement.fr/politiques-prioritaires/atteindre-le-plein-emploi-et-reindustrialiser-la-france",
+    "title": "Plein emploi et réindustrialisation - Axe prioritaire du Gouvernement | info.gouv.fr",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:09:14.517423+00:00",
+    "content_hash": "2848f2c715ecad3a17f6eb0d697da0d4",
+    "unique_id": "daa1ed6b909fddcc"
+  },
+  {
+    "url": "https://www.gouvernement.fr/politiques-prioritaires/batir-de-nouveaux-progres-et-refonder-nos-services-publics",
+    "title": "Progrès et services publics - Axe prioritaire du Gouvernement | info.gouv.fr",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:10:52.902988+00:00",
+    "content_hash": "07840ada99afe3a91325ab00df211581",
+    "unique_id": "6b54251369719e03"
+  },
+  {
+    "url": "https://www.gouvernement.fr/politiques-prioritaires/planifier-et-accelerer-la-transition-ecologique",
+    "title": "Transition écologique - Axe prioritaire du Gouvernement | info.gouv.fr",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:11:58.051535+00:00",
+    "content_hash": "5883c7f9559218eb35749038756f4b2e",
+    "unique_id": "d246a0ad8820cdea"
+  },
+  {
+    "url": "https://www.gouvernement.fr/politiques-prioritaires/renforcer-l-ordre-republicain-et-encourager-l-engagement",
+    "title": "Ordre républicain - Axe prioritaire du Gouvernement | info.gouv.fr",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-23T15:12:24.899668+00:00",
+    "content_hash": "d0080cc6c3cca23fc9ac174141c8f693",
+    "unique_id": "72c9bd3c97c9788f"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "name": "White House",
+    "country": "United States",
+    "country_code": "usa",
+    "base_url": "https://www.whitehouse.gov",
+    "rss_url": "https://www.whitehouse.gov/feed/",
+    "listing_urls": [
+      "https://www.whitehouse.gov/briefing-room/statements-releases/",
+      "https://www.whitehouse.gov/briefing-room/speeches-remarks/",
+      "https://www.whitehouse.gov/briefing-room/press-briefings/"
+    ],
+    "pagination": "?paged={n}",
+    "pagination_step": 1,
+    "max_pages": 10,
+    "js_required": false,
+    "selectors": {
+      "article_links": "h2.news-item__title a, h2 a, h3 a, article a, .briefing-room__content a",
+      "title": "h1.page-header__title, h1",
+      "date": "time.posted-on, time[datetime], .page-header__date",
+      "date_attr": "datetime",
+      "body": "div.body-content, div.editor-content, article .entry-content, main article"
+    },
+    "tags": [
+      "US"
+    ]
+  },
+  {
+    "name": "GOV.UK",
+    "country": "United Kingdom",
+    "country_code": "uk",
+    "base_url": "https://www.gov.uk",
+    "rss_url": "https://www.gov.uk/search/news-and-communications.atom",
+    "listing_urls": [
+      "https://www.gov.uk/search/news-and-communications"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 10,
+    "js_required": false,
+    "selectors": {
+      "article_links": "li.gem-c-document-list__item a.govuk-link, li a.gem-c-document-list__item__title",
+      "title": "h1.gem-c-title__text, h1",
+      "date": "time, dd.gem-c-metadata__definition",
+      "date_attr": "datetime",
+      "body": "div.gem-c-govspeak, div.govspeak, .govuk-govspeak"
+    },
+    "tags": [
+      "UK"
+    ]
+  },
+  {
+    "name": "Government of Canada",
+    "country": "Canada",
+    "country_code": "canada",
+    "base_url": "https://www.canada.ca",
+    "rss_url": "https://pm.gc.ca/en/news/rss.xml",
+    "listing_urls": [
+      "https://www.canada.ca/en/news.html",
+      "https://pm.gc.ca/en/news"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 10,
+    "js_required": false,
+    "extra_domains": [
+      "pm.gc.ca",
+      "news.gc.ca"
+    ],
+    "selectors": {
+      "article_links": "li.feed-item a, article a, h3 a, h2 a, .news-release a",
+      "title": "h1.page-title, h1#wb-cont, h1",
+      "date": "time, .dateline, p.mrgn-tp-0 time",
+      "date_attr": "datetime",
+      "body": "div.field-items, div.mwsbodytext, main article, #wb-cont"
+    },
+    "tags": [
+      "Canada"
+    ]
+  },
+  {
+    "name": "Gouvernement.fr",
+    "country": "France",
+    "country_code": "france",
+    "base_url": "https://www.gouvernement.fr",
+    "rss_url": "https://www.gouvernement.fr/en/news/atom",
+    "listing_urls": [
+      "https://www.gouvernement.fr/en/news"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 10,
+    "js_required": true,
+    "wait_selector": "article, .actualites-list",
+    "selectors": {
+      "article_links": "article a, .actualite a, .news-item a, h2 a, h3 a",
+      "title": "h1.page-title, h1.titre, h1",
+      "date": "time, p.date, span.date, .field-date",
+      "date_attr": "datetime",
+      "body": "div.field-body, div.texte, article .content, main"
+    },
+    "tags": [
+      "France"
+    ],
+    "note": "English-only. RSS + /en/news listing. French URLs removed.",
+    "url_rewrite": null
+  },
+  {
+    "name": "Bundesregierung",
+    "country": "Germany",
+    "country_code": "germany",
+    "base_url": "https://www.bundesregierung.de",
+    "rss_url": "",
+    "listing_urls": [
+      "https://www.bundesregierung.de/breg-en/news",
+      "https://www.bundesregierung.de/breg-en/topics"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 10,
+    "js_required": true,
+    "wait_selector": "article, .teaser",
+    "selectors": {
+      "article_links": "article.teaser a, h2.teaser__headline a, h3 a, a.teaser-link",
+      "title": "h1.article__title, h1",
+      "date": "time, p.date, .article-date, span.date",
+      "date_attr": "datetime",
+      "body": "div.article__text, div.rte, .widget-container, main article"
+    },
+    "tags": [
+      "Germany"
+    ],
+    "note": "No English RSS available. English listing pages only (/breg-en/).",
+    "url_rewrite": {
+      "from": "/breg-de/",
+      "to": "/breg-en/"
+    }
+  },
+  {
+    "name": "Governo Italiano",
+    "country": "Italy",
+    "country_code": "italy",
+    "base_url": "https://www.governo.it",
+    "rss_url": "",
+    "listing_urls": [
+      "https://www.governo.it/en/news"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 10,
+    "js_required": false,
+    "extra_domains": [
+      "g7italy.it"
+    ],
+    "selectors": {
+      "article_links": "div.view-content a, article h2 a, h3 a, li.views-row a",
+      "title": "h1.page-title, h1.node-title, h1",
+      "date": "span.date-display-single, time, p.date",
+      "date_attr": "datetime",
+      "body": "div.field-body, div.field-name-body, article .content, main"
+    },
+    "tags": [
+      "Italy"
+    ],
+    "note": "English-only. Italian RSS and /it/ listing URLs removed.",
+    "url_rewrite": {
+      "from": "/it/",
+      "to": "/en/"
+    }
+  },
+  {
+    "name": "Government of Japan",
+    "country": "Japan",
+    "country_code": "japan",
+    "base_url": "https://japan.kantei.go.jp",
+    "rss_url": "",
+    "listing_urls": [],
+    "max_pages": 10,
+    "js_required": false,
+    "selectors": {
+      "article_links": "td a, .news-list a, ul.list a, li a",
+      "title": "h1, h2.title, .page-title",
+      "date": "span.date, p.date, td.date, time",
+      "date_attr": "datetime",
+      "body": "div#content, div.content, article, main, .article-body"
+    },
+    "tags": [
+      "Japan"
+    ]
+  }
+]
