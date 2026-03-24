@@ -4,26 +4,25 @@
     "country": "United States",
     "country_code": "usa",
     "base_url": "https://www.whitehouse.gov",
-    "rss_url": "https://www.whitehouse.gov/feed/",
+    "rss_url": "",
     "listing_urls": [
       "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "https://www.whitehouse.gov/briefing-room/speeches-remarks/",
-      "https://www.whitehouse.gov/briefing-room/press-briefings/"
+      "https://www.whitehouse.gov/briefing-room/press-briefings/",
+      "https://www.whitehouse.gov/briefing-room/presidential-actions/"
     ],
     "pagination": "?paged={n}",
     "pagination_step": 1,
-    "max_pages": 10,
+    "max_pages": 5,
     "js_required": false,
     "selectors": {
-      "article_links": "h2.news-item__title a, h2 a, h3 a, article a, .briefing-room__content a",
-      "title": "h1.page-header__title, h1",
+      "article_links": "h2.news-item__title a, .briefing-statement__title a, .news-item__title a",
+      "title": "h1.page-header__title, h1.news-item__title, h1",
       "date": "time.posted-on, time[datetime], .page-header__date",
       "date_attr": "datetime",
-      "body": "div.body-content, div.editor-content, article .entry-content, main article"
+      "body": "div.body-content, div.editor-content, article .entry-content, .page-content"
     },
-    "tags": [
-      "US"
-    ]
+    "tags": ["US"]
   },
   {
     "name": "GOV.UK",
@@ -36,73 +35,63 @@
     ],
     "pagination": "?page={n}",
     "pagination_step": 1,
-    "max_pages": 10,
+    "max_pages": 5,
     "js_required": false,
     "selectors": {
-      "article_links": "li.gem-c-document-list__item a.govuk-link, li a.gem-c-document-list__item__title",
+      "article_links": "li.gem-c-document-list__item a.govuk-link",
       "title": "h1.gem-c-title__text, h1",
       "date": "time, dd.gem-c-metadata__definition",
       "date_attr": "datetime",
       "body": "div.gem-c-govspeak, div.govspeak, .govuk-govspeak"
     },
-    "tags": [
-      "UK"
-    ]
+    "tags": ["UK"]
   },
   {
     "name": "Government of Canada",
     "country": "Canada",
     "country_code": "canada",
-    "base_url": "https://www.canada.ca",
-    "rss_url": "https://pm.gc.ca/en/news/rss.xml",
-    "listing_urls": [
-      "https://www.canada.ca/en/news.html",
-      "https://pm.gc.ca/en/news"
-    ],
-    "pagination": "?page={n}",
-    "pagination_step": 1,
-    "max_pages": 10,
+    "base_url": "https://www.pm.gc.ca",
+    "rss_url": "https://www.pm.gc.ca/en/news.rss",
+    "listing_urls": [],
+    "pagination": "",
+    "max_pages": 1,
     "js_required": false,
     "extra_domains": [
-      "pm.gc.ca",
-      "news.gc.ca"
+      "www.canada.ca",
+      "news.gc.ca",
+      "pm.gc.ca"
     ],
     "selectors": {
-      "article_links": "li.feed-item a, article a, h3 a, h2 a, .news-release a",
+      "article_links": "h3.media-heading a, h4 a, article h3 a",
       "title": "h1.page-title, h1#wb-cont, h1",
       "date": "time, .dateline, p.mrgn-tp-0 time",
       "date_attr": "datetime",
       "body": "div.field-items, div.mwsbodytext, main article, #wb-cont"
     },
-    "tags": [
-      "Canada"
-    ]
+    "tags": ["Canada"]
   },
   {
     "name": "Gouvernement.fr",
     "country": "France",
     "country_code": "france",
     "base_url": "https://www.gouvernement.fr",
-    "rss_url": "https://www.gouvernement.fr/en/news/atom",
+    "rss_url": "",
     "listing_urls": [
       "https://www.gouvernement.fr/en/news"
     ],
     "pagination": "?page={n}",
     "pagination_step": 1,
-    "max_pages": 10,
+    "max_pages": 5,
     "js_required": true,
-    "wait_selector": "article, .actualites-list",
+    "wait_selector": "article, .actualites-list, h2 a",
     "selectors": {
-      "article_links": "article a, .actualite a, .news-item a, h2 a, h3 a",
+      "article_links": "article h2 a, .news-item h2 a, h2.article-title a, h3 a",
       "title": "h1.page-title, h1.titre, h1",
       "date": "time, p.date, span.date, .field-date",
       "date_attr": "datetime",
-      "body": "div.field-body, div.texte, article .content, main"
+      "body": "div.field-body, div.texte, article .content, .article-body, main"
     },
-    "tags": [
-      "France"
-    ],
-    "note": "English-only. RSS + /en/news listing. French URLs removed.",
+    "tags": ["France"],
     "url_rewrite": null
   },
   {
@@ -117,20 +106,17 @@
     ],
     "pagination": "?page={n}",
     "pagination_step": 1,
-    "max_pages": 10,
+    "max_pages": 5,
     "js_required": true,
-    "wait_selector": "article, .teaser",
+    "wait_selector": "article.teaser, .teaser__headline",
     "selectors": {
-      "article_links": "article.teaser a, h2.teaser__headline a, h3 a, a.teaser-link",
+      "article_links": "article.teaser a.teaser__link, h2.teaser__headline a, h3.teaser__headline a",
       "title": "h1.article__title, h1",
       "date": "time, p.date, .article-date, span.date",
       "date_attr": "datetime",
       "body": "div.article__text, div.rte, .widget-container, main article"
     },
-    "tags": [
-      "Germany"
-    ],
-    "note": "No English RSS available. English listing pages only (/breg-en/).",
+    "tags": ["Germany"],
     "url_rewrite": {
       "from": "/breg-de/",
       "to": "/breg-en/"
@@ -147,22 +133,17 @@
     ],
     "pagination": "?page={n}",
     "pagination_step": 1,
-    "max_pages": 10,
+    "max_pages": 5,
     "js_required": false,
-    "extra_domains": [
-      "g7italy.it"
-    ],
+    "extra_domains": ["g7italy.it"],
     "selectors": {
-      "article_links": "div.view-content a, article h2 a, h3 a, li.views-row a",
+      "article_links": "div.view-content h3 a, .views-row h3 a, article h3 a",
       "title": "h1.page-title, h1.node-title, h1",
       "date": "span.date-display-single, time, p.date",
       "date_attr": "datetime",
-      "body": "div.field-body, div.field-name-body, article .content, main"
+      "body": "div.field-name-body, div.field-body, article .content"
     },
-    "tags": [
-      "Italy"
-    ],
-    "note": "English-only. Italian RSS and /it/ listing URLs removed.",
+    "tags": ["Italy"],
     "url_rewrite": {
       "from": "/it/",
       "to": "/en/"
@@ -175,17 +156,108 @@
     "base_url": "https://japan.kantei.go.jp",
     "rss_url": "",
     "listing_urls": [],
-    "max_pages": 10,
+    "max_pages": 5,
     "js_required": false,
     "selectors": {
-      "article_links": "td a, .news-list a, ul.list a, li a",
+      "article_links": "td a[href*='/news/'], ul.list a, li a[href*='/news/']",
       "title": "h1, h2.title, .page-title",
       "date": "span.date, p.date, td.date, time",
       "date_attr": "datetime",
       "body": "div#content, div.content, article, main, .article-body"
     },
-    "tags": [
-      "Japan"
-    ]
+    "tags": ["Japan"]
+  },
+  {
+    "name": "International Monetary Fund",
+    "country": "Global",
+    "country_code": "imf",
+    "base_url": "https://www.imf.org",
+    "rss_url": "https://www.imf.org/external/np/cms/rss.aspx",
+    "listing_urls": [
+      "https://www.imf.org/en/News/Articles/2025",
+      "https://www.imf.org/en/News/Articles/2024",
+      "https://www.imf.org/en/Blogs"
+    ],
+    "pagination": "",
+    "max_pages": 2,
+    "js_required": false,
+    "selectors": {
+      "article_links": "h3 a[href*='/News/'], h4 a[href*='/News/'], h3 a[href*='/Blogs/'], .title a",
+      "title": "h1.article-title, h1.blog-title, h1",
+      "date": "time, span.article-date, .date, p.dateline",
+      "date_attr": "datetime",
+      "body": "div.blog-content, div.article-content, div#main-content, main article, .rte-content"
+    },
+    "tags": ["IMF", "Global"]
+  },
+  {
+    "name": "World Bank",
+    "country": "Global",
+    "country_code": "worldbank",
+    "base_url": "https://www.worldbank.org",
+    "rss_url": "",
+    "listing_urls": [
+      "https://www.worldbank.org/en/news/press-release",
+      "https://www.worldbank.org/en/news/feature",
+      "https://www.worldbank.org/en/news/opinion"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 3,
+    "js_required": false,
+    "selectors": {
+      "article_links": "a.title[href*='/news/'], h4 a[href*='/news/'], h3 a[href*='/news/']",
+      "title": "h1.page-title, h1.title, h1",
+      "date": "time, span.date, .field-content span, p.date",
+      "date_attr": "datetime",
+      "body": "div.body, div.field-body, div.article-body, article .content, main"
+    },
+    "tags": ["WorldBank", "Global"]
+  },
+  {
+    "name": "OECD",
+    "country": "Global",
+    "country_code": "oecd",
+    "base_url": "https://www.oecd.org",
+    "rss_url": "https://www.oecd.org/newsroom/pages/pressreleases.rss",
+    "listing_urls": [
+      "https://www.oecd.org/en/about/news/press-releases.html"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 3,
+    "js_required": false,
+    "selectors": {
+      "article_links": "h3 a[href*='/press/'], h4 a[href*='/news/'], .title a, article a",
+      "title": "h1.page-title, h1.article-title, h1",
+      "date": "time, span.date, .publication-date, abbr.date",
+      "date_attr": "datetime",
+      "body": "div.article-body, div.rich-text, section.content, main article, .body-content"
+    },
+    "tags": ["OECD", "Global"]
+  },
+  {
+    "name": "World Economic Forum",
+    "country": "Global",
+    "country_code": "wef",
+    "base_url": "https://www.weforum.org",
+    "rss_url": "https://news.wef.org/feed/",
+    "listing_urls": [
+      "https://www.weforum.org/stories/",
+      "https://www.weforum.org/press/"
+    ],
+    "pagination": "?page={n}",
+    "pagination_step": 1,
+    "max_pages": 3,
+    "js_required": false,
+    "extra_domains": ["news.wef.org"],
+    "selectors": {
+      "article_links": "h3 a[href*='/agenda/'], h3 a[href*='/stories/'], .article-card a, article h3 a",
+      "title": "h1.article-title, h1.story-title, h1",
+      "date": "time, span.date, .published-date, .article-date",
+      "date_attr": "datetime",
+      "body": "div.article-body, div.story-content, .content-body, article .body, main article"
+    },
+    "tags": ["WEF", "Global"]
   }
 ]

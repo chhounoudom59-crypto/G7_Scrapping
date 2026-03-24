@@ -5,7 +5,7 @@
 import re
 import hashlib
 import unicodedata
-from datetime import datetime, timezone
+from datetime import datetime
 
 
 def clean_text(text: str) -> str:

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Scraped output — do NOT commit data to Git
+# (it lives on the VPS, mounted as a Docker volume)
+data/
+
+# Logs
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+*.swp
+
+# Type checker cache
+.pyright/
+.pyre/
+
+# Ruff cache
+.ruff_cache/
+
+# Docker
+*.tar

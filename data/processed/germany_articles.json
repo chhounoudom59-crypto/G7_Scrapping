@@ -1,19 +1,10 @@
 [
   {
-    "url": "https://www.bundesregierung.de/breg-en/news",
-    "title": "Data privacy information",
-    "date": "2026-03-19",
-    "source": "Bundesregierung",
-    "scraped_at": "2026-03-23T15:14:59.376601+00:00",
-    "content_hash": "f09d7bd5def16e36030b569137f39c61",
-    "unique_id": "a9cd2c78b6ce9876"
-  },
-  {
     "url": "https://www.bundesregierung.de/breg-en/media-center",
     "title": "Data privacy information",
     "date": "2026-02-26",
     "source": "Bundesregierung",
-    "scraped_at": "2026-03-23T15:15:41.375278+00:00",
+    "scraped_at": "2026-03-24T02:31:09.461912+00:00",
     "content_hash": "42f08b4dce43f75d17b07022675ec6e0",
     "unique_id": "2e036cf360c77e6b"
   },
@@ -22,7 +13,7 @@
     "title": "Data privacy information",
     "date": "",
     "source": "Bundesregierung",
-    "scraped_at": "2026-03-23T15:15:19.150375+00:00",
+    "scraped_at": "2026-03-24T02:29:53.870557+00:00",
     "content_hash": "cfe393169e923aa4c395e4bbdcd3ebb8",
     "unique_id": "6cd766be7753f8d3"
   }

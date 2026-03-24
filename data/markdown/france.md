@@ -1,588 +1,626 @@
 # Country: France
 
-*Last updated: 2026-03-23 14:52 UTC*
+*Last updated: 2026-03-24 02:08 UTC*
 
 ---
 
-### Décodage
-
-- **Source:** Gouvernement.fr
-- **URL:** https://www.gouvernement.fr/toute-l-actualite/decodage
-- **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 250
-- **Unique ID:** `fdfa09806377d561`
-
-#### Content:
-
-Décodage
-Des sujets d’actualité décodés par un expert.
-Illustration du format Décodage -
-Source : Service d'information du Gouvernement
-Dépression chez l’adolescent : « consulter n’est jamais grave »
-Publié le 19 janvier 2026
-Suicide chez les jeunes : « les idées suicidaires relèvent du soin »
-Publié le 12 décembre 2025
-Laïcité : « le pouvoir du droit, c’est d’aplanir le conflit »
-Publié le 9 décembre 2025
-Santé mentale : pourquoi le sommeil joue un rôle clé
-Publié le 8 décembre 2025
-Jeunes : hyperconnectés, mais seuls
-Publié le 2 décembre 2025
-« La consommation de cannabis augmente le risque de troubles
-psychiatriques »
-Publié le 26 juin 2025
-Les troubles des conduites alimentaires sont
-complexes, durables et multiformes
-Publié le 2 juin 2025
-Arrêter le tabac améliore la santé mentale
-Publié le 2 juin 2025
-Trisomie 21 : les progrès de la recherche
-Publié le 21 mars 2025
-Les questions que vous n’osez pas poser sur la santé mentale
-Publié le 19 mars 2025
-L’intelligence artificielle au service de la santé mentale
-Publié le 12 décembre 2024
-L’intelligence artificielle au sein de la justice française
-Publié le 10 décembre 2024
-Que sont les violences sexistes et sexuelles ?
-Publié le 25 novembre 2024
-Les enjeux de l’IA à l’université
-Publié le 23 octobre 2024
-Comment la France est-elle devenue un pays laïc ?
-Publié le 17 octobre 2024
-Santé mentale sur les réseaux sociaux : quels sont les risques de l’autodiagnostic ?
-Publié le 10 octobre 2024
-
----
-
-### Regards croisés
-
-- **Source:** Gouvernement.fr
-- **URL:** https://www.gouvernement.fr/toute-l-actualite/regards-croises
-- **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 132
-- **Unique ID:** `1f7b4aeb86b84ec8`
-
-#### Content:
-
-Regards croisés
-Des points de vue croisés pour mieux comprendre les grands sujets de société.
-Illustration du format "Regards croisés" -
-Source : Service d'information du Gouvernement
-Troubles bipolaires, quand la parole se libère
-Publié le 13 février 2026
-Cohabitation intergénérationnelle : une rencontre qui change deux vies
-Publié le 29 décembre 2025
-Souffrances psychiques des personnes âgées : mieux repérer, mieux accompagner, mieux prévenir
-Publié le 23 décembre 2025
-Santé mentale : les relations humaines sont bénéfiques à tous les âges
-Publié le 19 décembre 2025
-Cybersécurité
-et intelligence artificielle : quelle place pour les femmes ?
-Publié le 2 octobre 2025
-Prévenir, sensibiliser et agir contre les violences sexistes et sexuelles
-Publié le 6 décembre 2024
-Regards croisés : l'inscription de l'IVG dans la Constitution
-Publié le 23 février 2024
-
----
-
-### Carte blanche
-
-- **Source:** Gouvernement.fr
-- **URL:** https://www.gouvernement.fr/toute-l-actualite/carte-blanche
-- **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 152
-- **Unique ID:** `966f45c401b4c922`
-
-#### Content:
-
-Carte blanche
-Des personnalités témoignent sur les sujets qui font l’actualité.
-Illustration du format "Carte blanche" -
-Source : Service d'information du Gouvernement
-« Parler peut sauver » : Bertrand Chameroy se confie sur sa dépression
-Publié le 10 décembre 2025
-« Je me sentais vide » : Camille Lacourt revient sur ses dépressions
-Publié le 5 décembre 2025
-Maïtena Biraben : « Le consentement est une question qui se pose à nous tous. »
-Publié le 31 mars 2025
-Santé mentale : « ne restez pas seul(e) derrière un écran »
-Publié le 6 janvier 2025
-Violences sexistes et sexuelles : « toutes les violences prennent racine dans le sexisme ordinaire »
-Publié le 25 novembre 2024
-VSS : « Si l’autre ne démord pas, on entre dans l’agression »
-Publié le 25 novembre 2024
-Endométriose : « on me disait que j’étais simplement stressée »
-Publié le 28 mars 2024
-
----
-
-### Mode d'emploi
+### Instructions for use
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/toute-l-actualite/mode-demploi
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 272
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 244
 - **Unique ID:** `5945e3fa5cf374ae`
 
 #### Content:
 
-Mode d'emploi
-Un expert répond concrètement à vos questions du quotidien.
-Illustration du format "Mode d'emploi" -
-Source : Service d'information du Gouvernement
-Personnes âgées : le silencieux fléau de l’isolement social, comment s’en sortir ?
-Publié le 23 janvier 2026
-Santé mentale : « la pair-aidance m’a sauvé la vie »
-Publié le 12 janvier 2026
-« L’éducation au consentement, c’est une logique de vivre ensemble »
-Publié le 10 décembre 2025
-Premiers secours en santé mentale : pour apprendre les bons réflexes
-Publié le 28 novembre 2025
-Épuisement professionnel : ce qu’il faut savoir pour se protéger
-Publié le 19 novembre 2025
-Les peines encourues en cas de trafic, d’usage et de transport de stupéfiants
-Publié le 6 novembre 2025
-Comment trouver une formation dans un métier d’avenir ?
-Publié le 6 novembre 2025
-Résilience :
-comment se préparer aux crises ?
-Publié le 12 août 2025
-Santé mentale : « Il ne faut pas banaliser ce qui est une maladie »
-Publié le 3 juillet 2025
-Santé mentale des femmes : des ressources pour agir à tous les âges de la vie
-Publié le 28 mai 2025
-L’Europe, mode d’emploi : comment fonctionnent ses institutions ?
-Publié le 9 mai 2025
-Tristesse passagère ou dépression ?
-Publié le 30 avril 2025
-Comment suivre sa santé quand on est un homme ?
-Publié le 7 avril 2025
-La santé mentale chez les jeunes : comment les accompagner et les aider ?
-Publié le 19 février 2025
-IA génératives : comment bien les utiliser ?
-Publié le 7 février 2025
-Comment accompagner la souffrance psychique ?
-Publié le 8 janvier 2025
+Instructions for use
+An expert answers your everyday questions concretely.
+Illustration of the "Instructions for use" format -
+Source: Government Information Service
+Elderly people: the silent scourge of social isolation, how to escape from it?
+Published on January 23, 2026
+Mental health: “peer assistance saved my life”
+Published on January 12, 2026
+“Consent education is the logic of living together”
+Published on December 10, 2025
+First aid for mental health: to learn the right reflexes
+Published on November 28, 2025
+Professional burnout: what you need to know to protect yourself
+Published on November 19, 2025
+Penalties incurred in the event of trafficking, use and transport of drugs
+Published on November 6, 2025
+How to find training in a profession of the future?
+Published on November 6, 2025
+Resilience:
+how to prepare for crises?
+Published on August 12, 2025
+Mental health: “We must not trivialize what is an illness”
+Published on July 3, 2025
+Women's mental health: resources for action at all ages of life
+Published on May 28, 2025
+Europe, instructions for use: how do its institutions work?
+Published on May 9, 2025
+Temporary sadness or depression?
+Published on April 30, 2025
+How do you track your health as a man?
+Published on April 7, 2025
+Mental health among young people: how to support and help them?
+Published on February 19, 2025
+Generative AI: how to use them well?
+Published on February 7, 2025
+How to support psychological suffering?
+Published on January 8, 2025
 
 ---
 
-### Infections respiratoires aiguës
+### Acute respiratory infections
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/risques/infections-respiratoires-aigues
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1595
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1415
 - **Unique ID:** `907c91712653e18d`
 
 #### Content:
 
-Infections respiratoires aiguës
-Publié le 12 mai 2023
-, modifié le 7 novembre 2025
-Illustration - Infections respiratoires aiguës -
-Source : SIG
-Reconnaissez les symptômes des infections respiratoires aiguës et adoptez les bons gestes : port du masque, lavage des mains, isolement et vaccination.
-Les épidémies de maladies infectieuses, que l’agent en cause soit connu de longue date, émergent ou ré-émergent, représentent une menace pour les populations et sont susceptibles de provoquer une désorganisation du système de santé, voire des perturbations importantes de la vie sociale et économique.
-Des mesures d’hygiène simples, individuelles et collectives, peuvent contribuer à limiter le risque de transmission de ces maladies.
-De quoi s'agit-il ?
-Le Covid-19, la grippe et la bronchiolite sont des infections respiratoires aiguës contagieuses et d’origine virale. La grippe et la bronchiolite sont des infections saisonnières hivernales, le Covid-19 évolue en plusieurs vagues au cours de l’année depuis son émergence.
-Ces vagues épidémiques, surtout lorsqu’elles se conjuguent peuvent toucher plusieurs millions de personnes (plusieurs dizaines de millions de cas de Covid-19 depuis le début de la pandémie, 2 à 6 millions de cas de grippe annuels en France). La bronchiolite concerne quant à elle chaque année 30% des nourrissons de moins de 2 ans, avec un recours important au système de soins lors des pics épidémiques.
-Ces pathologies présentent des modes de transmission similaires : elles se transmettent facilement de personne à personne par les sécrétions respiratoires et/ou aérosols, à l’occasion d’éternuements ou de toux. Les lieux confinés, mal ventilés et très fréquentés (transports en communs, collectivités, salles de spectacles…) sont propices à la transmission de ces virus.
-Les Infections respiratoire aiguë (IRA) sur le site de l’Assurance Maladie
-Quels sont les symptômes ?
-Le Covid-19 et la grippe partagent des symptômes similaires, à savoir toux, écoulement nasal, mal de gorge, fièvre, maux de tête et fatigue. Les personnes infectées par l’un ou l’autre virus peuvent présenter différents degrés de la maladie - certaines personnes n’ont aucun symptôme, des symptômes bénins ou une forme grave.
-Voici les symptômes communs au Covid-19, à la bronchiolite et à la grippe :
-Fièvre.
-Toux.
+Acute respiratory infections
+Published on May 12, 2023
+, modified on November 7, 2025
+Illustration - Acute respiratory infections -
+Source: GIS
+Recognize the symptoms of acute respiratory infections and adopt the right actions: wearing a mask, washing your hands, isolation and vaccination.
+Epidemics of infectious diseases, whether the agent in question has been known for a long time, is emerging or re-emerging, represent a threat to populations and are likely to cause disorganization of the health system, or even significant disruptions to social and economic life.
+Simple individual and collective hygiene measures can help limit the risk of transmission of these diseases.
+What is it about?
+Covid-19, influenza and bronchiolitis are contagious acute respiratory infections of viral origin. Influenza and bronchiolitis are seasonal winter infections; Covid-19 has evolved in several waves over the year since its emergence.
+These epidemic waves, especially when they combine, can affect several million people (several tens of millions of cases of Covid-19 since the start of the pandemic, 2 to 6 million cases of influenza annually in France). Bronchiolitis affects 30% of infants under 2 years of age each year, with significant recourse to the healthcare system during epidemic peaks.
+These pathologies have similar modes of transmission: they are easily transmitted from person to person through respiratory secretions and/or aerosols, when sneezing or coughing. Confined, poorly ventilated and busy places (public transport, communities, performance halls, etc.) are conducive to the transmission of these viruses.
+Acute respiratory infections (ARI) on the Health Insurance website
+What are the symptoms?
+Covid-19 and the flu share similar symptoms, namely cough, runny nose, sore throat, fever, headache and fatigue. People infected with either virus can have varying degrees of illness - some people have no symptoms, mild symptoms, or severe disease.
+Here are the common symptoms of Covid-19, bronchiolitis and the flu:
+Fever.
+Cough.
 Fatigue.
-Maux de tête.
-Douleurs musculaires ou corporelles.
-Congestion nasale ou écoulement nasal.
-Mal de gorge.
-Quant à la perte de goût et d’odorat, ce sont des symptômes spécifiques du Covid-19.
-Les réponses à vos questions sur le Covid-19
-Comment se protéger ?
-Certaines mesures d’hygiène simples peuvent contribuer à limiter le risque de transmission de ces maladies. Il est impératif de les appliquer lors des périodes de circulation d’épidémie pour se protéger soi-même et protéger les autres.
-Si l'ensemble de la population est susceptible de contracter la maladie, certaines personnes sont plus à risque de développer une forme grave (personnes âgées, nourrissons, malades chroniques et fragiles ou immunodéprimées).
-Il leur est recommandé, ainsi qu’à leurs proches, de respecter avec une vigilance particulière l’ensemble des mesures barrières et des recommandations mentionnées ci-dessous.
-Port du masque
-Le port du masque vise à assurer une
-protection individuelle
-de chacun pour éviter d’être contaminé et de développer une forme grave, mais également une
-protection collective
-, pour réduire les risques de diffusion des virus au sein de la population et de contaminer les personnes ayant des risques de développer des formes graves d’infections respiratoires.
-Agrandir le visuel
-Infographie port du masque -
-Source : sante.gouv.fr
-Fermer
-Infographie port du masque -
+Headaches.
+Muscle or body pain.
+Nasal congestion or runny nose.
+Sore throat.
+As for loss of taste and smell, these are specific symptoms of Covid-19.
+Answers to your questions about Covid-19
+How to protect yourself?
+Certain simple hygiene measures can help limit the risk of transmission of these diseases. It is imperative to apply them during periods of epidemic circulation to protect yourself and others.
+If the entire population is susceptible to contracting the disease, certain people are more at risk of developing a serious form (elderly people, infants, chronically ill and fragile or immunocompromised people).
+They, as well as their loved ones, are recommended to respect with particular vigilance all the barrier measures and recommendations mentioned below.
+Wearing a mask
+Wearing a mask aims to ensure
+individual protection
+of each person to avoid being contaminated and developing a serious form, but also a
+collective protection
+, to reduce the risks of spreading viruses within the population and contaminating people at risk of developing serious forms of respiratory infections.
+Enlarge the visual
+Infographic wearing a mask -
+Source: sante.gouv.fr
+Close
+Infographic wearing a mask -
 sante.gouv.fr
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Le masque est
-particulièrement recommandé
-pour
-toutes les personnes dès 6 ans dans les cas suivants
+The mask is
+particularly recommended
+for
+all people from 6 years old in the following cases
 :
-Pour les personnes ayant un diagnostic positif de Covid-19 ou d’une autre pathologie respiratoire, même en l’absence de symptômes, durant toute leur période de contagiosité.
-Pour les personnes présentant des symptômes, en l’absence ou en l’attente de diagnostic.
-Pour les personnes ayant eu un contact avec une personne atteinte du Covid-19 ou autre pathologie respiratoire.
-Pour tous, en période de circulation des virus, dans les lieux clos et mal ventilés (dans les transports notamment) en particulier dans les situations de forte promiscuité.
-Pour les personnes âgées, immunodéprimées, malades chroniques et fragiles, ainsi que pour leurs aidants et les personnes qui les fréquentent.
-NB : Le masque peut être exigé pour les personnes d’au moins 6 ans dans certains lieux de santé.
-Télécharger l'infographie
-Port du masque
-PDF - 305.75 Ko
-Règles universelles d'hygiène
-L’hygiène des mains
-régulière avec un lavage régulier à l’eau et au savon pendant 30 secondes est une mesure d’hygiène efficace pour prévenir la transmission de tous les virus. En l’absence d’eau et de savon, il convient d’effectuer les mêmes gestes par friction avec du gel hydroalcoolique le plus souvent possible.
-Il est recommandé d’éviter de se toucher le visage, en particulier le nez, la bouche et les yeux, de se couvrir systématiquement le nez et la bouche en toussant ou en éternuant dans son coude, et de recourir à des mouchoirs à usage unique.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Protéger mon bébé des risques de l'hiver
+For people with a positive diagnosis of Covid-19 or another respiratory pathology, even in the absence of symptoms, throughout their contagious period.
+For people with symptoms, in the absence or awaiting diagnosis.
+For people who have had contact with a person suffering from Covid-19 or other respiratory pathology.
+For everyone, during periods of virus circulation, in enclosed and poorly ventilated places (in transport in particular) particularly in situations of high crowding.
+For the elderly, immunocompromised, chronically ill and frail, as well as for the
+
+our caregivers and the people who interact with them.
+NB: Masks may be required for people aged at least 6 years old in certain healthcare settings.
+Download the infographic
+Wearing a mask
+PDF - 305.75 KB
+Universal hygiene rules
+Hand hygiene
+regular washing with soap and water for 30 seconds is an effective hygiene measure to prevent the transmission of all viruses. In the absence of water and soap, the same actions should be carried out by rubbing with hydroalcoholic gel as often as possible.
+It is recommended to avoid touching your face, particularly your nose, mouth and eyes, to systematically cover your nose and mouth when coughing or sneezing into your elbow, and to use single-use tissues.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Protecting my baby from the risks of winter
 Vaccination
-Les
-vaccinations contre le Covid-19 et contre la grippe restent essentielles dans la prévention de la contamination, de la transmission et des formes graves de la maladie.
-Vaccination contre le Covid-19
-Il est fortement recommandé aux personnes les plus à risque de forme grave de recevoir une dose annuelle de vaccin contre le Covid-19, notamment aux :
-personnes âgées de 65 ans et plus ;
-personnes atteintes de comorbidités ayant un risque plus élevé de forme grave de la maladie (hypertension artérielle compliquée, problèmes cardiaques, vasculaires, hépatiques, rénaux, pulmonaires, diabète, obésité, cancers, personnes transplantées, personnes atteintes de trisomie 21 ou de troubles psychiatriques ou de démence) ;
-personnes immunodéprimées ;
-femmes enceintes, quel que soit leur trimestre de grossesse ;
-résidents en établissements d’hébergement pour personnes âgées dépendantes (EHPAD) et unités de soins de longue durée (USLD) ;
-personnes à très haut risque de forme grave selon chaque situation médicale individuelle et dans le cadre d’une décision partagée avec les équipes soignantes ;
-personnes vivant dans l’entourage ou en contacts réguliers avec des personnes immunodéprimées ou vulnérables, y compris les professionnels des secteurs sanitaire et médicosocial.
-La dose annuelle n’est plus recommandée pour les personnes non ciblées par les recommandations décrites ci dessus. Néanmoins, si une personne n’est pas dans la cible et souhaite recevoir une vaccination, elle pourra en bénéficier gratuitement.
-En outre, les personnes souhaitant se faire vacciner avec le vaccin Sanofi, autorisé uniquement en rappel, devront avoir été préalablement primo-vaccinés ou infecté au Covid-19.
-Vaccination contre la grippe
-La vaccination contre la grippe est recommandée pour les personnes à risque de forme grave de la grippe. Il s'agit :
-Des personnes âgées de 65 ans et plus.
-Des personnes de moins de 65 ans souffrant de certaines maladies chroniques (liste des personnes éligibles dans
-le calendrier des vaccinations
+The
+Vaccinations against Covid-19 and against influenza remain essential in the prevention of contamination, transmission and serious forms of the disease.
+Vaccination against Covid-19
+It is strongly recommended that people most at risk of severe disease receive an annual dose of vaccine against Covid-19, in particular:
+people aged 65 and over;
+people with comorbidities with a higher risk of a severe form of the disease (complicated arterial hypertension, heart, vascular, hepatic, kidney, pulmonary problems, diabetes, obesity, cancers, transplant recipients, people with Down syndrome or psychiatric disorders or dementia);
+immunocompromised people;
+pregnant women, regardless of their trimester of pregnancy;
+residents in accommodation establishments for dependent elderly people (EHPAD) and long-term care units (USLD);
+people at very high risk of serious illness according to each individual medical situation and as part of a decision shared with the healthcare teams;
+people living in close proximity to or in regular contact with immunocompromised or vulnerable people, including professionals in the health and medico-social sectors.
+The annual dose is no longer recommended for people not targeted by the recommendations described above. However, if a person is not in the target and wishes to receive a vaccination, they will be able to benefit from it free of charge.
+In addition, people wishing to be vaccinated with the Sanofi vaccine, authorized only as a booster, must have previously been vaccinated for the first time or infected with Covid-19.
+Flu vaccination
+Flu vaccination is recommended for people at risk of severe influenza. These are:
+People aged 65 and over.
+People under 65 suffering from certain chronic illnesses (list of eligible people in
+vaccination schedule
 ).
-Des femmes enceintes.
-Des personnes souffrant d’obésité (
-indice de masse corporel (IMC)
-supérieur ou égal à 40).
-La stratégie vaccinale vise aussi à assurer une protection indirecte en vaccinant :
-Les professionnels de santé et les professionnels des établissements médico sociaux au contact des patients à risque car ils peuvent contribuer à propager l’infection.
-L’entourage des nourrissons de moins de 6 mois à risque de complication grave de la grippe et l'entourage des personnes immunodéprimées.
-Les aides à domicile de particuliers employeurs à risque de grippe grave.
-Les liens utiles sur la vaccination :
-Covid-19 : la vaccination contre le Covid-19 - Ministère de la Santé et de la Prévention
-Covid-19 : vaccination-info-service : Covid-19 | Vaccination Info Service
-Grippe saisonnière : vaccination contre la grippe saisonnière
-Grippe saisonnière : Grippe | Vaccination Info Service
-Que faire en cas de symptômes ?
-Dès les premiers symptômes
-évocateurs de Covid-19, grippe ou bronchiolite (chez l’adulte et chez l’enfant), il est
-fortement recommandé d’appliquer les mesures suivantes :
-Limiter les contacts avec d’autres personnes et en particulier les personnes fragiles ou à risque de développer une forme grave (nourrisson, femmes enceintes, personnes âgées ou porteuses de certaines maladies chroniques ou souffrant d’obésité).
-Si votre état le permet et que cela vous est possible, privilégiez le télétravail.
-Se faire tester contre le Covid-19 et/ou consulter son médecin traitant pour préciser le diagnostic.
-Porter un masque adapté.
-Couvrir le nez et la bouche avec un mouchoir à usage unique, lors de toux, éternuement, écoulement, mouchage.
-Contenir les sécrétions respiratoires dans un mouchoir.
-Jeter immédiatement les mouchoirs après usage.
-En l’absence de mouchoir, tousser ou éternuer au niveau du coude plutôt que dans les mains.
-Se laver les mains après contact avec des sécrétions respiratoires ou des objets contaminés.
-Ne pas toucher les muqueuses (yeux, nez) avec des mains contaminées.
-En cas de diagnostic avéré de Covid-19, grippe ou bronchiolite, informer les personnes qui auraient pu être contaminées alors que la personne était contagieuse.
-Les personnes contaminées sont invitées à fortement réduire, voire éviter les contacts rapprochés avec d’autres personnes, en particulier les personnes fragiles, et à respecter l’ensemble des mesures ci-dessus.
-Ministère de la Santé et de la prévention – Dossier Covid-19
-Santé Publique France
+Pregnant women.
+People suffering from obesity (
+body mass index (BMI)
+greater than or equal to 40).
+The vaccination strategy also aims to ensure indirect protection by vaccinating:
+Health professionals and professionals from medical social establishments in contact with patients at risk because they can contribute to spreading the infection.
+Those close to infants under 6 months of age at risk of serious complications from influenza and those close to those who are immunocompromised.
+Home help for private employers at risk of serious influenza.
+Useful links on vaccination:
+Covid-19: vaccination against Covid-19 - Ministry of Health and Prevention
+Covid-19: vaccination-info-service: Covid-19 | Vaccination Info Service
+Seasonal flu: vaccination against seasonal flu
+Seasonal flu: Flu | Vaccination Info Service
+What to do if you have symptoms?
+From the first symptoms
+suggestive of Covid-19, flu or bronchiolitis (in adults and children), it is
+strongly recommended to apply the following measures:
+Limit contact with other people and in particular people who are fragile or at risk of developing a serious form (infants, pregnant women, elderly people or people with certain chronic diseases or suffering from obesity).
+If your state allows it and it is possible for you, favor teleworking.
+Get tested for Covid-19 and/or consult your doctor to clarify the diagnosis
+
+diagnosis.
+Wear a suitable mask.
+Cover the nose and mouth with a single-use tissue when coughing, sneezing, discharge, blowing your nose.
+Contain respiratory secretions in a tissue.
+Discard tissues immediately after use.
+If you don't have a tissue, cough or sneeze into your elbows rather than your hands.
+Wash hands after contact with respiratory secretions or contaminated objects.
+Do not touch mucous membranes (eyes, nose) with contaminated hands.
+In the event of a proven diagnosis of Covid-19, flu or bronchiolitis, inform people who could have been contaminated while the person was contagious.
+Contaminated people are invited to greatly reduce or even avoid close contact with other people, particularly vulnerable people, and to respect all of the above measures.
+Ministry of Health and Prevention – Covid-19 file
+Public Health France
 –
-Dossier Bronchiolite
-Ministère de la Santé et de la prévention - Contre la Bronchiolite, un traitement préventif et des gestes simples
-Assurance Maladie – Dossier Grippe saisonnière
-Toutes les informations et conseils pour bien appliquer les gestes-barrières
-Liens utiles
-Ministère de la Santé et de la prévention – Dossier Covid-19
-Santé Publique France – Dossier Bronchiolite
-Santé Publique France - Dossier Bronchiolite
-Ministère de la Santé et de la prévention - Contre la Bronchiolite, un traitement préventif et des gestes simples
-Assurance Maladie – Dossier Grippe saisonnière
+Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+All the information and advice for properly applying barrier gestures
+Useful links
+Ministry of Health and Prevention – Covid-19 file
+Public Health France – Bronchiolitis file
+Public Health France - Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
 
 ---
 
-### Se préparer à une situation d’urgence
+### Acute respiratory infections
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/risques/infections-respiratoires-aigues
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1415
+- **Unique ID:** `907c91712653e18d`
+
+#### Content:
+
+Acute respiratory infections
+Published on May 12, 2023
+, modified on November 7, 2025
+Illustration - Acute respiratory infections -
+Source: GIS
+Recognize the symptoms of acute respiratory infections and adopt the right actions: wearing a mask, washing your hands, isolation and vaccination.
+Epidemics of infectious diseases, whether the agent in question has been known for a long time, is emerging or re-emerging, represent a threat to populations and are likely to cause disorganization of the health system, or even significant disruptions to social and economic life.
+Simple individual and collective hygiene measures can help limit the risk of transmission of these diseases.
+What is it about?
+Covid-19, influenza and bronchiolitis are contagious acute respiratory infections of viral origin. Influenza and bronchiolitis are seasonal winter infections; Covid-19 has evolved in several waves over the year since its emergence.
+These epidemic waves, especially when they combine, can affect several million people (several tens of millions of cases of Covid-19 since the start of the pandemic, 2 to 6 million cases of influenza annually in France). Bronchiolitis affects 30% of infants under 2 years of age each year, with significant recourse to the healthcare system during epidemic peaks.
+These pathologies have similar modes of transmission: they are easily transmitted from person to person through respiratory secretions and/or aerosols, when sneezing or coughing. Confined, poorly ventilated and busy places (public transport, communities, performance halls, etc.) are conducive to the transmission of these viruses.
+Acute respiratory infections (ARI) on the Health Insurance website
+What are the symptoms?
+Covid-19 and the flu share similar symptoms, namely cough, runny nose, sore throat, fever, headache and fatigue. People infected with either virus can have varying degrees of illness - some people have no symptoms, mild symptoms, or severe disease.
+Here are the common symptoms of Covid-19, bronchiolitis and the flu:
+Fever.
+Cough.
+Fatigue.
+Headaches.
+Muscle or body pain.
+Nasal congestion or runny nose.
+Sore throat.
+As for loss of taste and smell, these are specific symptoms of Covid-19.
+Answers to your questions about Covid-19
+How to protect yourself?
+Certain simple hygiene measures can help limit the risk of transmission of these diseases. It is imperative to apply them during periods of epidemic circulation to protect yourself and others.
+If the entire population is susceptible to contracting the disease, certain people are more at risk of developing a serious form (elderly people, infants, chronically ill and fragile or immunocompromised people).
+They, as well as their loved ones, are recommended to respect with particular vigilance all the barrier measures and recommendations mentioned below.
+Wearing a mask
+Wearing a mask aims to ensure
+individual protection
+of each person to avoid being contaminated and developing a serious form, but also a
+collective protection
+, to reduce the risks of spreading viruses within the population and contaminating people at risk of developing serious forms of respiratory infections.
+Enlarge the visual
+Infographic wearing a mask -
+Source: sante.gouv.fr
+Close
+Infographic wearing a mask -
+sante.gouv.fr
+Transcription
+Enlarge
+Close
+Transcription
+The mask is
+particularly recommended
+for
+all people from 6 years old in the following cases
+:
+For people with a positive diagnosis of Covid-19 or another respiratory pathology, even in the absence of symptoms, throughout their contagious period.
+For people with symptoms, in the absence or awaiting diagnosis.
+For people who have had contact with a person suffering from Covid-19 or other respiratory pathology.
+For everyone, during periods of virus circulation, in enclosed and poorly ventilated places (in transport in particular) particularly in situations of high crowding.
+For the elderly, immunocompromised, chronically ill and frail, as well as for the
+
+our caregivers and the people who interact with them.
+NB: Masks may be required for people aged at least 6 years old in certain healthcare settings.
+Download the infographic
+Wearing a mask
+PDF - 305.75 KB
+Universal hygiene rules
+Hand hygiene
+regular washing with soap and water for 30 seconds is an effective hygiene measure to prevent the transmission of all viruses. In the absence of water and soap, the same actions should be carried out by rubbing with hydroalcoholic gel as often as possible.
+It is recommended to avoid touching your face, particularly your nose, mouth and eyes, to systematically cover your nose and mouth when coughing or sneezing into your elbow, and to use single-use tissues.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Protecting my baby from the risks of winter
+Vaccination
+The
+Vaccinations against Covid-19 and against influenza remain essential in the prevention of contamination, transmission and serious forms of the disease.
+Vaccination against Covid-19
+It is strongly recommended that people most at risk of severe disease receive an annual dose of vaccine against Covid-19, in particular:
+people aged 65 and over;
+people with comorbidities with a higher risk of a severe form of the disease (complicated arterial hypertension, heart, vascular, hepatic, kidney, pulmonary problems, diabetes, obesity, cancers, transplant recipients, people with Down syndrome or psychiatric disorders or dementia);
+immunocompromised people;
+pregnant women, regardless of their trimester of pregnancy;
+residents in accommodation establishments for dependent elderly people (EHPAD) and long-term care units (USLD);
+people at very high risk of serious illness according to each individual medical situation and as part of a decision shared with the healthcare teams;
+people living in close proximity to or in regular contact with immunocompromised or vulnerable people, including professionals in the health and medico-social sectors.
+The annual dose is no longer recommended for people not targeted by the recommendations described above. However, if a person is not in the target and wishes to receive a vaccination, they will be able to benefit from it free of charge.
+In addition, people wishing to be vaccinated with the Sanofi vaccine, authorized only as a booster, must have previously been vaccinated for the first time or infected with Covid-19.
+Flu vaccination
+Flu vaccination is recommended for people at risk of severe influenza. These are:
+People aged 65 and over.
+People under 65 suffering from certain chronic illnesses (list of eligible people in
+vaccination schedule
+).
+Pregnant women.
+People suffering from obesity (
+body mass index (BMI)
+greater than or equal to 40).
+The vaccination strategy also aims to ensure indirect protection by vaccinating:
+Health professionals and professionals from medical social establishments in contact with patients at risk because they can contribute to spreading the infection.
+Those close to infants under 6 months of age at risk of serious complications from influenza and those close to those who are immunocompromised.
+Home help for private employers at risk of serious influenza.
+Useful links on vaccination:
+Covid-19: vaccination against Covid-19 - Ministry of Health and Prevention
+Covid-19: vaccination-info-service: Covid-19 | Vaccination Info Service
+Seasonal flu: vaccination against seasonal flu
+Seasonal flu: Flu | Vaccination Info Service
+What to do if you have symptoms?
+From the first symptoms
+suggestive of Covid-19, flu or bronchiolitis (in adults and children), it is
+strongly recommended to apply the following measures:
+Limit contact with other people and in particular people who are fragile or at risk of developing a serious form (infants, pregnant women, elderly people or people with certain chronic diseases or suffering from obesity).
+If your state allows it and it is possible for you, favor teleworking.
+Get tested for Covid-19 and/or consult your doctor to clarify the diagnosis
+
+diagnosis.
+Wear a suitable mask.
+Cover the nose and mouth with a single-use tissue when coughing, sneezing, discharge, blowing your nose.
+Contain respiratory secretions in a tissue.
+Discard tissues immediately after use.
+If you don't have a tissue, cough or sneeze into your elbows rather than your hands.
+Wash hands after contact with respiratory secretions or contaminated objects.
+Do not touch mucous membranes (eyes, nose) with contaminated hands.
+In the event of a proven diagnosis of Covid-19, flu or bronchiolitis, inform people who could have been contaminated while the person was contagious.
+Contaminated people are invited to greatly reduce or even avoid close contact with other people, particularly vulnerable people, and to respect all of the above measures.
+Ministry of Health and Prevention – Covid-19 file
+Public Health France
+–
+Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+All the information and advice for properly applying barrier gestures
+Useful links
+Ministry of Health and Prevention – Covid-19 file
+Public Health France – Bronchiolitis file
+Public Health France - Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+
+---
+
+### Prepare for an emergency
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/risques/se-preparer-a-une-situation-durgence
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 2591
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2380
 - **Unique ID:** `d90c77936fbc747e`
 
 #### Content:
 
-Se préparer à une situation d’urgence
-Publié le 12 mai 2023
-, modifié le 23 janvier 2026
-Illustration de la préparation du sac d'urgence -
-Source : SIG
-Apprenez à faire face aux risques majeurs : guide complet pour se préparer, protéger ses proches, constituer un kit et adopter les bons réflexes.
-Ce qu'il faut retenir
-Se préparer à une situation d’urgence, c'est avant tout identifier les risques qui me menacent et donc prévoir des scénarios alternatifs.
-Après un inventaire de ces risques, il est nécessaire de les étudier et d'évaluer leur gravité potentielle avant de décider des actions préventives à mettre en place (kit d’urgence).
-C'est finalement prendre les précautions nécessaires pour pouvoir gérer au mieux une situation de crise.
-Pourquoi se préparer à une situation d’urgence ?
-Se préparer à une situation d’urgence, c'est avant tout
-identifier les risques
-qui me menacent et donc
-prévoir
-des scénarios alternatifs.
-Après un inventaire de ces risques, il est nécessaire de les étudier et d'
-évaluer
-leur gravité potentielle avant de décider des actions préventives à mettre en place.  C'est finalement
-prendre les précautions nécessaires
-pour pouvoir gérer au mieux une situation de crise.
-Cette rubrique a pour objectif d'informer le citoyen sur
-les attitudes à adopter avant, pendant, et après une situation d'urgence
+Prepare for an emergency
+Published on May 12, 2023
+, modified on January 23, 2026
+Illustration of emergency bag preparation -
+Source: GIS
+Learn how to deal with major risks: complete guide to prepare yourself, protect your loved ones, put together a kit and adopt the right reflexes.
+What to remember
+Preparing for an emergency situation means, above all, identifying the risks that threaten me and therefore planning alternative scenarios.
+After an inventory of these risks, it is necessary to study them and assess their potential seriousness before deciding on preventive actions to put in place (emergency kit).
+Ultimately, it means taking the necessary precautions to be able to best manage a crisis situation.
+Why prepare for an emergency?
+Preparing for an emergency situation is above all
+identify risks
+who threaten me and therefore
+predict
+alternative scenarios.
+After an inventory of these risks, it is necessary to study them and
+evaluate
+their potential seriousness before deciding on the preventive actions to be implemented.  It is finally
+take the necessary precautions
+to be able to best manage a crisis situation.
+This section aims to inform citizens about
+attitudes to adopt before, during, and after an emergency situation
 .
-Avant une situation d'urgence
-Le guide « Tous responsables »
-Je consulte
-le guide « Tous responsables »
-pour m’informer sur les outils utiles pour faire face à une crise majeure, quelle qu’en soit l’origine : inondation, incendie, cyberattaque, etc.
-Agrandir le visuel
-Le guide « Tous responsables » -
-Source : SIG
-Fermer
-Le guide « Tous responsables » -
-SIG
+Before an emergency
+The “All responsible” guide
+I consult
+the “All Responsible” guide
+to inform me about useful tools to deal with a major crisis, whatever the origin: flood, fire, cyberattack, etc.
+Enlarge the visual
+The “All responsible” guide -
+Source: GIS
+Close
+The “All responsible” guide -
+GIS
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Tous responsables face aux risques, agissons.
-Préparez-vous à faire face : vous et vos proches pourriez être amenés à faire face à une situation dans laquelle le fonctionnement ordinaire de la société serait perturbé (inondation, tempête, cyberattaque, etc.).
-Constituez un kit d’urgence.
-Suivez trois priorités : boire et manger, avoir chaud et se soigner.
-Communiquez avec vos proches et construisez une communauté d’entraide et de solidarité.
-Formez-vous aux premiers secours et apprenez à prodiguer des soins d’urgence.
-Bien protégés
-Informez-vous sur les risques et les menaces et sur les comportements à adopter pour y faire face.
-Soyez prêts à faire face aux risques naturels, sanitaires, technologiques et industriels.
-Soyez prêts à faire face aux menaces de cyberattaque, terroriste, et en lien avec un engagement majeur de nos forces armées en dehors du territoire national.
-Résistez aux rumeurs et à la désinformation.
-Reconnaissez et écoutez les signaux d’alerte.
-Apprenez les numéros d’urgence.
-Tous engagez
-Mobilisez-vous en rejoignant les réserves et dispositifs de volontariat :
-en tant que réserviste ou volontaire ;
-au service d’une association agréée de sécurité civile ;
-au service des forces armées et de sécurité intérieure.
-Notre société doit s’adapter pour être plus forte : découvrez comment vous préparer à faire face à un risque, quelle qu’en soit l’origine sur
-info.gouv.fr/risques
+Everyone is responsible for the risks, let's act.
+Prepare to face: you and your loved ones may have to face a situation in which the ordinary functioning of society would be disrupted (flood, storm, cyberattack, etc.).
+Put together an emergency kit.
+Follow three priorities: eat and drink, stay warm and take care of yourself.
+Communicate with your loved ones and build a community of mutual aid and solidarity.
+Train yourself in first aid and learn how to provide emergency care.
+Well protected
+Find out about the risks and threats and the behaviors to adopt to deal with them.
+Be prepared to face natural, health, technological and industrial risks.
+Be prepared to face the threats of cyberattack, terrorism, and in connection with a major commitment of our armed forces outside the national territory.
+Resist rumors and misinformation.
+Recognize and listen to warning signs.
+Learn the emergency numbers.
+All engage
+Get involved by joining the reserves and volunteering schemes:
+as a reservist or volunteer;
+in the service of an approved civil security association;
+serving the armed forces and internal security.
+Our society must adapt to be stronger: find out how to prepare to face a risk, whatever its origin on
+info.gouv.fr/risks
 .
-Télécharger l'infographie
-Infographie présentant les chapitres du guide
-PNG - 579.11 Ko
-Consulter le guide « Tous responsables »
-Guide "Tous responsables" (PDF accessible)
-PDF - 13.63 Mo
-Consulter le guide « Tous responsables » en version Facile à lire et à comprendre (FALC)
-Guide "Tous responsables" (FALC)
-PDF - 867 Ko
-Télécharger le guide « Tous responsables » pour impression
-Guide "Tous responsables" pour impression (planches)
-PDF - 12.1 Mo
-Télécharger l'affiche A4 pour impression
-Affiche A4 pour inviter à télécharger le guide
-PDF - 6.1 Mo
-Je cherche les informations sur les risques dans ma région
-Je trouve ma préfecture
-Je trouve ma mairie
-Je conçois mon plan personnel de secours en identifiant
-Les lieux de rassemblement et les numéros à connaître (secours, famille…).
-Les personnes vulnérables à venir en aide.
-Les réflexes pour sécuriser mon habitation (couper l’eau, l’électricité, le gaz…).
-Je prépare mon équipement de secours nécessaire en cas d'évacuation (kit d'urgence)
-Placez votre kit dans un endroit facile d’accès ! Deux fois par an, vérifiez le contenu de votre kit (date de péremption des médicaments et denrées) et remplacez les piles.
-Agrandir le visuel
-Kit d'urgence -
-Source : SIG
-Fermer
-Kit d'urgence -
-SIG
+Download the infographic
+Infographic presenting the chapters of the guide
+PNG - 579.11 KB
+Consult the “All responsible” guide
+“All responsible” guide (accessible PDF)
+PDF - 13.63 MB
+Consult the “All responsible” guide in the Easy to read and understand (FALC) version
+“All responsible” guide (FALC)
+PDF - 867 KB
+Download the “All responsible” guide for printing
+“All responsible” guide for printing (plates)
+PDF - 12.1 MB
+Download the A4 poster for printing
+A4 poster to invite you to download the guide
+PDF - 6.1 MB
+I am looking for information on the risks in my region
+I find my prefecture
+I find my town hall
+I design my personal emergency plan by identifying
+Gathering places and numbers to know (emergency, family, etc.).
+Vulnerable people to help.
+The reflexes to secure my home (turn off the water, electricity, gas, etc.).
+I prepare my necessary emergency equipment in the event of an evacuation (emergency kit)
+Place your kit somewhere easy to access! Twice a year, check the contents of your kit (expiration date of medicines and food) and replace the batteries.
+Enlarge the visual
+Emergency kit -
+Source: GIS
+Close
+Emergency kit -
+GIS
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Infographie montrant un sac dans lequel se trouvent tous les éléments à préparer dans son kit d’urgence 72h.
-Coupures d’électricité, de gaz et d’eau courante, routes impraticables… lorsqu’une catastrophe majeure survient, les premières 72 heures sont souvent les plus éprouvantes. Ce kit préparé à l’avance vous permettra de rester chez vous plus sereinement dans l’attente des secours. Il vous sera aussi très utile en cas de départ précipité.
-Voici les choses à mettre dans ce kit :
-une radio à piles (avec piles de rechange) afin de suivre les consignes des autorités
-des médicaments
-une trousse de premiers secours (alcool, pansements, compresses…)
-des outils de base (couteau multifonctions, ouvre-boîte…)
-de la nourriture non périssable et ne nécessitant pas de cuisson (conserves, petits pots bébé, nourriture pour
-animaux…)
-des vêtements chauds et une couverture de survie
-une lampe de poche (avec piles de rechange), bougies, briquet ou allumettes
-un chargeur de téléphone portable
-ses lunettes de vue (paire de secours)
-de l’argent liquide (les distributeurs pouvant ne pas fonctionner)
-de l’eau potable en quantité (6 litres par personne en bouteilles)
-des photocopies des documents essentiels dans un pochette étanche (carte d’identité, ordonnances…)
-le double des clés de la maison et de la voiture
-des jeux pour occuper le temps.
-Un encadré rappelle qu’il faut : placer le sac dans un endroit facile d’accès et vérifier une fois par an le contenu de votre kit, en particulier la date de péremption des médicaments et des denrées. Remplacez aussi les piles.
-Enfin, en cas d’utilisation, n’oubliez pas de réapprovisionner votre kit !
-Consulter l'infographie sur le kit d'urgence
-L'équipement de secours nécessaire en cas d'évacuation.
-PDF - 335.33 Ko
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : TutosRisques : Kit de sécurité
-Pendant une situation d'urgence
-Les 72 premières heures : une période décisive
-Mon action la plus efficace est de rester informé en permanence des actions de secours prises par les pouvoirs publics et de respecter strictement les consignes communiquées, notamment s’il est nécessaire d’évacuer mon domicile ou la zone sinistrée.
-J’écoute en permanence la radio ou la télévision (chaînes du groupe France TV)
-, et plus particulièrement ma radio locale de service public (réseau
-ici
-, anciennement France Bleu)
+Infographic showing a bag with all the
+
+items to prepare in your 72-hour emergency kit.
+Electricity, gas and running water cuts, impassable roads… when a major disaster strikes, the first 72 hours are often the most trying. This kit prepared in advance will allow you to stay at home more peacefully while waiting for help. It will also be very useful to you in the event of a hasty departure.
+Here are the things to put in this kit:
+a battery-powered radio (with spare batteries) to follow instructions from the authorities
+medicines
+a first aid kit (alcohol, bandages, compresses, etc.)
+basic tools (multi-function knife, can opener, etc.)
+non-perishable food that does not require cooking (canned goods, small baby food jars, food for
+animals…)
+warm clothes and a survival blanket
+a flashlight (with spare batteries), candles, lighter or matches
+a cell phone charger
+his glasses (backup pair)
+cash (ATMs may not work)
+plenty of drinking water (6 liters per person in bottles)
+photocopies of essential documents in a waterproof pouch (ID card, prescriptions, etc.)
+double house and car keys
+games to occupy the time.
+A box reminds you to: place the bag in an easily accessible place and check the contents of your kit once a year, in particular the expiry date of medicines and food. Also replace the batteries.
+Finally, if used, don't forget to restock your kit!
+View the emergency kit infographic
+Emergency equipment needed in the event of an evacuation.
+PDF - 335.33 KB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: TutosRisques: Security kit
+During an emergency
+The first 72 hours: a decisive period
+My most effective action is to remain constantly informed of the relief actions taken by the public authorities and to strictly respect the instructions communicated, particularly if it is necessary to evacuate my home or the disaster area.
+I constantly listen to the radio or television (France TV group channels)
+, and more particularly my local public service radio (network
+here
+, formerly France Bleu)
 .
-Je suis attentif aux messages par porte-voix
-d’où qu’ils proviennent (véhicule terrestre, maritime ou aérien).
-Je suis vigilant aux messages transmis par sirènes
-qui peuvent inviter à l’évacuation.
-Je reste où je suis
-jusqu’à ce que la sécurité soit assurée ou que l’on me donne l’ordre d’évacuer les lieux.
-Je garde près de moi mon kit d’urgence.
-Je pèse avec calme les avantages et les inconvénients
-, au cas où je devrais envisager seul l’évacuation de mon domicile.
-En cas d'évacuation
-L’ordre d’évacuation est donné par les autorités uniquement lorsqu’elles ont des raisons de croire que je suis en danger
+I listen to messages via megaphone
+wherever they come from (land, sea or air vehicle).
+I am vigilant for messages transmitted by sirens
+which may invite evacuation.
+I stay where I am
+until safety is assured or I am ordered to evacuate the premises.
+I keep my emergency kit close to me.
+I calmly weigh the advantages and disadvantages
+, in case I have to consider evacuating my home alone.
+In case of evacuation
+The evacuation order is given by the authorities only when they have reason to believe that I am in danger
 .
-Je reste où je suis jusqu’à ce que l’on me donne l’ordre d’évacuer les lieux ou que la sécurité soit assurée.
-Si je reçois l’ordre d’évacuer les lieux,
-je prends mon kit d’urgence
+I remain where I am until I am given the order to evacuate the premises or until security is assured.
+If I receive an order to evacuate the premises,
+I take my emergency kit
 ,
-les médicaments
-dont j’ai besoin,
-mes ordonnances
+medications
+what I need,
+my prescriptions
 ,
-les papiers d’identité
-de chacun des membres de ma famille, des
-copies des papiers essentiels
-de ma famille et un téléphone portable.
-Je verrouille les portes
-de mon domicile et
-j’utilise les voies de secours
-préconisées par les autorités ou je suis les itinéraires d’évacuation que j’ai préalablement repérés.
-Agrandir le visuel
-Les policiers de la préfecture de police de Paris
-évacuent l'esplanade des Invalides, le 14 juillet 2021. -
-Source : Ministère de l'Intérieur/J.ROCHA
-Fermer
-Les policiers de la préfecture de police de Paris
-évacuent l'esplanade des Invalides, le 14 juillet 2021. -
-Ministère de l'Intérieur/J.ROCHA
-En cas de confinement
-Si les responsables locaux me conseillent de m’abriter sur place, je dois rester à l'intérieur de mon  domicile ou de mon lieu de travail, et me protéger à cet endroit.
-Pour me protéger au mieux :
-Je ferme
-et verrouille toutes les
-fenêtres et les portes
-donnant sur l'extérieur ;
-J’éteins
-tous les
-ventilateurs
-, systèmes de
-chauffage
-et de
-climatisation
-d’air ;
+identity papers
+of each member of my family,
+copies of essential papers
+of my family and a cell phone.
+I lock the doors
+from my home and
+I use the emergency routes
+recommended by the authorities or I follow the evacuation routes that I have previously identified.
+Enlarge the visual
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Source: Ministry of the Interior/J.ROCHA
+Close
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Ministry of the Interior/J.ROCHA
+In case of confinement
+If local officials advise me to shelter in place, I must stay inside my home or workplace and protect myself there.
+To protect myself as best as possible:
+I close
+and locks all
+windows and doors
+overlooking the exterior;
+I turn off
+all
+fans
+, systems
+heating
+and of
+air conditioning
+air;
 J
-e vais dans une pièce située au-dessus du niveau du sol
-, si possible sans fenêtre ;
-J’utilise du ruban adhésif pour calfeutrer
-les fentes des portes et éventuellement celle des fenêtres ;
-Je m’informe régulièrement par les médias
-(radio, télévision, internet) jusqu’à l’annonce du retour à une situation normale ou à l’ordre d’évacuation.
-Après une situation d'urgence
-Qui contacter ?
-Il est nécessaire
-d’avoir connaissance des dommages causés
-(aux niveaux humain et matériel) et
-d’être conscient des dangers
-encore
-existants
-suite aux dégâts matériels.
-En cas d’évacuation, je ne retourne à mon
-domicile que lorsque les pouvoirs publics m’en donneront la permission.
-Je fais appel aux services de secours ou à un professionnel pour remettre en marche l’électricité ou le gaz.
-Je me fais aider par mon médecin
-pour faire face aux
-conséquences émotionnelles et psychologiques
-qui peuvent survenir. Cela vaut particulièrement pour les enfants. Parler de son expérience
-l’aide à comprendre et à mieux appréhender la situation
+I go to a room above ground level
+, if possible without windows;
+I use duct tape to caulk
+the slots in the doors and possibly in the windows;
+I keep myself informed regularly through the media
+(radio, television, internet) until the announcement of the return
+
+ur to a normal situation or to the evacuation order.
+After an emergency
+Who to contact?
+It is necessary
+to be aware of the damage caused
+(at the human and material levels) and
+to be aware of the dangers
+again
+existing
+following material damage.
+In the event of an evacuation, I will not return to my
+home only when the public authorities give me permission.
+I call the emergency services or a professional to restart the electricity or gas.
+I get help from my doctor
+to face the
+emotional and psychological consequences
+which may occur. This is especially true for children. Talk about your experience
+helps him understand and better understand the situation
 .
-Agrandir le visuel
-Un sapeur-pompier du service départemental d'incendie et de secours de Haute-Garonne (SDIS 31) au point d'accueil des familles à l'aéroport de Toulouse Blagnac, installé à
-l'occasion d'un exercice de l'organisation de la réponse de sécurité civile (ORSEC), nombreuses victimes (NOVI). -
-Source : Ministère de l'Intérieur/D.MENDIBOURE
-Fermer
-Un sapeur-pompier du service départemental d'incendie et de secours de Haute-Garonne (SDIS 31) au point d'accueil des familles à l'aéroport de Toulouse Blagnac, installé à
-l'occasion d'un exercice de l'organisation de la réponse de sécurité civile (ORSEC), nombreuses victimes (NOVI). -
-Ministère de l'Intérieur/D.MENDIBOURE
-Connaitre les numéros d'urgence
-Quels sont les numéros d’urgence ?
-Un
-citoyen mieux informé
-, c’est une
-aide aux secours
-pour intervenir dans de
-meilleures conditions et le plus rapidement possible
+Enlarge the visual
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Source: Ministry of the Interior/D.MENDIBOURE
+Close
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Ministry of the Interior/D.MENDIBOURE
+Know the emergency numbers
+What are the emergency numbers?
+A
+better informed citizen
+, it is a
+relief aid
+to intervene in
+best conditions and as quickly as possible
 .
 15
 Samu
 17
 Police
 18
-Pompiers
-SIG
-Et d'autres numéros très importants comme :
-- Le
+Firefighters
+GIS
+And other very important numbers like:
+- The
 112
-, numéro d'urgence européen
-- Le
+, European emergency number
+- The
 114
-pour les  personnes sourdes et malentendantes
-- Le
+for deaf and hard of hearing people
+- The
 196
-pour les urgences en mer
-- Le
+for emergencies at sea
+- The
 191
-pour les urgences aéronautiques
-Que dire au téléphone avec les secours ?
-Au téléphone avec les secours, voici ce qu’il faut dire
+for aeronautical emergencies
+What to say on the phone with the emergency services?
+On the phone with emergency services, here’s what to say
 :
-Je suis victime ou témoin...  Je donne un numéro de téléphone sur lequel je reste joignable.
-Je donne l'adresse précise de l’endroit où les services doivent intervenir, surtout si je ne suis pas sur place.
-Je précise les motifs de mon appel, l’état de la situation et celui des éventuelles victimes.
-Je m’exprime clairement auprès de mon interlocuteur et j’écoute attentivement les conseils donnés sur la conduite à tenir avant l’arrivée des secours.
-Je réponds bien à toutes les questions qui me seront posées.
-Utiliser les réseaux sociaux en cas d'urgence
-Quels comptes sur les réseaux sociaux sont à suivre ?
-Je suis prioritairement les comptes :
-Des services de proximité : Préfecture de mon département, Pompiers (SDIS),etc.
-Des ministères et de
-@gouvernementFr
-Des services du ministère de l’Intérieur :
+I am a victim or witness... I give a telephone number where I can be reached.
+I give the precise address of the place where the services must intervene, especially if I am not on site.
+I specify the reasons for my appeal, the state of the situation and that of any victims.
+I express myself clearly to my interlocutor and I listen carefully to the advice given on what to do before help arrives.
+I respond well to all questions that will be asked of me.
+Use social media in an emergency
+Which social media accounts should you follow?
+I primarily follow the accounts:
+Local services: Prefecture of my department, Fire Brigade (SDIS), etc.
+Ministries and
+@gouvernmentFr
+Services of the Ministry of the Interior:
 @Beauvau_Alerte
 ,
 @Interieur_Gouv
@@ -591,92 +629,464 @@ Des services du ministère de l’Intérieur :
 @PoliceNationale
 ,
 @SecCivileFrance
-et
+and
 @prefpolice
-Des partenaires de l’État et des principales institutions, associations et organisations non gouvernementales : ma mairie, mon département, la Croix Rouge locale et Visov
+Partners from the State and the main institutions, associations and non-governmental organizations: my town hall, my department, the local Red Cross and Visov
 (@VISOV1)
-Pour s'informer et contribuer
-Il est vivement conseillé de suivre les comptes officiels de l’État et de relayer leurs messages préventifs. Sur ces comptes, l’information est vérifiée.
-Attention aux informations non vérifiées
-En cas de crise, il est nécessaire de ne pas diffuser de fausses rumeurs et des informations non vérifiées par les canaux officiels.
-Dans tous les cas, je reste à l’écoute des consignes données par les autorités, sur le réseau ici (anciennement France Bleu), sur France Télévisions et via les comptes Twitter et Facebook officiels.
-Je prépare mon voyage à l'étranger
-À l’étranger, je peux être exposé à de nombreux risques de toutes natures (sanitaires, sécuritaires, naturels, industriels…). Une bonne préparation est nécessaire.
-Je note
-les
-coordonnées de mon consulat.
-Je consulte la rubrique
-« Conseils aux voyageurs »
-du site
-France diplomatie
+To learn and contribute
+It is strongly recommended to follow official state accounts and relay their preventive messages. On these accounts, the information is verified.
+Beware of unverified information
+In the event of a crisis, it is necessary not to spread false rumors and unverified information through official channels.
+In all cases, I remain attentive to the instructions given by the authorities, on the network here (formerly France Bleu), on France Télévisions and via the official Twitter and Facebook accounts.
+I am preparing my trip abroad
+Abroad, I may be exposed to numerous risks of all kinds (health, security, natural, industrial, etc.). Good preparation is necessary.
+I note
+the
+contact details of my consulate.
+I consult the section
+“Travel Tips”
+of the site
+France diplomacy
 .
-Je m’inscris sur
-« Ariane »
-le service en ligne pour être alerté en cas de crise lors d'un voyage à l'étranger.
-Je note les contacts utiles (adresse, téléphone, courriel de mon consulat), les consulats de France assurent une permanence 24h/24.
-Je vérifie mon contrat d’assurance : les frais (de santé, de justice, de rapatriement) entraînés par tout incident à l’étranger peuvent être très élevés.
-FAQ - Foire aux questions
-Qu’est‑ce que le guide « Tous responsables »  ?
-Le guide « Tous responsables » désigne un livret de sensibilisation visant à préparer les citoyens à faire face à des risques majeurs.
-Pourquoi faut‑il se préparer à une crise majeure ?
-Parce qu’une crise majeure peut perturber fortement la vie quotidienne (coupures de courant, eau, communication ; inondations, tempêtes, cyberattaques, panne généralisée…), et les premières 72 heures sont généralement les plus critiques.
-Se préparer permet :
-de réduire ses vulnérabilités ;
-d’être autonome pendant le temps que les secours s’organisent ;
-de protéger ses proches et ses biens.
-Quels sont les types de risques possibles en France ?
-Les risques majeurs en France comprennent :
-les aléas naturels : inondations, submersions marines, feux de forêt, séismes, mouvements de terrain, tempêtes ;
-les risques technologiques ou industriels : accidents d’installations, transport de matières dangereuses, rupture de barrage, risques nucléaires ;
-d’autres types : épidémies, cyberattaques, coupures de réseaux, etc.
-Que faire pendant les 72 premières heures d’une crise ?
-Les recommandations officielles sont :
-rester informé via les médias et les canaux officiels, suivre les consignes des autorités ;
-rester à l’abri ou évacuer si demandé ;
-utiliser son kit d’urgence et gérer ses priorités : eau, alimentation, chaleur/abri, communication ;
-limiter les appels non essentiels pour laisser les réseaux libres aux secours.
-Que doit contenir un kit d'urgence ?
-Eau potable ;
-nourriture non périssable ne nécessitant pas de cuisson ;
-lampe de poche avec piles ou dynamo, radio à piles + piles de rechange ;
-chargeur de téléphone portable, lunettes de secours, vêtements chauds ou couverture de survie ;
-trousse de secours, médicaments personnels, documents essentiels (identité, ordonnance), argent liquide, clés doubles.
-Où ranger son kit d’urgence ?
-Le kit doit être placé dans un endroit facile d’accès et hors de portée de l’eau. Vérifier deux fois par an son contenu et remplacer ce qui est périmé.
-Comment se protéger en cas d’accident nucléaire ?
-Les bons réflexes :
-si on entend le signal d’alerte : s’abriter sans délai dans un bâtiment solide, fermer portes, fenêtres, couper ventilation ;
-ne pas sortir ou aller chercher ses enfants sauf ordre des autorités ;
-prendre les comprimés d’iode uniquement sur instruction du préfet (si on est dans un périmètre concerné) ;
-suivre attentivement les consignes officielles tout au long de l’alerte.
-En savoir plus sur les mesures à prendre
+I register on
+“Ariane.”
+the online service to be alerted in the event of a crisis while traveling abroad.
+I note the useful contacts (address, telephone, email of my consulate), the French consulates are available 24 hours a day.
+I check my insurance contract: the costs (health, legal, repatriation) incurred by any incident abroad can be very high.
+FAQ - Frequently Asked Questions
+What is the “All Responsible” guide?
+The “All Responsible” guide refers to an awareness booklet aimed at preparing the
+
+children to face major risks.
+Why should we prepare for a major crisis?
+Because a major crisis can seriously disrupt daily life (power outages, water, communication; floods, storms, cyberattacks, widespread outage, etc.), and the first 72 hours are generally the most critical.
+Preparing allows:
+to reduce its vulnerabilities;
+to be autonomous while help is organized;
+to protect their loved ones and their property.
+What types of risks are possible in France?
+Major risks in France include:
+natural hazards: floods, marine submersions, forest fires, earthquakes, land movements, storms;
+technological or industrial risks: installation accidents, transport of dangerous materials, dam failure, nuclear risks;
+other types: epidemics, cyberattacks, network outages, etc.
+What to do during the first 72 hours of an attack?
+The official recommendations are:
+stay informed via the media and official channels, follow the instructions of the authorities;
+stay sheltered or evacuate if requested;
+use your emergency kit and manage your priorities: water, food, heat/shelter, communication;
+limit non-essential calls to leave networks free for emergency services.
+What should an emergency kit contain?
+Drinking water;
+non-perishable food that does not require cooking;
+flashlight with batteries or dynamo, battery-operated radio + spare batteries;
+cell phone charger, emergency glasses, warm clothing or survival blanket;
+first aid kit, personal medication, essential documents (identity, prescription), cash, double keys.
+Where to store your emergency kit?
+The kit should be placed in an easily accessible place and out of reach of water. Check its contents twice a year and replace what is expired.
+How to protect yourself in the event of a nuclear accident?
+Good reflexes:
+if you hear the warning signal: take shelter immediately in a solid building, close doors, windows, turn off the ventilation;
+not go out or pick up your children unless ordered by the authorities;
+take iodine tablets only on instructions from the prefect (if you are in a concerned area);
+carefully follow official instructions throughout the alert.
+Learn more about what to do
 .
-Quels sont les bons réflexes en cas d’accident industriel ?
-Être sensibilisé aux risques autour de vous (installations « Seveso », transport de matières dangereuses) ;
-à l’alerte : suivre les consignes de la préfecture ou des services de secours (évacuation, confinement, etc.) ;
-se mettre en sécurité, limiter l’exposition (intérieur, portes/fenêtres fermées), rester informé.
-En savoir plus sur les mesures à prendre
+What are the right reflexes in the event of an industrial accident?
+Be aware of the risks around you (“Seveso” installations, transport of dangerous materials);
+when alert: follow the instructions of the prefecture or emergency services (evacuation, confinement, etc.);
+stay safe, limit exposure (indoors, doors/windows closed), stay informed.
+Learn more about what to do
 .
-Où télécharger le guide « Tous responsables » ?
-Les informations du guide « Tous responsables » sont disponibles sur le portail
-info.gouv.fr/risques
+Where to download the “All Responsible” guide?
+Information from the “All Responsible” guide is available on the portal
+info.gouv.fr/risks
 .
 
 ---
 
-### Municipales 2026 : les résultats du second tour
+### Prepare for an emergency
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/risques/se-preparer-a-une-situation-durgence
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2380
+- **Unique ID:** `d90c77936fbc747e`
+
+#### Content:
+
+Prepare for an emergency
+Published on May 12, 2023
+, modified on January 23, 2026
+Illustration of emergency bag preparation -
+Source: GIS
+Learn how to deal with major risks: complete guide to prepare yourself, protect your loved ones, put together a kit and adopt the right reflexes.
+What to remember
+Preparing for an emergency situation means, above all, identifying the risks that threaten me and therefore planning alternative scenarios.
+After an inventory of these risks, it is necessary to study them and assess their potential seriousness before deciding on preventive actions to put in place (emergency kit).
+Ultimately, it means taking the necessary precautions to be able to best manage a crisis situation.
+Why prepare for an emergency?
+Preparing for an emergency situation is above all
+identify risks
+who threaten me and therefore
+predict
+alternative scenarios.
+After an inventory of these risks, it is necessary to study them and
+evaluate
+their potential seriousness before deciding on the preventive actions to be implemented.  It is finally
+take the necessary precautions
+to be able to best manage a crisis situation.
+This section aims to inform citizens about
+attitudes to adopt before, during, and after an emergency situation
+.
+Before an emergency
+The “All responsible” guide
+I consult
+the “All Responsible” guide
+to inform me about useful tools to deal with a major crisis, whatever the origin: flood, fire, cyberattack, etc.
+Enlarge the visual
+The “All responsible” guide -
+Source: GIS
+Close
+The “All responsible” guide -
+GIS
+Transcription
+Enlarge
+Close
+Transcription
+Everyone is responsible for the risks, let's act.
+Prepare to face: you and your loved ones may have to face a situation in which the ordinary functioning of society would be disrupted (flood, storm, cyberattack, etc.).
+Put together an emergency kit.
+Follow three priorities: eat and drink, stay warm and take care of yourself.
+Communicate with your loved ones and build a community of mutual aid and solidarity.
+Train yourself in first aid and learn how to provide emergency care.
+Well protected
+Find out about the risks and threats and the behaviors to adopt to deal with them.
+Be prepared to face natural, health, technological and industrial risks.
+Be prepared to face the threats of cyberattack, terrorism, and in connection with a major commitment of our armed forces outside the national territory.
+Resist rumors and misinformation.
+Recognize and listen to warning signs.
+Learn the emergency numbers.
+All engage
+Get involved by joining the reserves and volunteering schemes:
+as a reservist or volunteer;
+in the service of an approved civil security association;
+serving the armed forces and internal security.
+Our society must adapt to be stronger: find out how to prepare to face a risk, whatever its origin on
+info.gouv.fr/risks
+.
+Download the infographic
+Infographic presenting the chapters of the guide
+PNG - 579.11 KB
+Consult the “All responsible” guide
+“All responsible” guide (accessible PDF)
+PDF - 13.63 MB
+Consult the “All responsible” guide in the Easy to read and understand (FALC) version
+“All responsible” guide (FALC)
+PDF - 867 KB
+Download the “All responsible” guide for printing
+“All responsible” guide for printing (plates)
+PDF - 12.1 MB
+Download the A4 poster for printing
+A4 poster to invite you to download the guide
+PDF - 6.1 MB
+I am looking for information on the risks in my region
+I find my prefecture
+I find my town hall
+I design my personal emergency plan by identifying
+Gathering places and numbers to know (emergency, family, etc.).
+Vulnerable people to help.
+The reflexes to secure my home (turn off the water, electricity, gas, etc.).
+I prepare my necessary emergency equipment in the event of an evacuation (emergency kit)
+Place your kit somewhere easy to access! Twice a year, check the contents of your kit (expiration date of medicines and food) and replace the batteries.
+Enlarge the visual
+Emergency kit -
+Source: GIS
+Close
+Emergency kit -
+GIS
+Transcription
+Enlarge
+Close
+Transcription
+Infographic showing a bag with all the
+
+items to prepare in your 72-hour emergency kit.
+Electricity, gas and running water cuts, impassable roads… when a major disaster strikes, the first 72 hours are often the most trying. This kit prepared in advance will allow you to stay at home more peacefully while waiting for help. It will also be very useful to you in the event of a hasty departure.
+Here are the things to put in this kit:
+a battery-powered radio (with spare batteries) to follow instructions from the authorities
+medicines
+a first aid kit (alcohol, bandages, compresses, etc.)
+basic tools (multi-function knife, can opener, etc.)
+non-perishable food that does not require cooking (canned goods, small baby food jars, food for
+animals…)
+warm clothes and a survival blanket
+a flashlight (with spare batteries), candles, lighter or matches
+a cell phone charger
+his glasses (backup pair)
+cash (ATMs may not work)
+plenty of drinking water (6 liters per person in bottles)
+photocopies of essential documents in a waterproof pouch (ID card, prescriptions, etc.)
+double house and car keys
+games to occupy the time.
+A box reminds you to: place the bag in an easily accessible place and check the contents of your kit once a year, in particular the expiry date of medicines and food. Also replace the batteries.
+Finally, if used, don't forget to restock your kit!
+View the emergency kit infographic
+Emergency equipment needed in the event of an evacuation.
+PDF - 335.33 KB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: TutosRisques: Security kit
+During an emergency
+The first 72 hours: a decisive period
+My most effective action is to remain constantly informed of the relief actions taken by the public authorities and to strictly respect the instructions communicated, particularly if it is necessary to evacuate my home or the disaster area.
+I constantly listen to the radio or television (France TV group channels)
+, and more particularly my local public service radio (network
+here
+, formerly France Bleu)
+.
+I listen to messages via megaphone
+wherever they come from (land, sea or air vehicle).
+I am vigilant for messages transmitted by sirens
+which may invite evacuation.
+I stay where I am
+until safety is assured or I am ordered to evacuate the premises.
+I keep my emergency kit close to me.
+I calmly weigh the advantages and disadvantages
+, in case I have to consider evacuating my home alone.
+In case of evacuation
+The evacuation order is given by the authorities only when they have reason to believe that I am in danger
+.
+I remain where I am until I am given the order to evacuate the premises or until security is assured.
+If I receive an order to evacuate the premises,
+I take my emergency kit
+,
+medications
+what I need,
+my prescriptions
+,
+identity papers
+of each member of my family,
+copies of essential papers
+of my family and a cell phone.
+I lock the doors
+from my home and
+I use the emergency routes
+recommended by the authorities or I follow the evacuation routes that I have previously identified.
+Enlarge the visual
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Source: Ministry of the Interior/J.ROCHA
+Close
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Ministry of the Interior/J.ROCHA
+In case of confinement
+If local officials advise me to shelter in place, I must stay inside my home or workplace and protect myself there.
+To protect myself as best as possible:
+I close
+and locks all
+windows and doors
+overlooking the exterior;
+I turn off
+all
+fans
+, systems
+heating
+and of
+air conditioning
+air;
+J
+I go to a room above ground level
+, if possible without windows;
+I use duct tape to caulk
+the slots in the doors and possibly in the windows;
+I keep myself informed regularly through the media
+(radio, television, internet) until the announcement of the return
+
+ur to a normal situation or to the evacuation order.
+After an emergency
+Who to contact?
+It is necessary
+to be aware of the damage caused
+(at the human and material levels) and
+to be aware of the dangers
+again
+existing
+following material damage.
+In the event of an evacuation, I will not return to my
+home only when the public authorities give me permission.
+I call the emergency services or a professional to restart the electricity or gas.
+I get help from my doctor
+to face the
+emotional and psychological consequences
+which may occur. This is especially true for children. Talk about your experience
+helps him understand and better understand the situation
+.
+Enlarge the visual
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Source: Ministry of the Interior/D.MENDIBOURE
+Close
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Ministry of the Interior/D.MENDIBOURE
+Know the emergency numbers
+What are the emergency numbers?
+A
+better informed citizen
+, it is a
+relief aid
+to intervene in
+best conditions and as quickly as possible
+.
+15
+Samu
+17
+Police
+18
+Firefighters
+GIS
+And other very important numbers like:
+- The
+112
+, European emergency number
+- The
+114
+for deaf and hard of hearing people
+- The
+196
+for emergencies at sea
+- The
+191
+for aeronautical emergencies
+What to say on the phone with the emergency services?
+On the phone with emergency services, here’s what to say
+:
+I am a victim or witness... I give a telephone number where I can be reached.
+I give the precise address of the place where the services must intervene, especially if I am not on site.
+I specify the reasons for my appeal, the state of the situation and that of any victims.
+I express myself clearly to my interlocutor and I listen carefully to the advice given on what to do before help arrives.
+I respond well to all questions that will be asked of me.
+Use social media in an emergency
+Which social media accounts should you follow?
+I primarily follow the accounts:
+Local services: Prefecture of my department, Fire Brigade (SDIS), etc.
+Ministries and
+@gouvernmentFr
+Services of the Ministry of the Interior:
+@Beauvau_Alerte
+,
+@Interieur_Gouv
+@Gendarmerie
+,
+@PoliceNationale
+,
+@SecCivileFrance
+and
+@prefpolice
+Partners from the State and the main institutions, associations and non-governmental organizations: my town hall, my department, the local Red Cross and Visov
+(@VISOV1)
+To learn and contribute
+It is strongly recommended to follow official state accounts and relay their preventive messages. On these accounts, the information is verified.
+Beware of unverified information
+In the event of a crisis, it is necessary not to spread false rumors and unverified information through official channels.
+In all cases, I remain attentive to the instructions given by the authorities, on the network here (formerly France Bleu), on France Télévisions and via the official Twitter and Facebook accounts.
+I am preparing my trip abroad
+Abroad, I may be exposed to numerous risks of all kinds (health, security, natural, industrial, etc.). Good preparation is necessary.
+I note
+the
+contact details of my consulate.
+I consult the section
+“Travel Tips”
+of the site
+France diplomacy
+.
+I register on
+“Ariane.”
+the online service to be alerted in the event of a crisis while traveling abroad.
+I note the useful contacts (address, telephone, email of my consulate), the French consulates are available 24 hours a day.
+I check my insurance contract: the costs (health, legal, repatriation) incurred by any incident abroad can be very high.
+FAQ - Frequently Asked Questions
+What is the “All Responsible” guide?
+The “All Responsible” guide refers to an awareness booklet aimed at preparing the
+
+children to face major risks.
+Why should we prepare for a major crisis?
+Because a major crisis can seriously disrupt daily life (power outages, water, communication; floods, storms, cyberattacks, widespread outage, etc.), and the first 72 hours are generally the most critical.
+Preparing allows:
+to reduce its vulnerabilities;
+to be autonomous while help is organized;
+to protect their loved ones and their property.
+What types of risks are possible in France?
+Major risks in France include:
+natural hazards: floods, marine submersions, forest fires, earthquakes, land movements, storms;
+technological or industrial risks: installation accidents, transport of dangerous materials, dam failure, nuclear risks;
+other types: epidemics, cyberattacks, network outages, etc.
+What to do during the first 72 hours of an attack?
+The official recommendations are:
+stay informed via the media and official channels, follow the instructions of the authorities;
+stay sheltered or evacuate if requested;
+use your emergency kit and manage your priorities: water, food, heat/shelter, communication;
+limit non-essential calls to leave networks free for emergency services.
+What should an emergency kit contain?
+Drinking water;
+non-perishable food that does not require cooking;
+flashlight with batteries or dynamo, battery-operated radio + spare batteries;
+cell phone charger, emergency glasses, warm clothing or survival blanket;
+first aid kit, personal medication, essential documents (identity, prescription), cash, double keys.
+Where to store your emergency kit?
+The kit should be placed in an easily accessible place and out of reach of water. Check its contents twice a year and replace what is expired.
+How to protect yourself in the event of a nuclear accident?
+Good reflexes:
+if you hear the warning signal: take shelter immediately in a solid building, close doors, windows, turn off the ventilation;
+not go out or pick up your children unless ordered by the authorities;
+take iodine tablets only on instructions from the prefect (if you are in a concerned area);
+carefully follow official instructions throughout the alert.
+Learn more about what to do
+.
+What are the right reflexes in the event of an industrial accident?
+Be aware of the risks around you (“Seveso” installations, transport of dangerous materials);
+when alert: follow the instructions of the prefecture or emergency services (evacuation, confinement, etc.);
+stay safe, limit exposure (indoors, doors/windows closed), stay informed.
+Learn more about what to do
+.
+Where to download the “All Responsible” guide?
+Information from the “All Responsible” guide is available on the portal
+info.gouv.fr/risks
+.
+
+---
+
+### Municipal 2026: the results of the second round
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-second-tour
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 16
+- **Unique ID:** `e9baa1b678ba046f`
+
+#### Content:
+
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
+
+---
+
+### Municipal 2026: the results of the second round
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-second-tour
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 492
 - **Unique ID:** `e9baa1b678ba046f`
 
 #### Content:
 
 Municipales 2026 : les résultats du second tour
-Publié aujourd'hui à 17:50
+Publié hier à 17:50
 Les résultats du second tour des élections municipales 2026 sont disponibles sur le site internet du ministère de l’Intérieur.
 Image d'illustration -
 Source : Adobe Stock
@@ -805,789 +1215,2211 @@ Voir tous les articles
 
 ---
 
-### Lettre aux maires de France
+### Letter to the mayors of France
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/lettre-aux-maires-de-france
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1169
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 450
 - **Unique ID:** `67bc67361b6a6e82`
 
 #### Content:
 
-Lettre aux maires de France
-Publié aujourd'hui à 21:13
-, modifié aujourd'hui à 21:26
-Au lendemain du second tour des élections municipales, je veux vous adresser mes félicitations républicaines.
-Image d'illustration -
-Source : Service d'information du Gouvernement
-Le suffrage universel vous a confié une responsabilité exigeante. Vous êtes, partout sur le territoire, les premiers visages de la République. Vous êtes aussi ceux qui entendent, avant tous les autres, ce que vivent nos concitoyens.
-Les élections municipales ont livré un message exigeant
-: une participation trop faible qui nous oblige, un engagement local qui nous honore, et des choix parfois contrastés qui nous imposent une chose simple — agir concrètement, au plus près du terrain. Dans une campagne souvent dure, parfois marquée par des excès qui n’ont pas leur place dans notre vie démocratique, et alors même que le contexte international appelle à la lucidité et à l’unité, notre responsabilité est claire : ne céder ni aux fractures ni aux postures, mais rester fidèles à l’esprit de responsabilité qui fait tenir la République.
-Au global, les urnes n’ont sacré personne — elles obligent donc chacun à prendre ses responsabilités et à agir, sans attendre les prochaines échéances électorales. Les partis politiques représentés au Parlement devront démontrer qu’ils savent dépasser les réflexes habituels et trouver les compromis nécessaires à la défense de l’intérêt général.
-Le Gouvernement quant à lui a fait un choix simple :
-partir de ce que vous avez entendu sur le terrain pour fixer ses priorités dans les prochaines semaines.
-Partout, et quelque soit les opinions politiques, une première attente s’est exprimée : celle de la
-sécurité dans vos communes,
-et dans le quotidien de vos administrés.
-C’est le sens du projet de loi que présentera cette semaine le ministre de l’Intérieur, visant à apporter des réponses immédiates aux troubles qui affectent l’ordre public, la tranquillité et la vie quotidienne de nos communes, dans les zones urbaines comme dans les régions rurales. Dans le même esprit, nous achèverons l’examen du texte renforçant les prérogatives des polices municipales et des gardes champêtres, construit avec les associations d’élus. Il s’agit d’agir concrètement, au plus près du terrain pour permettre aux agents communaux de mieux faire respecter la loi, en lien étroit avec les forces de police ou de gendarmerie. Des textes sur l’organisation de notre système judiciaire seront également présentés.
-Mais la sécurité ne peut être dissociée d’une autre exigence que vous avez largement exprimée :
-celle de la diminution des normes et des procédures qui encadrent les initiatives des acteurs locaux
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
+
 .
-Nous engagerons ainsi un projet de loi de simplification des collectivités territoriales. Ce ne sera pas un texte de contrainte. Ce sera un texte de liberté : moins de normes, moins de procédures inutiles, plus de responsabilités claires. Cette démarche prolonge les premières mesures déjà prises récemment par décret, pour réduire les normes et les contraintes procédurales qui ralentissent et entravent les projets pour lesquels vos administrés vous ont élus.
-Dans le même mouvement, plusieurs textes législatifs ou réglementaires viendront simplifier la vie économique et agricole, avec un objectif constant : faire confiance plutôt que compliquer les projets.
-Nous irons également plus loin pour réformer l’organisation de l’État local. Le rôle du préfet sera renforcé pour mieux coordonner l’action de toutes les administrations de l’Etat - y compris les agences - dans le département, mais aussi pour rendre plus claire la répartition des responsabilités et des compétences entre l’Etat et les collectivités locales. Là encore, l’objectif est simple : décider plus vite, agir plus efficacement, assumer les responsabilités.
-Au-delà des textes qui seront présentés au Parlement, le Gouvernement poursuivra des priorités qui devront permettre d’obtenir des résultats concrets et rapides dans les services publics rendus à nos concitoyens au quotidien.
-En matière de
-santé
-, le déploiement de « France Santé » doit permettre un accès aux soins en moins de 48 heures et à proximité de chaque Français. Le dispositif doit s’adapter aux difficultés de chaque commune, les préfets sont à votre disposition pour concevoir avec vous la meilleure réponse à apporter dans la vôtre. Une réforme des Agences Régionales de Santé sera annoncée dans les tous prochains jours pour renforcer leur proximité sur le terrain.
-Concernant le
-logement
-, un plan de relance a été engagé (“Relance Logement”), avec un objectif de construction et de rénovation massif pour répondre à la crise que connaissent de nombreux territoires. Un projet de loi est en cours de concertation, il permettra la décentralisation de la politique du logement pour vous transférer plus de compétences.
-Enfin, un travail de fond se poursuivra avec vous pour franchir une nouvelle étape dans la décentralisation des compétences : clarifier qui décide, à quel niveau, avec quels moyens. C’est une condition de l’efficacité et de la confiance. Ce travail doit permettre à nos concitoyens de savoir qui décide, pour savoir à qui demander des comptes. Je reste convaincu que le pouvoir doit davantage “être partagé” dans le pays, et dans la clarté.
+Regarding the
+housing
+, a recovery plan has been initiated (“Relance Logement”), with a massive construction and renovation objective to respond to the crisis experienced by many territories. A bill is currently being discussed which will allow the decentralization of housing policy to transfer more skills to you.
+Finally, in-depth work will continue with you to take a new step in the decentralization of skills: clarifying who decides, at what level, with what means. It is a condition of effectiveness and confidence. This work must allow our fellow citizens to know who decides, to know who to hold accountable. I remain convinced that power must be more “shared” in the country, and in clarity.
 *
-La méthode est constante : ni passage en force, ni immobilisme. Le Gouvernement proposera, le Parlement débattra et votera, vous serez associés.
-Dans la période qui s’ouvre, je souhaite que le lien entre l’État et les maires soit direct, exigeant et utile. Nous avons besoin de votre expérience et de votre engagement pour réussir.
-La République avance quand elle part du terrain. C’est le choix que nous faisons.
-Je vous prie de croire, Mesdames et Messieurs les maires, à l’assurance de ma considération ainsi qu’à mes sincères félicitations.
+The method is constant: neither force, nor immobility. The Government will propose, Parliament will debate and vote, you will be involved.
+In the period that opens, I hope that the link between the State and mayors will be direct, demanding and useful. We need your experience and commitment to succeed.
+The Republic advances when it starts from the ground. This is the choice we make.
+Please accept, ladies and gentlemen mayors, the assurance of my consideration as well as my sincere congratulations.
 Sébastien Lecornu
-Partager la page
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Citoyenneté
+Citizenship
 ›
-Élections
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 8 + 6
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 8 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
 Sébastien Lecornu
-Sur le même thème
-Municipales 2026 : les résultats du second tour
-Actualité
-                                                    · Élections
-Municipales 2026 : les résultats du premier tour
-Actualité
-                                                    · Élections
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité
-                                                    · Élections
-Élections :  comment les votes sont-ils comptés ?
-Actualité
-                                                    · Élections
-À lire aussi
-Municipales 2026 : les résultats du second tour
-Actualité ·
-                         Élections
-Publié aujourd'hui
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Voir tous les articles
+On the same theme
+Municipal 2026: the results of the second round
+News
+                                                    · Elections
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
 
 ---
 
-### Municipales 2026 : les résultats du premier tour
+### Letter to the mayors of France
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/lettre-aux-maires-de-france
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1126
+- **Unique ID:** `67bc67361b6a6e82`
+
+#### Content:
+
+Letter to the mayors of France
+Published yesterday at 9:13 p.m.
+, modified yesterday at 9:26 p.m.
+The day after the second round of the municipal elections, I want to send you my Republican congratulations.
+Illustrative image -
+Source: Government Information Service
+Universal suffrage has entrusted you with a demanding responsibility. You are, throughout the territory, the first faces of the Republic. You are also the ones who hear, before all others, what our fellow citizens are experiencing.
+The municipal elections delivered a demanding message
+: too little participation which obliges us, a local commitment which honors us, and sometimes contrasting choices which impose on us a simple thing — to act concretely, as close as possible to the field. In an often harsh campaign, sometimes marked by excesses which have no place in our democratic life, and even as the international context calls for lucidity and unity, our responsibility is clear: to give in neither to fractures nor to postures, but to remain faithful to the spirit of responsibility which holds the Republic together.
+Overall, the ballot boxes have not crowned anyone - they therefore force everyone to take responsibility and act, without waiting for the next electoral deadlines. The political parties represented in Parliament will have to demonstrate that they know how to go beyond usual reflexes and find the compromises necessary to defend the general interest.
+The Government, for its part, made a simple choice:
+based on what you have heard on the ground to set your priorities in the coming weeks.
+Everywhere, and whatever the political opinions, a first expectation was expressed: that of
+security in your communities,
+and in the daily lives of your constituents.
+This is the meaning of the bill that the Minister of the Interior will present this week, aiming to provide immediate responses to the disturbances which affect public order, tranquility and daily life in our communities, in urban areas as well as in rural regions. In the same spirit, we will complete the examination of the text reinforcing the prerogatives of the municipal police and rural guards, constructed with associations of elected officials. This involves taking concrete action, as close as possible to the field, to enable municipal agents to better enforce the law, in close collaboration with the police or gendarmerie forces. Texts on the organization of our judicial system will also be presented.
+But security cannot be dissociated from another requirement that you have widely expressed:
+that of the reduction of standards and procedures which govern the initiatives of local actors
+.
+We will therefore initiate a bill to simplify local authorities. This will not be a restrictive text. It will be a text of freedom: fewer standards, fewer unnecessary procedures, more clear responsibilities. This approach extends the first measures already taken recently by decree, to reduce the standards and procedural constraints which slow down and hinder the projects for which your citizens elected you.
+At the same time, several legislative or regulatory texts will simplify economic and agricultural life, with a constant objective: to build trust rather than complicate projects.
+We will also go further to reform the organization of the local state. The role of the prefect will be strengthened to better coordinate the action of all state administrations - including agencies - in the department, but also to make the distribution of responsibilities and skills between the state and local authorities clearer. Here again, the objective is simple: decide faster, act more effectively, assume responsibilities.
+Beyond the texts that will be presented to Parliament, the Government will pursue priorities which should make it possible to obtain concrete and rapid results in the public services provided to our fellow citizens on a daily basis.
+In terms of
+health
+, the deployment of “France Santé” must allow access to care in less than 48 hours and close to every French person. The system must adapt to the difficulties of each municipality, the prefects are at your disposal to design with you the best response to provide in yours. A reform of the Regional Health Agencies will be announced in the coming days to strengthen their proximity on the ground
+
+.
+Regarding the
+housing
+, a recovery plan has been initiated (“Relance Logement”), with a massive construction and renovation objective to respond to the crisis experienced by many territories. A bill is currently being discussed which will allow the decentralization of housing policy to transfer more skills to you.
+Finally, in-depth work will continue with you to take a new step in the decentralization of skills: clarifying who decides, at what level, with what means. It is a condition of effectiveness and confidence. This work must allow our fellow citizens to know who decides, to know who to hold accountable. I remain convinced that power must be more “shared” in the country, and in clarity.
+*
+The method is constant: neither force, nor immobility. The Government will propose, Parliament will debate and vote, you will be involved.
+In the period that opens, I hope that the link between the State and mayors will be direct, demanding and useful. We need your experience and commitment to succeed.
+The Republic advances when it starts from the ground. This is the choice we make.
+Please accept, ladies and gentlemen mayors, the assurance of my consideration as well as my sincere congratulations.
+Sébastien Lecornu
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 8 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+Municipal 2026: the results of the second round
+News
+                                                    · Elections
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### Tribute to Lionel Jospin
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/hommage-a-lionel-jospin
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 286
+- **Unique ID:** `097e90b1f8268f35`
+
+#### Content:
+
+Tribute to Lionel Jospin
+Published yesterday at 9:53 p.m.
+Former Prime Minister, Lionel Jospin died on March 22, 2026.
+Illustrative image -
+Source: AFP
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Read the press release from the President of the Republic
+Read the biography of Lionel Jospin
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Government
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+The new composition of Sébastien Lecornu's Government
+News
+                                                    · Government
+What is a cabinet reshuffle?
+News
+                                                    · Government
+What to remember from the declaration of
+general policy of Sébastien Lecornu
+News
+                                                    · Government
+Composition of Sébastien Lecornu's government
+News
+                                                    · Government
+Also read
+Letter to the mayors of France
+News ·
+                         Elections
+Published yesterday
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+See all articles
+
+---
+
+### Decoding
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/decodage
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 212
+- **Unique ID:** `fdfa09806377d561`
+
+#### Content:
+
+Decoding
+Current topics decoded by an expert.
+Illustration of the Decoding format -
+Source: Government Information Service
+Depression in adolescents: “consulting is never serious”
+Published on January 19, 2026
+Suicide among young people: “suicidal ideas are a matter of care”
+Published on December 12, 2025
+Secularism: “the power of law is to iron out conflict”
+Published on December 9, 2025
+Mental health: why sleep plays a key role
+Published on December 8, 2025
+Young people: hyperconnected, but alone
+Published on December 2, 2025
+“Cannabis use increases the risk of disorders
+psychiatric »
+Published on June 26, 2025
+Eating disorders are
+complex, durable and multifaceted
+Published on June 2, 2025
+Quitting smoking improves mental health
+Published on June 2, 2025
+Down syndrome: research progress
+Published on March 21, 2025
+The questions you dare not ask about mental health
+Published on March 19, 2025
+Artificial intelligence for mental health
+Published on December 12, 2024
+Artificial intelligence within French justice
+Published on December 10, 2024
+What are gender-based and sexual violence?
+Published on November 25, 2024
+The challenges of AI at university
+Published on October 23, 2024
+How did France become a secular country?
+Published on October 17, 2024
+Mental health on social networks: what are the risks of self-diagnosis?
+Published on October 10, 2024
+
+---
+
+### Municipal 2026: the results of the first round
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-premier-tour
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 604
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 563
 - **Unique ID:** `8f6207c5d2d28b95`
 
 #### Content:
 
-Municipales 2026 : les résultats du premier tour
-Publié le 16 mars 2026
-, modifié le 19 mars 2026
-Le premier tour des élections municipales s’est déroulé le 15 mars 2026. Les résultats sont disponibles sur le site internet du ministère de l’Intérieur.
-Image d'illustration -
-Source : Adobe Stock
-Le premier tour des élections municipales et communautaires 2026 s’est déroulé dimanche 15 mars 2026. Les résultats sont disponibles sur le site internet du ministère de l’Intérieur.
-Accéder aux résultats
-Le taux de participation aux élections municipales s'est établi ce dimanche à 48,90 % à 17 heures pour la France Hexagonale. Il s’élevait à 19,37 % à midi le même jour.
-Pour bien préparer le second tour des élections :
-Je vérifie mon inscription sur les listes électorales
-Je trouve mon bureau de vote
-Je donne procuration
-Je pense à prendre mes papiers d'identité pour pouvoir voter
-Et pour mieux comprendre les élections et leurs enjeux, vous pouvez lire :
-Comment se passe un vote ?
-Élections : comment les votes sont-ils comptés ?
-Quel est le rôle du maire ?
-Commune, intercommunalité, métropole : qui fait quoi ?
-Lire aussi :
-5 informations que vous ignorez sur les élections
-Comment sont comptés les votes ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Pourquoi votez-vous aux municipales ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Élections : comment sont estimés les résultats ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Que pensez-vous des municipales ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Municipales : ce qui change à Paris, Lyon et Marseille
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Plus de vidéos sur d’autres thèmes
-Continuer
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Précédent
-Vidéo
-1 sur 6
-Suivant
+Municipal 2026: the results of the first round
+Published on March 16, 2026
+, modified yesterday at 4:44 p.m.
+The first round of the municipal elections took place on March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Illustrative image -
+Source: AdobeStock
+The first round of the 2026 municipal and community elections took place on Sunday March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Access the results
+The participation rate in the municipal elections stood at 48.90% this Sunday at 5 p.m. for mainland France. It stood at 19.37% at noon the same day.
+To properly prepare for the second round of elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+I am thinking of taking my identity papers so I can vote
+And to better understand the elections and their issues, you can read:
+How does a vote work?
+Elections: How are votes counted?
+What is the role of the mayor?
+Municipality, intermunicipality, metropolis: who does what?
+Read also:
+5 things you don't know about the elections
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
 Transcription
 Transcription
-Contrôles
-Fermer
-Pause
-Couper le son
-Vidéo précédente
-Vidéo suivante
-Retour -2s
-Avancer +2s
-Voir plus
-Copier le lien de la vidéo
-Lien copié
-Partager la page
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Citoyenneté
+Citizenship
 ›
-Élections
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 8 - 0
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
 Laurent Nunez
 Jean-Didier Berger
 Marie-Pierre Vedrenne
-Sur le même thème
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité
-                                                    · Élections
-Élections :  comment les votes sont-ils comptés ?
-Actualité
-                                                    · Élections
-Municipales 2026 : comment se passe un vote ?
-Actualité
-                                                    · Élections
-Comment établir une procuration de vote ?
-Actualité
-                                                    · Élections
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Élections :  comment les votes sont-ils comptés ?
-Actualité ·
-                         Élections
-Publié le 12 mars 2026
-Parcoursup 2026 : dernière ligne droite pour formuler ses vœux
-Actualité ·
-                         Enseignement supérieur
-Publié le 11 mars 2026
-Voir tous les articles
+On the same theme
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
 
 ---
 
-### Élections :  comment les votes sont-ils comptés ?
+### Tribute to Lionel Jospin
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/hommage-a-lionel-jospin
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 286
+- **Unique ID:** `097e90b1f8268f35`
+
+#### Content:
+
+Tribute to Lionel Jospin
+Published yesterday at 9:53 p.m.
+Former Prime Minister, Lionel Jospin died on March 22, 2026.
+Illustrative image -
+Source: AFP
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Read the press release from the President of the Republic
+Read the biography of Lionel Jospin
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Government
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+The new composition of Sébastien Lecornu's Government
+News
+                                                    · Government
+What is a cabinet reshuffle?
+News
+                                                    · Government
+What to remember from the declaration of
+general policy of Sébastien Lecornu
+News
+                                                    · Government
+Composition of Sébastien Lecornu's government
+News
+                                                    · Government
+Also read
+Letter to the mayors of France
+News ·
+                         Elections
+Published yesterday
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+See all articles
+
+---
+
+### Crossed perspectives
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/regards-croises
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 119
+- **Unique ID:** `1f7b4aeb86b84ec8`
+
+#### Content:
+
+Crossed perspectives
+Crossed points of view to better understand major social issues.
+Illustration of the "Crossed Perspectives" format -
+Source: Government Information Service
+Bipolar disorders, when speech becomes free
+Published on February 13, 2026
+Intergenerational cohabitation: an encounter that changes two lives
+Published on December 29, 2025
+Mental suffering of the elderly: better identification, better support, better prevention
+Published on December 23, 2025
+Mental health: human relationships are beneficial at all ages
+Published on December 19, 2025
+Cybersecurity
+and artificial intelligence: what place for women?
+Published on October 2, 2025
+Prevent, raise awareness and act against gender-based and sexual violence
+Published on December 6, 2024
+Crossed perspectives: the inclusion of abortion in the Constitution
+Published on February 23, 2024
+
+---
+
+### Carte blanche
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/carte-blanche
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 128
+- **Unique ID:** `966f45c401b4c922`
+
+#### Content:
+
+White card
+Personalities testify on topics that are in the news.
+Illustration of the "Carte blanche" format -
+Source: Government Information Service
+“Talking can save”: Bertrand Chameroy confides in his depression
+Published on December 10, 2025
+“I felt empty”: Camille Lacourt looks back on her depression
+Published on December 5, 2025
+Maïtena Biraben: “Consent is a question that arises for all of us. »
+Published on March 31, 2025
+Mental health: “don’t stay alone behind a screen”
+Published on January 6, 2025
+Sexist and sexual violence: “all violence is rooted in ordinary sexism”
+Published on November 25, 2024
+VSS: “If the other does not budge, we enter into aggression”
+Published on November 25, 2024
+Endometriosis: “I was told that I was just stressed”
+Published on March 28, 2024
+
+---
+
+### Municipal 2026: the results of the first round
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-premier-tour
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 563
+- **Unique ID:** `8f6207c5d2d28b95`
+
+#### Content:
+
+Municipal 2026: the results of the first round
+Published on March 16, 2026
+, modified yesterday at 4:44 p.m.
+The first round of the municipal elections took place on March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Illustrative image -
+Source: AdobeStock
+The first round of the 2026 municipal and community elections took place on Sunday March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Access the results
+The participation rate in the municipal elections stood at 48.90% this Sunday at 5 p.m. for mainland France. It stood at 19.37% at noon the same day.
+To properly prepare for the second round of elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+I am thinking of taking my identity papers so I can vote
+And to better understand the elections and their issues, you can read:
+How does a vote work?
+Elections: How are votes counted?
+What is the role of the mayor?
+Municipality, intermunicipality, metropolis: who does what?
+Read also:
+5 informations que vous ignorez sur les élections
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
+
+---
+
+### Elections: how are votes counted?
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/elections-comment-sont-comptes-les-votes
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 818
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 776
 - **Unique ID:** `a773d061470838af`
 
 #### Content:
 
-Élections :  comment les votes sont-ils comptés ?
-Publié le 12 mars 2026
-, modifié le 17 mars 2026
-VIDÉO. Chaque voix compte. Mais comment ? Du bureau de vote aux résultats officiels : décryptage du parcours d’un vote, à l’approche des élections municipales 2026.
-Image d'illustration -
-Source : Service d'information du Gouvernement
-Les élections municipales approchent.
-Les 15 et 22 mars 2026, les citoyens sont appelés aux urnes, à condition d’être inscrits sur les listes électorales.
-Comment s'organise
-ce rendez-vous majeur de la démocratie locale ?
-Concrètement, comment passe-t-on d’un bulletin glissé dans une urne au cours d’une élection à un résultat officiel annoncé quelques heures plus tard par le ministère de l’Intérieur ? Qui compte les voix ? Qui vérifie les résultats ? Comment évite-t-on les fraudes électorales ? Et pourquoi certains chiffres peuvent-ils évoluer au cours de la soirée électorale, voire le lendemain ?
-Depuis l’urne jusqu’à la consolidation nationale des résultats, le parcours d’un vote suit
-une procédure précise et transparente
-, encadrée par la loi pour éviter toute erreur ou toute tentative de fraude.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Gouvernement
-Comment on compte les votes ? (On vous dit tout...)
-Décryptage en vidéo du déroulé du scrutin
-, du rôle des assesseurs, des scrutateurs et des présidents de bureau, des coulisses du dépouillement et de la remontée des résultats.
+Elections: how are votes counted?
+Published on March 12, 2026
+, modified on March 17, 2026
+VIDEO. Every voice counts. But how? From the polling station to the official results: deciphering the route of a vote, as the 2026 municipal elections approach.
+Illustrative image -
+Source: Government Information Service
+Municipal elections are approaching.
+On March 15 and 22, 2026, citizens are called to the polls, provided they are registered on the electoral lists.
+How to organize
+this major meeting of local democracy?
+Concretely, how do we go from a ballot slipped into a ballot box during an election to an official result announced a few hours later by the Ministry of the Interior? Who counts the votes? Who verifies the results? How do we prevent electoral fraud? And why can certain figures change during election night, or even the next day?
+From the ballot box to the national consolidation of results, the journey of a vote follows
+a precise and transparent procedure
+, regulated by law to avoid any error or attempt at fraud.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+How are the votes counted? (We tell you everything...)
+Video decryption of the voting process
+, the role of assessors, tellers and office chairs, behind the scenes of the counting and reporting of results.
 Pour bien préparer les élections municipales :
-Je vérifie mon inscription sur les listes électorales
-Je trouve mon bureau de vote
-Je donne procuration
-Agrandir le visuel
-Visuel -
-Source : Ministère de l'Intérieur
-Fermer
-Visuel -
-Ministère de l'Intérieur
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+Enlarge the visual
+Visual -
+Source: Ministry of the Interior
+Close
+Visual -
+Ministry of the Interior
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Sur un visuel avec une urne, un logo Allons Voter ! et le rappel des dates des élections municipales les 15 et 22 mars 2026.
-Texte :
-Le saviez-vous ? Les urnes s'ouvrent avec deux clés, qui ne peuvent être détenues par la même personne.
-Lire aussi :
-5 informations que vous ignorez sur les élections
-Us et coutumes dans l'isoloir
-Faut-il obligatoirement prendre tous les bulletins sur la table ?
-Peut-on prendre une photo dans le bureau de vote ?
-Pourquoi dit-on « A voté » ?
-Y a-t-il un « code de conduite » implicite à respecter ?
-Entretien avec Vérène Gribonval, présidente de bureau de vote à Lyon, qui nous explique comment se passe un vote.
+On a visual with a ballot box, a Go Voter logo! and the reminder of the dates of the municipal elections on March 15 and 22, 2026.
+Text:
+Did you know? Ballot boxes are opened with two keys, which cannot be held by the same person.
+Read also:
+5 things you don't know about the elections
+Usages and customs in the voting booth
+Is it mandatory to take all the ballots on the table?
+Can we take a photo in the polling station?
+Why do we say “Voted”?
+Is there an implicit “code of conduct” to follow?
+Interview with Vérène Gribonval, president of the polling station in Lyon, who explains to us how a vote takes place.
 Lire l'article « Comment se passe un vote ? »
-Voir tous nos reportages vidéo
-Comment sont comptés les votes ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Pourquoi votez-vous aux municipales ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Élections : comment sont estimés les résultats ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Que pensez-vous des municipales ?
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Municipales : ce qui change à Paris, Lyon et Marseille
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Plus de vidéos sur d’autres thèmes
-Continuer
-Votre navigateur ne prend pas en charge
-                                                les vidéos.
-Lecture
-Lecture
-Pause
-Précédent
-Vidéo
-1 sur 6
-Suivant
+See all our video reports
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
 Transcription
 Transcription
-Contrôles
-Fermer
-Pause
-Couper le son
-Vidéo précédente
-Vidéo suivante
-Retour -2s
-Avancer +2s
-Voir plus
-Copier le lien de la vidéo
-Lien copié
-Partager la page
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Citoyenneté
+Citizenship
 ›
-Élections
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 8 - 7
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 7
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+
+improving the site!
+In this news
 Laurent Nunez
 Jean-Didier Berger
 Marie-Pierre Vedrenne
-Sur le même thème
-Municipales 2026 : les résultats du premier tour
-Actualité
-                                                    · Élections
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité
-                                                    · Élections
-Municipales 2026 : comment se passe un vote ?
-Actualité
-                                                    · Élections
-Comment établir une procuration de vote ?
-Actualité
-                                                    · Élections
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Parcoursup 2026 : dernière ligne droite pour formuler ses vœux
-Actualité ·
-                         Enseignement supérieur
-Publié le 11 mars 2026
-Voir tous les articles
+On the same theme
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
 
 ---
 
-### Municipales 2026 : comment se passe un vote ?
+### Instructions for use
 
 - **Source:** Gouvernement.fr
-- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-comment-se-passe-un-vote
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/mode-demploi
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1881
-- **Unique ID:** `3175a4c95f686764`
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 244
+- **Unique ID:** `5945e3fa5cf374ae`
 
 #### Content:
 
-Municipales 2026 : comment se passe un vote ?
-Publié le 5 mars 2026
-, modifié le 17 mars 2026
-ENTRETIEN. Le jour de l’élection, le bureau de vote obéit à des règles précises destinées à garantir le secret du vote et la sincérité du scrutin. Vérène Gribonval, présidente de bureau de vote à Lyon, nous fait entrer dans les coulisses de cette journée démocratique.
-Image d'illustration -
-Source : Adobe Stock
-À chaque élection municipale, des millions de citoyens se rendent aux urnes pour choisir leurs représentants locaux. Mais que se passe-t-il concrètement le jour du vote dans un bureau de vote ? Derrière ce moment clé de la vie démocratique se cache une organisation très encadrée, destinée à garantir le secret du vote et la sincérité du scrutin. Vérène Gribonval, présidente de bureau de vote à Lyon, nous explique les coulisses de cette journée électorale.
-Vérène Gribonval
-Présidente de bureau de vote à Lyon
-Que trouve-t-on en entrant dans un bureau de vote ?
-Déjà, il faut s’assurer que l’on est entré dans
-le bon bureau
-. Il arrive fréquemment que plusieurs bureaux de votes soient à la même adresse. Donc, on consulte sa carte électorale pour être sûr que l’on est dans le bon bureau.
-On verra en entrant des tables avec des enveloppes et des bulletins de vote, des isoloirs qui sont comme des petits boxes avec des petits rideaux, une autre table sur laquelle est posée l’urne et une dernière table avec le registre pour les émargements et les procurations.
-Ensuite, il y aura quelques personnes qui sont là pour nous accompagner dans la formalité de vote : des citoyens volontaires, des employés municipaux, parfois du personnel de sécurité pour vous aider à entrer dans les lieux, accéder aux ascenseurs… Enfin, on trouvera sur les murs un certains nombres d’affichages pour rappeler quelques éléments utiles pour le bon déroulement des élections.
-Pour bien préparer les élections municipales :
-Je vérifie mon inscription sur les listes électorales
-Je trouve mon bureau de vote
-Je donne procuration
-Qui sont les personnes présentes (président, assesseurs, scrutateurs) et quel est leur rôle ?
-Le bureau de vote est un lieu vivant toute la journée du vote. Au-delà des personnes mandatées pour l’accueil dans le bâtiment, ou aider à l’orientation, on y trouve des personnes qui vont s’assurer du bon déroulement du scrutin.
-Le président du bureau de vote
-a la responsabilité de toutes les opérations qui vont se dérouler dans le bureau de vote, de l’installation le matin tôt au dépouillement après la clôture du bureau de vote. Il s’appuie sur ses assesseurs pour garantir la bonne tenue du bureau de vote.
-Les assesseurs
-sont des personnes clés : pendant la journée, elles surveillent l’urne, la liste d’émargement et contrôlent les justificatifs d’identités. Les assesseurs peuvent se relayer pendant la journée mais l’urne est toujours surveillée par au moins deux personnes.
-Le secrétaire
-rédige le procès-verbal pour décrire en détail comment tout s’est passé : le décompte des enveloppes, des bulletins, des anomalies éventuelles...
-Les scrutateurs
-interviennent une fois que le vote est fini : ils ont pour mission de dépouiller le vote, c’est-à-dire d’ouvrir les enveloppes et de compter les voix recueillies par chaque liste de candidats. Ils vont aussi compter les bulletins nuls ou les bulletins blancs.
-Est-ce qu’il existe un « code de conduite » implicite à respecter ?
-Le bureau de vote est
-un lieu de neutralité
-. Ce n’est plus le moment de faire campagne. La tenue vestimentaire est libre. Toutefois, il faut que la tenue portée permette de voir le visage de l’électeur. Même s’il y a un grand soleil, il faudra lâcher les lunettes de soleil ou la caquette à grande visière quelques secondes.
-FAQ sur les élections municipales 2026
-Dates, inscription sur les listes électorales, mode de scrutin, spécificités pour Paris–Lyon–Marseille, rôle du maire, procuration : toutes les réponses à vos questions sur les municipales...
-Actualité · Élections
-Publié le
-                                    04/02/2026
-Faut-il obligatoirement prendre tous les bulletins sur la table ?
-Deux cas de figure : si l’électeur a déjà son bulletin de vote, il peut se contenter de prendre uniquement l’enveloppe. En revanche, s’il souhaite utiliser un bulletin mis à disposition sur place, alors il doit prendre les bulletins d’au moins deux listes. C’est très important, car c’est cela qui
-permet de garantir le secret du vote
-. Personne ne saura quel bulletin a été choisi ou si un bulletin a été placé dans l’enveloppe.
-Peut-on venir avec son propre bulletin déjà imprimé ?
-Oui, c'est possible. Mais attention, il faut que ce soit bien le modèle qui a été
-mis à disposition par les candidats
-. Ça ne peut pas non plus être des noms écrits à la main sur une feuille blanche.
-Pourquoi le passage par l’isoloir est-il obligatoire ?
-L’isoloir est le lieu où l’on choisit comment on va remplir l’enveloppe électorale. Cela se fait à l’abri des regards, pour que le vote reste bien secret. Il y a même souvent une poubelle à proximité immédiate pour se débarrasser des bulletins de vote inutiles.
-Agrandir le visuel
-Visuel -
-Source : Ministère de l'Intérieur
-Fermer
-Visuel -
-Ministère de l'Intérieur
-Transcription
-Agrandir
-Fermer
-Transcription
-Un visuel avec un isoloir.
-Est écrit :
-Elections municipales 15 et 22 mars 2026
-Logo Allons Voter !
-Le saviez-vous ? Le passage dans l'isoloir est obligatoire, même si un seul candidat est déclaré.
-Peut-on entrer à deux dans l’isoloir (parent/enfant, personne âgée/accompagnant) ?
-En principe l’électeur entre seul dans l’isoloir. Toutefois,
-il est prévu des exceptions pour faciliter le vote
-. Par exemple, si une personne a besoin de se faire assister physiquement, alors elle peut se faire accompagner par la personne de son choix. Cette personne peut alors entrer dans l’isoloir et préparer l’enveloppe.
-Concernant les enfants, l’usage est de tolérer qu’ils accompagnent leur parent s’ils sont jeunes, tant que cela ne perturbe pas le bon déroulement du vote et ne trahit pas le secret du vote.
-Combien de temps peut-on rester dans l’isoloir ?
-C’est à chacun de décider ! Il n’y a pas de règle. Mais c’est vrai que les enveloppes sont petites et que faire rentrer le bulletin dans cette petite enveloppe nécessite parfois de multiples pliages.
-Peut-on prendre une photo dans le bureau de vote ?
-Oui et non. C’est très encadré car
-il ne faut pas que la photo trahisse le secret du scrutin
-. Donc pas de photo dans l’isoloir par exemple. Par contre, en tant que présidente, j’autorise le jeune électeur qui est fier de voter pour la première fois à se faire prendre en photo lorsqu’il dépose son bulletin dans l’urne. C’est une fierté de citoyen qu’il ne faut pas gâcher. Mais je veille à ce qu’on ne voit pas sur la photo l’intérieur de l’urne ou bien d’autres électeurs.
-Que se passe-t-il si on se trompe de bulletin ?
-Il n’est pas possible de changer quoi que ce soit.
-Une fois que le bulletin est dans l’urne les choses sont définitives
-. C’est pour cela que certains électeurs préfèrent préparer leur vote à la maison en apportant le bulletin qu’ils ont reçu par courrier.
-Pourquoi dit-on « A voté » ?
-C’est vrai que cela a un côté un peu étonnant ce « a voté » qui retentit continuellement dans le bureau de vote. Ce n’est pas qu’une tradition, c’est bien précisé dans le code électoral : au moment où l’électeur introduit son bulletin dans l’urne,
-le président constate publiquement le vote et prononce cette petite formule
-. Ainsi, l’assesseur qui tient le registre électoral saura qu’il peut faire signer l’électeur immédiatement après.
-Que vérifie l’assesseur au moment de déposer l’enveloppe ?
-L’assesseur n’a pas le droit de toucher l’enveloppe qui contient le bulletin. C’est l’électeur qui agit ! En revanche, juste avant que l’enveloppe soit déposée dans l’urne, l’assesseur vérifie que l’électeur est bien inscrit sur les listes de ce bureau de vote, contrôle son identité et vérifie qu’il n’a pas déjà voté.
-Que se passe-t-il une fois le bureau fermé ?
-On va procéder au dépouillement. Cela se fait en plusieurs étapes. On prépare d’abord des tables pour faire des petites équipes de dépouillement. Ensuite, on ouvre l’urne. Et on compte les enveloppes et tout ce qu’on pourrait trouver dans l’urne. On compte aussi le nombre de signatures sur le registre des émargements. Et enfin, des volontaires placés autour des tables ouvrent une à une les enveloppes en notant ce qu’elles contenaient. Souvent, ce sont des électeurs qui sont passés pendant la journée et que l’on a sollicité pour donner un peu de leur temps en fin de journée pour cette étape qui est indispensable.
-Agrandir le visuel
-Visuel -
-Source : Ministère de l'Intérieur
-Fermer
-Visuel -
-Ministère de l'Intérieur
-Transcription
-Agrandir
-Fermer
-Transcription
-Un visuel avec un isoloir.
-Est écrit : 
-Elections municipales 15 et 22 mars 2026
-Logo Allons Voter !
-Le dépouillement des votes est une séance publique (vous pouvez demander à y participer).
-Certaines enveloppes spécifiques sont mises de côté pour pouvoir être contrôlées si nécessaires, par exemple si elles contiennent un bulletin blanc ou nul. Ensuite, tout est consigné sur un procès-verbal, le décompte des voix pour chaque liste ou chaque candidat. Dernière étape : le président du bureau de vote donne à la mairie le procès-verbal de son bureau de vote et le matériel de vote qui a été conservé.
-Lire aussi, sur le site du ministère de l'Intérieur :
-5 informations que vous ignorez sur les élections
-Élections :  comment les votes sont-ils comptés ?
-VIDÉO. Chaque voix compte. Mais comment ? Du bureau de vote aux résultats officiels : décryptage du parcours d’un vote, à l’approche des élections municipales 2026.
-Actualité · Élections
-Publié le
-                                    12/03/2026
-Partager la page
-Facebook
-Twitter
-LinkedIn
-Envoyer
-Copier le lien
-Actualité
-·
-Citoyenneté
-›
-Élections
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 2 + 2
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
-Laurent Nunez
-Jean-Didier Berger
-Marie-Pierre Vedrenne
-Sur le même thème
-Municipales 2026 : les résultats du premier tour
-Actualité
-                                                    · Élections
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité
-                                                    · Élections
-Élections :  comment les votes sont-ils comptés ?
-Actualité
-                                                    · Élections
-Comment établir une procuration de vote ?
-Actualité
-                                                    · Élections
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Élections :  comment les votes sont-ils comptés ?
-Actualité ·
-                         Élections
-Publié le 12 mars 2026
-Voir tous les articles
+Instructions for use
+An expert answers your everyday questions concretely.
+Illustration of the "Instructions for use" format -
+Source: Government Information Service
+Elderly people: the silent scourge of social isolation, how to escape from it?
+Published on January 23, 2026
+Mental health: “peer assistance saved my life”
+Published on January 12, 2026
+“Consent education is the logic of living together”
+Published on December 10, 2025
+First aid for mental health: to learn the right reflexes
+Published on November 28, 2025
+Professional burnout: what you need to know to protect yourself
+Published on November 19, 2025
+Penalties incurred in the event of trafficking, use and transport of drugs
+Published on November 6, 2025
+How to find training in a profession of the future?
+Published on November 6, 2025
+Resilience:
+how to prepare for crises?
+Published on August 12, 2025
+Mental health: “We must not trivialize what is an illness”
+Published on July 3, 2025
+Women's mental health: resources for action at all ages of life
+Published on May 28, 2025
+Europe, instructions for use: how do its institutions work?
+Published on May 9, 2025
+Temporary sadness or depression?
+Published on April 30, 2025
+How do you track your health as a man?
+Published on April 7, 2025
+Mental health among young people: how to support and help them?
+Published on February 19, 2025
+Generative AI: how to use them well?
+Published on February 7, 2025
+How to support psychological suffering?
+Published on January 8, 2025
 
 ---
 
-### Toutes les vidéos courtes d’info.gouv
+### Elections: how are votes counted?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/elections-comment-sont-comptes-les-votes
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 775
+- **Unique ID:** `a773d061470838af`
+
+#### Content:
+
+Elections: how are votes counted?
+Published on March 12, 2026
+, modified on March 17, 2026
+VIDEO. Every voice counts. But how? From the polling station to the official results: deciphering the route of a vote, as the 2026 municipal elections approach.
+Illustrative image -
+Source: Government Information Service
+Municipal elections are approaching.
+On March 15 and 22, 2026, citizens are called to the polls, provided they are registered on the electoral lists.
+How to organize
+this major meeting of local democracy?
+Concretely, how do we go from a ballot slipped into a ballot box during an election to an official result announced a few hours later by the Ministry of the Interior? Who counts the votes? Who verifies the results? How do we prevent electoral fraud? And why can certain figures change during election night, or even the next day?
+From the ballot box to the national consolidation of results, the journey of a vote follows
+a precise and transparent procedure
+, regulated by law to avoid any error or attempt at fraud.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+How are the votes counted? (We tell you everything...)
+Video decryption of the voting process
+, the role of assessors, tellers and office chairs, behind the scenes of the counting and reporting of results.
+To properly prepare for the municipal elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+Enlarge the visual
+Visual -
+Source: Ministry of the Interior
+Close
+Visual -
+Ministry of the Interior
+Transcription
+Enlarge
+Close
+Transcription
+On a visual with a ballot box, a Go Voter logo! and the reminder of the dates of the municipal elections on March 15 and 22, 2026.
+Text:
+Did you know? Ballot boxes are opened with two keys, which cannot be held by the same person.
+Read also:
+5 things you don't know about the elections
+Usages and customs in the voting booth
+Is it mandatory to take all the ballots on the table?
+Can we take a photo in the polling station?
+Why do we say “Voted”?
+Is there an implicit “code of conduct” to follow?
+Interview with Vérène Gribonval, president of the polling station in Lyon, who explains to us how a vote takes place.
+Read the article “How does a vote happen? »
+See all our video reports
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 7
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+
+improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
+
+---
+
+### All short videos from info.gouv
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/videos
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 462
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 369
 - **Unique ID:** `90774869de6e24b1`
 
 #### Content:
 
-Toutes les vidéos courtes d’info.gouv
-Trier par
-Sélectionner une option
-Du plus récent au plus ancien
-Du plus ancien au plus récent
-5 conseils pour mieux dormir
+All short videos from info.gouv
+Sort by
+Select an option
+From newest to oldest
+From oldest to newest
+5 tips to sleep better
+Your browser does not support videos.
+Reading
+Reading
+Break
+How are the votes counted?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fighter pilot
+Your browser does not support videos.
+Reading
+Reading
+Break
+“I am old but I am beautiful”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #2
 Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Comment sont comptés les votes ?
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Pourquoi votez-vous aux municipales ?
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Élections : comment sont estimés les résultats ?
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Que pensez-vous des municipales ?
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Pilote de chasse
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-« Je suis vieille mais je suis belle »
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Municipales : ce qui change à Paris, Lyon et Marseille
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Cadreuse militaire #2
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Cadreuse militaire #1
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Julie Pietri face au cancer de l’endomètre
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Protection des données
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Lutter contre le sexisme
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Les bienfaits de la lecture
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-La santé mentale dans « Mommy »
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-La santé mentale dans le football
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Les bons réflexes face au froid
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Ce qui change en janvier 2026
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Dermatose nodulaire : l'avis vétérinaire
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-La santé mentale en 2000
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-La dermatose nodulaire contagieuse
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-Le consentement
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-La santé mentale en 2000
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
-La laïcité au quotidien
-Votre navigateur ne prend pas en charge les vidéos.
-Lecture
-Lecture
-Pause
+Reading
+Reading
+Break
+Military camera operator #1
+Your browser does not support videos.
+Reading
+Reading
+Break
+Julie Pietri facing endometrial cancer
+Your browser does not support videos.
+Reading
+Reading
+Break
+Data protection
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fight against sexism
+Your browser does not support videos.
+Reading
+Reading
+Break
+The benefits of reading
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in “Mommy”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in football
+Your browser does not support videos.
+Reading
+Reading
+Break
+Good reflexes when facing the cold
+Your browser does not support videos.
+Reading
+Reading
+Break
+What changes in January 2026
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy dermatosis: veterinary advice
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy skin disease
+Your browser does not support videos.
+Reading
+Reading
+Break
+Consent
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Everyday secularism
+Your browser does not support videos.
+Reading
+Reading
+Break
 Transcription
 Transcription
-Contrôles
-Fermer
-Pause
-Couper le son
-Vidéo précédente
-Vidéo suivante
-Retour -2s
-Avancer +2s
-Voir plus
-Copier le lien de la vidéo
-Lien copié
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
 
 ---
 
-### Situation au Moyen-Orient : les consignes de sécurité aux ressortissants français
+### Acute respiratory infections
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/risques/infections-respiratoires-aigues
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1415
+- **Unique ID:** `907c91712653e18d`
+
+#### Content:
+
+Acute respiratory infections
+Published on May 12, 2023
+, modified on November 7, 2025
+Illustration - Acute respiratory infections -
+Source: GIS
+Recognize the symptoms of acute respiratory infections and adopt the right actions: wearing a mask, washing your hands, isolation and vaccination.
+Epidemics of infectious diseases, whether the agent in question has been known for a long time, is emerging or re-emerging, represent a threat to populations and are likely to cause disorganization of the health system, or even significant disruptions to social and economic life.
+Simple individual and collective hygiene measures can help limit the risk of transmission of these diseases.
+What is it about?
+Covid-19, influenza and bronchiolitis are contagious acute respiratory infections of viral origin. Influenza and bronchiolitis are seasonal winter infections; Covid-19 has evolved in several waves over the year since its emergence.
+These epidemic waves, especially when they combine, can affect several million people (several tens of millions of cases of Covid-19 since the start of the pandemic, 2 to 6 million cases of influenza annually in France). Bronchiolitis affects 30% of infants under 2 years of age each year, with significant recourse to the healthcare system during epidemic peaks.
+These pathologies have similar modes of transmission: they are easily transmitted from person to person through respiratory secretions and/or aerosols, when sneezing or coughing. Confined, poorly ventilated and busy places (public transport, communities, performance halls, etc.) are conducive to the transmission of these viruses.
+Acute respiratory infections (ARI) on the Health Insurance website
+What are the symptoms?
+Covid-19 and the flu share similar symptoms, namely cough, runny nose, sore throat, fever, headache and fatigue. People infected with either virus can have varying degrees of illness - some people have no symptoms, mild symptoms, or severe disease.
+Here are the common symptoms of Covid-19, bronchiolitis and the flu:
+Fever.
+Cough.
+Fatigue.
+Headaches.
+Muscle or body pain.
+Nasal congestion or runny nose.
+Sore throat.
+As for loss of taste and smell, these are specific symptoms of Covid-19.
+Answers to your questions about Covid-19
+How to protect yourself?
+Certain simple hygiene measures can help limit the risk of transmission of these diseases. It is imperative to apply them during periods of epidemic circulation to protect yourself and others.
+If the entire population is susceptible to contracting the disease, certain people are more at risk of developing a serious form (elderly people, infants, chronically ill and fragile or immunocompromised people).
+They, as well as their loved ones, are recommended to respect with particular vigilance all the barrier measures and recommendations mentioned below.
+Wearing a mask
+Wearing a mask aims to ensure
+individual protection
+of each person to avoid being contaminated and developing a serious form, but also a
+collective protection
+, to reduce the risks of spreading viruses within the population and contaminating people at risk of developing serious forms of respiratory infections.
+Enlarge the visual
+Infographic wearing a mask -
+Source: sante.gouv.fr
+Close
+Infographic wearing a mask -
+sante.gouv.fr
+Transcription
+Enlarge
+Close
+Transcription
+The mask is
+particularly recommended
+for
+all people from 6 years old in the following cases
+:
+For people with a positive diagnosis of Covid-19 or another respiratory pathology, even in the absence of symptoms, throughout their contagious period.
+For people with symptoms, in the absence or awaiting diagnosis.
+For people who have had contact with a person suffering from Covid-19 or other respiratory pathology.
+For everyone, during periods of virus circulation, in enclosed and poorly ventilated places (in transport in particular) particularly in situations of high crowding.
+For the elderly, immunocompromised, chronically ill and frail, as well as for the
+
+our caregivers and the people who interact with them.
+NB: Masks may be required for people aged at least 6 years old in certain healthcare settings.
+Download the infographic
+Wearing a mask
+PDF - 305.75 KB
+Universal hygiene rules
+Hand hygiene
+regular washing with soap and water for 30 seconds is an effective hygiene measure to prevent the transmission of all viruses. In the absence of water and soap, the same actions should be carried out by rubbing with hydroalcoholic gel as often as possible.
+It is recommended to avoid touching your face, particularly your nose, mouth and eyes, to systematically cover your nose and mouth when coughing or sneezing into your elbow, and to use single-use tissues.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Protecting my baby from the risks of winter
+Vaccination
+The
+Vaccinations against Covid-19 and against influenza remain essential in the prevention of contamination, transmission and serious forms of the disease.
+Vaccination against Covid-19
+It is strongly recommended that people most at risk of severe disease receive an annual dose of vaccine against Covid-19, in particular:
+people aged 65 and over;
+people with comorbidities with a higher risk of a severe form of the disease (complicated arterial hypertension, heart, vascular, hepatic, kidney, pulmonary problems, diabetes, obesity, cancers, transplant recipients, people with Down syndrome or psychiatric disorders or dementia);
+immunocompromised people;
+pregnant women, regardless of their trimester of pregnancy;
+residents in accommodation establishments for dependent elderly people (EHPAD) and long-term care units (USLD);
+people at very high risk of serious illness according to each individual medical situation and as part of a decision shared with the healthcare teams;
+people living in close proximity to or in regular contact with immunocompromised or vulnerable people, including professionals in the health and medico-social sectors.
+The annual dose is no longer recommended for people not targeted by the recommendations described above. However, if a person is not in the target and wishes to receive a vaccination, they will be able to benefit from it free of charge.
+In addition, people wishing to be vaccinated with the Sanofi vaccine, authorized only as a booster, must have previously been vaccinated for the first time or infected with Covid-19.
+Flu vaccination
+Flu vaccination is recommended for people at risk of severe influenza. These are:
+People aged 65 and over.
+People under 65 suffering from certain chronic illnesses (list of eligible people in
+vaccination schedule
+).
+Pregnant women.
+People suffering from obesity (
+body mass index (BMI)
+greater than or equal to 40).
+The vaccination strategy also aims to ensure indirect protection by vaccinating:
+Health professionals and professionals from medical social establishments in contact with patients at risk because they can contribute to spreading the infection.
+Those close to infants under 6 months of age at risk of serious complications from influenza and those close to those who are immunocompromised.
+Home help for private employers at risk of serious influenza.
+Useful links on vaccination:
+Covid-19: vaccination against Covid-19 - Ministry of Health and Prevention
+Covid-19: vaccination-info-service: Covid-19 | Vaccination Info Service
+Seasonal flu: vaccination against seasonal flu
+Seasonal flu: Flu | Vaccination Info Service
+What to do if you have symptoms?
+From the first symptoms
+suggestive of Covid-19, flu or bronchiolitis (in adults and children), it is
+strongly recommended to apply the following measures:
+Limit contact with other people and in particular people who are fragile or at risk of developing a serious form (infants, pregnant women, elderly people or people with certain chronic diseases or suffering from obesity).
+If your state allows it and it is possible for you, favor teleworking.
+Get tested for Covid-19 and/or consult your doctor to clarify the diagnosis
+
+diagnosis.
+Wear a suitable mask.
+Cover the nose and mouth with a single-use tissue when coughing, sneezing, discharge, blowing your nose.
+Contain respiratory secretions in a tissue.
+Discard tissues immediately after use.
+If you don't have a tissue, cough or sneeze into your elbows rather than your hands.
+Wash hands after contact with respiratory secretions or contaminated objects.
+Do not touch mucous membranes (eyes, nose) with contaminated hands.
+In the event of a proven diagnosis of Covid-19, flu or bronchiolitis, inform people who could have been contaminated while the person was contagious.
+Contaminated people are invited to greatly reduce or even avoid close contact with other people, particularly vulnerable people, and to respect all of the above measures.
+Ministry of Health and Prevention – Covid-19 file
+Public Health France
+–
+Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+All the information and advice for properly applying barrier gestures
+Useful links
+Ministry of Health and Prevention – Covid-19 file
+Public Health France – Bronchiolitis file
+Public Health France - Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+
+---
+
+### All short videos from info.gouv
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/videos
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 366
+- **Unique ID:** `90774869de6e24b1`
+
+#### Content:
+
+All short videos from info.gouv
+Sort by
+Select an option
+From newest to oldest
+From oldest to newest
+5 tips to sleep better
+Your browser does not support videos.
+Reading
+Reading
+Break
+How are the votes counted?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fighter pilot
+Your browser does not support videos.
+Reading
+Reading
+Break
+“I am old but I am beautiful”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #2
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #1
+Your browser does not support videos.
+Reading
+Reading
+Break
+Julie Pietri facing endometrial cancer
+Your browser does not support videos.
+Reading
+Reading
+Break
+Data protection
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fight against sexism
+Your browser does not support videos.
+Reading
+Reading
+Break
+The benefits of reading
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in “Mommy”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in football
+Your browser does not support videos.
+Reading
+Reading
+Break
+Good reflexes when facing the cold
+Your browser does not support videos.
+Reading
+Reading
+Break
+What changes in January 2026
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy dermatosis: veterinary advice
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy skin disease
+Your browser does not support videos.
+Reading
+Reading
+Break
+Consent
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Everyday secularism
+Your browser does not support videos.
+Reading
+Reading
+Break
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+
+---
+
+### Prepare for an emergency
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/risques/se-preparer-a-une-situation-durgence
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2381
+- **Unique ID:** `d90c77936fbc747e`
+
+#### Content:
+
+Prepare for an emergency
+Published on May 12, 2023
+, modified on January 23, 2026
+Illustration of emergency bag preparation -
+Source: GIS
+Learn how to deal with major risks: complete guide to prepare yourself, protect your loved ones, put together a kit and adopt the right reflexes.
+What to remember
+Preparing for an emergency situation means, above all, identifying the risks that threaten me and therefore planning alternative scenarios.
+After an inventory of these risks, it is necessary to study them and assess their potential seriousness before deciding on preventive actions to put in place (emergency kit).
+Ultimately, it means taking the necessary precautions to be able to best manage a crisis situation.
+Why prepare for an emergency?
+Preparing for an emergency situation is above all
+identify risks
+who threaten me and therefore
+predict
+alternative scenarios.
+After an inventory of these risks, it is necessary to study them and
+evaluate
+their potential seriousness before deciding on the preventive actions to be implemented.  It is finally
+take the necessary precautions
+to be able to best manage a crisis situation.
+This section aims to inform citizens about
+attitudes to adopt before, during, and after an emergency situation
+.
+Before an emergency
+The “All responsible” guide
+I consult
+the “All Responsible” guide
+to inform me about useful tools to deal with a major crisis, whatever the origin: flood, fire, cyberattack, etc.
+Enlarge the visual
+The “All responsible” guide -
+Source: GIS
+Close
+The “All responsible” guide -
+GIS
+Transcription
+Enlarge
+Close
+Transcription
+Everyone is responsible for the risks, let's act.
+Prepare to face: you and your loved ones may have to face a situation in which the ordinary functioning of society would be disrupted (flood, storm, cyber attack, etc.).
+Put together an emergency kit.
+Follow three priorities: eat and drink, stay warm and take care of yourself.
+Communicate with your loved ones and build a community of mutual aid and solidarity.
+Train yourself in first aid and learn how to provide emergency care.
+Well protected
+Find out about the risks and threats and the behaviors to adopt to deal with them.
+Be prepared to face natural, health, technological and industrial risks.
+Be prepared to face the threats of cyberattack, terrorism, and in connection with a major commitment of our armed forces outside the national territory.
+Resist rumors and misinformation.
+Recognize and listen to warning signs.
+Learn the emergency numbers.
+All engage
+Get involved by joining the reserves and volunteering schemes:
+as a reservist or volunteer;
+in the service of an approved civil security association;
+serving the armed forces and internal security.
+Our society must adapt to be stronger: find out how to prepare to face a risk, whatever its origin on
+info.gouv.fr/risks
+.
+Download the infographic
+Infographic presenting the chapters of the guide
+PNG - 579.11 KB
+Consult the “All responsible” guide
+“All responsible” guide (accessible PDF)
+PDF - 13.63 MB
+Consult the “All responsible” guide in the Easy to read and understand (FALC) version
+“All responsible” guide (FALC)
+PDF - 867 KB
+Download the “All responsible” guide for printing
+“All responsible” guide for printing (plates)
+PDF - 12.1 MB
+Download the A4 poster for printing
+A4 poster to invite you to download the guide
+PDF - 6.1 MB
+I am looking for information on the risks in my region
+I find my prefecture
+I find my town hall
+I design my personal emergency plan by identifying
+Gathering places and numbers to know (emergency, family, etc.).
+Vulnerable people to help.
+The reflexes to secure my home (turn off the water, electricity, gas, etc.).
+I prepare my necessary emergency equipment in the event of an evacuation (emergency kit)
+Place your kit somewhere easy to access! Twice a year, check the contents of your kit (expiration date of medicines and food) and replace the batteries.
+Enlarge the visual
+Emergency kit -
+Source: GIS
+Close
+Emergency kit -
+GIS
+Transcription
+Enlarge
+Close
+Transcription
+Infographic showing a bag with all the
+
+items to prepare in your 72-hour emergency kit.
+Electricity, gas and running water cuts, impassable roads… when a major disaster strikes, the first 72 hours are often the most trying. This kit prepared in advance will allow you to stay at home more peacefully while waiting for help. It will also be very useful to you in the event of a hasty departure.
+Here are the things to put in this kit:
+a battery-powered radio (with spare batteries) to follow instructions from the authorities
+medicines
+a first aid kit (alcohol, bandages, compresses, etc.)
+basic tools (multi-function knife, can opener, etc.)
+non-perishable food that does not require cooking (canned goods, small baby food jars, food for
+animals…)
+warm clothes and a survival blanket
+a flashlight (with spare batteries), candles, lighter or matches
+a cell phone charger
+his glasses (backup pair)
+cash (ATMs may not work)
+plenty of drinking water (6 liters per person in bottles)
+photocopies of essential documents in a waterproof pouch (ID card, prescriptions, etc.)
+double house and car keys
+games to occupy the time.
+A box reminds you to: place the bag in an easily accessible place and check the contents of your kit once a year, in particular the expiry date of medicines and food. Also replace the batteries.
+Finally, if used, don't forget to restock your kit!
+View the emergency kit infographic
+Emergency equipment needed in the event of an evacuation.
+PDF - 335.33 KB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: TutosRisques: Security kit
+During an emergency
+The first 72 hours: a decisive period
+My most effective action is to remain constantly informed of the relief actions taken by the public authorities and to strictly respect the instructions communicated, particularly if it is necessary to evacuate my home or the disaster area.
+I constantly listen to the radio or television (France TV group channels)
+, and more particularly my local public service radio (network
+here
+, formerly France Bleu)
+.
+I listen to messages via megaphone
+wherever they come from (land, sea or air vehicle).
+I am vigilant for messages transmitted by sirens
+which may invite evacuation.
+I stay where I am
+until safety is assured or I am ordered to evacuate the premises.
+I keep my emergency kit close to me.
+I calmly weigh the advantages and disadvantages
+, in case I have to consider evacuating my home alone.
+In case of evacuation
+The evacuation order is given by the authorities only when they have reason to believe that I am in danger
+.
+I remain where I am until I am given the order to evacuate the premises or until security is assured.
+If I receive an order to evacuate the premises,
+I take my emergency kit
+,
+medications
+what I need,
+my prescriptions
+,
+identity papers
+of each member of my family,
+copies of essential papers
+of my family and a cell phone.
+I lock the doors
+from my home and
+I use the emergency routes
+recommended by the authorities or I follow the evacuation routes that I have previously identified.
+Enlarge the visual
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Source: Ministry of the Interior/J.ROCHA
+Close
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Ministry of the Interior/J.ROCHA
+In case of confinement
+If local officials advise me to shelter in place, I must stay inside my home or workplace and protect myself there.
+To protect myself as best as possible:
+I close
+and locks all
+windows and doors
+overlooking the exterior;
+I turn off
+all
+fans
+, systems
+heating
+and of
+air conditioning
+air;
+J
+I go to a room above ground level
+, if possible without windows;
+I use duct tape to caulk
+the slots in the doors and possibly in the windows;
+I keep myself informed regularly through the media
+(radio, television, internet) until the announcement of the return
+
+ur to a normal situation or to the evacuation order.
+After an emergency
+Who to contact?
+It is necessary
+to be aware of the damage caused
+(at the human and material levels) and
+to be aware of the dangers
+again
+existing
+following material damage.
+In the event of an evacuation, I will not return to my
+home only when the public authorities give me permission.
+I call the emergency services or a professional to restart the electricity or gas.
+I get help from my doctor
+to face the
+emotional and psychological consequences
+which may occur. This is especially true for children. Talk about your experience
+helps him understand and better understand the situation
+.
+Enlarge the visual
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Source: Ministry of the Interior/D.MENDIBOURE
+Close
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Ministry of the Interior/D.MENDIBOURE
+Know the emergency numbers
+What are the emergency numbers?
+A
+better informed citizen
+, it is a
+relief aid
+to intervene in
+best conditions and as quickly as possible
+.
+15
+Samu
+17
+Police
+18
+Firefighters
+GIS
+And other very important numbers like:
+- The
+112
+, European emergency number
+- The
+114
+for deaf and hard of hearing people
+- The
+196
+for emergencies at sea
+- The
+191
+for aeronautical emergencies
+What to say on the phone with the emergency services?
+On the phone with emergency services, here’s what to say
+:
+I am a victim or witness... I give a telephone number where I can be reached.
+I give the precise address of the place where the services must intervene, especially if I am not on site.
+I specify the reasons for my appeal, the state of the situation and that of any victims.
+I express myself clearly to my interlocutor and I listen carefully to the advice given on what to do before help arrives.
+I respond well to all questions that will be asked of me.
+Use social media in an emergency
+Which social media accounts should you follow?
+I primarily follow the accounts:
+Local services: Prefecture of my department, Fire Brigade (SDIS), etc.
+Ministries and
+@gouvernmentFr
+Services of the Ministry of the Interior:
+@Beauvau_Alerte
+,
+@Interieur_Gouv
+@Gendarmerie
+,
+@PoliceNationale
+,
+@SecCivileFrance
+and
+@prefpolice
+Partners from the State and the main institutions, associations and non-governmental organizations: my town hall, my department, the local Red Cross and Visov
+(@VISOV1)
+To learn and contribute
+It is strongly recommended to follow official state accounts and relay their preventive messages. On these accounts, the information is verified.
+Beware of unverified information
+In the event of a crisis, it is necessary not to spread false rumors and unverified information through official channels.
+In all cases, I remain attentive to the instructions given by the authorities, on the network here (formerly France Bleu), on France Télévisions and via the official Twitter and Facebook accounts.
+I am preparing my trip abroad
+Abroad, I may be exposed to numerous risks of all kinds (health, security, natural, industrial, etc.). Good preparation is necessary.
+I note
+the
+contact details of my consulate.
+I consult the section
+“Travel Tips”
+of the site
+France diplomacy
+.
+I register on
+“Ariane.”
+the online service to be alerted in the event of a crisis while traveling abroad.
+I note the useful contacts (address, telephone, email of my consulate), the French consulates are available 24 hours a day.
+I check my insurance contract: the costs (health, legal, repatriation) incurred by any incident abroad can be very high.
+FAQ - Frequently Asked Questions
+What is the “All Responsible” guide?
+The “All Responsible” guide refers to an awareness booklet aimed at preparing the
+
+children to face major risks.
+Why should we prepare for a major crisis?
+Because a major crisis can seriously disrupt daily life (power outages, water, communication; floods, storms, cyberattacks, widespread outage, etc.), and the first 72 hours are generally the most critical.
+Preparing allows:
+to reduce its vulnerabilities;
+to be autonomous while help is organized;
+to protect their loved ones and their property.
+What types of risks are possible in France?
+Major risks in France include:
+natural hazards: floods, marine submersions, forest fires, earthquakes, land movements, storms;
+technological or industrial risks: installation accidents, transport of dangerous materials, dam failure, nuclear risks;
+other types: epidemics, cyberattacks, network outages, etc.
+What to do during the first 72 hours of an attack?
+The official recommendations are:
+stay informed via the media and official channels, follow the instructions of the authorities;
+stay sheltered or evacuate if requested;
+use your emergency kit and manage your priorities: water, food, heat/shelter, communication;
+limit non-essential calls to leave networks free for emergency services.
+What should an emergency kit contain?
+Drinking water;
+non-perishable food that does not require cooking;
+flashlight with batteries or dynamo, battery-operated radio + spare batteries;
+cell phone charger, emergency glasses, warm clothing or survival blanket;
+first aid kit, personal medication, essential documents (identity, prescription), cash, double keys.
+Where to store your emergency kit?
+The kit should be placed in an easily accessible place and out of reach of water. Check its contents twice a year and replace what is expired.
+How to protect yourself in the event of a nuclear accident?
+Good reflexes:
+if you hear the warning signal: take shelter immediately in a solid building, close doors, windows, turn off the ventilation;
+not go out or pick up your children unless ordered by the authorities;
+take iodine tablets only on instructions from the prefect (if you are in a concerned area);
+carefully follow official instructions throughout the alert.
+Learn more about what to do
+.
+What are the right reflexes in the event of an industrial accident?
+Be aware of the risks around you (“Seveso” installations, transport of dangerous materials);
+when alert: follow the instructions of the prefecture or emergency services (evacuation, confinement, etc.);
+stay safe, limit exposure (indoors, doors/windows closed), stay informed.
+Learn more about what to do
+.
+Where to download the “All Responsible” guide?
+Information from the “All Responsible” guide is available on the portal
+info.gouv.fr/risks
+.
+
+---
+
+### Situation in the Middle East: security instructions for French nationals
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/situation-au-moyen-orient-les-consignes-de-securite-aux-ressortissants-francais
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 809
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 720
+- **Unique ID:** `8fa6536cdc1e98e5`
+
+#### Content:
+
+Situation in the Middle East: security instructions for French nationals
+Published on March 1, 2026
+, modified March 12, 2026
+Following the outbreak of war in the Middle East, the Ministry of Europe and Foreign Affairs clarifies the measures available to French nationals in the area.
+Instructions for French nationals in the Middle East -
+Source: Government Information Service
+The French government is monitoring the situation in real time
+and remains in close contact with its local partners.
+The Ministry of Europe and Foreign Affairs recommends that French nationals on site:
+stay safe and follow the safety instructions of local authorities,
+consult the site regularly
+France diplomacy
+, its relay on
+the social network
+and the website of the French embassy concerning them,
+favor commercial flights if they plan to leave the country.
+All French people present in the region, including French people passing through, must
+register on
+Ariadne's thread
+.
+In case of emergency, it is possible to contact the crisis and support center number: +33 1 43 17 51 00.
+Subscribe to breadcrumbs
+Find updated safety instructions on the France Diplomatie website
+Official websites and local emergency numbers
+Israel
+French nationals are invited to regularly consult:
+https://il.ambafrance.org
+https://jerusalem.consulfrance.org/
+https://il.diplomatie.gouv.fr/fr
+Contacts on site:
+securite2.tel-aviv-jaffa-fslt@diplomatie.gouv.fr
++972 (0) 3 766 17 17
+United Arab Emirates
+French nationals are invited to regularly consult:
+https://ae.diplomatie.gouv.fr/fr
+the account
+@FranceinEmirats
+Contacts on site:
+consulat.dubai-fslt@diplomatie.gouv.fr
++971 44 08 49 06
+Jerusalem and the West Bank
+French nationals are invited to regularly consult:
+https://il.ambafrance.org
+https://jerusalem.consulfrance.org/
+Contacts on site:
++972 (0) 5 49 130 043
+urgence-crise.jerusalem-cslt@diplomatie.gouv.fr
+Lebanon
+French nationals are invited to regularly consult:
+https://lb.ambafrance.org/-Consulat-general-de-France-a-Beirut
+@ConsulatFRLiban
+Contact on site:
++961 1 420 292
+Saudi Arabia
+French nationals are invited to regularly consult:
+https://sa.ambafrance.org/
+@FranceinKSA
+Contacts on site:
+Riyadh: +966 11 434 4100
+Jeddah: +966 12 610 8900
+Qatar
+French nationals are invited to regularly consult:
+https://qa.diplomatie.gouv.fr/fr
+@FranceauQatar
+Contact on site:
++974 4402 1888
+Jordan
+French nationals are invited to regularly consult:
+https://jo.ambafrance.org/Aggravation-de-la-situation-regionale
+@FranceJordanie
+Contact on site:
++962 6 460 46 31
+Oman
+French nationals are invited to regularly consult:
+https://om.diplomatie.gouv.fr/fr
+@FranceinOman
+Contact on site:
++96 871 521 157
+Bahrain
+French nationals are invited to regularly consult:
+https://bh.ambafrance.org/
+@FranceinBahrain
+Contact on site:
++973 17 298 660
++973 39 799 754
+Kuwait
+French nationals are invited to regularly consult:
+https://kw.ambafrance.org/
+@FranceKuwait
+Contact on site:
++965 2205 8949
+Iran
+French nationals are invited to regularly consult:
+https://ir.ambafrance.org/
+Twitter account
+@FranceenIran
+Contacts on site:
++98 21 640 940 00
+contact.teheran-amba@diplomatie.gouv.fr
+If you have difficulty contacting the French embassy in Iran, an email can be sent to
+alerts.cdc@diplomatie.gouv.fr
+(contact of the Crisis Center of the Ministry of Europe and Foreign Affairs).
+Iraq
+French nationals are invited to regularly consult:
+https://iq.ambafrance.org/
+@FranceBagdad
+Contacts on site:
+Baghdad: +964 790 191 2365
+Erbil: +964 750 987 0159
+Syria
+French nationals are invited to regularly consult:
+@FranceEnSyrie
+Contact:
++33 1 43 17 51 00
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Defense
+›
+Army
+·
+International
+›
+Foreign policy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 2
+
+0 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 1 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+Jean-Noel Barrot
+On the same theme
+Camerawoman and soldier: “My first weapon is the camera”
+News
+                                                    · Army
+Sébastien Lecornu details the national defense strategy
+News
+                                                    · Army
+Prime Minister speaks after meeting on defense budget
+News
+                                                    · Army
+National service: what to remember
+News
+                                                    · Army
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Situation in the Middle East: security instructions for French nationals
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/situation-au-moyen-orient-les-consignes-de-securite-aux-ressortissants-francais
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 787
 - **Unique ID:** `8fa6536cdc1e98e5`
 
 #### Content:
@@ -1728,909 +3560,2056 @@ Retour
 Votre avis nous intéresse
 Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
 Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 1 + 6
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Il vous reste 500 caractères. Votre message doit contenir au moins 2
+
+0 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 1 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
 Sébastien Lecornu
-Jean-Noël Barrot
-Sur le même thème
-Cadreuse et militaire : « Ma première arme, c’est la caméra »
-Actualité
-                                                    · Armée
-Sébastien Lecornu détaille la stratégie de défense nationale
-Actualité
-                                                    · Armée
-Le Premier ministre s'exprime après une réunion sur le budget de la défense
-Actualité
-                                                    · Armée
-Service national : ce qu’il faut retenir
-Actualité
-                                                    · Armée
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Élections :  comment les votes sont-ils comptés ?
-Actualité ·
-                         Élections
-Publié le 12 mars 2026
-Voir tous les articles
+Jean-Noel Barrot
+On the same theme
+Camerawoman and soldier: “My first weapon is the camera”
+News
+                                                    · Army
+Sébastien Lecornu details the national defense strategy
+News
+                                                    · Army
+Prime Minister speaks after meeting on defense budget
+News
+                                                    · Army
+National service: what to remember
+News
+                                                    · Army
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
 
 ---
 
-### Ce qui change en mars 2026
+### Municipal 2026: the results of the second round
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-second-tour
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 460
+- **Unique ID:** `e9baa1b678ba046f`
+
+#### Content:
+
+Municipal 2026: the results of the second round
+Published yesterday at 5:50 p.m.
+The results of the second round of the 2026 municipal elections are available on the website of the Ministry of the Interior.
+Illustrative image -
+Source: AdobeStock
+The second round of the 2026 municipal elections took place on Sunday March 22, 2026.
+Access the results
+At 5 p.m., the
+participation rate
+in these elections was 48.10% for mainland France. It stood at 20.33% at noon the same day.
+Find the results of the first round of elections
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 2 + 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### What changes in March 2026
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/ce-qui-change-en-mars-2026
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 663
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 619
 - **Unique ID:** `2411b1ff8da43f4a`
 
 #### Content:
 
-Ce qui change en mars 2026
-Publié le 25 février 2026
-, modifié le 25 février 2026
-Carte grise, taxe sur les petits colis et carnet de maternité... Voici ce qui change en mars 2026.
-Ce qui change en mars 2026 -
-Source : Service d'information du Gouvernement
-À compter du 1er mars 2026,
-plusieurs mesures entrent en vigueur
-. Elles concernent le coût des certificats d’immatriculation, l’application d’une taxe sur certains petits colis importés et la mise à jour du carnet de maternité.
-Carte grise
-À partir du 1er mars,
-le coût des certificats d’immatriculation augmente en moyenne de 2,4 %
-au niveau national.
-Le montant d’une carte grise dépend principalement :
-du nombre de chevaux fiscaux du véhicule,
-du tarif fixé par le conseil régional.
-Chaque région vote en effet le montant du cheval fiscal
-, ce qui explique des différences selon les territoires.
-Les véhicules électriques restent exonérés de la taxe régionale. Cette exonération vise à encourager la transition vers des mobilités plus propres.
-Taxe sur les petits colis
-À compter du 1er mars,
-une taxe de deux euros par article s’applique
-aux importations hors Union européenne d’une valeur inférieure à 150 euros. Cette taxe concerne chaque article de marchandise et s’applique même si plusieurs articles sont regroupés dans un même colis.
-Concrètement :
-un colis d'une valeur de 100 euros contenant un seul article entraîne une taxe petit colis de deux euros ;
-un colis d'une valeur de 100 euros contenant dix articles distincts déclarés entraîne une taxe petit colis de vingt euros.
-Ecobalyse : l'outil qui mesure l'impact écologique d'un vêtement
-Pour aider à faire des choix plus responsables, le Gouvernement dévoile Ecobalyse, un calculateur mesurant l'impact environnemental des vêtements.
-Actualité · Climat
-Publié le
-                                    05/04/2024
-Carnet de maternité
-Le carnet de maternité permet de transmettre aux femmes enceintes des informations essentielles sur le déroulement de leur grossesse.
-À partir du 1er mars, une nouvelle version entre en vigueur. Elle intègre :
-des informations sur le risque de dépression post-partum ;
-des précisions sur les vaccinations réalisées durant la grossesse.
-Cette mise à jour vise à renforcer la prévention, améliorer l’accompagnement des femmes et favoriser un meilleur suivi médical.
-Congé de naissance : un nouveau droit effectif dès juillet 2026
-Nouveau droit créé en 2026 pour les jeunes parents, le congé supplémentaire de naissance s’ajoute au congé de maternité, de paternité ou d’adoption.
-Actualité · Famille
-Publié le
+What changes in March 2026
+Published on February 25, 2026
+, modified February 25, 2026
+Registration document, tax on small parcels and maternity record... Here is what changes in March 2026.
+What changes in March 2026 -
+Source: Government Information Service
+As of March 1, 2026,
+several measures come into force
+. They concern the cost of registration certificates, the application of a tax on certain small imported packages and the updating of the maternity record.
+Gray card
+From March 1,
+the cost of registration certificates increases on average by 2.4%
+at the national level.
+The amount of a registration card mainly depends on:
+the number of fiscal horsepower of the vehicle,
+of the rate set by the regional council.
+Each region votes on the amount of the tax horse
+, which explains differences depending on the territory.
+Electric vehicles remain exempt from regional tax. This exemption aims to encourage the transition towards cleaner mobility.
+Tax on small parcels
+As of March 1,
+a tax of two euros per item applies
+to imports from outside the European Union with a value of less than 150 euros. This tax concerns each item of merchandise and applies even if several items are grouped in the same package.
+Concretely:
+a parcel worth 100 euros containing a single item incurs a small parcel tax of two euros;
+a parcel worth 100 euros containing ten distinct declared items incurs a small parcel tax of twenty euros.
+Ecobalyse: the tool that measures the ecological impact of a garment
+To help make more responsible choices, the Government is unveiling Ecobalyse, a calculator measuring the environmental impact of clothing.
+News · Climate
+Published on
+                                    04/05/2024
+Maternity notebook
+The maternity record allows pregnant women to be provided with essential information about the progress of their pregnancy.
+From March 1, a new version comes into force. It includes:
+information on the risk of postpartum depression;
+details on vaccinations carried out during pregnancy.
+This update aims to strengthen prevention, improve support for women and promote better medical monitoring.
+Birth leave: a new right effective from July 2026
+New right created in 2026 for young parents, additional birth leave is added to maternity, paternity or adoption leave.
+News · Family
+Published on
                                     05/01/2026
-Partager la page
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Citoyenneté
+Citizenship
 ›
-Vie quotidienne
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 7 + 8
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Daily life
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 7 + 8
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
 Laurent Nunez
 Marie-Pierre Vedrenne
 Roland Lescure
 Maud Bregeon
-Stéphanie Rist
-Sur le même thème
-Commune, intercommunalité, métropole
-Actualité
-                                                    · Vie quotidienne
-Ce qui change en février 2026
-Actualité
-                                                    · Vie quotidienne
-AAH et handicap : allocations, droits et démarches pour en bénéficier
-Actualité
-                                                    · Vie quotidienne
-Aides jeunes et étudiants : dispositifs et démarches
-Actualité
-                                                    · Vie quotidienne
-À lire aussi
-Municipales 2026 : les résultats du second tour
-Actualité ·
-                         Élections
-Publié aujourd'hui
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Voir tous les articles
+Stephanie Rist
+On the same theme
+Municipality, intermunicipality, metropolis
+News
+                                                    · Daily life
+What changes in February 2026
+News
+                                                    · Daily life
+AAH and disability: allowances, rights and procedures to benefit from them
+News
+                                                    · Daily life
+Help for young people and students: systems and procedures
+News
+                                                    · Daily life
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your ID papers
+
+tity
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
 
 ---
 
-### Carburant : où trouver la station-service la moins chère ?
+### Fuel: where to find the cheapest gas station?
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/prix-des-carburants-500-controles-dans-les-stations-service
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 523
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 464
 - **Unique ID:** `25d1c5e7b5a143cf`
 
 #### Content:
 
-Carburant : où trouver la station-service la moins chère ?
-Publié le 9 mars 2026
-, modifié le 12 mars 2026
-Le site officiel du prix des carburants permet aux automobilistes de trouver les stations les moins chères près de chez eux. Un plan de contrôle des prix des carburants s'est déroulé du 9 au 11 mars 2026, dans un contexte de tensions internationales susceptibles d’affecter les prix de l’énergie.
-Image d'illustration -
-Source : Adobe Stock
-Un outil pour comparer les prix des carburants
-Le site officiel
+Fuel: where to find the cheapest gas station?
+Published on March 9, 2026
+, modified March 12, 2026
+The official fuel price website allows motorists to find the cheapest stations near them. A fuel price control plan took place from March 9 to 11, 2026, in a context of international tensions likely to affect energy prices.
+Illustrative image -
+Source: AdobeStock
+A tool to compare fuel prices
+The official website
 prix-carburants.gouv.fr
-recense l’ensemble des prix des carburants en France.
-Ce service de l’État, accessible à tous, permet de :
-consulter les prix des carburants en France,
-comparer les tarifs dans les stations-service à proximité,
-rechercher une station selon le type de carburant,
-rechercher des stations le long d'un itinéraire.
-Consulter le site du prix des carburants
-500 contrôles des prix
-La
-Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCR
-F) a mené
-500 contrôles des prix du carburant
-dans des stations-service sur l'ensemble du territoire entre lundi 9 mars et mercredi 11 mars 2026.
-Ces vérifications ont visé à s’assurer que les évolutions de prix pratiquées dans les stations-service respectent les règles et ne résultent pas de pratiques abusives, dans un contexte tendu par
-la guerre au Moyen-Orient
+lists all fuel prices in France.
+This State service, accessible to all, allows you to:
+consult fuel prices in France,
+compare prices at nearby gas stations,
+search for a station according to the type of fuel,
+search for stations along a route.
+Consult the fuel price website
+500 price controls
+The
+Directorate General for Competition, Consumer Affairs and Fraud Prevention (DGCCR)
+F) led
+500 fuel price checks
+at service stations across the country between Monday March 9 and Wednesday March 11, 2026.
+These checks aimed to ensure that price changes practiced at service stations comply with the rules and are not the result of abusive practices, in a context strained by
+the war in the Middle East
 .
-L’opération représente un volume de contrôles habituellement réalisé sur six mois, concentré cette fois sur une période de trois jours.
-Lire aussi :
-PPE 3 : la nouvelle feuille de route énergétique de la France
-Partager la page
+The operation represents a volume of checks usually carried out over six months, this time concentrated over a period of three days.
+Also read:
+PPE 3: France’s new energy roadmap
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Environnement
+Environment
 ›
-Énergie
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 10 - 0
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Energy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
 Roland Lescure
 Maud Bregeon
-Sur le même thème
-Réouverture de MaPrimeRénov’
-Actualité
-                                                    · Énergie
-PPE 3 : la nouvelle feuille de route énergétique de la France
-Actualité
-                                                    · Énergie
-Changement d’heure : ce qu’il faut savoir sur le passage à l’heure d’hiver
-Actualité
-                                                    · Énergie
-L’info.gouv du 18 février : tarifs réglementés de l’électricité, éolien en mer, citoyenneté numérique et francophonie
-Actualité
-                                                    · Énergie
-À lire aussi
-Municipales 2026 : les résultats du second tour
-Actualité ·
-                         Élections
-Publié aujourd'hui
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Voir tous les articles
+On the same theme
+Reopening of MaPrimeRénov’
+News
+                                                    · Energy
+PPE 3: France’s new energy roadmap
+News
+                                                    · Energy
+Time change: what you need to know about the transition to winter time
+News
+                                                    · Energy
+Info.gouv of February 18: regulated electricity prices, offshore wind power, digital citizenship and French-speaking countries
+News
+                                                    · Energy
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
 
 ---
 
-### Taxe sur les petits colis : comment ça marche ?
+### Letter to the mayors of France
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/lettre-aux-maires-de-france
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1126
+- **Unique ID:** `67bc67361b6a6e82`
+
+#### Content:
+
+Letter to the mayors of France
+Published yesterday at 9:13 p.m.
+, modified yesterday at 9:26 p.m.
+The day after the second round of the municipal elections, I want to send you my Republican congratulations.
+Illustrative image -
+Source: Government Information Service
+Universal suffrage has entrusted you with a demanding responsibility. You are, throughout the territory, the first faces of the Republic. You are also the ones who hear, before all others, what our fellow citizens are experiencing.
+The municipal elections delivered a demanding message
+: too little participation which obliges us, a local commitment which honors us, and sometimes contrasting choices which impose on us a simple thing — to act concretely, as close as possible to the field. In an often harsh campaign, sometimes marked by excesses which have no place in our democratic life, and even as the international context calls for lucidity and unity, our responsibility is clear: to give in neither to fractures nor to postures, but to remain faithful to the spirit of responsibility which holds the Republic together.
+Overall, the ballot boxes have not crowned anyone - they therefore force everyone to take responsibility and act, without waiting for the next electoral deadlines. The political parties represented in Parliament will have to demonstrate that they know how to go beyond usual reflexes and find the compromises necessary to defend the general interest.
+The Government, for its part, made a simple choice:
+based on what you have heard on the ground to set your priorities in the coming weeks.
+Everywhere, and whatever the political opinions, a first expectation was expressed: that of
+security in your communities,
+and in the daily lives of your constituents.
+This is the meaning of the bill that the Minister of the Interior will present this week, aiming to provide immediate responses to the disturbances which affect public order, tranquility and daily life in our communities, in urban areas as well as in rural regions. In the same spirit, we will complete the examination of the text reinforcing the prerogatives of the municipal police and rural guards, constructed with associations of elected officials. This involves taking concrete action, as close as possible to the field, to enable municipal agents to better enforce the law, in close collaboration with the police or gendarmerie forces. Texts on the organization of our judicial system will also be presented.
+But security cannot be dissociated from another requirement that you have widely expressed:
+that of the reduction of standards and procedures which govern the initiatives of local actors
+.
+We will therefore initiate a bill to simplify local authorities. This will not be a restrictive text. It will be a text of freedom: fewer standards, fewer unnecessary procedures, more clear responsibilities. This approach extends the first measures already taken recently by decree, to reduce the standards and procedural constraints which slow down and hinder the projects for which your citizens elected you.
+At the same time, several legislative or regulatory texts will simplify economic and agricultural life, with a constant objective: to build trust rather than complicate projects.
+We will also go further to reform the organization of the local state. The role of the prefect will be strengthened to better coordinate the action of all state administrations - including agencies - in the department, but also to make the distribution of responsibilities and skills between the state and local authorities clearer. Here again, the objective is simple: decide faster, act more effectively, assume responsibilities.
+Beyond the texts that will be presented to Parliament, the Government will pursue priorities which should make it possible to obtain concrete and rapid results in the public services provided to our fellow citizens on a daily basis.
+In terms of
+health
+, the deployment of “France Santé” must allow access to care in less than 48 hours and close to every French person. The system must adapt to the difficulties of each municipality, the prefects are at your disposal to design with you the best response to provide in yours. A reform of the Regional Health Agencies will be announced in the coming days to strengthen their proximity on the ground
+
+.
+Regarding the
+housing
+, a recovery plan has been initiated (“Relance Logement”), with a massive construction and renovation objective to respond to the crisis experienced by many territories. A bill is currently being discussed which will allow the decentralization of housing policy to transfer more skills to you.
+Finally, in-depth work will continue with you to take a new step in the decentralization of skills: clarifying who decides, at what level, with what means. It is a condition of effectiveness and confidence. This work must allow our fellow citizens to know who decides, to know who to hold accountable. I remain convinced that power must be more “shared” in the country, and in clarity.
+*
+The method is constant: neither force, nor immobility. The Government will propose, Parliament will debate and vote, you will be involved.
+In the period that opens, I hope that the link between the State and mayors will be direct, demanding and useful. We need your experience and commitment to succeed.
+The Republic advances when it starts from the ground. This is the choice we make.
+Please accept, ladies and gentlemen mayors, the assurance of my consideration as well as my sincere congratulations.
+Sébastien Lecornu
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 8 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+Municipal 2026: the results of the second round
+News
+                                                    · Elections
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### Tribute to Lionel Jospin
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/hommage-a-lionel-jospin
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 286
+- **Unique ID:** `097e90b1f8268f35`
+
+#### Content:
+
+Tribute to Lionel Jospin
+Published yesterday at 9:53 p.m.
+Former Prime Minister, Lionel Jospin died on March 22, 2026.
+Illustrative image -
+Source: AFP
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Read the press release from the President of the Republic
+Read the biography of Lionel Jospin
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Government
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+The new composition of Sébastien Lecornu's Government
+News
+                                                    · Government
+What is a cabinet reshuffle?
+News
+                                                    · Government
+What to remember from the declaration of
+general policy of Sébastien Lecornu
+News
+                                                    · Government
+Composition of Sébastien Lecornu's government
+News
+                                                    · Government
+Also read
+Letter to the mayors of France
+News ·
+                         Elections
+Published yesterday
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+See all articles
+
+---
+
+### Small parcel tax: how does it work?
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/taxe-sur-les-petits-colis-comment-ca-marche
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 637
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 572
 - **Unique ID:** `922393c577e22ae8`
 
 #### Content:
 
-Taxe sur les petits colis : comment ça marche ?
-Publié le 26 février 2026
-, modifié le 3 mars 2026
-À partir du 1er mars 2026, une taxe de deux euros par article s’applique aux colis importés depuis un pays hors de l’Union européenne.
-Image d'illustration -
-Source : Adobe Stock
-La taxe dite « sur les petits colis » entre en vigueur
-le 1er mars 2026.
-Concrètement, elle s’applique sur
-les articles de marchandises
-contenus dans des envois d’une valeur inférieure à 150 euros
-lorsqu’ils sont importés en provenance d’un pays tiers à l’Union européenne.
-Différente des droits de douanes et de la TVA,
-cette taxe concerne chaque article.
-Elle s'applique
-même si plusieurs articles sont regroupés dans un même colis
-. Par exemple :
-un colis d'une valeur de 100 euros contenant un seul article entraîne une taxe de deux euros ;
-un colis d'une valeur de 100 euros contenant dix articles distincts déclarés entraîne une taxe de vingt euros.
-La taxe doit être
-acquittée par le redevable de la TVA à l’importation
-. Il peut donc s’agir soit directement du vendeur soit de la plateforme servant d’intermédiaire.
-La taxe s'applique aux envois à destination de la France métropolitaine, de la Martinique, de la Guadeloupe, de la Réunion et de Monaco. Elle ne s’applique pas aux importations sur les territoires de Mayotte, de Guyane et de Saint-Martin.
-Cette taxe est instaurée par l’article 82 de
-la loi de finances pour 2026
-, qui vient d’être promulguée, afin de
-limiter les importations de produits très bon marché
-et encourager le recours aux circuits courts et aux commerces de proximité.
-Elle est applicable jusqu’à l’entrée en vigueur du dispositif similaire
-de frais de gestion au niveau de l’Union européenne, prévu au plus tard le 31 décembre 2026.
-Pour aller plus loin :
-Taxe sur les petits colis : point d'information sur sa mise en œuvre
-sur le portail de la Direction générale des Douanes et Droits indirects.
-Simuler l'impact carbone des modes d’achat des livraisons de colis
-Ce qui change en mars 2026
-Carte grise, taxe sur les petits colis et carnet de maternité... Voici ce qui change en mars 2026.
-Actualité · Vie quotidienne
-Publié le
-                                    25/02/2026
-Partager la page
+Small parcel tax: how does it work?
+Published on February 26, 2026
+, modified March 3, 2026
+From March 1, 2026, a tax of two euros per item applies to packages imported from a country outside the European Union.
+Illustrative image -
+Source: AdobeStock
+The so-called “small parcel” tax comes into force
+March 1, 2026.
+Concretely, it applies to
+merchandise items
+contained in shipments with a value of less than 150 euros
+when they are imported from a country outside the European Union.
+Different from customs duties and VAT,
+This tax applies to each item.
+It applies
+even if several items are grouped in the same package
+. For example:
+a package worth 100 euros containing a single item incurs a tax of two euros;
+a package worth 100 euros containing ten separate declared items incurs a tax of twenty euros.
+The tax must be
+paid by the person liable for import VAT
+. It can therefore be either directly the seller or the platform serving as an intermediary.
+The tax applies to shipments to mainland France, Martinique, Guadeloupe, Réunion and Monaco. It does not apply to imports into the territories of Mayotte, Guyana and Saint-Martin.
+This tax is established by article 82 of
+the finance law for 2026
+, which has just been promulgated, in order to
+limit imports of very cheap products
+and encourage the use of short circuits and local shops.
+It is applicable until the entry into force of the similar system
+management fees at the European Union level, scheduled for no later than December 31, 2026.
+To go further:
+Tax on small parcels: information point on its implementation
+on the portal of the General Directorate of Customs and Indirect Duties.
+Simulate the carbon impact of parcel delivery purchasing methods
+What changes in March 2026
+Registration document, tax on small parcels and maternity record... Here is what changes in March 2026.
+News · Daily life
+Published on
+                                    02/25/2026
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
 Institutions
 ›
-Finances publiques
+Public finances
 ·
-Économie
+Economy
 ›
-Consommation
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 8 - 2
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
+Consumption
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
 Roland Lescure
-Sur le même thème
-Budget 2026 : le Premier ministre engage la responsabilité du Gouvernement
-Actualité
-                                                    · Finances publiques
-Budget 2026 : Sébastien Lecornu défend un budget de compromis
-Actualité
-                                                    · Finances publiques
-Budget 2026 : le Premier ministre détaille ses priorités
-Actualité
-                                                    · Finances publiques
-Budget 2026 : ce qu’il faut retenir de la loi spéciale
-Actualité
-                                                    · Finances publiques
-À lire aussi
-Municipales 2026 : les résultats du second tour
-Actualité ·
-                         Élections
-Publié aujourd'hui
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Voir tous les articles
+On the same theme
+Budget 2026: the Prime Minister commits the Government to responsibility
+News
+                                                    · Public finances
+Budget 2026: Sébastien Lecornu defends a compromise budget
+News
+                                                    · Public finances
+Budget 2026: the Prime Minister details his priorities
+News
+                                                    · Public finances
+Budget 2026: what to remember from the special law
+News
+                                                    · Public finances
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
 
 ---
 
-### « Mon soutien psy » : 12 séances remboursées par an
+### Municipal 2026: the results of the first round
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-premier-tour
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 563
+- **Unique ID:** `8f6207c5d2d28b95`
+
+#### Content:
+
+Municipal 2026: the results of the first round
+Published on March 16, 2026
+, modified yesterday at 4:44 p.m.
+The first round of the municipal elections took place on March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Illustrative image -
+Source: AdobeStock
+The first round of the 2026 municipal and community elections took place on Sunday March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Access the results
+The participation rate in the municipal elections stood at 48.90% this Sunday at 5 p.m. for mainland France. It stood at 19.37% at noon the same day.
+To properly prepare for the second round of elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+I am thinking of taking my identity papers so I can vote
+And to better understand the elections and their issues, you can read:
+How does a vote work?
+Elections: How are votes counted?
+What is the role of the mayor?
+Municipality, intermunicipality, metropolis: who does what?
+Read also:
+5 things you don't know about the elections
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
+
+---
+
+### “My psychological support”: 12 sessions reimbursed per year
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1250
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1153
 - **Unique ID:** `2a001161089ddf5e`
 
 #### Content:
 
-« Mon soutien psy » : 12 séances remboursées par an
-Publié le 3 avril 2025
-, modifié le 28 mai 2025
-L'objectif du dispositif est de faciliter l’accès à un accompagnent psychologique. On vous explique comment.
-Un rendez-vous chez le psychologue -
-Source : Getty
-Vous souffrez
-de troubles anxieux ou de troubles dépressifs ? De troubles
-du comportement alimentaire ? Vous souhaitez consulter un
-psychologue ?
-Vous pouvez, avec le dispositif « Mon soutien psy », bénéficier du
-remboursement de douze séances d'accompagnement psychologique par an.
-Ces douze séances comprennent
-une séance d’évaluation
-en présentiel, puis jusqu’à
-onze séances de suivi.
-Pour les étudiants, Mon soutien psy est cumulable avec
-Santé Psy étudiant
+“My psychological support”: 12 sessions reimbursed per year
+Published on April 3, 2025
+, modified on May 28, 2025
+The objective of the system is to facilitate access to psychological support. We'll explain how.
+An appointment with the psychologist -
+Source: Getty
+You suffer
+anxiety disorders or depressive disorders? Of troubles
+eating behavior? You would like to consult a
+psychologist?
+You can, with the “My psychological support” system, benefit from
+reimbursement of twelve psychological support sessions per year.
+These twelve sessions include
+an assessment session
+in person, then until
+eleven follow-up sessions.
+For students, My psychological support can be combined with
+Health Psy student
 .
-Il est estimé que plus d’un Français sur cinq sera touché par un trouble psychique au cours de sa vie (selon l'Organisation mondiale de la santé).
-16 % de la population en France est affectée par un état dépressif et 23 % par un trouble anxieux, selon Santé publique France.
-Mon soutien psy a permis
-à près 587 000 patients d’accéder à des soins en santé mentale
-depuis son lancement en 2022
-Le nombre de nouveaux assurés ayant bénéficié du dispositif a
-quasiment doublé
-en comparant la fin des années 2023 et 2024.
-Mon soutien psy, comment ça marche ?
-Il n'est plus indispensable de disposer d’une prescription médicale pour bénéficier du dispositif.
-Pour bénéficier de ce dispositif, il faut :
-être âgé d'au moins 3 ans et présenter des troubles légers à modérés
-(anxiété, déprime, angoisse, problème de consommation de tabac, alcool ou cannabis, trouble du comportement alimentaire),
-s’adresser à
-un psychologue partenaire
-de l’Assurance Maladie via
-l’annuaire disponible sur ameli.fr
+It is estimated that more than one in five French people will be affected by a mental disorder during their lifetime (according to the World Health Organization).
+16% of the population in France is affected by depression and 23% by an anxiety disorder, according to Public Health France.
+My psychological support allowed
+nearly 587,000 patients have access to mental health care
+since its launch in 2022
+The number of new policyholders who have benefited from the system has
+almost doubled
+comparing the end of 2023 and 2024.
+My psychological support, how does it work?
+It is no longer essential to have a medical prescription to benefit from the device.
+To benefit from this system, you must:
+be at least 3 years old and have mild to moderate disorders
+(anxiety, depression, anxiety, problem with tobacco, alcohol or cannabis consumption, eating disorder),
+address
+a partner psychologist
+of Health Insurance via
+the directory available on ameli.fr
 .
-Début avril 2025, l’Assurance Maladie compte près de 5 500 psychologues partenaires répartis sur l’ensemble du territoire français.
-Critères, étapes... : cliquer ici pour en savoir plus sur Mon soutien psy sur le site Ameli
-Les professionnels de santé
-(médecins traitants ou sages-femmes par exemple) peuvent également orienter le patient vers un psychologue si son état le nécessite.
-Chaque séance est facturée 50 euros
-par les psychologues partenaires du dispositif. Le dépassement d’honoraire est interdit.
-Le tarif a été récemment revalorisé à 50 euros, contre 30 euros précédemment.
-Ce montant est pris en charge à 60 % par l’Assurance Maladie et 40 % par les complémentaires santé. (Pour les patients bénéficiaires de la Complémentaire santé solidaire, pour des soins en lien avec une affection de longue durée, une maternité (à partir du 6e mois de grossesse), ou encore un accident du travail ou une maladie professionnelle, la prise en charge est à 100 %.)
-Agrandir le visuel
-Mon soutien psy, en bref.  -
-Source : Source : ministère du Travail, de la Santé et des Solidarités
-Fermer
-Mon soutien psy, en bref.  -
-Source : ministère du Travail, de la Santé et des Solidarités
+At the beginning of April 2025, Health Insurance had nearly 5,500 partner psychologists spread across the entire French territory.
+Criteria, steps...: click here to find out more about My psychological support on the Ameli website
+Health professionals
+(treating doctors or midwives for example) can also refer the patient to a psychologist if their condition requires it.
+Each session is billed at 50 euros
+by the psychologists who are partners of the system. Excess fees are prohibited.
+The price was recently increased to 50 euros, compared to 30 euros previously.
+This amount is covered 60% by Health Insurance and 40% by complementary health insurance. (For patients benefiting from Supplementary Solidarity Health, for care related to a long-term illness, maternity (from the 6th month of pregnancy), or even an accident at work or an occupational illness, coverage is 100%.)
+Enlarge the visual
+My psychological support, in short.  -
+Source: Source: Ministry of Labor, Health and Solidarity
+Close
+My psychological support, in short.  -
+Source: Ministry of Labor, Health and Solidarity
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Mon Soutien psy, en parler c’est déjà se soigner.
-« Mon soutien psy » (dès 3 ans). Bénéficiez de séances remboursées chez un psychologue conventionné avec l″Assurance maladie.
-Toute personne peut bénéficier, en fonction de ses besoins, de séances remboursées chez un psychologue partenaire :
-- un dispositif pour toute la population à partir de 3 ans,
-- jusqu″à 8 séances d″accompagnement psychologique remboursées par année civile,
-- sur orientation d″un médecin
-Retrouvez toutes les informations sur le dispositif Mon soutien psy sur : monsoutienpsy.sante.gouv.fr
-En cas de question, vous pouvez contacter votre caisse primaire d″assurance maladie (CPAM) : au 3646 (service gratuit, + prix d″appel)
-Quel est le rôle du médecin ?
-Dans le dispositif « Mon soutien psy », vous devez nécessairement être orienté par un médecin. Il vérifie votre état de santé et peut vous proposer un accompagnement psychologique. En cas de troubles plus sévères, il peut vous orienter vers une prise en charge adaptée.
-En cas d″urgence ou de pensée suicidaires, contactez sans délai le 3114.
-Quel est le rôle du psychologue ?
-Le psychologue partenaire est là pour vous aider.
-L″accompagnement psychologique comprend une dimension d″écoute, d″empathie et de compréhension. Pour les troubles légers à modérés, il est une alternative efficace à un traitement médicamenteux.
-Avec votre accord, le médecin et le psychologue échangent régulièrement pour adapter votre parcours à vos besoins.
-« Ne restez pas seul avec votre mal-être »
-Pour mieux faire mieux connaître Mon soutien psy
-, l’Assurance Maladie lance, du 30 mars au 20 avril 2025,
-une campagne nationale
-qui encourage les personnes en situation de mal-être à rechercher un psychologue partenaire.
-Cette campagne veut contribuer
-à déstigmatiser les troubles affectant la santé psychique
-, alors que la santé mentale est la
-Grande cause nationale
-de l’année 2025.
-X (Twitter) cards est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Le spot TV montre
-des personnes saisies dans leur quotidien par des idées noires
-, représentées par une « nébuleuse » autour de leur tête.
-Le message souligne que
-le suivi psychologique est susceptible d’alléger
-, voire de faire disparaître cette souffrance. Le film se conclut par une invitation :
-« Mon soutien psy, ne restez pas seul avec votre mal-être ».
-Pour en savoir plus sur la campagne Mon soutien psy :
-une campagne nationale pour mieux faire connaître le dispositif
-Parlons santé mentale !
-« Parlons santé mentale ! ». Plus qu’un slogan, cette formule est une ambition pour notre société portée par le Gouvernement, qui a fait de la santé mentale la grande cause nationale...
-Grand dossier
-Publié le
-                                    17/03/2025
-Les questions que vous n’osez pas poser sur la santé mentale
-Astrid Chevance est psychiatre, cheffe de clinique en santé publique à l’université Paris-Cité, et chercheuse en épidémiologie. Spécialiste reconnue, elle nous aide à mieux comprendre...
-Actualité · Santé publique
-Publié le
-                                    19/03/2025
-Comment accompagner la souffrance psychique ?
-MODE D'EMPLOI. La souffrance psychique peut prendre des formes allant de légères jusqu’à sérieuses, telles que la dépression, les troubles anxieux et les troubles post-traumatiques.
-Actualité · Santé publique
-Publié le
-                                    08/01/2025
-Partager la page
+My Psychological Support, talking about it is already treating yourself.
+“My psychological support” (from 3 years old). Benefit from reimbursed sessions with a psychologist approved by Health Insurance.
+Anyone can benefit, depending on their needs, from reimbursed sessions with a partner psychologist:
+- a system for the entire population from 3 years old,
+- up to 8 sessions of psychological support reimbursed per calendar year,
+- upon referral from a doctor
+Find all the information on the My psy support system on: monsoutienpsy.sante.gouv.fr
+If you have any questions, you can contact your primary health insurance fund (CPAM): at 3646 (free service, + call price)
+What is the role of the doctor?
+In the “My psych support” system, you must necessarily be referred by a doctor. He checks your state of health and can offer you psychological support. In the event of more severe problems, he can direct you towards appropriate treatment.
+In case of emergency or suicidal thoughts, contact 3114 immediately.
+What is the role of the psychologist?
+The partner psychologist is there to help you.
+Psychological support includes a dimension of listening, empathy and understanding. For mild to moderate disorders, it is an effective alternative to drug treatment.
+With your agreement, the doctor and the psychologist communicate regularly to adapt your course to your needs.
+“Don’t be alone with your discomfort”
+To make it better known My support ps
+
+y
+, Health Insurance is launching, from March 30 to April 20, 2025,
+a national campaign
+which encourages people experiencing discomfort to seek out a partner psychologist.
+This campaign wants to contribute
+to destigmatize disorders affecting mental health
+, while mental health is the
+Great national cause
+of the year 2025.
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+The TV spot shows
+people gripped in their daily lives by dark thoughts
+, represented by a “nebula” around their heads.
+The message emphasizes that
+psychological monitoring is likely to alleviate
+, or even to make this suffering disappear. The film ends with an invitation:
+“My psychological support, don’t be alone with your discomfort.”
+To find out more about the My Psycho Support campaign:
+a national campaign to raise awareness of the system
+Let’s talk mental health!
+“Let’s talk mental health!” ". More than a slogan, this formula is an ambition for our society supported by the Government, which has made mental health the great national cause...
+Large folder
+Published on
+                                    03/17/2025
+The questions you dare not ask about mental health
+Astrid Chevance is a psychiatrist, head of public health clinic at Paris-Cité University, and researcher in epidemiology. A recognized specialist, she helps us better understand...
+News · Public health
+Published on
+                                    03/19/2025
+How to support psychological suffering?
+DIRECTIONS FOR USE. Mental suffering can take forms ranging from mild to serious, such as depression, anxiety disorders and post-traumatic disorders.
+News · Public health
+Published on
+                                    01/08/2025
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Santé
+Health
 ›
-Recherche
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 5 + 8
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
-Bâtir de nouveaux progrès et refonder nos services publics
+Search
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 5 + 8
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Building new progress and rebuilding our public services
 Frédéric Valletoux
-Sur le même thème
-Mieux soigner l’endométriose
-Actualité
-                                                    · Recherche
-Devenir la première nation européenne innovante en santé
-Actualité
-                                                    · Recherche
-L’innovation, fer de lance du progrès médical
-Actualité
-                                                    · Recherche
-Trouver des médicaments pour des maladies aujourd’hui incurables
-Actualité
-                                                    · Recherche
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Élections :  comment les votes sont-ils comptés ?
-Actualité ·
-                         Élections
-Publié le 12 mars 2026
-Voir tous les articles
+On the same theme
+Better treatment for endometriosis
+News
+                                                    · Search
+Becoming the first innovative European nation in health
+News
+                                                    · Search
+Innovation, the spearhead of medical progress
+News
+                                                    · Search
+Finding drugs for diseases that are currently incurable
+News
+                                                    · Search
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
 
 ---
 
-### Troubles bipolaires, quand la parole se libère
+### Bipolar disorders, when speech becomes free
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/troubles-bipolaires-quand-la-parole-se-libere
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1063
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 970
 - **Unique ID:** `4bf84d4074d25e27`
 
 #### Content:
 
-Regards croisés -
-Source : Service d'information du Gouvernement
-Troubles bipolaires, quand la parole se libère
-Publié le 13 février 2026
-, modifié le 13 février 2026
-REGARDS CROISÉS. La bipolarité bénéficie aujourd’hui d’une visibilité accrue dans l’espace public, portée notamment par des témoignages d’artistes ou de personnalités médiatiques. Cette évolution contribue à lever certains tabous, mais elle s’accompagne aussi de risques de simplification, voire de romantisation de la maladie. Entretien croisé avec la professeur Chantal Henry, spécialiste des troubles bipolaires, et la chanteuse Laurēm, autrice et interprète de l’album Bipolaire.
-Avec la prise de parole de personnalités publiques comme Nicolas Demorand, la bipolarité gagne en visibilité. Une avancée majeure pour un trouble encore méconnu et souvent entouré de clichés. État des lieux en compagnie de la chanteuse Laurēm, autrice et interprète de l’album
-Bipolaire
-, assorti d’un ouvrage rassemblant témoignages de patients et contributions d’experts, et du Pr Chantal Henry, psychiatre spécialiste des troubles bipolaires.
-On ne guérit pas du trouble bipolaire au sens strict, car la vulnérabilité persiste. En revanche, une stabilisation durable est possible.
+Crossed perspectives -
+Source: Government Information Service
+Bipolar disorders, when speech becomes free
+Published on February 13, 2026
+, modified February 13, 2026
+CROSSED VIEWS. Bipolarity today benefits from increased visibility in the public space, supported in particular by testimonies from artists or media personalities. This development helps to remove certain taboos, but it is also accompanied by risks of simplification, or even romanticization of the disease. Cross-interview with professor Chantal Henry, specialist in bipolar disorders, and singer Laurēm, author and performer of the album Bipolar.
+With the speaking of public figures like Nicolas Demorand, bipolarity is gaining visibility. A major breakthrough for a disorder that is still little-known and often surrounded by clichés. State of play in the company of singer Laurēm, author and performer of the album
+Bipolar
+, accompanied by a book bringing together patient testimonies and contributions from experts, and Professor Chantal Henry, psychiatrist specializing in bipolar disorders.
+We cannot cure bipolar disorder in the strict sense, because the vulnerability persists. On the other hand, lasting stabilization is possible.
 Chantal Henry
-Professeure de psychiatrie à l’université Paris Cité et praticienne à l’hôpital Sainte-Anne, spécialiste des troubles bipolaires.
-Raconter mon histoire en chansons et poèmes m’a permis de me reconstruire [...]. Partager cette parole aide d’autres personnes à se reconnaître et à demander de l’aide plus tôt.
+Professor of psychiatry at Paris Cité University and practitioner at Sainte-Anne hospital, specialist in bipolar disorders.
+Telling my story in songs and poems allowed me to rebuild myself [...]. Sharing this word helps other people recognize themselves and seek help sooner.
 Laurēm
-Autrice et interprète de l’album
-Bipolaire.
-La libération de la parole : un tournant encore fragile ?
-Laurēm :
-La parole autour de la bipolarité se libère, mais il faut continuer à multiplier les témoignages et les interviews. Dans ma famille, la maladie traverse plusieurs générations : j’ai grandi avec des adultes touchés, certains sont allés jusqu’au suicide. Quand mes propres troubles se sont déclarés à 28 ans, j’ai tout de suite compris ce que je vivais. Pendant longtemps, j’ai arrêté et repris mes traitements, traversé des phases maniaques et des dépressions profondes, été hospitalisée… Cela a mis ma vie en pause, alors que je construisais ma carrière artistique et ma vie personnelle.
-Aujourd’hui, raconter mon histoire en chansons et poèmes m’a permis de me reconstruire, de donner du sens à des fragments épars écrits pendant mes hospitalisations. Partager cette parole aide d’autres personnes à se reconnaître et à demander de l’aide plus tôt.
-Pr Chantal Henry :
-La parole se libère, mais elle reste fragile et minoritaire. Pourtant, elle est déterminante : beaucoup de patients reconnaissent leurs symptômes après avoir entendu un témoignage et consultent enfin. La parole artistique ouvre une porte d’identification, la parole médicale apporte le cadre et les repères. Les deux registres se complètent : l’un fait tomber la honte, l’autre donne les moyens d’agir.
-La parole libérée permet-elle de mieux comprendre la réalité de la maladie, loin des clichés ?
-L. :
-La bipolarité est trop souvent minimisée. Entendre des phrases comme « on est tous un peu bipolaires » ou « il suffit de se bouger » est violent. Ce n’est pas de la paresse ou de la comédie si l’on reste au lit pendant des semaines. J’ai vécu ces moments en étant mère : parfois, je n’arrivais pas à m’occuper de mon bébé, à être là pour lui, parce que j’étais totalement effondrée. La maladie déstructure, et il faut apprendre à la maîtriser pour reprendre le contrôle de sa vie quotidienne.
-Pr C. H. :
-Les stéréotypes persistent : violence, imprévisibilité, « génie créatif ». La bipolarité est une maladie sérieuse et intermittente, qui peut être sévère et même mortelle si elle n’est pas traitée. La créativité ne naît ni dans la dépression ni dans la manie : elle se construit en phase stable, quand l’énergie et l’organisation mentale sont restaurées. Entre les épisodes, la vie peut être tout à fait ordinaire - un point trop souvent oublié.
-Diagnostic, traitement, accès aux soins : quels sont les vrais enjeux ?
-L. :
-J’ai vécu douze années d’errance, de traitements interrompus, de cycles maniaques et dépressifs, d’hospitalisations. La prise en charge m’a permis de reprendre la main : comprendre les signaux, ajuster mon rythme, me sentir soutenue. Le livre que j’ai coordonné rassemble de nombreux témoignages : trouver un psychiatre, être accompagné, c’est souvent un parcours du combattant. La parole se libère, mais l’accès aux soins doit suivre.
-Pr C. H. :
-Le diagnostic arrive encore trop tard, souvent après des années d’errance. Les hypomanies, plus discrètes, retardent la prise en charge. Pourtant, un traitement adapté — médicamenteux, psychothérapeutique et psychoéducatif — permet une stabilisation durable et une vie pleinement satisfaisante. Le défi majeur reste l’accès aux soins : pénurie de psychiatres, inégalités territoriales, délais trop longs. La libération de la parole n’a de sens que si elle s’accompagne d’une réelle capacité à aider celles et ceux qui se reconnaissent enfin dans ce trouble.
-Partager la page
+Author and performer of the album
+Bipolar.
+The liberation of speech: a still fragile turning point?
+Laurēm:
+The word around bipolarity is becoming clearer, but we must continue to increase the number of testimonies and interviews. In my family, the disease crosses several generations: I grew up with adults affected, some went as far as suicide. When my own disorders broke out at the age of 28, I immediately understood what I was going through. For a long time, I stopped and resumed my treatments, went through manic phases and deep depressions, was hospitalized... This put my life on hold, while I built my artistic career and my personal life.
+Today, telling my story in songs and poems has allowed me to rebuild myself, to give meaning to scattered fragments written during my hospitalizations. Sharing this word helps other people recognize themselves and seek help sooner.
+Professor Chantal Henry:
+Speech is freed, but it remains fragile and in the minority. However, it is decisive: many patients recognize their symptoms after hearing a testimony and finally consult. The artistic word opens a door of identification, the medical word provides the framework and the benchmarks. The two registers complement each other: one removes shame, the other provides the means to act.
+Does liberated speech allow us to better understand the reality of the illness, far from clichés?
+L.:
+Bipolarity is too often minimized. Hearing phrases like “we’re all a little bit bipolar” or “you just need to get moving” is harsh. It's not laziness or acting out if you stay in bed for weeks. I experienced these moments as a mother: sometimes I couldn't take care of my baby, be there for him, because I was totally devastated. The illness is destructive, and you must learn to master it to regain control of your daily life.
+Professor C. H.:
+Stereotypes persist: violence, unpredictability, “creative genius.” Bipolar disorder is a serious, intermittent illness that can be severe and even fatal if left untreated. Creativity is born neither in depression nor in mania: it is built in a stable phase, when energy and mental organization are restored. Between episodes, life can be quite ordinary - a point too often forgotten.
+Diagnosis, treatment, access to care: what are the real issues?
+L.:
+I experienced twelve years of wandering, interrupted treatments, manic and depressive cycles, hospitalizations. The support allowed me to regain control: understand the signals, adjust my pace, feel supported. The book that I coordinated brings together numerous testimonies: finding a psychiatrist, getting support, is often an obstacle course. Speech is freed, but access to care must
+
+follow.
+Professor C. H.:
+The diagnosis still comes too late, often after years of wandering. Hypomania, more discreet, delays treatment. However, appropriate treatment – ​​medicinal, psychotherapeutic and psychoeducational – allows lasting stabilization and a fully satisfying life. The major challenge remains access to care: shortage of psychiatrists, territorial inequalities, excessively long delays. The freedom of speech only makes sense if it is accompanied by a real capacity to help those who finally recognize themselves in this disorder.
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Santé
+Health
 ›
-Santé publique
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 10 - 2
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
-Stéphanie Rist
-Sur le même thème
-Dépression chez l’adolescent : « consulter n’est jamais grave »
-Actualité
-                                                    · Santé publique
-Santé mentale : « la pair-aidance m’a sauvé la vie »
-Actualité
-                                                    · Santé publique
-Cohabitation intergénérationnelle : une rencontre qui change deux vies
-Actualité
-                                                    · Santé publique
-Souffrances psychiques des personnes âgées : mieux repérer, mieux accompagner, mieux prévenir
-Actualité
-                                                    · Santé publique
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Élections :  comment les votes sont-ils comptés ?
-Actualité ·
-                         Élections
-Publié le 12 mars 2026
-Voir tous les articles
+Public health
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Stephanie Rist
+On the same theme
+Depression in adolescents: “consulting is never serious”
+News
+                                                    · Public health
+Mental health: “peer assistance saved my life”
+News
+                                                    · Public health
+Intergenerational cohabitation: an encounter that changes two lives
+News
+                                                    · Public health
+Mental suffering of the elderly: better identification, better support, better prevention
+News
+                                                    · Public health
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
 
 ---
 
-### Dépression chez l’adolescent : « quand les résultats scolaires baissent, la dépression est souvent déjà installée  »
+### Elections: how are votes counted?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/elections-comment-sont-comptes-les-votes
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 775
+- **Unique ID:** `a773d061470838af`
+
+#### Content:
+
+Elections: how are votes counted?
+Published on March 12, 2026
+, modified on March 17, 2026
+VIDEO. Every voice counts. But how? From the polling station to the official results: deciphering the route of a vote, as the 2026 municipal elections approach.
+Illustrative image -
+Source: Government Information Service
+Municipal elections are approaching.
+On March 15 and 22, 2026, citizens are called to the polls, provided they are registered on the electoral lists.
+How to organize
+this major meeting of local democracy?
+Concretely, how do we go from a ballot slipped into a ballot box during an election to an official result announced a few hours later by the Ministry of the Interior? Who counts the votes? Who verifies the results? How do we prevent electoral fraud? And why can certain figures change during election night, or even the next day?
+From the ballot box to the national consolidation of results, the journey of a vote follows
+a precise and transparent procedure
+, regulated by law to avoid any error or attempt at fraud.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+How are the votes counted? (We tell you everything...)
+Video decryption of the voting process
+, the role of assessors, tellers and office chairs, behind the scenes of the counting and reporting of results.
+To properly prepare for the municipal elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+Enlarge the visual
+Visual -
+Source: Ministry of the Interior
+Close
+Visual -
+Ministry of the Interior
+Transcription
+Enlarge
+Close
+Transcription
+On a visual with a ballot box, a Go Voter logo! and the reminder of the dates of the municipal elections on March 15 and 22, 2026.
+Text:
+Did you know? Ballot boxes are opened with two keys, which cannot be held by the same person.
+Read also:
+5 things you don't know about the elections
+Usages and customs in the voting booth
+Is it mandatory to take all the ballots on the table?
+Can we take a photo in the polling station?
+Why do we say “Voted”?
+Is there an implicit “code of conduct” to follow?
+Interview with Vérène Gribonval, president of the polling station in Lyon, who explains to us how a vote takes place.
+Read the article “How does a vote happen? »
+See all our video reports
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 7
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+
+improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
+
+---
+
+### Depression in adolescents: “when school results drop, depression is often already established”
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/actualite/depression-chez-l-adolescent-quand-les-resultats-scolaires-baissent-la-depression-est-souvent-deja-installee
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1048
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 970
 - **Unique ID:** `d27b6a36ba9ac4e1`
 
 #### Content:
 
-Décodage -
-Source : Service d'information du Gouvernement
-Dépression chez l’adolescent : « quand les résultats scolaires baissent, la dépression est souvent déjà installée  »
-Publié le 19 janvier 2026
-, modifié le 20 janvier 2026
-DÉCODAGE. Comment distinguer une souffrance psychique d’une phase normale de l’adolescence, et à quel moment consulter ? La pédopsychiatre Laelia Benoit apporte des repères pour mieux comprendre et agir.
-Colère, isolement, décrochage scolaire, mauvaise estime de soi … L’adolescence charrie de nombreux préjugés. Il est alors difficile de distinguer ce qui relève d’un processus normal de construction identitaire et ce qui peut signaler une dépression. Pédopsychiatre et chercheuse à
-l’Inserm
-et au
+Decoding -
+Source: Government Information Service
+Depression in adolescents: “when school results drop, depression is often already established”
+Published on January 19, 2026
+, modified on January 20, 2026
+DECODING. How to distinguish psychological suffering from a normal phase of adolescence, and when to consult? Child psychiatrist Laelia Benoit provides benchmarks to better understand and act.
+Anger, isolation, dropping out of school, poor self-esteem… Adolescence carries many prejudices. It is then difficult to distinguish what is a normal process of identity construction and what may signal depression. Child psychiatrist and researcher
+Inserm
+and at
 Yale Child Study Center
-, Laelia Benoit éclaire ces zones de flou et aide à repérer les signes qui doivent alerter.
-Lorsque les portes qui claquent s’accompagnent d’une baisse marquée de l’estime de soi, d’un sentiment d’inutilité, d’un repli et d’une perte d’intérêt généralisée, la situation devient plus préoccupante.
+, Laelia Benoit sheds light on these vague areas and helps to spot the signs that should alert you.
+When slamming doors are accompanied by a marked drop in self-esteem, a feeling of uselessness, withdrawal and a general loss of interest, the situation becomes more worrying.
 Laelia Benoit
-Pédopsychiatre, chercheuse au Centre de recherche en épidémiologie et santé des populations (CESP) de l’Inserm et à l'université de Yale.
-Comment la dépression chez les adolescents se manifeste-t-elle ?
-La dépression ne se manifeste pas de la même manière chez les adolescents que chez les adultes, ce qui la rend parfois difficile à repérer. Là où l’adulte évoque une tristesse persistante ou un sentiment d’abattement, le mal-être adolescent s’exprime davantage par de l’irritabilité, de la colère ou de l’agressivité. Cela peut se traduire par des portes qui claquent à la moindre remarque ou au contraire par un retrait marqué, avec un sentiment de vide et d’ennui.
-Dans le même temps, l’adolescent peut décrocher à l’école et ne plus s’intéresser à ce qui le motivait auparavant. Un jeune qui aimait faire du sport, voir ses amis ou pratiquer des loisirs peut s’en détourner. On observe fréquemment des difficultés de concentration et de mémoire, une baisse de l’estime de soi avec des propos de dévalorisation, un désintérêt durable pour l’école et les relations amicales, ainsi qu’une vision très pessimiste de l’avenir. Le sommeil est souvent perturbé avec soit une hypersomnie, des difficultés à se lever, une inversion du rythme veille-sommeil ou encore des insomnies.
-L’alimentation peut également se modifier, avec une perte d’appétit ou, au contraire, des prises alimentaires importantes, souvent sucrées. On peut également avoir des conduites à risque comme la consommation de substances telles que l’alcool ou le cannabis, ou encore des gestes auto-agressifs.
-On peut facilement confondre nombre de ces signes avec une adolescence « typique »…
-À l’adolescence, la construction de l’identité, la recherche d’autonomie et les difficultés liées à l’image de soi sont des processus normaux. Ce qui doit alerter, ce n’est pas un signe isolé, mais le changement et l’ensemble. Il faut observer comment l’adolescent fonctionne à la maison, à l’école et avec ses amis.
-Un conflit ponctuel n’est pas inquiétant si l’adolescent va globalement bien et reste investi dans ses relations et ses activités. En revanche, lorsque les portes qui claquent s’accompagnent d’une baisse marquée de l’estime de soi, d’un sentiment d’inutilité, d’un repli et d’une perte d’intérêt généralisée, la situation devient plus préoccupante. C’est l’accumulation des signes, leur intensité et leur durée qui permettent de comprendre que l’adolescent souffre.
-Comment un parent peut-il en parler avec son enfant ?
-Face à des comportements inquiétants, notamment des conduites auto-agressives, il est préférable d’éviter la question « pourquoi », vécue comme accusatrice. Demander plutôt « comment tu te sens quand tu fais ça ? » permet d’ouvrir la discussion. Plus largement, poser la question « est-ce que tu te sens mal ? » constitue déjà un premier pas.
-À quel moment consulter ?
-Souvent, les parents consultent lorsque les notes chutent. Or, quand les résultats scolaires baissent, la dépression est déjà installée. L’inquiétude parentale est un bon signal pour voir un professionnel. Consulter n’est jamais grave.
-On peut commencer par le médecin traitant, afin d’ouvrir la discussion, et, si besoin, de réaliser un bilan de santé. Certains symptômes peuvent s’expliquer par des causes somatiques, par exemple une anémie chez les adolescentes au début des règles.
-Quels traitements suivre lorsque la dépression est confirmée ?
-En première intention, les recommandations privilégient la psychothérapie, qui permet de travailler sur l’image de soi, les difficultés scolaires ou relationnelles. Un adolescent évolue toujours dans un contexte familial, scolaire et social. Parfois, tout semble aller bien à la maison et à l’école, mais des difficultés existent ailleurs, comme un harcèlement sur le trajet ou en ligne. La thérapie permet d’avoir cette vision d’ensemble.
-Si cela ne suffit pas, des traitements antidépresseurs peuvent être proposés, notamment les inhibiteurs de la recapture de la sérotonine. Les données montrent que l’association des deux est souvent la plus efficace.
-Partager la page
+Child psychiatrist, researcher at the Center for Research in Epidemiology and Population Health (CESP) at Inserm and at Yale University.
+How does teenage depression manifest?
+Depression doesn't manifest itself in the same way in adolescents as it does in adults, which sometimes makes it difficult to spot. Where adults evoke persistent sadness or a feeling of despondency, adolescent unhappiness is expressed more through irritability, anger or aggressiveness. This can result in doors slamming at the slightest remark or, on the contrary, in a marked withdrawal, with a feeling of emptiness and boredom.
+At the same time, the adolescent may drop out of school and no longer be interested in what previously motivated him. A young person who loved playing sports, seeing friends or doing hobbies may turn away. We frequently observe difficulties with concentration and memory, a drop in self-esteem with self-deprecating comments, a lasting lack of interest in school and friendly relationships, as well as a very pessimistic vision of the future. Sleep is often disturbed with either hypersomnia, difficulty getting up, an inversion of the sleep-wake rhythm or even insomnia.
+Diet can also change, with a loss of appetite or, on the contrary, significant food intake, often sweet. We can also engage in risky behaviors such as the consumption of substances such as alcohol or cannabis, or even self-aggressive actions.
+Many of these signs can easily be confused with “typical” adolescence…
+During adolescence, the construction of identity, the search for autonomy and difficulties linked to self-image are normal processes. What should alert is not an isolated sign, but change and the whole. We must observe how the adolescent functions at home, at school and with his friends.
+A one-off conflict is not worrying if the adolescent is generally doing well and remains invested in his relationships and activities. On the other hand, when slamming doors are accompanied by a marked drop in self-esteem, a feeling of uselessness, withdrawal and a generalized loss of interest, the situation becomes more worrying. It is the accumulation of signs, their intensity and their duration that allows us to understand that the adolescent is suffering.
+How can a parent talk about it with their child?
+When faced with worrying behavior, particularly self-aggressive behavior, it is preferable to avoid the question “why”, experienced as accusatory. Instead, ask “how do you feel when you do this?” » allows you to open the discussion. More broadly, ask the question “do you feel bad?” » is already a first step.
+When to consult?
+Often, parents seek help when grades drop. However, when academic results drop, depression is already set in. Parental concern is a good signal to see a professional. Consulting is never a big deal.
+We can start with the attending physician, in order to open the discussion, and, if necessary, to carry out a health check. Some symptoms can be explained by somatic causes, for example anemia in adolescents at the start of their periods.
+What treatments to follow when depression is confirmed?
+First intention
+
+, the recommendations favor psychotherapy, which allows work on self-image, academic or relational difficulties. An adolescent always evolves in a family, school and social context. Sometimes everything seems fine at home and at school, but there are difficulties elsewhere, such as harassment on the commute or online. Therapy allows you to have this overview.
+If this is not enough, antidepressant treatments can be offered, including serotonin reuptake inhibitors. Data shows that the combination of the two is often the most effective.
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
-Actualité
+Send
+Copy link
+News
 ·
-Santé
+Health
 ›
-Santé publique
-Avez-vous trouvé les informations que vous cherchiez ?
-Oui
-Non, indiquer un problème
-Retour
-Votre avis nous intéresse
-Nous vous recommandons de ne pas inclure de données à caractère personnel dans les champs suivants. Tous les champs sont obligatoires.
-Quelle(s) information(s) cherchiez-vous ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Que s’est-il passé ?
-Il vous reste 500 caractères. Votre message doit contenir au moins 20 caractères.
-Répondre à la question mathématique suivante : 2 + 0
-Par exemple pour 1 + 3, saisissez 4.
-Envoyer
-Merci pour votre réponse !
-L'équipe de info.gouv.fr vous remercie pour votre réponse qui participera à
-                        l'amélioration du site !
-Dans cette actualité
-Stéphanie Rist
-Sur le même thème
-Troubles bipolaires, quand la parole se libère
-Actualité
-                                                    · Santé publique
-Santé mentale : « la pair-aidance m’a sauvé la vie »
-Actualité
-                                                    · Santé publique
-Cohabitation intergénérationnelle : une rencontre qui change deux vies
-Actualité
-                                                    · Santé publique
-Souffrances psychiques des personnes âgées : mieux repérer, mieux accompagner, mieux prévenir
-Actualité
-                                                    · Santé publique
-À lire aussi
-Contre la maltraitance des adultes vulnérables : appelez le 3133
-Actualité ·
-                         Personnes âgées
-Publié le 18 mars 2026
-Municipales 2026 : les résultats du premier tour
-Actualité ·
-                         Élections
-Publié le 16 mars 2026
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité ·
-                         Élections
-Publié le 13 mars 2026
-Élections :  comment les votes sont-ils comptés ?
-Actualité ·
-                         Élections
-Publié le 12 mars 2026
-Voir tous les articles
+Public health
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Stephanie Rist
+On the same theme
+Bipolar disorders, when speech becomes free
+News
+                                                    · Public health
+Mental health: “peer assistance saved my life”
+News
+                                                    · Public health
+Intergenerational cohabitation: an encounter that changes two lives
+News
+                                                    · Public health
+Mental suffering of the elderly: better identification, better support, better prevention
+News
+                                                    · Public health
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
 
 ---
 
-### Toutes et tous égaux
+### All short videos from info.gouv
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/videos
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 366
+- **Unique ID:** `90774869de6e24b1`
+
+#### Content:
+
+All short videos from info.gouv
+Sort by
+Select an option
+From newest to oldest
+From oldest to newest
+5 tips to sleep better
+Your browser does not support videos.
+Reading
+Reading
+Break
+How are the votes counted?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fighter pilot
+Your browser does not support videos.
+Reading
+Reading
+Break
+“I am old but I am beautiful”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #2
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #1
+Your browser does not support videos.
+Reading
+Reading
+Break
+Julie Pietri facing endometrial cancer
+Your browser does not support videos.
+Reading
+Reading
+Break
+Data protection
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fight against sexism
+Your browser does not support videos.
+Reading
+Reading
+Break
+The benefits of reading
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in “Mommy”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in football
+Your browser does not support videos.
+Reading
+Reading
+Break
+Good reflexes when facing the cold
+Your browser does not support videos.
+Reading
+Reading
+Break
+What changes in January 2026
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy dermatosis: veterinary advice
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy skin disease
+Your browser does not support videos.
+Reading
+Reading
+Break
+Consent
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Everyday secularism
+Your browser does not support videos.
+Reading
+Reading
+Break
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+
+---
+
+### Situation in the Middle East: security instructions for French nationals
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/situation-au-moyen-orient-les-consignes-de-securite-aux-ressortissants-francais
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 720
+- **Unique ID:** `8fa6536cdc1e98e5`
+
+#### Content:
+
+Situation in the Middle East: security instructions for French nationals
+Published on March 1, 2026
+, modified March 12, 2026
+Following the outbreak of war in the Middle East, the Ministry of Europe and Foreign Affairs clarifies the measures available to French nationals in the area.
+Instructions for French nationals in the Middle East -
+Source: Government Information Service
+The French government is monitoring the situation in real time
+and remains in close contact with its local partners.
+The Ministry of Europe and Foreign Affairs recommends that French nationals on site:
+stay safe and follow the safety instructions of local authorities,
+consult the site regularly
+France diplomacy
+, its relay on
+the social network
+and the website of the French embassy concerning them,
+favor commercial flights if they plan to leave the country.
+All French people present in the region, including French people passing through, must
+register on
+Ariadne's thread
+.
+In case of emergency, it is possible to contact the crisis and support center number: +33 1 43 17 51 00.
+Subscribe to breadcrumbs
+Find updated safety instructions on the France Diplomatie website
+Official websites and local emergency numbers
+Israel
+French nationals are invited to regularly consult:
+https://il.ambafrance.org
+https://jerusalem.consulfrance.org/
+https://il.diplomatie.gouv.fr/fr
+Contacts on site:
+securite2.tel-aviv-jaffa-fslt@diplomatie.gouv.fr
++972 (0) 3 766 17 17
+United Arab Emirates
+French nationals are invited to regularly consult:
+https://ae.diplomatie.gouv.fr/fr
+the account
+@FranceinEmirats
+Contacts on site:
+consulat.dubai-fslt@diplomatie.gouv.fr
++971 44 08 49 06
+Jerusalem and the West Bank
+French nationals are invited to regularly consult:
+https://il.ambafrance.org
+https://jerusalem.consulfrance.org/
+Contacts on site:
++972 (0) 5 49 130 043
+urgence-crise.jerusalem-cslt@diplomatie.gouv.fr
+Lebanon
+French nationals are invited to regularly consult:
+https://lb.ambafrance.org/-Consulat-general-de-France-a-Beirut
+@ConsulatFRLiban
+Contact on site:
++961 1 420 292
+Saudi Arabia
+French nationals are invited to regularly consult:
+https://sa.ambafrance.org/
+@FranceinKSA
+Contacts on site:
+Riyadh: +966 11 434 4100
+Jeddah: +966 12 610 8900
+Qatar
+French nationals are invited to regularly consult:
+https://qa.diplomatie.gouv.fr/fr
+@FranceauQatar
+Contact on site:
++974 4402 1888
+Jordan
+French nationals are invited to regularly consult:
+https://jo.ambafrance.org/Aggravation-de-la-situation-regionale
+@FranceJordanie
+Contact on site:
++962 6 460 46 31
+Oman
+French nationals are invited to regularly consult:
+https://om.diplomatie.gouv.fr/fr
+@FranceinOman
+Contact on site:
++96 871 521 157
+Bahrain
+French nationals are invited to regularly consult:
+https://bh.ambafrance.org/
+@FranceinBahrain
+Contact on site:
++973 17 298 660
++973 39 799 754
+Kuwait
+French nationals are invited to regularly consult:
+https://kw.ambafrance.org/
+@FranceKuwait
+Contact on site:
++965 2205 8949
+Iran
+French nationals are invited to regularly consult:
+https://ir.ambafrance.org/
+Twitter account
+@FranceenIran
+Contacts on site:
++98 21 640 940 00
+contact.teheran-amba@diplomatie.gouv.fr
+If you have difficulty contacting the French embassy in Iran, an email can be sent to
+alerts.cdc@diplomatie.gouv.fr
+(contact of the Crisis Center of the Ministry of Europe and Foreign Affairs).
+Iraq
+French nationals are invited to regularly consult:
+https://iq.ambafrance.org/
+@FranceBagdad
+Contacts on site:
+Baghdad: +964 790 191 2365
+Erbil: +964 750 987 0159
+Syria
+French nationals are invited to regularly consult:
+@FranceEnSyrie
+Contact:
++33 1 43 17 51 00
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Defense
+›
+Army
+·
+International
+›
+Foreign policy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 2
+
+0 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 1 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+Jean-Noel Barrot
+On the same theme
+Camerawoman and soldier: “My first weapon is the camera”
+News
+                                                    · Army
+Sébastien Lecornu details the national defense strategy
+News
+                                                    · Army
+Prime Minister speaks after meeting on defense budget
+News
+                                                    · Army
+National service: what to remember
+News
+                                                    · Army
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### All equal
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/grand-dossier/toutes-et-tous-egaux
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 757
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 661
 - **Unique ID:** `070848e7f321e8e8`
 
 #### Content:
 
-Dans ce dossier
-Toutes et tous égaux
-Découvrez le plan interministériel pour l’égalité femmes-hommes : des mesures pour agir sur le plan professionnel, économique et social
-Égalité femmes-hommes : grande cause du quinquennat 2023-2027
-Un engagement national pour l’égalité réelle entre les femmes et les hommes
-La grande cause du quinquennat 2023-2027
-Les inégalités entre les femmes et les hommes persistent dans de nombreux domaines de la vie quotidienne : salaires, accès aux postes à responsabilités, violences sexistes, représentations culturelles… Face à ce constat, le Gouvernement a fait de l’égalité femmes-hommes
-la grande cause du quinquennat 2023-2027
-, le 8 mars 2023.
-Objectifs prioritaires
-Le plan d’action 2023-2027 repose sur quatre grands objectifs :
-protéger les femmes contre toutes les formes de violences
+In this folder
+All equal
+Discover the interministerial plan for gender equality: measures to act on the professional, economic and social levels
+Gender equality: major cause of the 2023-2027 five-year term
+A national commitment to real equality between women and men
+The great cause of the 2023-2027 five-year term
+Inequalities between women and men persist in many areas of daily life: salaries, access to positions of responsibility, gender-based violence, cultural representations, etc. Faced with this observation, the Government has made equality between women and men
+the great cause of the 2023-2027 five-year term
+, March 8, 2023.
+Priority objectives
+The 2023-2027 action plan is based on four major objectives:
+protect women against all forms of violence
 ;
-garantir une égalité d’accès aux droits, à l’éducation, à la santé et à la culture
+guarantee equal access to rights, education, health and culture
 ;
-promouvoir l’égalité professionnelle et économique
+promote professional and economic equality
 ;
-la culture de l’égalité
+the culture of equality
 .
-Les grands axes du plan 2023-2027
-Lutter contre toutes les formes de violences faites aux femmes
-Le premier pilier du plan concerne les violences sexistes et sexuelles. Plusieurs mesures sont mises en place :
-renforcement de l’
-Index de l’égalité professionnelle
-, notamment dans les entreprises ;
-accélération de l’accès des femmes aux
-postes de direction
-dans les secteurs public et privé ;
-réduction des
-écarts salariaux
-persistants.
-Des dispositifs spécifiques de signalement, d’accompagnement et de protection sont également renforcés, en lien avec les associations de terrain.
-Garantir l’égalité dans l’éducation et la culture
-Dès le plus jeune âge, il est essentiel de déconstruire les stéréotypes de genre. Le plan prévoit :
-des
-programmes de sensibilisation
-dès l’école primaire ;
-la promotion d’
-une culture de l’égalité
-dans les manuels scolaires, les médias et les institutions culturelles ;
-des formations renforcées pour les enseignants et personnels éducatifs.
-Protéger la santé et les droits des femmes
-La
-santé des femmes
-fait l’objet d’un axe dédié. Le Gouvernement agit pour :
-faciliter l’accès à la
-santé reproductive
-(contraception, IVG, accompagnement à la parentalité).
-renforcer l’accès aux
-soins spécifiques
+The main axes of the 2023-2027 plan
+Fight against all forms of violence against women
+The first pillar of the plan concerns gender-based and sexual violence. Several measures have been put in place:
+strengthening of the
+Professional equality index
+, particularly in businesses;
+acceleration of women's access to
+management positions
+in the public and private sectors;
+reduction of
+salary gaps
+persistent.
+Specific reporting, support and protection systems are also strengthened, in conjunction with local associations.
+Guaranteeing equality in education and culture
+From an early age, it is essential to deconstruct gender stereotypes. The plan provides:
+of
+awareness programs
+from primary school;
+the promotion of
+a culture of equality
+in school textbooks, media and cultural institutions;
+reinforced training for teachers and educational staff.
+Protecting women’s health and rights
+The
+women's health
+is the subject of a dedicated axis. The Government is acting to:
+facilitate access to the
+reproductive health
+(contraception, abortion, parenting support).
+strengthen access to
+specific care
 (
-endométriose
-, santé mentale, violences).
-mieux accompagner les femmes en situation de précarité ou d’isolement.
-Soutenir la gouvernance et le suivi des politiques d’égalité
-L’égalité femmes-hommes repose sur une gouvernance exigeante et transparente. Le plan prévoit :
-la création d’
-indicateurs de suivi
-pour mesurer les avancées.
-un
-pilotage interministériel
-coordonné.
-le développement de
-partenariats
-avec les collectivités, les entreprises et les associations.
-Des témoignages pour mieux comprendre
-« 13,9 % » : la série de podcasts pour ouvrir les yeux sur les inégalités femmes-hommes au travail
-Le Gouvernement
-lance
-une série de podcasts
-intitulée « 13,9 % », un chiffre représentant
-l'écart salarial moyen
-en France : à partir du 8 novembre, 16h48 et 15 secondes, les femmes françaises arrêtent d’être payées pour leur travail en 2024.
-Agrandir le visuel
-Visuel -
-Source : Service d'information du Gouvernement
-Fermer
-Visuel -
-Service d'information du Gouvernement
-Cette série explore
-les inégalités professionnelles persistantes
-à travers
-les parcours de deux professionnels
-– un homme et une femme – exerçant le même métier avec une formation comparable.
-Retrouvez tous les épisodes de « 13,9 % »
-Une série de podcasts qui explore les inégalités professionnelles liées au genre.
-Service d'information du Gouvernement
-Vivre avec l’endométriose
-La comédienne Enora Malagré, la « coach » Julie Pujol et l’influenceuse Maï, toutes trois atteintes d’endométriose, racontent leur vie avec cette
-maladie gynécologique chronique
+endometriosis
+, mental health, violence).
+better support women in precarious or isolated situations.
+Support governance and monitoring of equality policies
+Gender equality is based on demanding and transparent governance. The plan provides:
+the creation of
+monitoring indicators
+to measure progress.
+a
+interministerial management
+coordinated.
+the development of
+partnerships
+with communities, businesses and associations.
+Testimonials to better understand
+“13.9%”: the podcast series to open eyes to gender inequalities at work
+The Government
+spear
+a series of podcasts
+entitled “13.9%”, a figure representing
+the average salary gap
+in France: from November 8, 4:48 p.m. and 15 seconds, French women stop being paid for their work in 2024.
+Enlarge the visual
+Visual -
+Source: Government Information Service
+Close
+Visual -
+Government Information Service
+This series explores
+persistent professional inequalities
+through
+the journeys of two professionals
+– a man and a woman – working in the same profession with comparable training.
+Find all the episodes of “13.9%”
+A podcast series that explores gender-related professional inequalities.
+Government Information Service
+Living with endometriosis
+The actress Enora Malagré, the “coach” Julie Pujol and the influencer Maï, all three suffering from endometriosis, talk about their lives with this
+chronic gynecological disease
 .
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Service d'information du Gouvernement
-En France, 1 femme sur 10 est touchée par l’endométriose, première cause d’infertilité. Une maladie chronique souvent invisible, mais qui bouleverse des vies, des corps et des parcours.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+In France, 1 in 10 women are affected by endometriosis, the leading cause of infertility. A chronic illness that is often invisible, but which disrupts lives, bodies and journeys.
 
-Dans cette vidéo, Enora Malagré, Maï et Julie Pujols prennent la parole. Elles livrent des témoignages puissants, sans filtre, sur cette maladie qui anéantit parfois un avenir, un rêve, une scolarité.
-La journée d’une femme qui change la tech
-Delphine Remy-Boutang, cofondatrice de la « Journée de la femme digitale », nous a fait vivre
-l’une de ses journées de travail
-. Avec un objectif : mettre en lumière les femmes qui innovent et encourager celles qui hésitent à se lancer.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Service d'information du Gouvernement
-Delphine Remy-Boutang, figure incontournable de l’entrepreneuriat féminin du numérique, nous a partagé sa vision d’une tech plus éthique et inclusive.
-Publié le 23 mai 2023
-, modifié le 7 novembre 2025
-Partager la page
+In this video, Enora Malagré, Maï and Julie Pujols speak. They deliver powerful, unfiltered testimonies about this illness which sometimes destroys a future, a dream, an education.
+The day of a woman changing tech
+Delphine Remy-Boutang, co-founder of “Digital Women’s Day”, brought us to life
+one of his working days
+. With one objective: to highlight women who innovate and encourage those who hesitate to take the plunge.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Delphine Remy-Boutang, a key figure in female digital entrepreneurship, shared with us her vision of a more ethical and inclusive tech.
+Published on May 23, 2023
+, modified on November 7, 2025
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
+Send
+Copy link
+
+---
+
+### What changes in March 2026
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/ce-qui-change-en-mars-2026
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 619
+- **Unique ID:** `2411b1ff8da43f4a`
+
+#### Content:
+
+What changes in March 2026
+Published on February 25, 2026
+, modified February 25, 2026
+Registration document, tax on small parcels and maternity record... Here is what changes in March 2026.
+What changes in March 2026 -
+Source: Government Information Service
+As of March 1, 2026,
+several measures come into force
+. They concern the cost of registration certificates, the application of a tax on certain small imported packages and the updating of the maternity record.
+Gray card
+From March 1,
+the cost of registration certificates increases on average by 2.4%
+at the national level.
+The amount of a registration card mainly depends on:
+the number of fiscal horsepower of the vehicle,
+of the rate set by the regional council.
+Each region votes on the amount of the tax horse
+, which explains differences depending on the territory.
+Electric vehicles remain exempt from regional tax. This exemption aims to encourage the transition towards cleaner mobility.
+Tax on small parcels
+As of March 1,
+a tax of two euros per item applies
+to imports from outside the European Union with a value of less than 150 euros. This tax concerns each item of merchandise and applies even if several items are grouped in the same package.
+Concretely:
+a parcel worth 100 euros containing a single item incurs a small parcel tax of two euros;
+a parcel worth 100 euros containing ten distinct declared items incurs a small parcel tax of twenty euros.
+Ecobalyse: the tool that measures the ecological impact of a garment
+To help make more responsible choices, the Government is unveiling Ecobalyse, a calculator measuring the environmental impact of clothing.
+News · Climate
+Published on
+                                    04/05/2024
+Maternity notebook
+The maternity record allows pregnant women to be provided with essential information about the progress of their pregnancy.
+From March 1, a new version comes into force. It includes:
+information on the risk of postpartum depression;
+details on vaccinations carried out during pregnancy.
+This update aims to strengthen prevention, improve support for women and promote better medical monitoring.
+Birth leave: a new right effective from July 2026
+New right created in 2026 for young parents, additional birth leave is added to maternity, paternity or adoption leave.
+News · Family
+Published on
+                                    05/01/2026
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Daily life
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 7 + 8
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Marie-Pierre Vedrenne
+Roland Lescure
+Maud Bregeon
+Stephanie Rist
+On the same theme
+Municipality, intermunicipality, metropolis
+News
+                                                    · Daily life
+What changes in February 2026
+News
+                                                    · Daily life
+AAH and disability: allowances, rights and procedures to benefit from them
+News
+                                                    · Daily life
+Help for young people and students: systems and procedures
+News
+                                                    · Daily life
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your ID papers
+
+tity
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
 
 ---
 
@@ -2639,758 +5618,1330 @@ Copier le lien
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/grand-dossier/france-2030
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 995
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 947
 - **Unique ID:** `ab6be1334bc10b7f`
 
 #### Content:
 
-Dans ce dossier
+In this folder
 France 2030
-France 2030 vise à accélérer la transformation des secteurs clés de notre économie par l’innovation et à positionner la France, non pas seulement en acteur, mais bien en « leader » du monde de demain.
-Candidater
-54 milliards
-d'euros d'ici à 2030
-Investissement
-7 500
-projets innovants
-Accompagnement
-280 000  places 
-de formation
-Formation
-Service d'information du Gouvernement
-Pour visionner la version audiodécrite France 2030 : Ensemble, continuons à rapprocher le futur, voir sur
+France 2030 aims to accelerate the transformation of key sectors of our economy through innovation and to position France, not just as a player, but as a “leader” in the world of tomorrow.
+Apply
+54 billion
+euros by 2030
+Investment
+7,500
+innovative projects
+Support
+280,000 places 
+training
+Training
+Government Information Service
+To view the audio-described version France 2030: Together, let's continue to bring the future closer, see on
 YouTube
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Service d'information du Gouvernement
-Ensemble, continuons à rapprocher le futur
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Together, let's continue to bring the future closer
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Images d’illustration d’innovations industrielles françaises.
-Innovations dans tous les secteurs industriels français.
-Ensemble continuons à rapprocher le futur
-France 2030, rapprochons le futur
-France 2030 fête ses quatre ans
-France 2030 célèbre ses quatre ans ! Découvrez ce plan d’investissement ambitieux qui transforme notre quotidien, l'économie et l'environnement.
-Pour visionner la version audiodécrite France 2030 : films lauréats, voir sur
+Illustrative images of French industrial innovations.
+Innovations in all French industrial sectors.
+Together let's continue to bring the future closer
+France 2030, let's bring the future closer
+France 2030 celebrates its four years
+France 2030 celebrates its four years! Discover this ambitious investment plan that is transforming our daily lives, the economy and the environment.
+To watch the audio-described version of France 2030: winning films, see
 YouTube
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Service d'information du Gouvernement
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
 France 2030
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Images d’illustration des différents objectifs de France 2030.
-Une aviation décarbonée pour demain.
-Contribuer à l’accélération de la transition énergétique par l’éolien flottant et les énergies marines renouvelables.
-Rendre les tracteurs autonomes pour une agriculture plus efficiente et moins pénible.
-Développer des vaccins innovants contre les maladies émergentes.
-Valoriser l’excellence française des additifs pour un titane plus performant.
-Innover avec des ballons stratosphériques réutilisables.
-Structurer une filière française compétitive dans le domaine des micro-lancements pour sécuriser l’accès à l’espace.
-France 2030, rapprochons le futur.
-Pour mieux comprendre l'impact de France 2030, nous vous invitons dans
-une expérience immersive en ligne
-, sous la forme d'une ville virtuelle dévoilant des solutions innovantes qui redéfiniront nos quotidiens, ainsi que l’économie et l’industrie françaises.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Service d'information du Gouvernement
-L'expérience France 2030 !
+Illustrative images of the different France 2030 objectives.
+Carbon-free aviation for tomorrow.
+Contribute to accelerating the energy transition through floating wind power and renewable marine energies.
+Make tractors autonomous for more efficient and less laborious agriculture.
+Develop innovative vaccines against emerging diseases.
+Promote French excellence in additives for more efficient titanium.
+Innovate with reusable stratospheric balloons.
+Structuring a competitive French sector in the field of micro-launchs to secure access to space.
+France 2030, let’s bring the future closer.
+To better understand the impact of France 2030, we invite you to
+an immersive online experience
+, in the form of a virtual city revealing innovative solutions that will redefine our daily lives, as well as the French economy and industry.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+The France 2030 experience!
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Images d’illustration d’innovations industrielles françaises
-Découvrez l’expérience France 2030,
-une ville immersive pour explorer les innovations,
-qui redéfiniront nos quotidiens dans le futur.
-Chaque quartier représente une thématique :
-L’énergie décarbonée,
-L’agriculture du futur,
-La santé,
-Les grands fonds marins,
-L’espace et bien plus encore.
-En un clic, plongez dans chaque univers :
-Découvrez des sous-marins scientifiques,
-Des robots chirurgicaux ou encore des drones agricoles
-Et apprenez-en plus sur les métiers de demain.
-Découvrez dès maintenant la ville immersive sur : experience.france2030.gouv.fr.
-France 2030, rapprochons le futur.
-Découvrir l'expérience
-Le Comité interministériel de l'innovation – Avril 2025
-Le Comité interministériel de l'innovation a mis en lumière les engagements de l’État avec France 2030 pris depuis trois ans, le bilan des impacts concrets sur notre souveraineté technologique et industrielle, et a ouvert la voie à de nouvelles perspectives d’investissement dans les innovations de rupture. 16 indicateurs de performance du plan France 2030 sont en ligne avec les objectifs, voire en avance, parmi lesquels 47 bio-médicaments et 640 000 véhicules électriques et hybrides produits en France, 100 000 nouvelles places de formation ou encore 18 millions de tonnes annuelles de CO2 économisées grâce aux projets engagés ce jour.
-Lire l'article
-Mettre en lumière les solutions d’aujourd’hui et de demain
-Depuis 2021, France 2030 accompagne les acteurs innovants partout en France avec l’ambition de dénicher, supporter et développer pour « rapprocher le futur ».
-Et c’est justement cette ambition que porte le film du Secrétariat général pour l’investissement, en charge de France 2030, et du Gouvernement avec la mise en lumière d’une galerie d’acteurs, qui, dans l’ombre, pensent des solutions innovantes dans les domaines de la santé, de la culture, de la recherche ou encore de l’agriculture. Des solutions révélant, une fois mises en lumière, toute leur utilité sociétale.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : L’avenir se construit en mettant vos projets en lumière.
-Depuis plus de deux ans, France 2030 accompagne les acteurs innovants partout en France. Partez à la découverte des projets qui façonnent notre futur.
+Illustrative images of French industrial innovations
+Discover the France 2030 experience,
+an immersive city to explore innovations,
+which will redefine our daily lives in the future.
+Each district represents a theme:
+Carbon-free energy,
+Agriculture of the future,
+health,
+The deep seabed,
+Space and much more.
+In one click, dive into each universe:
+Discover scientific submarines,
+Surgical robots or even agricultural drones
+And learn more about the jobs of tomorrow.
+Discover the immersive city now on: experience.france2030.gouv.fr.
+France 2030, let’s bring the future closer.
+Discover the experience
+The Interministerial Committee for Innovation – April 2025
+The Interministerial Committee for Innovation highlighted the State's commitments with France 2030 made over the past three years, the assessment of the concrete impacts on our technological and industrial sovereignty, and opened the way to new prospects for investment in disruptive innovations. 16 performance indicators of the France 2030 plan are in line with the objectives, or even ahead of schedule, including 47 bio-medicines and 640,000 electric and hybrid vehicles produced in France, 100,000 new training places and even 18 million annual tonnes of CO2 saved thanks to the projects undertaken today.
+Read the article
+Highlight the solutions of today and tomorrow
+Since 2021, France 2030 has been supporting innovative players throughout France with the ambition to find, support and develop to “bring the future closer”.
+And it is precisely this ambition that the film from the General Secretariat for Investment, in charge of France 2030, and the Government carries, with the spotlighting of a gallery of actors, who, in the shadows, think of innovative solutions in the fields of health, culture, research and even agriculture. Solutions
+
+revealing, once brought to light, their full societal usefulness.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: The future is built by highlighting your projects.
+For more than two years, France 2030 has been supporting innovative players throughout France. Discover the projects that are shaping our future.
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-On peut chercher à explorer les abysses, à unir nos talents pour faire naître des étoiles dans les yeux. On peut vouloir mettre l'innovation au service de la vie, repenser notre façon de produire pour la rendre plus durable. Et si les solutions étaient juste sous nos yeux, dans l'ombre ? S'il ne tenait qu'à nous de les révéler ? L'avenir se construit en mettant vos projets en lumière.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Service d'information du Gouvernement
-Dézoome sur le futur avec France 2030
+We can seek to explore the abyss, to unite our talents to bring stars to life. We may want to put innovation at the service of life, rethink our way of producing to make it more sustainable. What if the solutions were right before our eyes, in the shadows? What if it was up to us to reveal them? The future is built by highlighting your projects.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Zoom into the future with France 2030
 Transcription
-Agrandir
-Fermer
+Enlarge
+Close
 Transcription
-Dézoome sur des images d’illustration d’innovations industrielles françaises France2030.gouv.fr
-Suivre les actualités de France 2030
-Recevoir la lettre d'information
-Pour ne pas manquer les dernières actualités, vous pouvez recevoir chaque mois un condensé des temps forts, les ouvertures des nouveaux appels à projets ou encore des témoignages de lauréats qui contribuent à transformer les secteurs clefs de notre économie.
-Je m'inscris
-Candidater à France 2030
-Contribuez à l'élan France 2030 !
-Vous êtes une start-up, une PME/ETI, un grand groupe industriel, un établissement d'enseignement supérieur, un organisme de recherche, un laboratoire, une école et vous voulez contribuer à « donner un temps d'avance à la France » par l'innovation ?
-Faites-vous connaître
-Au cœur des territoires
-Un robot humanoïde pour aider les aidants
-Actualité · Innovation
-Publié le
-                                            21/09/2023
-Soutenir la recherche pour mieux soigner l’endométriose
-Actualité · Recherche
-Publié le
-                                            29/05/2024
-France 2030 : Whispeak fait de votre voix une clé sécurisée
-Actualité · Innovation
-Publié le
-                                            20/09/2024
-Reef Pulse : une entreprise française qui protège les récifs coralliens
-Actualité · Mer
-Publié le
+Zoom out on illustrative images of French industrial innovations France2030.gouv.fr
+Follow France 2030 news
+Receive the newsletter
+So as not to miss the latest news, you can receive each month a summary of the highlights, the openings of new calls for projects or even testimonials from winners who are helping to transform key sectors of our economy.
+I register
+Apply for France 2030
+Contribute to the France 2030 momentum!
+You are a start-up, an SME/ETI, a large industrial group, a higher education establishment, a research organization, a laboratory, a school and you want to contribute to “giving France a head start” through innovation?
+Make yourself known
+At the heart of the territories
+A humanoid robot to help caregivers
+News · Innovation
+Published on
+                                            09/21/2023
+Supporting research to better treat endometriosis
+News · Research
+Published on
+                                            05/29/2024
+France 2030: Whispeak makes your voice a secure key
+News · Innovation
+Published on
+                                            09/20/2024
+Reef Pulse: a French company that protects coral reefs
+News · Sea
+Published on
                                             06/09/2023
-Voir plus d'articles
-Publié le 19 mai 2022
-, modifié le 6 février 2026
-Partager la page
+See more articles
+Published on May 19, 2022
+, modified February 6, 2026
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
+Send
+Copy link
 
 ---
 
-### La France en GRAND ANGLE
+### Fuel: where to find the cheapest gas station?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/prix-des-carburants-500-controles-dans-les-stations-service
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 464
+- **Unique ID:** `25d1c5e7b5a143cf`
+
+#### Content:
+
+Fuel: where to find the cheapest gas station?
+Published on March 9, 2026
+, modified March 12, 2026
+The official fuel price website allows motorists to find the cheapest stations near them. A fuel price control plan took place from March 9 to 11, 2026, in a context of international tensions likely to affect energy prices.
+Illustrative image -
+Source: AdobeStock
+A tool to compare fuel prices
+The official website
+prix-carburants.gouv.fr
+lists all fuel prices in France.
+This State service, accessible to all, allows you to:
+consult fuel prices in France,
+compare prices at nearby gas stations,
+search for a station according to the type of fuel,
+search for stations along a route.
+Consult the fuel price website
+500 price controls
+The
+Directorate General for Competition, Consumer Affairs and Fraud Prevention (DGCCR)
+F) led
+500 fuel price checks
+at service stations across the country between Monday March 9 and Wednesday March 11, 2026.
+These checks aimed to ensure that price changes practiced at service stations comply with the rules and are not the result of abusive practices, in a context strained by
+the war in the Middle East
+.
+The operation represents a volume of checks usually carried out over six months, this time concentrated over a period of three days.
+Also read:
+PPE 3: France’s new energy roadmap
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Environment
+›
+Energy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Roland Lescure
+Maud Bregeon
+On the same theme
+Reopening of MaPrimeRénov’
+News
+                                                    · Energy
+PPE 3: France’s new energy roadmap
+News
+                                                    · Energy
+Time change: what you need to know about the transition to winter time
+News
+                                                    · Energy
+Info.gouv of February 18: regulated electricity prices, offshore wind power, digital citizenship and French-speaking countries
+News
+                                                    · Energy
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### France in WIDE ANGLE
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/grand-dossier/la-france-en-grand-angle
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 2465
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2304
 - **Unique ID:** `b119c9b00aaf87db`
 
 #### Content:
 
-La
+The
 France
-en
-GRAND
+in
+LARGE
 ANGLE
-L’État à l’écoute
-de ce qui compte,
-là où ça compte.
-Dans ce dossier
-La France en grand angle
-Que perçoivent les Français de l’action de l’État, là où ils vivent ? Pour y répondre, le Gouvernement engage une démarche inédite d’écoute et de diagnostic sur tout le territoire. En combinant enquête d’opinion et immersion ethnographique, cette opération vise à prendre le pouls du pays, région par région. Elle explore le lien des citoyens à leur territoire : ce qui les rend fiers, ce qui les interroge, ce qui les inquiète - et surtout, comment ils perçoivent et expérimentent concrètement l’action publique autour d’eux.
-Découvrez les résultats région par région.
-Sélectionnez une région pour faire apparaître les données
-Passer la carte
-✌️ Utilisez deux doigts pour déplacer la carte ou
-                                            utilisez les boutons
+The State listens
+of what matters,
+where it counts.
+In this folder
+France in wide angle
+What do the French perceive of state action where they live? To respond to this, the Government is undertaking an unprecedented approach to listening and diagnosis throughout the territory. By combining opinion research and ethnographic immersion, this operation aims to take the pulse of the country, region by region. It explores the link between citizens and their territory: what makes them proud, what questions them, what worries them - and above all, how they perceive and concretely experience the public action around them.
+Discover the results region by region.
+Select a region to display the data
+Swipe the card
+✌️ Use two fingers to move the map or
+                                            use the buttons
 Leaflet
-IGN-F/Geoportail
+IGN-F/Geoportal
 Île-de-France
-Fermer
-Image d'illustration -
-Source : Pexel
-Avec plus de 12 millions d’habitants,
-la région Île-de-France
-cumule une densité
-démographique, une puissance économique, une diversité sociale, culturelle et
-territoriale qui la placent au cœur de bien des dynamiques nationales, en même
-temps qu’elles génèrent des expériences sans équivalent avec celles vécues dans
-les autres territoires.
-Cette
-densité extrême fait cohabiter une diversité d’expériences, de ressources et de
-fragilités territoriales assez unique. Pour les Franciliens, Paris apparait
-comme un pôle d’exception dont chacun tente à la fois de bénéficier et des
-atouts et de se protéger des inconvénients réels ou projetés. La distance à la
-capitale s’impose comme une clé de lecture opérante des situations locales.
-Elle est également la région des plus
-forts contrastes, réunissant le département le plus riche de France (les
-Hauts-de-Seine) et le plus pauvre (la Seine-Saint-Denis).
-Lire la synthèse régoinale
-Centre-Val de Loire
-Fermer
-Image d'illustration -
-Source : Adobe Stock
-Le Centre-Val de Loire est perçu comme une région
-paisible et agréable à vivre, avec des habitants attachés à sa qualité de vie
-et sa tranquillité. Malgré un taux de chômage inférieur (ou égal) à la moyenne nationale,
-la région est peu identifiée - à tort - comme dynamique par ses habitants.
-La santé constitue la principale préoccupation
-régionale. La région souffre d’une sous-dotation médicale, avec le plus faible
-nombre de médecins par habitant en métropole. Près de 6 habitants sur 10
-déclarent avoir déjà renoncé à des soins. Le sentiment de sécurité y est fort, et la sécurité n’apparaît que rarement comme une priorité, contrairement à la moyenne nationale.
-Lire la synthèse régionale
-Bourgogne-Franche-Comté
-Fermer
-Image d'illustration -
-Source : Adobe Stock
-En Bourgogne-Franche-Comté, les habitants
-apprécient fortement leur qualité de vie, la sécurité et l’environnement, mais
-restent inquiets pour l’avenir de leur région. Ce contraste entre satisfaction
-locale et pessimisme régional est marqué, notamment dans les zones rurales.
-Celles-ci font face à une dévitalisation progressive, avec la fermeture de
-commerces et le départ des jeunes, accentuant un sentiment d’isolement.
-L’accès aux soins est une préoccupation majeure,
-en lien avec le vieillissement de la population et l’éloignement des structures
-médicales. La mobilité reste difficile : beaucoup dépendent de la voiture, et
-peu constatent des améliorations ferroviaires. L’action de l’État est jugée
-présente, mais peu lisible. Une majorité d’habitants ne perçoit pas
-concrètement cette aide sur leur territoire, malgré un recours massif aux
-dispositifs publics.
-Lire  la synthèse régionale
-Normandie
-Fermer
-Image d'illustration -
-Source : Ministère de l'Intérieur_E.Delelis
-En Normandie, les habitants affichent un optimisme
-local porté par un attachement profond à leur territoire et à sa qualité de
-vie. L’identité normande, discrète mais enracinée, se traduit par une stabilité
-résidentielle forte et une valorisation des paysages et de la nature.
-L’économie régionale est perçue comme résiliente, portée par l’agriculture,
-l’énergie et l’industrie, malgré une hausse du coût de la vie.
-L’accès aux soins reste une préoccupation majeure,
-notamment dans les zones rurales où les inégalités sont marquées. La sécurité
-inquiète davantage dans les grandes villes. La dépendance à la voiture, faute
-d’alternatives de transport, limite l’accès aux services. Le pouvoir d’achat,
-bien que rarement exprimé en priorité, sous-tend plusieurs tensions du
-quotidien. Enfin, si l’action publique est reconnue dans certains domaines,
-elle est jugée distante, au profit des collectivités locales, perçues comme plus
-proches et réactives.
-Lire  la synthèse régionale
+Close
+Illustrative image -
+Source: Pexel
+With more than 12 million inhabitants,
+the Île-de-France region
+accumulates a density
+demographic, economic power, social, cultural and
+territorial which place it at the heart of many national dynamics, at the same time
+time that they generate experiences without equivalent to those lived in
+other territories.
+This
+extreme density brings together a diversity of experiences, resources and
+rather unique territorial fragilities. For Ile-de-France residents, Paris appears
+as an exceptional center from which everyone tries to both benefit and
+advantages and to protect themselves from real or projected disadvantages. The distance to the
+capital imposes itself as a key to effective reading of local situations.
+It is also the region of the most
+strong contrasts, bringing together the richest department in France (the
+Hauts-de-Seine) and the poorest (Seine-Saint-Denis).
+Read the regional summary
+Center-Val de Loire
+Close
+Illustrative image -
+Source: AdobeStock
+Centre-Val de Loire is perceived as a region
+peaceful and pleasant to live in, with residents attached to its quality of life
+and its tranquility. Despite an unemployment rate lower (or equal) to the national average,
+the region is little identified - wrongly - as dynamic by its inhabitants.
+Health is the main concern
+regional. The region suffers from medical understaffing, with the lowest
+number of doctors per inhabitant in mainland France. Nearly 6 out of 10 residents
+declare that they have already given up on treatment. The feeling of security is strong there, and security rarely appears as a priority, unlike the national average.
+Read the regional summary
+Burgundy-Franche-Comté
+Close
+Illustrative image -
+Source: AdobeStock
+In Burgundy-Franche-Comté, the inhabitants
+highly appreciate their quality of life, safety and the environment, but
+remain worried about the future of their region. This contrast between satisfaction
+local and regional pessimism is marked, particularly in rural areas.
+These are facing progressive devitalization, with the closure of
+shops and the departure of young people, accentuating a feeling of isolation.
+Access to care is a major concern,
+linked to the aging of the population and the distance from structures
+medical. Mobility remains difficult: many depend on the car, and
+few see rail improvements. State action is judged
+present, but difficult to read. A majority of residents do not perceive
+concretely this aid on their territory, despite massive recourse to
+public devices.
+Read the regional summary
+Normandy
+Close
+Illustrative image -
+Source: Ministry of the Interior_E.Delelis
+In Normandy, residents display optimism
+local driven by a deep attachment to their territory and its quality of
+life. The Norman identity, discreet but rooted, results in stability
+strong residential and an enhancement of landscapes and nature.
+The regional economy is seen as resilient, driven by agriculture,
+energy and industry, despite an increase in the cost of living.
+Access to care remains a major concern,
+particularly in rural areas where inequalities are marked. Safety
+more worrying in large cities. Car dependence, fault
+of transport alternatives, limits access to services. Purchasing power,
+although rarely expressed as a priority, underlies several tensions of
+daily. Enf
+
+in, if public action is recognized in certain areas,
+it is considered distant, for the benefit of local communities, perceived as more
+close and responsive.
+Read the regional summary
 Hauts-de-France
-Fermer
-Image d'illutration -
-Source : Adobe Stock
-Les Hauts-de-France se distinguent par un fort
-attachement à leur identité régionale, marqué par la convivialité et la
-solidarité. Toutefois, la région reste l’une des plus pauvres de France
-métropolitaine et cumule des fragilités. L’emploi est au cœur des
-préoccupations, perçu comme essentiel à la vitalité du territoire, bien que
-jugé insuffisamment disponible.
-L’accès à la santé varie fortement selon les
-départements, avec des inégalités marquées entre l’Aisne, la Somme et le Nord.
-Malgré les critiques adressées aux décideurs, les habitants reconnaissent les
-efforts de l’État, notamment en matière de numérique, culture, sport et aides
-sociales, dont une majorité a bénéficié.
-Lire la synthèse régionale
-Grand-Est
-Fermer
-Image d'illustration -
-Source : Adobe Stock
-Dans le Grand Est, l’ancrage local est
-particulièrement fort : plus de la moitié des habitants y sont nés et une large
-part n’envisage pas d’en partir. Cette fidélité s’accompagne d’un regard
-positif sur le cadre de vie et d’un optimisme plus marqué pour la situation
-locale que nationale. L’emploi est une priorité régionale, surtout dans les
-zones rurales ou anciennement industrielles, où les habitants se sentent moins
-bien pourvus qu’en milieu urbain.
-L’accès aux soins reste contrasté : satisfaisant
-en ville, mais difficile dans plusieurs départements ruraux, où les habitants
-évoquent un manque de médecins et la complexité liée à la numérisation des services.
-La sécurité est surtout une préoccupation urbaine. L’action de l’État est bien
-identifiée, en particulier dans les domaines du sport, de la culture, du
-numérique et des transports, avec des avis globalement plus positifs
-qu’ailleurs en France.
-Lire  la synthèse régionale
-Pays de la Loire
-Fermer
-Image d'illustration -
-Source : Adobe Stock
-Les Pays de la Loire bénéficient d’une image
-globalement positive auprès de leurs habitants, qui saluent la qualité de vie,
-la convivialité et l’attractivité du territoire. L’emploi constitue un point
-fort. Toutefois, cette dynamique est moins ressentie dans les départements du
-nord, comme la Sarthe et la Mayenne, où le sentiment de dynamisme et
-d’optimisme est plus réservé.
-L’accès aux soins reste une préoccupation majeure,
-avec d’importantes disparités selon les départements. La sécurité inquiète
-particulièrement dans les grandes villes, tandis que les zones rurales
-déplorent leur dépendance à la voiture et la difficulté d’accès aux services
-publics. Si l’action de l’État est moins perçue sur les questions de sécurité,
-de santé et de logement, elle l’est plus dans les domaines du numérique et de
-la culture.
-Lire  la synthèse régionale
-Bretagne
-Fermer
-Image d'illustration -
-Source : Adobe Stock
-En Bretagne, un fort sentiment d’appartenance et
-de confiance locale contraste avec le pessimisme ambiant sur la situation
-nationale et mondiale. Cette confiance s’appuie sur un cadre de vie largement
-plébiscité, une culture forte et un ancrage local marqué, renforcé par des
-habitudes de consommation locales. L’économie régionale reste dynamique, avec
-un taux de chômage bas et une forte création d’entreprises, mais montre certains
-signes d’essoufflement.
-Le logement apparaît comme un défi majeur, en
-particulier pour les primo-accédants et les locataires, du fait de la hausse
-des prix et d’un manque de logements neufs. La sécurité est aussi une
-préoccupation croissante, en particulier dans les grandes villes comme Rennes.
-En matière de santé, les inégalités territoriales persistent, tout comme la
-dépendance à la voiture. La gratuité des routes reste cependant un atout
-régional reconnu.
-Lire  la synthèse régionale
-Nouvelle-Aquitaine
-Fermer
-Image d'illustration -
-Source : Préfecture de Nouvelle-Aquitaine
-La Nouvelle-Aquitaine séduit par sa qualité de vie
-et attire de nombreux habitants, malgré des disparités territoriales marquées. Bordeaux
-concentre les atouts économiques mais subit une forte pression urbaine. Les
-villes moyennes offrent un bon équilibre, tandis que les zones rurales et
-littorales rencontrent des difficultés en matière de logement, de soins et de
-transports.
-La mobilité reste un défi hors métropole, avec une
-forte dépendance à la voiture. Le sentiment d’insécurité varie selon les
-territoires, reflétant souvent un isolement social. L’accès aux soins est
-préoccupant, notamment dans certaines zones rurales. Le logement est sous
-tension, entre prix élevés et vétusté. Enfin, la hausse du coût de la vie
-fragilise les ménages modestes.
-Lire  la synthèse régionale
+Close
+Illustration image -
+Source: AdobeStock
+Hauts-de-France is distinguished by a strong
+attachment to their regional identity, marked by conviviality and
+solidarity. However, the region remains one of the poorest in France
+metropolitan and accumulates fragilities. Employment is at the heart of
+concerns, perceived as essential to the vitality of the territory, although
+deemed insufficiently available.
+Access to health varies greatly depending on the
+departments, with marked inequalities between Aisne, Somme and the North.
+Despite the criticism addressed to decision-makers, residents recognize the
+State efforts, particularly in terms of digital technology, culture, sport and aid
+social, from which a majority benefited.
+Read the regional summary
+Great East
+Close
+Illustrative image -
+Source: AdobeStock
+In the Grand Est, local roots are
+particularly strong: more than half of the inhabitants were born there and a large
+does not plan to leave. This loyalty is accompanied by a look
+positive on the living environment and a more marked optimism for the situation
+local and national. Employment is a regional priority, especially in
+rural or formerly industrial areas, where residents feel less
+well provided than in urban areas.
+Access to care remains mixed: satisfactory
+in town, but difficult in several rural departments, where residents
+mention a lack of doctors and the complexity linked to the digitalization of services.
+Safety is above all an urban concern. State action is good
+identified, particularly in the areas of sport, culture,
+digital and transport, with generally more positive opinions
+than elsewhere in France.
+Read the regional summary
+Loire region
+Close
+Illustrative image -
+Source: AdobeStock
+The Pays de la Loire benefits from an image
+generally positive among their inhabitants, who praise the quality of life,
+the conviviality and attractiveness of the territory. Employment is a point
+strong. However, this dynamic is less felt in the departments of
+north, like Sarthe and Mayenne, where the feeling of dynamism and
+optimism is more reserved.
+Access to care remains a major concern,
+with significant disparities depending on the departments. Safety worries
+particularly in large cities, while rural areas
+deplore their dependence on the car and the difficulty of accessing services
+public. If state action is less perceived on security issues,
+health and housing, it is more so in the areas of digital and
+culture.
+Read the regional summary
+Brittany
+Close
+Illustrative image -
+Source: AdobeStock
+In Brittany, a strong sense of belonging and
+of local confidence contrasts with the ambient pessimism on the situation
+national and global. This confidence is based on a living environment largely
+popular, a strong culture and strong local roots, reinforced by
+local consumption habits. The regional economy remains dynamic, with
+a low unemployment rate and strong business creation, but shows some
+signs of shortness of breath.
+Housing appears to be a major challenge, in
+particularly for first-time buyers and tenants, due to the increase
+prices and a lack of new housing. Security is also a
+growing concern, particularly in large cities like Rennes.
+In terms of health, territorial inequalities persist, as does the
+car dependence. However, free roads remain an asset
+regionally recognized.
+Read the regional summary
+New Aquitaine
+Close
+Illustrative image -
+Source: Prefecture of Nouvelle-Aquitaine
+New Aquitaine seduces with its quality of life
+and attracts many inhabitants, despite marked territorial disparities. Bordeaux
+concentrates economic assets but is subject to strong urban pressure. The
+medium-sized towns offer a good balance, while rural areas and
+coastal areas encounter difficulties in terms of housing, care and
+transport.
+Mobility remains a challenge outside mainland France, with
+strong dependence on the car. The feeling of insecurity varies depending on the
+territories, often reflecting
+
+t social isolation. Access to care is
+worrying, particularly in certain rural areas. The accommodation is under
+tension, between high prices and obsolescence. Finally, the rising cost of living
+weakens low-income households.
+Read the regional summary
 Occitanie
-Fermer
-Image d'illustration -
-Source : Adobe Stock
-Portée par son dynamisme démographique
-et son cadre de vie envié, l’Occitanie est une région en mouvement, qui attire.
-Avec ses quelques 6 millions d’habitants
-et une superficie dépassant 72 000 km² (13% du territoire national),
-l’Occitanie est aujourd’hui la deuxième plus vaste région de France
-métropolitaine et la quatrième sur le plan démographique. Selon l’INSEE, depuis
-2015, la population de la région augmente à un rythme de +0,7% par an. En une
-décennie, elle a gagné plus de 500 000 habitants.
-Elle
-rassemble des territoires aussi divers que complémentaires : les métropoles de
-Toulouse et Montpellier, des villes moyennes structurantes, un littoral
-fortement attractif, des étendues agricoles et viticoles, ainsi que des massifs
-montagneux aux identités marquées (Pyrénées, Cévennes). Les habitants
-vantent volontiers un cadre de vie agréable, une offre culturelle et de loisirs
-dense, et un certain « art de vivre » du Sud, entre convivialité, nature
-et tradition.
-Lire la synthèse régionale
-Provence-Alpes-Côte d'Azur
-Fermer
-Image d'illustration -
-Source : Préfecture des Bouches-du-Rhône
-La région Provence-Alpes-Côte d’Azur combine
-attractivité et contrastes : climat ensoleillé, diversité culturelle et cadre
-de vie séduisent ses habitants, dont une majorité se dit fière d’y vivre.
-Cependant, cet attrait cohabite avec de fortes inégalités sociales, notamment à
-Marseille, et une crise du logement marquée par la rareté, la cherté et la
-pression touristique, limitant l’accès au logement pour les plus modestes.
-La mobilité repose encore largement sur la
-voiture, faute de transports publics adaptés, accentuant les inégalités d’accès
-à l’emploi et aux services. Le sentiment d’insécurité est fortement ressenti,
-surtout en zone urbaine, alimentant un repli social. Si l’accès aux soins est
-globalement bon, il reste très inégal selon les territoires, avec un sentiment
-d’isolement fort dans les zones montagneuses.
-Lire la synthèse régionale
-Corse
-Fermer
-Corse -
-Source : Préfecture de Corse
-La Corse se distingue par un ancrage territorial
-exceptionnel. Toutefois, ce fort attachement s’accompagne
-d’un sentiment d’isolement,
-vécu à la
-fois comme une richesse identitaire et une contrainte dans l’accès aux
-services essentiels. L’offre de soins est
-particulièrement préoccupante,
-avec un recours fréquent aux transferts médicaux vers le continent.
-La démographie atypique – population vieillissante
-et forte pression touristique – accentue les tensions, notamment sur le
-logement. L’île détient le record national de résidences secondaires,
-provoquant une pénurie pour les habitants. L’économie reste très saisonnière,
-avec une forte précarité de l’emploi. La mobilité est également un point noir :
-l’insuffisance des transports publics renforce la dépendance à la voiture.
-Enfin, la relation à l’État est ambivalente : les Corses se sentent peu
-soutenus, malgré un recours massif aux dispositifs publics.
-Lire  la synthèse régionale
+Close
+Illustrative image -
+Source: AdobeStock
+Driven by its demographic dynamism
+and its envied living environment, Occitanie is a region on the move, which attracts.
+With its approximately 6 million inhabitants
+and an area exceeding 72,000 km² (13% of the national territory),
+Occitanie is today the second largest region in France
+metropolitan and the fourth in terms of demographics. According to INSEE, since
+2015, the region's population is increasing at a rate of +0.7% per year. In one
+decade, it gained more than 500,000 inhabitants.
+She
+brings together territories as diverse as they are complementary: the metropolises of
+Toulouse and Montpellier, structuring medium-sized cities, a coastline
+highly attractive, agricultural and wine-growing areas, as well as massifs
+mountainous with marked identities (Pyrenees, Cévennes). The inhabitants
+readily praise a pleasant living environment, a cultural and leisure offer
+dense, and a certain “art of living” of the South, between conviviality, nature
+and tradition.
+Read the regional summary
+Provence-Alpes-Côte d’Azur
+Close
+Illustrative image -
+Source: Bouches-du-Rhône Prefecture
+The Provence-Alpes-Côte d’Azur region combines
+attractiveness and contrasts: sunny climate, cultural diversity and setting
+of life appeal to its residents, a majority of whom say they are proud to live there.
+However, this attraction coexists with strong social inequalities, particularly in
+Marseille, and a housing crisis marked by scarcity, high prices and
+tourist pressure, limiting access to housing for the most modest.
+Mobility still relies largely on
+car, lack of suitable public transport, accentuating inequalities of access
+to employment and services. The feeling of insecurity is strongly felt,
+especially in urban areas, fueling social withdrawal. If access to care is
+generally good, it remains very uneven depending on the territories, with a feeling
+strong isolation in mountainous areas.
+Read the regional summary
+Corsica
+Close
+Corsica -
+Source: Prefecture of Corsica
+Corsica is distinguished by its territorial roots
+exceptional. However, this strong attachment is accompanied
+a feeling of isolation,
+lived at the
+both as an asset of identity and a constraint in access to
+essential services. The care offer is
+particularly worrying,
+with frequent recourse to medical transfers to the continent.
+Atypical demographics – aging population
+and strong tourist pressure – accentuates tensions, particularly on the
+housing. The island holds the national record for second homes,
+causing a shortage for residents. The economy remains very seasonal,
+with high job insecurity. Mobility is also a black point:
+the inadequacy of public transport reinforces dependence on the car.
+Finally, the relationship with the State is ambivalent: the Corsicans feel little
+supported, despite massive recourse to public measures.
+Read the regional summary
 Auvergne-Rhône-Alpes
-Fermer
-Image d'illustration -
-Source : Préfecture d'Auvergne-Rhône-Alpes
-En Auvergne-Rhône-Alpes, les habitants
-plébiscitent largement leur cadre de vie, marqué par la nature, la montagne et
-un environnement jugé agréable. Cette satisfaction contraste toutefois avec des
-disparités d’accès aux services : la mobilité est globalement bien perçue, mais
-beaucoup dépendent encore de la voiture, notamment en zones rurales. Les
-transports publics souffrent de retards ou d’un manque de couverture.
-La sécurité arrive en tête des priorités, avec un
-sentiment d’inquiétude croissant, même dans les zones réputées calmes. Côté
-santé, près d’un habitant sur deux a déjà renoncé à des soins, en raison du
-manque de professionnels ou de l’éloignement des structures, particulièrement
-en dehors des grandes villes.
-Lire la synthèse régionale
-Que perçoivent les Français de l’action de l’État ? Quels liens entretiennent-ils avec les institutions, les services publics et les représentants de l’action publique ? Et comment ces liens varient-ils selon les régions, les expériences ou les trajectoires individuelles ?
-C’est pour répondre à ces questions que
-le
-Service d’information du Gouvernement
-(SIG), sous l’impulsion de la porte-parole du Gouvernement, a engagé une démarche inédite d’écoute et de diagnostic
-. Mêlant enquête d’opinion (près de 10 000 Français interrogés en ligne), immersion sur le terrain (150 entretiens réalisés en face-à-face, dans toute la France) et rencontres régionales, elle explore
-le rapport des Français à leur territoire et à l’action publique locale
+Close
+Illustrative image -
+Source: Prefecture of Auvergne-Rhône-Alpes
+In Auvergne-Rhône-Alpes, the inhabitants
+widely favor their living environment, marked by nature, the mountains and
+an environment considered pleasant. This satisfaction, however, contrasts with
+disparities in access to services: mobility is generally well perceived, but
+many still rely on cars, especially in rural areas. The
+Public transport suffers from delays or lack of coverage.
+Safety is at the top of the list of priorities, with
+growing feeling of worry, even in areas deemed calm. Side
+health, almost one in two inhabitants has already given up on care, due to
+lack of professionals or the remoteness of structures, particularly
+outside of big cities.
+Read the regional summary
+What do the French perceive of state action? What links do they maintain with institutions, public services and representatives of public action? And how do these links vary according to regions, experiences or individual trajectories?
+It is to answer these questions that
+the
+Government Information Service
+(SIG), under the impetus of
+
+e the spokesperson for the Government, has initiated an unprecedented process of listening and diagnosis
+. Combining opinion surveys (nearly 10,000 French people interviewed online), immersion in the field (150 face-to-face interviews throughout France) and regional meetings, it explores
+the relationship of the French to their territory and to local public action
 .
-Une confiance inégale envers les institutions
-Alors que les services publics bénéficient d’
-un bon niveau de satisfaction
-(77 % des Français se disent satisfaits selon le baromètre de l’institut Paul Delouvrier avec Harris Interactive publié en 2024) et que les élus locaux (maires, conseils départementaux et régionaux) conservent une large adhésion,
-la défiance envers la politique reste forte
-(74 % des Français déclarent ne plus lui faire confiance*, selon le baromètre du Centre de recherches politiques de Sciences Po publié en janvier 2025).
-Au-delà de cette défiance,
-une partie des citoyens exprime des difficultés à comprendre les décisions publiques et à en percevoir les effets concrets
-. Ce déficit de lisibilité alimente un sentiment de distance vis-à-vis de l’État.
-Dans le même temps, les citoyens revendiquent
-un droit à l’information
-: ils souhaitent être davantage notifiés de l’action publique, en particulier lorsqu’elle impacte directement leur quotidien.
-Ce constat souligne l’importance de
-renforcer la clarté de la parole publique
+Unequal trust in institutions
+While public services benefit from
+a good level of satisfaction
+(77% of French people say they are satisfied according to the barometer of the Paul Delouvrier institute with Harris Interactive published in 2024) and that local elected officials (mayors, departmental and regional councils) maintain broad support,
+distrust of politics remains strong
+(74% of French people say they no longer trust him*, according to the barometer from the Sciences Po Political Research Center published in January 2025).
+Beyond this distrust,
+some citizens express difficulty understanding public decisions and perceiving their concrete effects
+. This lack of readability fuels a feeling of distance from the State.
+At the same time, citizens are demanding
+a right to information
+: they wish to be more notified of public action, particularly when it directly impacts their daily lives.
+This observation highlights the importance of
+strengthen the clarity of public speech
 ,
-d’ancrer les politiques publiques dans les réalités locales
-et de
-réinvestir des espaces de dialogue de proximité
-, pour retisser un lien de confiance durable avec les citoyens.
-Une enquête au plus près du terrain
-Alors que le Gouvernement a entrepris un exercice de
-refondation de l’action publique
-visant à recentrer l’action de l’État sur ses missions essentielles, ce diagnostic de terrain doit nourrir un dialogue éclairé entre ceux qui conçoivent les politiques publiques et ceux qui en vivent les effets chaque jour.
-Le SIG, en lien avec le porte-parole du Gouvernement, la Direction interministérielle de la transformation publique et le réseau des préfectures, a lancé
-une grande enquête nationale pour mieux cerner les attentes et les ressentis des Français.
-En partenariat avec la régie publicitaire 366 et le cabinet d’études George(s), accompagnés par l’agence Dentsu Aegis, l’enquête repose sur :
-une vaste étude quantitative,
-réalisée par Harris Interactive, auprès de 10 000 personnes (800 par région),
-une immersion ethnographique
-, avec près de 150 entretiens menés auprès d’acteurs du quotidien dans chaque région (infirmières, commerçants, enseignants, agents publics, etc.).
-Le pays d'ici
-Télécharger le « mook » de la France en grand angle.
-PDF - 4.75 Mo
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : Gouvernement
-La France en Grand Angle - une démarche inédite
-Publié le 18 septembre 2025
-, modifié le 18 décembre 2025
-Partager la page
+to anchor public policies in local realities
+and of
+reinvesting local spaces for dialogue
+, to rebuild a lasting bond of trust with citizens.
+A closer-to-the-ground investigation
+While the Government has undertaken an exercise of
+refoundation of public action
+aimed at refocusing State action on its essential missions, this field diagnosis must fuel an informed dialogue between those who design public policies and those who experience their effects every day.
+The SIG, in conjunction with the Government spokesperson, the Interministerial Directorate for Public Transformation and the network of prefectures, launched
+a major national survey to better understand the expectations and feelings of the French.
+In partnership with the advertising agency 366 and the research firm George(s), supported by the Dentsu Aegis agency, the survey is based on:
+a large quantitative study,
+carried out by Harris Interactive, with 10,000 people (800 per region),
+an ethnographic immersion
+, with nearly 150 interviews conducted with everyday stakeholders in each region (nurses, traders, teachers, public officials, etc.).
+The country here
+Download the “mook” of France in wide angle.
+PDF - 4.75 MB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+France in Wide Angle - a unique approach
+Published on September 18, 2025
+, modified on December 18, 2025
+Share page
 Facebook
 Twitter
 LinkedIn
-Envoyer
-Copier le lien
+Send
+Copy link
 
 ---
 
-### Pourquoi s'engager ?
+### Small parcel tax: how does it work?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/taxe-sur-les-petits-colis-comment-ca-marche
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 572
+- **Unique ID:** `922393c577e22ae8`
+
+#### Content:
+
+Small parcel tax: how does it work?
+Published on February 26, 2026
+, modified March 3, 2026
+From March 1, 2026, a tax of two euros per item applies to packages imported from a country outside the European Union.
+Illustrative image -
+Source: AdobeStock
+The so-called “small parcel” tax comes into force
+March 1, 2026.
+Concretely, it applies to
+merchandise items
+contained in shipments with a value of less than 150 euros
+when they are imported from a country outside the European Union.
+Different from customs duties and VAT,
+This tax applies to each item.
+It applies
+even if several items are grouped in the same package
+. For example:
+a package worth 100 euros containing a single item incurs a tax of two euros;
+a package worth 100 euros containing ten separate declared items incurs a tax of twenty euros.
+The tax must be
+paid by the person liable for import VAT
+. It can therefore be either directly the seller or the platform serving as an intermediary.
+The tax applies to shipments to mainland France, Martinique, Guadeloupe, Réunion and Monaco. It does not apply to imports into the territories of Mayotte, Guyana and Saint-Martin.
+This tax is established by article 82 of
+the finance law for 2026
+, which has just been promulgated, in order to
+limit imports of very cheap products
+and encourage the use of short circuits and local shops.
+It is applicable until the entry into force of the similar system
+management fees at the European Union level, scheduled for no later than December 31, 2026.
+To go further:
+Tax on small parcels: information point on its implementation
+on the portal of the General Directorate of Customs and Indirect Duties.
+Simulate the carbon impact of parcel delivery purchasing methods
+What changes in March 2026
+Registration document, tax on small parcels and maternity record... Here is what changes in March 2026.
+News · Daily life
+Published on
+                                    02/25/2026
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Public finances
+·
+Economy
+›
+Consumption
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Roland Lescure
+On the same theme
+Budget 2026: the Prime Minister commits the Government to responsibility
+News
+                                                    · Public finances
+Budget 2026: Sébastien Lecornu defends a compromise budget
+News
+                                                    · Public finances
+Budget 2026: the Prime Minister details his priorities
+News
+                                                    · Public finances
+Budget 2026: what to remember from the special law
+News
+                                                    · Public finances
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### Why get involved?
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/partenaires-de-letat/pourquoi-sengager
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 344
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 329
 - **Unique ID:** `af81b52cdb702778`
 
 #### Content:
 
-Pourquoi s'engager ?
-Publié le 18 juin 2025
-, modifié le 12 novembre 2025
+Why get involved?
+Published on June 18, 2025
+, modified on November 12, 2025
 Adobe Stock -
-Source : Adobe Stock
-Rejoignez un réseau où votre action devient un levier de transformation sociale et environnementale, reconnu et soutenu par l'État.
-Renforcez votre impact sociétal
-Saisissez une opportunité d'agir pour l'intérêt général en participant aux grands défis de notre temps ! Au-delà d'une simple collaboration, vous créez de nouveaux ponts entre l'État et les citoyens, contribuant ainsi aux transformations sociales et environnementales essentielles pour notre société. Votre engagement devient un véritable levier d'action !
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : SIG
-Bénéficiez d'une reconnaissance institutionnelle
-En rejoignant notre réseau, vous bénéficiez de la reconnaissance
-institutionnelle
-de l'État et accédez aux outils et ressources des campagnes. Renforcez la crédibilité de vos engagements RSE et votre positionnement d'acteur responsable !
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : SIG
-Intégrez un écosystème dynamique
-En devenant partenaire de l’État, vous intégrez une communauté engagés. Ce réseau vous ouvre les portes d'événements exclusifs, favorise les échanges enrichissants avec d'autres acteurs de votre secteur et le développement de nouvelles synergies.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : SIG
-Optimisez vos ressources
-Développez des actions à fort impact grâce à des contenus clés en main,  ou un accompagnement personnalisé par les équipes du Service d'Information du Gouvernement pour co-construire des dispositifs qui vous seront propres ! Ainsi, vous développerez des actions à fort impact en mutualisant efficacement les moyens à votre disposition.
-YouTube est désactivé.
-Autorisez le dépôt de cookies pour accéder à cette fonctionnalité
-Autoriser
-Source : SIG
-Le programme « Partenariat avec l’État »
-Le Service d'Information du Gouvernement (SIG) pilote le programme « Partenariat avec l'État ». Placé sous l'autorité du Premier ministre, le SIG coordonne et anime un réseau de partenaires issus des sphères privées et associatives pour maximiser la portée des messages gouvernementaux.
-Je veux devenir partenaire de l'État
+Source: AdobeStock
+Join a network where your action becomes a lever for social and environmental transformation, recognized and supported by the State.
+Strengthen your societal impact
+Seize an opportunity to act in the general interest by participating in the major challenges of our time! Beyond a simple collaboration, you create new bridges between the State and citizens, thus contributing to the social and environmental transformations essential for our society. Your commitment becomes a real lever for action!
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Benefit from institutional recognition
+By joining our network, you benefit from recognition
+institutional
+and access campaign tools and resources. Strengthen the credibility of your CSR commitments and your positioning as a responsible actor!
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Integrate a dynamic ecosystem
+By becoming a partner of the State, you become part of a committed community. This network opens the doors to exclusive events, promotes enriching exchanges with other players in your sector and the development of new synergies.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Optimize your resources
+Develop high-impact actions thanks to turnkey content, or personalized support from the Government Information Service teams to co-build systems that are specific to you! In this way, you will develop high-impact actions by effectively pooling the resources at your disposal.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+The “Partnership with the State” program
+The Government Information Service (GIS) is piloting the “Partnership with the State” program. Placed under the authority of the Prime Minister, the SIG coordinates and leads a network of partners from the private and associative spheres to maximize the reach of government messages.
+I want to become a partner of the State
 
 ---
 
-### Campagnes en cours
+### “My psychological support”: 12 sessions reimbursed per year
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1153
+- **Unique ID:** `2a001161089ddf5e`
+
+#### Content:
+
+“My psychological support”: 12 sessions reimbursed per year
+Published on April 3, 2025
+, modified on May 28, 2025
+The objective of the system is to facilitate access to psychological support. We'll explain how.
+An appointment with the psychologist -
+Source: Getty
+You suffer
+anxiety disorders or depressive disorders? Of troubles
+eating behavior? You would like to consult a
+psychologist?
+You can, with the “My psychological support” system, benefit from
+reimbursement of twelve psychological support sessions per year.
+These twelve sessions include
+an assessment session
+in person, then until
+eleven follow-up sessions.
+For students, My psychological support can be combined with
+Health Psy student
+.
+It is estimated that more than one in five French people will be affected by a mental disorder during their lifetime (according to the World Health Organization).
+16% of the population in France is affected by depression and 23% by an anxiety disorder, according to Public Health France.
+My psychological support allowed
+nearly 587,000 patients have access to mental health care
+since its launch in 2022
+The number of new policyholders who have benefited from the system has
+almost doubled
+comparing the end of 2023 and 2024.
+My psychological support, how does it work?
+It is no longer essential to have a medical prescription to benefit from the device.
+To benefit from this system, you must:
+be at least 3 years old and have mild to moderate disorders
+(anxiety, depression, anxiety, problem with tobacco, alcohol or cannabis consumption, eating disorder),
+address
+a partner psychologist
+of Health Insurance via
+the directory available on ameli.fr
+.
+At the beginning of April 2025, Health Insurance had nearly 5,500 partner psychologists spread across the entire French territory.
+Criteria, steps...: click here to find out more about My psychological support on the Ameli website
+Health professionals
+(treating doctors or midwives for example) can also refer the patient to a psychologist if their condition requires it.
+Each session is billed at 50 euros
+by the psychologists who are partners of the system. Excess fees are prohibited.
+The price was recently increased to 50 euros, compared to 30 euros previously.
+This amount is covered 60% by Health Insurance and 40% by complementary health insurance. (For patients benefiting from Supplementary Solidarity Health, for care related to a long-term illness, maternity (from the 6th month of pregnancy), or even an accident at work or an occupational illness, coverage is 100%.)
+Enlarge the visual
+My psychological support, in short.  -
+Source: Source: Ministry of Labor, Health and Solidarity
+Close
+My psychological support, in short.  -
+Source: Ministry of Labor, Health and Solidarity
+Transcription
+Enlarge
+Close
+Transcription
+My Psychological Support, talking about it is already treating yourself.
+“My psychological support” (from 3 years old). Benefit from reimbursed sessions with a psychologist approved by Health Insurance.
+Anyone can benefit, depending on their needs, from reimbursed sessions with a partner psychologist:
+- a system for the entire population from 3 years old,
+- up to 8 sessions of psychological support reimbursed per calendar year,
+- upon referral from a doctor
+Find all the information on the My psy support system on: monsoutienpsy.sante.gouv.fr
+If you have any questions, you can contact your primary health insurance fund (CPAM): at 3646 (free service, + call price)
+What is the role of the doctor?
+In the “My psych support” system, you must necessarily be referred by a doctor. He checks your state of health and can offer you psychological support. In the event of more severe problems, he can direct you towards appropriate treatment.
+In case of emergency or suicidal thoughts, contact 3114 immediately.
+What is the role of the psychologist?
+The partner psychologist is there to help you.
+Psychological support includes a dimension of listening, empathy and understanding. For mild to moderate disorders, it is an effective alternative to drug treatment.
+With your agreement, the doctor and the psychologist communicate regularly to adapt your course to your needs.
+“Don’t be alone with your discomfort”
+To make it better known My support ps
+
+y
+, Health Insurance is launching, from March 30 to April 20, 2025,
+a national campaign
+which encourages people experiencing discomfort to seek out a partner psychologist.
+This campaign wants to contribute
+to destigmatize disorders affecting mental health
+, while mental health is the
+Great national cause
+of the year 2025.
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+The TV spot shows
+people gripped in their daily lives by dark thoughts
+, represented by a “nebula” around their heads.
+The message emphasizes that
+psychological monitoring is likely to alleviate
+, or even to make this suffering disappear. The film ends with an invitation:
+“My psychological support, don’t be alone with your discomfort.”
+To find out more about the My Psycho Support campaign:
+a national campaign to raise awareness of the system
+Let’s talk mental health!
+“Let’s talk mental health! ". More than a slogan, this formula is an ambition for our society supported by the Government, which has made mental health the great national cause...
+Large folder
+Published on
+                                    03/17/2025
+The questions you dare not ask about mental health
+Astrid Chevance is a psychiatrist, head of public health clinic at Paris-Cité University, and researcher in epidemiology. A recognized specialist, she helps us better understand...
+News · Public health
+Published on
+                                    03/19/2025
+How to support psychological suffering?
+DIRECTIONS FOR USE. Mental suffering can take forms ranging from mild to serious, such as depression, anxiety disorders and post-traumatic disorders.
+News · Public health
+Published on
+                                    01/08/2025
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Health
+›
+Search
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 5 + 8
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Building new progress and rebuilding our public services
+Frédéric Valletoux
+On the same theme
+Better treatment for endometriosis
+News
+                                                    · Search
+Becoming the first innovative European nation in health
+News
+                                                    · Search
+Innovation, the spearhead of medical progress
+News
+                                                    · Search
+Finding drugs for diseases that are currently incurable
+News
+                                                    · Search
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Current campaigns
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/partenaires-de-letat/nos-campagnes-en-cours
 - **Published Date:** 2025-10-01
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 477
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 464
 - **Unique ID:** `77a110e5c58df338`
 
 #### Content:
 
-Campagnes en cours
-Publié le 16 septembre 2025
-, modifié aujourd'hui à 21:45
+Current campaigns
+Published on September 16, 2025
+, modified yesterday at 9:45 p.m.
 Adobe Stock -
-Source : Adobe Stock
-Candidatez aux campagnes de communication du Gouvernement et devenez partenaire de l'État.
+Source: AdobeStock
+Apply for Government communication campaigns and become a partner of the State.
 8
-                                                campagnes
-Afficher les filtres
-Thématiques
-Bien-être
-Crise
-Décarbonation
-Environnement
-Formation
+                                                campaigns
+Show filters
+Themes
+Well-being
+Crisis
+Decarbonization
+Environment
+Training
 Inclusion
-Inclusion sociale
-Jeunesse
+Social inclusion
+Youth
 Justice
-Prévention
-Recrutement
-Santé
-Santé mentale
-Services publics
-Sécurité
-Transition écologique
-Périodes
-Choisir une/des options
+Prevention
+Recruitment
+Health
+Mental health
+Utilities
+Security
+Ecological transition
+Periods
+Choose one or more options
 2025
 2026
-Zones géographiques
-Choisir une/des options
+Geographical areas
+Choose one or more options
 National
-Publics cibles
-Choisir une/des options
-Grand public
-Jeunes
-Ministères
-Choisir une/des options
-Agence du Service Civique
-Ministère de l'Education nationale
-Ministère de la Justice
-Ministère de l’Économie
-Services du Premier ministre
-Filtrer
-Réinitialiser les filtres
-Résilience
-Campagne pour sensibiliser et mobiliser les citoyens autour des enjeux de santé, sécurité et protection des populations face aux crises, en renforçant leur capacité à prévenir et gérer les situations d’urgence.
-Santé
-Crise
-Sécurité
-Prévention
-Environnement
-Du
-01 octobre 2025
-au
-31 décembre 2026
+Target audiences
+Choose one or more options
+General public
+Young people
+Ministries
+Choose one or more options
+Civic Service Agency
+Ministry of National Education
+Ministry of Justice
+Ministry of Economy
+Prime Minister's Office
+Filter
+Reset filters
+Resilience
+Campaign to raise awareness and mobilize citizens around issues of health, safety and protection of populations in the face of crises, by strengthening their capacity to prevent and manage emergency situations.
+Health
+Crisis
+Security
+Prevention
+Environment
+From
+October 1, 2025
+at
+December 31, 2026
 National
-Grand public
-Services du Premier ministre
-Appel à manifestation d'intérêt
-PDF - 170.12 Ko
-En savoir plus
-Postuler
-Je suis victime
-Campagne visant à mieux informer et orienter les victimes en promouvant le portail « Je suis victime » et les dispositifs d’aide gratuits.
+General public
+Prime Minister's Office
+Call for expressions of interest
+PDF - 170.12 KB
+Learn more
+Apply
+I am a victim
+Campaign aimed at better informing and guiding victims by promoting the “I am a victim” portal and free support systems.
 Justice
-Du
-14 novembre 2025
-au
-31 mars 2026
+From
+November 14, 2025
+at
+March 31, 2026
 National
-Grand public
-Ministère de la Justice
-Appel à manifestation d'intérêt
-En savoir plus
-Postuler
-Familles d'accueil
-Campagne de recrutement de familles d'accueil pour enfants en difficulté
-Recrutement
-Jeunesse
+General public
+Ministry of Justice
+Call for expressions of interest
+Learn more
+Apply
+Host families
+Recruitment campaign for host families for children in difficulty
+Recruitment
+Youth
 Inclusion
-Du
-05 janvier 2026
-au
-31 mars 2026
+From
+January 05, 2026
+at
+March 31, 2026
 National
-Grand public
-Ministère de la Justice
-Appel à manifestation d'intérêt
-PDF - 161.61 Ko
-En savoir plus
-Postuler
-Chèque énergie
-Campagne d'information et de promotion du chèque énergie
-Environnement
-Services publics
-Du
-20 mars 2026
-au
-25 mars 2026
+General public
+Ministry of Justice
+Call for expressions of interest
+PDF - 161.61 KB
+Learn more
+Apply
+Energy check
+Energy check information and promotion campaign
+Environment
+Utilities
+From
+March 20, 2026
+at
+March 25, 2026
 National
-Grand public
-Ministère de l’Économie
-Appel à manifestation d'intérêt
-PDF - 174.56 Ko
-En savoir plus
-Postuler
-Cet été je lis
-Campagne de sensibilisation et de promotion à la lecture chez les jeunes
-Jeunesse
-Inclusion sociale
-Formation
-Du
-23 mars 2026
-au
-30 avril 2026
+General public
+Ministry of Economy
+Call for expressions of interest
+PDF - 174.56 KB
+Learn more
+Apply
+This summer I read
+Campaign to raise awareness and promote reading among young people
+Youth
+Social inclusion
+Training
+From
+March 23, 2026
+at
+April 30, 2026
 National
-Grand public
-Ministère de l'Education nationale
-Appel à manifestation d'intérêt
-PDF - 223.77 Ko
-En savoir plus
-Postuler
-Journée du Service Civique
-Campagne visant à valoriser l’engagement des jeunes volontaires et à amplifier la visibilité du Service Civique
-Jeunesse
-Inclusion sociale
-Du
-23 mars 2026
-au
-10 juin 2026
+General public
+Ministry of National Education
+Call for expressions of interest
+PDF - 223.77 KB
+Learn more
+Apply
+Civic Service Day
+Campaign aimed at promoting the commitment of young volunteers and increasing the visibility of Civic Service
+Youth
+Social inclusion
+From
+March 23, 2026
+at
+June 10, 2026
 National
-Jeunes
-Agence du Service Civique
-Appel à manifestation d'intérêt
-PDF - 267.08 Ko
-En savoir plus
-Postuler
-Non au Harcèlement
-Campagne de lutte contre le harcèlement scolaire
-Santé mentale
-Jeunesse
-Bien-être
-Prévention
-Du
-23 mars 2026
-au
-30 avril 2026
+Young people
+Civic Service Agency
+Call for expressions of interest
+PDF - 267.08 KB
+Learn more
+Apply
+No to Harassment
+Campaign to combat school bullying
+Mental health
+Youth
+Well-being
+Prevention
+From
+March 23, 2026
+at
+April 30, 2026
 National
-Grand public
-Ministère de l'Education nationale
-Appel à manifestation d'intérêt
-PDF - 281.37 Ko
-En savoir plus
-Postuler
-Tourisme durable et mobilités bas carbone
-Campagne de sensibilisation et de promotion des mobilités touristiques décarbonées
-Décarbonation
-Environnement
-Transition écologique
-Du
-23 mars 2026
-au
-20 avril 2026
+General public
+Ministry of National Education
+Call for expressions of interest
+PDF - 281.37 KB
+Learn more
+Apply
+Sustainable tourism and low carbon mobility
+Campaign to raise awareness and promote low-carbon tourist mobility
+Decarbonization
+Environment
+Ecological transition
+From
+March 23, 2026
+at
+April 20, 2026
 National
-Grand public
-Ministère de l’Économie
-Appel à manifestation d'intérêt
-Postuler
+General public
+Ministry of Economy
+Call for expressions of interest
+Apply
 
 ---
 
-### Plein emploi et réindustrialisation - Axe prioritaire du Gouvernement | info.gouv.fr
+### Decoding
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/decodage
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 212
+- **Unique ID:** `fdfa09806377d561`
+
+#### Content:
+
+Decoding
+Current topics decoded by an expert.
+Illustration of the Decoding format -
+Source: Government Information Service
+Depression in adolescents: “consulting is never serious”
+Published on January 19, 2026
+Suicide among young people: “suicidal ideas are a matter of care”
+Published on December 12, 2025
+Secularism: “the power of law is to iron out conflict”
+Published on December 9, 2025
+Mental health: why sleep plays a key role
+Published on December 8, 2025
+Young people: hyperconnected, but alone
+Published on December 2, 2025
+“Cannabis use increases the risk of disorders
+psychiatric »
+Published on June 26, 2025
+Eating disorders are
+complex, durable and multifaceted
+Published on June 2, 2025
+Quitting smoking improves mental health
+Published on June 2, 2025
+Down syndrome: research progress
+Published on March 21, 2025
+The questions you dare not ask about mental health
+Published on March 19, 2025
+Artificial intelligence for mental health
+Published on December 12, 2024
+Artificial intelligence within French justice
+Published on December 10, 2024
+What are gender-based and sexual violence?
+Published on November 25, 2024
+The challenges of AI at university
+Published on October 23, 2024
+How did France become a secular country?
+Published on October 17, 2024
+Mental health on social networks: what are the risks of self-diagnosis?
+Published on October 10, 2024
+
+---
+
+### Bipolar disorders, when speech becomes free
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/troubles-bipolaires-quand-la-parole-se-libere
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 970
+- **Unique ID:** `4bf84d4074d25e27`
+
+#### Content:
+
+Crossed perspectives -
+Source: Government Information Service
+Bipolar disorders, when speech becomes free
+Published on February 13, 2026
+, modified February 13, 2026
+CROSSED VIEWS. Bipolarity today benefits from increased visibility in the public space, supported in particular by testimonies from artists or media personalities. This development helps to remove certain taboos, but it is also accompanied by risks of simplification, or even romanticization of the disease. Cross-interview with professor Chantal Henry, specialist in bipolar disorders, and singer Laurēm, author and performer of the album Bipolar.
+With the speaking of public figures like Nicolas Demorand, bipolarity is gaining visibility. A major breakthrough for a disorder that is still little-known and often surrounded by clichés. State of play in the company of singer Laurēm, author and performer of the album
+Bipolar
+, accompanied by a book bringing together patient testimonies and contributions from experts, and Professor Chantal Henry, psychiatrist specializing in bipolar disorders.
+We cannot cure bipolar disorder in the strict sense, because the vulnerability persists. On the other hand, lasting stabilization is possible.
+Chantal Henry
+Professor of psychiatry at Paris Cité University and practitioner at Sainte-Anne hospital, specialist in bipolar disorders.
+Telling my story in songs and poems allowed me to rebuild myself [...]. Sharing this word helps other people recognize themselves and seek help sooner.
+Laurēm
+Author and performer of the album
+Bipolar.
+The liberation of speech: a still fragile turning point?
+Laurēm:
+The word around bipolarity is becoming clearer, but we must continue to increase the number of testimonies and interviews. In my family, the disease crosses several generations: I grew up with adults affected, some went as far as suicide. When my own disorders broke out at the age of 28, I immediately understood what I was going through. For a long time, I stopped and resumed my treatments, went through manic phases and deep depressions, was hospitalized... This put my life on hold, while I built my artistic career and my personal life.
+Today, telling my story in songs and poems has allowed me to rebuild myself, to give meaning to scattered fragments written during my hospitalizations. Sharing this word helps other people recognize themselves and seek help sooner.
+Professor Chantal Henry:
+Speech is freed, but it remains fragile and in the minority. However, it is decisive: many patients recognize their symptoms after hearing a testimony and finally consult. The artistic word opens a door of identification, the medical word provides the framework and the benchmarks. The two registers complement each other: one removes shame, the other provides the means to act.
+Does liberated speech allow us to better understand the reality of the illness, far from clichés?
+L.:
+Bipolarity is too often minimized. Hearing phrases like “we’re all a little bit bipolar” or “you just need to get moving” is harsh. It's not laziness or acting out if you stay in bed for weeks. I experienced these moments as a mother: sometimes I couldn't take care of my baby, be there for him, because I was totally devastated. The illness is destructive, and you must learn to master it to regain control of your daily life.
+Professor C. H.:
+Stereotypes persist: violence, unpredictability, “creative genius.” Bipolar disorder is a serious, intermittent illness that can be severe and even fatal if left untreated. Creativity is born neither in depression nor in mania: it is built in a stable phase, when energy and mental organization are restored. Between episodes, life can be quite ordinary - a point too often forgotten.
+Diagnosis, treatment, access to care: what are the real issues?
+L.:
+I experienced twelve years of wandering, interrupted treatments, manic and depressive cycles, hospitalizations. The support allowed me to regain control: understand the signals, adjust my pace, feel supported. The book that I coordinated brings together numerous testimonies: finding a psychiatrist, getting support, is often an obstacle course. Speech is freed, but access to care must
+
+follow.
+Professor C. H.:
+The diagnosis still comes too late, often after years of wandering. Hypomania, more discreet, delays treatment. However, appropriate treatment – ​​medicinal, psychotherapeutic and psychoeducational – allows lasting stabilization and a fully satisfying life. The major challenge remains access to care: shortage of psychiatrists, territorial inequalities, excessively long delays. The freedom of speech only makes sense if it is accompanied by a real capacity to help those who finally recognize themselves in this disorder.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Health
+›
+Public health
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Stephanie Rist
+On the same theme
+Depression in adolescents: “consulting is never serious”
+News
+                                                    · Public health
+Mental health: “peer assistance saved my life”
+News
+                                                    · Public health
+Intergenerational cohabitation: an encounter that changes two lives
+News
+                                                    · Public health
+Mental suffering of the elderly: better identification, better support, better prevention
+News
+                                                    · Public health
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Full employment and reindustrialization - Government priority | info.gouv.fr
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/politiques-prioritaires/atteindre-le-plein-emploi-et-reindustrialiser-la-france
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1434
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1355
 - **Unique ID:** `daa1ed6b909fddcc`
 
 #### Content:
 
-Ce qui change pour moi en
-Zone :
+What changes for me
+Area:
 France
-Fermer
-Changer de zone
-Voir toute la France
-OU
-Rechercher
-Régions
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
 Auvergne-Rhône-Alpes
-Bourgogne-Franche-Comté
-Bretagne
-Centre-Val de Loire
-Corse
-Grand Est
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
 Guadeloupe
-Guyane Française
+French Guiana
 Hauts-de-France
 Île-de-France
-La Réunion
+Reunion
 Martinique
 Mayotte
-Normandie
-Nouvelle-Aquitaine
+Normandy
+New Aquitaine
 Occitanie
-Pays de la Loire
-Provence-Alpes-Côte d'Azur
-Départements
-01 - Ain
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
 02 - Aisne
 03 - Allier
 04 - Alpes-de-Haute-Provence
 05 - Hautes-Alpes
 06 - Alpes-Maritimes
-07 - Ardèche
+07 - Ardeche
 08 - Ardennes
 09 - Ariège
-10 - Aube
+10 - Dawn
 11 - Aude
 12 - Aveyron
 13 - Bouches-du-Rhône
@@ -3398,19 +6949,19 @@ Départements
 15 - Cantal
 16 - Charente
 17 - Charente-Maritime
-18 - Cher
+18 - Dear
 19 - Corrèze
-21 - Côte-d'Or
+21 - Côte-d’Or
 22 - Côtes-d'Armor
-23 - Creuse
+23 - Hollow
 24 - Dordogne
 25 - Doubs
 26 - Drôme
 27 - Eure
 28 - Eure-et-Loir
 29 - Finistère
-2A - Corse-du-Sud
-2B - Haute-Corse
+2A - South Corsica
+2B - Upper Corsica
 30 - Gard
 31 - Haute-Garonne
 32 - Gers
@@ -3429,9 +6980,9 @@ Départements
 45 - Loiret
 46 - Lot
 47 - Lot-et-Garonne
-48 - Lozère
+48 - Lozere
 49 - Maine-et-Loire
-50 - Manche
+50 - Sleeve
 51 - Marne
 52 - Haute-Marne
 53 - Mayenne
@@ -3440,7 +6991,7 @@ Départements
 56 - Morbihan
 57 - Moselle
 58 - Nièvre
-59 - Nord
+59 - North
 60 - Oise
 61 - Orne
 62 - Pas-de-Calais
@@ -3450,7 +7001,7 @@ Départements
 66 - Pyrénées-Orientales
 67 - Bas-Rhin
 68 - Haut-Rhin
-69 - Rhône
+69 - Rhone
 70 - Haute-Saône
 71 - Saône-et-Loire
 72 - Sarthe
@@ -3461,17 +7012,17 @@ Départements
 77 - Seine-et-Marne
 78 - Yvelines
 79 - Deux-Sèvres
-80 - Somme
+80 - Sum
 81 - Tarn
 82 - Tarn-et-Garonne
 83 - Var
 84 - Vaucluse
 85 - Vendée
-86 - Vienne
+86 - Vienna
 87 - Haute-Vienne
 88 - Vosges
 89 - Yonne
-90 - Territoire de Belfort
+90 - Territory of Belfort
 91 - Essonne
 92 - Hauts-de-Seine
 93 - Seine-Saint-Denis
@@ -3479,229 +7030,371 @@ Départements
 95 - Val-d'Oise
 971 - Guadeloupe
 972 - Martinique
-973 - Guyane Française
-974 - La Réunion
+973 - French Guiana
+974 - Reunion
 976 - Mayotte
-Explorer les données
-Priorité du Gouvernement
-Atteindre le plein emploi et réindustrialiser le pays
-L'enjeu est de regagner notre indépendance stratégique sur des technologies et savoir-faire d’avenir, mais également de résorber les inégalités d’accès à l’emploi et agir contre les discriminations à l’embauche.
-5 chantiers pour l'emploi et l'industrie
-Objectif atteint
-Créer des emplois pour notre souveraineté industrielle
-Objectif atteint à 100%
-1 indicateur
-Former les jeunes avec l'apprentissage
-Objectif atteint à 93%
-2 indicateurs
-Former aux métiers d’avenir
-Objectif atteint à 67%
-3 indicateurs
-Assurer les investissements d'avenir avec France 2030
-Objectif atteint à 57%
-1 indicateur
-Faciliter l’installation et le développement des sites industriels
-Objectif atteint à 27%
-2 indicateurs
-Afficher tout
-Les défis
-auxquels nous faisons face
-Jusqu’aux années 2010, la
-France était marquée par plus de 40 ans de chômage de masse
-et de désindustrialisation.
-Aujourd’hui, l’enjeu est double :
-Répondre aux
-besoins de la Nation
-(métiers en tension, compétences stratégiques)
-pour regagner notre indépendance
-stratégique sur des technologies et savoir-faire d’avenir.
-Résorber les inégalités d’accès à l’emploi
-et agir contre les discriminations à l’embauche.
-Cela, dans un contexte d'
-attentes nouvelles des Français dans leur rapport au travail
-(flexibilité, mobilité
-professionnelle, épanouissement et reconnaissance, prise en compte de toutes
-les formes de pénibilités, travail qui paie mieux …).
-De premières
-améliorations depuis 6 ans
-Malgré un contexte de crises successives (sanitaire, énergétique…), nous sommes passés de 9,6 % en 2017 à 7,2 % de chômage en 2023 (soit + 1,7M d’emplois en 6 ans), nous avons créé 90 000 emplois industriels et atteint plus de 837 000 apprentis.
-Ouverture de
-	800 industries, ouverture de nouvelles lignes de production
-	stratégiques (paracétamol, semi-conducteurs) et lancement du plan
-	France 2030 (54 milliards d'euros).
-Un pouvoir d’achat des ménages
-	français quasiment au même niveau en 2023 qu’en 2019, malgré
-	les crises, par d’importants dispositifs de soutien ( «
-	quoi qu’il en coûte » du Covid, boucliers énergétiques..),
-	à la création de divers outils de partage de la valeur (« prime Macron…») et à des baisses d’impôts
-	(suppression de la taxe d’habitation, de la redevance TV, baisse
-	de l’impôt sur le revenu…).
-…mais encore des chantiers à
-mener
-Les priorités jusqu’en 2027
-1 - Atteindre le plein-emploi et permettre à chacun de s’insérer
-professionnellement
-Pourquoi ?
-Le plein-emploi (autour de 6 % de chômage) est tant le gage d’une économie forte qui
-produit des richesses et permet ainsi de les redistribuer, que d’un
-pouvoir retrouvé pour les salariés dans la négociation salariale, dans un
-marché du travail avec davantage d'opportunités.
-L’objectif est aujourd’hui d’inciter à la reprise d’activité et
-mieux aider chacun en fonction de ses besoins.
-En complément de la réforme
-de l’assurance chômage, qui sera en particulier accompagné ?
-Les publics les plus éloignés de l’emploi
-(travailleurs
-peu qualifiés, allocataires du RSA) par le déploiement d’un accompagnement renforcé
-et personnalisé avec France Travail (transformation de Pôle emploi).
-Les jeunes,
-avec la réforme du lycée
-professionnel, à l'apprentissage et la transformation des filières du secondaire pour faciliter
-l’entrée sur le marché du travail, ainsi qu’en déployant des programmes
-spécifiques comme « 1 jeune, 1 solution »…
-Les seniors,
-grâce au cumul
-emploi-retraite et divers dispositifs pour garantir leur maintien dans l’emploi.
-Les personnes en situation de handicap,
-par une
-transformation de l’accompagnement en Établissements et service d’aide par le travail (ESAT) notamment.
-2 - Améliorer la qualité de vie au travail et permettre à chacun d’avoir un
-« bon emploi »
-Pourquoi ?
-La qualité de vie au travail est essentielle pour
-l’épanouissement.
-L’enjeu est aujourd’hui d’inciter tant l’État que les
-entreprises à se saisir des nouvelles attentes de la société pour continuer de
-donner à chacun la liberté de construire son avenir et d’avoir un véritable
-parcours professionnel.
-Le « pacte de vie au travail » qui sera
-lancé avec les partenaires sociaux au printemps 2023, devra permettre d’y
-répondre.
-Comment ?
-Permettre à chacun de se former tout au long de
-la vie
-grâce aux VAE, CPF…
-Faire en sorte que le travail paie mieux, grâce à
-plusieurs mécanismes de partage de la valeur.
-Améliorer la qualité de vie au travail,
-permettre à chacun de maîtriser son temps et mieux prévenir l’usure
-professionnelle.
-Ce chantier fera l’objet d’échanges approfondis avec les
-partenaires sociaux.
-Poursuivre
-les efforts en matière d'
-égalité
-professionnelle et économique entre les hommes et les femmes
-, grâce à la mise en
-place d’index, d’actions de sensibilisation et de transparence…
-3 - Continuer à réindustrialiser la France
-Pourquoi ?
-Développer
-une industrie française (et européenne) est indispensable au renforcement de notre
-souveraineté.
-Implantées au cœur de nos territoires, ces usines et entreprises
-sont les poumons de notre économie, créateurs d’emplois de qualité et innovants.
-Comment ?
-Poursuivre l’innovation dans les secteurs
-stratégiques avec France 2030
-(technologies, mobilités, médecine,
-énergies, intelligence artificielle …), dans l'optique de
-devenir une grande puissance verte
+Explore the data
+Government priority
+Achieve full employment and reindustrialize the country
+The challenge is to regain our strategic independence on technologies and know-how of the future, but also to reduce inequalities in access to employment and act against discrimination in hiring.
+5 projects for employment and industry
+Objective achieved
+Create jobs for our industrial sovereignty
+Objective achieved 100%
+1 indicator
+Training young people through apprenticeship
+Objective reached at 93%
+2 indicators
+Training for jobs of the future
+Objective reached at 67%
+3 indicators
+Ensuring investments for the future with France 2030
+Objective reached at 57%
+1 indicator
+Facilitate the installation and development of industrial sites
+Objective achieved at 27%
+2 indicators
+Show all
+The challenges
+that we face
+Until the 2010s, the
+France was marked by more than 40 years of mass unemployment
+and deindustrialization.
+Today, the challenge is twofold:
+Reply to
+needs of the Nation
+(jobs under pressure, strategic skills)
+to regain our independence
+strategy on technologies and know-how of the future.
+Resolve inequalities in access to employment
+and act against discrimination in hiring.
+This, in a context of
+new expectations of the French in their relationship to work
+(flexibility, mobility
+professional, development and recognition, taking into account all
+forms of arduousness, work that pays better, etc.).
+Firsts
+improvements over 6 years
+Despite a context of successive crises (health, energy, etc.), we went from 9.6% in 2017 to 7.2% unemployment in 2023 (i.e. +1.7M jobs in 6 years), we created 90,000 industrial jobs and reached more than 837,000 apprentices.
+Opening of
+	800 industries, opening of new production lines
+	strategic (paracetamol, semiconductors) and launch of the plan
+	France 2030 (54 billion euros).
+Household purchasing power
+	French almost at the same level in 2023 as in 2019, despite
+	crises, through significant support mechanisms (“
+	whatever it costs” of Covid, energy shields..),
+	the creation of various value sharing tools (“Macron bonus…”) and tax cuts
+	(removal of the housing tax, the TV license fee, reduction
+	income tax…).
+…but still work to be done
+lead
+Priorities until 2027
+1 - Achieve full employment and allow everyone to join
+professionally
+Why?
+Full employment (around 6% unemployment) is so much the ga
+
+age of a strong economy which
+produces wealth and thus allows it to be redistributed, that of a
+power regained for employees in salary negotiation, in a
+labor market with more opportunities.
+The objective today is to encourage the resumption of activity and
+better help everyone according to their needs.
+In addition to the reform
+unemployment insurance, who will be supported in particular?
+The groups furthest from employment
+(workers
+low-skilled, RSA recipients) through the deployment of reinforced support
+and personalized with France Travail (transformation of Pôle emploi).
+Young people,
+with the high school reform
+professional, learning and transformation of secondary education pathways to facilitate
+entry into the labor market, as well as by deploying programs
+specific as “1 young person, 1 solution”…
+Seniors,
+thanks to the accumulation
+employment-retirement and various measures to guarantee their continued employment.
+People with disabilities,
+by one
+transformation of support into establishments and work assistance services (ESAT) in particular.
+2 - Improve the quality of life at work and allow everyone to have a
+“good job”
+Why?
+Quality of life at work is essential for
+flourishing.
+The challenge today is to encourage both the State and the
+companies to embrace the new expectations of society to continue to
+give everyone the freedom to build their future and have a real
+professional career.
+The “life at work pact” which will be
+launched with social partners in spring 2023, should make it possible to
+answer.
+How ?
+Allow everyone to train throughout
+life
+thanks to VAE, CPF…
+Making work pay better, thanks to
+several value sharing mechanisms.
+Improve the quality of life at work,
+allow everyone to control their time and better prevent wear and tear
+professional.
+This project will be the subject of in-depth discussions with the
+social partners.
+Continue
+efforts in terms of
+equality
+professional and economic between men and women
+, thanks to the implementation
+place of index, awareness-raising and transparency actions…
+3 - Continue to reindustrialize France
+Why?
+Develop
+a French (and European) industry is essential to strengthening our
+sovereignty.
+Located in the heart of our territories, these factories and companies
+are the lungs of our economy, creators of quality and innovative jobs.
+How ?
+Pursue innovation in sectors
+strategic with France 2030
+(technologies, mobility, medicine,
+energies, artificial intelligence, etc.), with a view to
+become a great green power
 .
-Planifier les besoins de la Nation et former
-plus d’un million de personnes aux métiers d’avenir d’ici 2027.
-Continuer à accompagner les entreprises
-, en
-réduisant les charges, en facilitant les procédures et en engageant le tournant
-de la numérisation.
+Plan the needs of the Nation and train
+more than a million people in the professions of the future by 2027.
+Continue to support businesses
+, in
+reducing costs, facilitating procedures and engaging the turning point
+of digitization.
 4 –
-Continuer à protéger le pouvoir d’achat des Français, tout
-en s’inscrivant dans une trajectoire de finances publiques soutenable
-Pourquoi ?
-Les Français sont touchés de plein fouet par les crises
-successives et ont pu payer des impôts inéquitables. L’action du quinquennat
-précédent sera poursuivie.
-Comment ?
-Protéger le pouvoir d’achat des Français en
-baissant les impôts
-Agir contre la fraude fiscale et sociale
-Établir une trajectoire de réduction du déficit
-public qui permette de revenir, de manière crédible, sous les 3 % du PIB de
-déficit par an en 2027.
-Plein emploi et réindustrialisation
-Les grands dossiers
-Construire la France de demain
-Relancer l'économie et ressortir renforcé de la crise
+Continue to protect the purchasing power of the French, while
+by being part of a sustainable public finance trajectory
+Why?
+The French are hit hard by the crises
+successive and were able to pay unfair taxes. The five-year action
+precedent will be continued.
+How ?
+Protect the purchasing power of the French by
+lowering taxes
+Act against tax and social fraud
+Establish a deficit reduction trajectory
+public which makes it possible to return, in a credible manner, below 3% of GDP
+deficit per year in 2027.
+Full employment and reindustrialization
+The major files
+Building the France of tomorrow
+Relaunch the economy and emerge stronger from the crisis
 France 2030
-France 2030 vise à accélérer la transformation des secteurs clés de notre économie par l’innovation et à positionner la France, non pas seulement en acteur, mais bien en « leader » du monde de demain.
-Actualités
-Découvrez les dernières actualités liées aux politiques prioritaires du Gouvernement.
-Apprentissage :
-ce qui change dès juillet 2025
-Actualité · Éducation
-Les titres-restaurant bientôt utilisables le dimanche
-Actualité · Économie
-Les soldes d’été ont débuté
-Actualité · Économie
-Entreprendre au féminin : 101 femmes qui montrent l’exemple
-Actualité · Citoyenneté
-Cyclotourisme : comment la France vise la première place mondiale
-Actualité · International
-Travailleurs étrangers : la « liste des métiers en tension » actualisée
-Actualité · Économie
-Voir tous les articles
+France 2030 aims to accelerate the transformation of key sectors of our economy through innovation and to position France, not just as a player, but as a “leader” in the world of tomorrow.
+News
+Discover the latest news related to the Government's priority policies.
+Learning:
+what changes from July 2025
+News · Education
+Meal vouchers soon to be usable on Sundays
+News · Economy
+Summer sales have started
+News · Economy
+Female entrepreneurship: 101 women who lead by example
+News · Citizenship
+Cycle tourism: how France is aiming for first place in the world
+News · International
+Foreign workers: the updated “list of professions in shortage”
+News · Economy
+See t
+
+all items
 
 ---
 
-### Progrès et services publics - Axe prioritaire du Gouvernement | info.gouv.fr
+### Crossed perspectives
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/regards-croises
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 119
+- **Unique ID:** `1f7b4aeb86b84ec8`
+
+#### Content:
+
+Crossed perspectives
+Crossed points of view to better understand major social issues.
+Illustration of the "Crossed Perspectives" format -
+Source: Government Information Service
+Bipolar disorders, when speech becomes free
+Published on February 13, 2026
+Intergenerational cohabitation: an encounter that changes two lives
+Published on December 29, 2025
+Mental suffering of the elderly: better identification, better support, better prevention
+Published on December 23, 2025
+Mental health: human relationships are beneficial at all ages
+Published on December 19, 2025
+Cybersecurity
+and artificial intelligence: what place for women?
+Published on October 2, 2025
+Prevent, raise awareness and act against gender-based and sexual violence
+Published on December 6, 2024
+Crossed perspectives: the inclusion of abortion in the Constitution
+Published on February 23, 2024
+
+---
+
+### Depression in adolescents: “when school results drop, depression is often already established”
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/depression-chez-l-adolescent-quand-les-resultats-scolaires-baissent-la-depression-est-souvent-deja-installee
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 970
+- **Unique ID:** `d27b6a36ba9ac4e1`
+
+#### Content:
+
+Decoding -
+Source: Government Information Service
+Depression in adolescents: “when school results drop, depression is often already established”
+Published on January 19, 2026
+, modified on January 20, 2026
+DECODING. How to distinguish psychological suffering from a normal phase of adolescence, and when to consult? Child psychiatrist Laelia Benoit provides benchmarks to better understand and act.
+Anger, isolation, dropping out of school, poor self-esteem… Adolescence carries many prejudices. It is then difficult to distinguish what is a normal process of identity construction and what may signal depression. Child psychiatrist and researcher
+Inserm
+and at
+Yale Child Study Center
+, Laelia Benoit sheds light on these vague areas and helps to spot the signs that should alert you.
+When slamming doors are accompanied by a marked drop in self-esteem, a feeling of uselessness, withdrawal and a general loss of interest, the situation becomes more worrying.
+Laelia Benoit
+Child psychiatrist, researcher at the Center for Research in Epidemiology and Population Health (CESP) at Inserm and at Yale University.
+How does teenage depression manifest?
+Depression doesn't manifest itself in the same way in adolescents as it does in adults, which sometimes makes it difficult to spot. Where adults evoke persistent sadness or a feeling of despondency, adolescent unhappiness is expressed more through irritability, anger or aggressiveness. This can result in doors slamming at the slightest remark or, on the contrary, in a marked withdrawal, with a feeling of emptiness and boredom.
+At the same time, the adolescent may drop out of school and no longer be interested in what previously motivated him. A young person who loved playing sports, seeing friends or doing hobbies may turn away. We frequently observe difficulties with concentration and memory, a drop in self-esteem with self-deprecating comments, a lasting lack of interest in school and friendly relationships, as well as a very pessimistic vision of the future. Sleep is often disturbed with either hypersomnia, difficulty getting up, an inversion of the sleep-wake rhythm or even insomnia.
+Diet can also change, with a loss of appetite or, on the contrary, significant food intake, often sweet. We can also engage in risky behaviors such as the consumption of substances such as alcohol or cannabis, or even self-aggressive actions.
+Many of these signs can easily be confused with “typical” adolescence…
+During adolescence, the construction of identity, the search for autonomy and difficulties linked to self-image are normal processes. What should alert is not an isolated sign, but change and the whole. We must observe how the adolescent functions at home, at school and with his friends.
+A one-off conflict is not worrying if the adolescent is generally doing well and remains invested in his relationships and activities. On the other hand, when slamming doors are accompanied by a marked drop in self-esteem, a feeling of uselessness, withdrawal and a generalized loss of interest, the situation becomes more worrying. It is the accumulation of signs, their intensity and their duration that allows us to understand that the adolescent is suffering.
+How can a parent talk about it with their child?
+When faced with worrying behavior, particularly self-aggressive behavior, it is preferable to avoid the question “why”, experienced as accusatory. Instead, ask “how do you feel when you do this?” » allows you to open the discussion. More broadly, ask the question “do you feel bad?” » is already a first step.
+When to consult?
+Often, parents seek help when grades drop. However, when academic results drop, depression is already set in. Parental concern is a good signal to see a professional. Consulting is never a big deal.
+We can start with the attending physician, in order to open the discussion, and, if necessary, to carry out a health check. Some symptoms can be explained by somatic causes, for example anemia in adolescents at the start of their periods.
+What treatments to follow when depression is confirmed?
+First intention
+
+, the recommendations favor psychotherapy, which allows work on self-image, academic or relational difficulties. An adolescent always evolves in a family, school and social context. Sometimes everything seems fine at home and at school, but there are difficulties elsewhere, such as harassment on the commute or online. Therapy allows you to have this overview.
+If this is not enough, antidepressant treatments can be offered, including serotonin reuptake inhibitors. Data shows that the combination of the two is often the most effective.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Health
+›
+Public health
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Stephanie Rist
+On the same theme
+Bipolar disorders, when speech becomes free
+News
+                                                    · Public health
+Mental health: “peer assistance saved my life”
+News
+                                                    · Public health
+Intergenerational cohabitation: an encounter that changes two lives
+News
+                                                    · Public health
+Mental suffering of the elderly: better identification, better support, better prevention
+News
+                                                    · Public health
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Progress and public services - Government priority | info.gouv.fr
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/politiques-prioritaires/batir-de-nouveaux-progres-et-refonder-nos-services-publics
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 2116
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1970
 - **Unique ID:** `6b54251369719e03`
 
 #### Content:
 
-Ce qui change pour moi en
-Zone :
+What changes for me
+Area:
 France
-Fermer
-Changer de zone
-Voir toute la France
-OU
-Rechercher
-Régions
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
 Auvergne-Rhône-Alpes
-Bourgogne-Franche-Comté
-Bretagne
-Centre-Val de Loire
-Corse
-Grand Est
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
 Guadeloupe
-Guyane Française
+French Guiana
 Hauts-de-France
 Île-de-France
-La Réunion
+Reunion
 Martinique
 Mayotte
-Normandie
-Nouvelle-Aquitaine
+Normandy
+New Aquitaine
 Occitanie
-Pays de la Loire
-Provence-Alpes-Côte d'Azur
-Départements
-01 - Ain
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
 02 - Aisne
 03 - Allier
 04 - Alpes-de-Haute-Provence
 05 - Hautes-Alpes
 06 - Alpes-Maritimes
-07 - Ardèche
+07 - Ardeche
 08 - Ardennes
 09 - Ariège
-10 - Aube
+10 - Dawn
 11 - Aude
 12 - Aveyron
 13 - Bouches-du-Rhône
@@ -3709,19 +7402,19 @@ Départements
 15 - Cantal
 16 - Charente
 17 - Charente-Maritime
-18 - Cher
+18 - Dear
 19 - Corrèze
-21 - Côte-d'Or
+21 - Côte-d’Or
 22 - Côtes-d'Armor
-23 - Creuse
+23 - Hollow
 24 - Dordogne
 25 - Doubs
 26 - Drôme
 27 - Eure
 28 - Eure-et-Loir
 29 - Finistère
-2A - Corse-du-Sud
-2B - Haute-Corse
+2A - South Corsica
+2B - Upper Corsica
 30 - Gard
 31 - Haute-Garonne
 32 - Gers
@@ -3740,9 +7433,9 @@ Départements
 45 - Loiret
 46 - Lot
 47 - Lot-et-Garonne
-48 - Lozère
+48 - Lozere
 49 - Maine-et-Loire
-50 - Manche
+50 - Sleeve
 51 - Marne
 52 - Haute-Marne
 53 - Mayenne
@@ -3751,7 +7444,7 @@ Départements
 56 - Morbihan
 57 - Moselle
 58 - Nièvre
-59 - Nord
+59 - North
 60 - Oise
 61 - Orne
 62 - Pas-de-Calais
@@ -3761,7 +7454,7 @@ Départements
 66 - Pyrénées-Orientales
 67 - Bas-Rhin
 68 - Haut-Rhin
-69 - Rhône
+69 - Rhone
 70 - Haute-Saône
 71 - Saône-et-Loire
 72 - Sarthe
@@ -3772,17 +7465,17 @@ Départements
 77 - Seine-et-Marne
 78 - Yvelines
 79 - Deux-Sèvres
-80 - Somme
+80 - Sum
 81 - Tarn
 82 - Tarn-et-Garonne
 83 - Var
 84 - Vaucluse
 85 - Vendée
-86 - Vienne
+86 - Vienna
 87 - Haute-Vienne
 88 - Vosges
 89 - Yonne
-90 - Territoire de Belfort
+90 - Territory of Belfort
 91 - Essonne
 92 - Hauts-de-Seine
 93 - Seine-Saint-Denis
@@ -3790,360 +7483,527 @@ Départements
 95 - Val-d'Oise
 971 - Guadeloupe
 972 - Martinique
-973 - Guyane Française
-974 - La Réunion
+973 - French Guiana
+974 - Reunion
 976 - Mayotte
-Explorer les données
-Priorité du Gouvernement
-Bâtir de nouveaux progrès et refonder nos services publics
-Nos services publics doivent lutter contre la persistance des inégalités et des déterminismes sociaux, mais également renforcer l’accompagnement de nos seniors et trouver une nouvelle solidarité entre les générations.
-31 chantiers pour les services publics et le progrès
-Objectif atteint
-Lutter contre les fraudes fiscale, sociale et douanière
-Objectif atteint à 100%
-1 indicateur
-Objectif atteint
-Donner accès à la culture à tous les jeunes avec le Pass culture
-Objectif atteint à 100%
-1 indicateur
-Objectif atteint
-Renforcer l'égalité salariale femme / homme avec l'index Egapro
-Objectif atteint à 100%
-2 indicateurs
-Objectif atteint
-Mieux accompagner les aidants
-Objectif atteint à 100%
-3 indicateurs
-Objectif atteint
-Faciliter les services consulaires aux Français de l'étranger
-Objectif atteint à 100%
-1 indicateur
-Lutter contre les violences faites aux femmes et les féminicides
-Objectif atteint à 100%
-2 indicateurs
-Rendre l’école plus inclusive
-Objectif atteint à 99%
-1 indicateur
-Poursuivre l'accompagnement numérique gratuit
-Objectif atteint à 97%
-2 indicateurs
-Lutter contre le harcèlement et le cyberharcèlement à l'école
-Objectif atteint à 97%
-1 indicateur
-Réguler les urgences par le service d'accès aux soins (SAS)
-Objectif atteint à 93%
-1 indicateur
-Développer le bénévolat grâce à jeveuxaider.gouv.fr
-Objectif atteint à 89%
-2 indicateurs
-Libérer du temps aux soignants pour les patients
-Objectif atteint à 84%
-1 indicateur
-Permettre aux personnes âgées de vieillir chez elles
-Objectif atteint à 84%
-2 indicateurs
-Accompagner les sans-abris pour trouver un logement
-Objectif atteint à 78%
-1 indicateur
-Lutter contre les impayés de pension alimentaire
-Objectif atteint à 76%
-1 indicateur
-Assurer l'accès au numérique sur tout le territoire
-Objectif atteint à 68%
-2 indicateurs
-Améliorer la couverture vaccinale des Français
-Objectif atteint à 66%
-2 indicateurs
-Améliorer l'accès aux soins dans tous les territoires
-Objectif atteint à 56%
-4 indicateurs
-Offrir une éducation artistique et culturelle à chaque élève
-Objectif atteint à 56%
-3 indicateurs
-Intervenir plus tôt sur les troubles du neurodéveloppement de l'enfant
-Objectif atteint à 54%
-2 indicateurs
-Dédoubler les classes en éducation prioritaire
-Objectif atteint à 43%
-3 indicateurs
-Simplifier l’accès aux droits des personnes handicapées
-Objectif atteint à 33%
-2 indicateurs
-Améliorer le niveau des élèves en mathématiques et en français
-Objectif atteint à 30%
-6 indicateurs
-Augmenter le nombre d'équipements sportifs de proximité
-Objectif atteint à 25%
-1 indicateur
-Mieux remplacer les enseignants absents de la maternelle au lycée
-Objectif atteint à 23%
-2 indicateurs
-Faciliter le parcours santé du patient par le numérique
-Objectif atteint à 20%
-1 indicateur
-Simplifier l'accès à l’enseignement supérieur avec Parcoursup
-Objectif atteint à 19%
-4 indicateurs
-Favoriser la réussite et l'accès à l'emploi par le lycée professionnel
-Objectif atteint à 18%
-3 indicateurs
-Renforcer l’égalité professionnelle dans la fonction publique
-Objectif atteint à 18%
-3 indicateurs
-Ajouter 2 h d'activité physique et sportive par semaine au collège
-Objectif atteint à 11%
-1 indicateur
-Donner accès à un logement digne et abordable à tous les ultras-marins
-Objectif atteint à 7%
-4 indicateurs
-Afficher tout
-Les défis
-auxquels nous faisons face
-Notre modèle social français est porté par des
-services publics essentiels, mais qui ne répondent parfois plus aux attentes
-des Français.
-Des difficultés d’accès existent dans certains territoires (notamment dans les zones rurales, les quartiers prioritaires de la ville ou les Outre-mer) ainsi
-qu’un sentiment de dégradation de ces services
+Explore the data
+Government priority
+Building new progress and rebuilding our public services
+Our public services must fight against the persistence of inequalities and social determinisms, but also strengthen support for our seniors and find new solidarity between generations.
+31 projects for public services and progress
+Objective achieved
+Fight against tax, social and customs fraud
+Objective achieved 100%
+1 indicator
+Objective achieved
+Providing access to culture to all young people with the Culture Pass
+Objective achieved 100%
+1 indicator
+Objective achieved
+Strengthen equal pay for women and men with the Egapro index
+Objective achieved 100%
+2 indicators
+Objective achieved
+Better support caregivers
+Objective achieved 100%
+3 indicators
+Objective achieved
+Facilitate consular services for French people abroad
+Objective achieved 100%
+1 indicator
+Fight against violence against women and feminicide
+Objective achieved 100%
+2 indicators
+Make school more inclusive
+Objective reached at 99%
+1 indicator
+Continue free digital support
+Objective reached at 97%
+2 indicators
+Fight against bullying and cyberbullying at school
+Objective reached at 97%
+1 indicator
+Regulate emergencies through the healthcare access service (SAS)
+Objective reached at 93%
+1 indicator
+Develop volunteering thanks to jeveuxaider.gouv.fr
+Objective achieved at 89%
+2 indicators
+Free up caregivers’ time for patients
+Objective achieved at 84%
+1 indicator
+Allowing older people to age in place
+Objective achieved at 84%
+2 indicators
+Supporting the homeless to find accommodation
+Objective achieved at 78%
+1 indicator
+Fight against unpaid alimony
+Objective achieved at 76%
+1 indicator
+Ensuring digital access throughout the territory
+Objective reached at 68%
+2 indicators
+Improve vaccination coverage of the French
+Objective reached at 66%
+2 indicators
+Improve access to care in all territories
+Objective reached at 56%
+4 indicators
+Providing artistic and cultural education to every student
+Objective achieved at 56%
+3 indicators
+Intervene earlier on neurodevelopmental disorders in children
+Objective reached at 54%
+2 indicators
+Split classes in priority education
+Objective reached at 43%
+3 indicators
+Simplifying access to the rights of people with disabilities
+Objective reached at 33%
+2 indicators
+Improve the level of students in mathematics and French
+Objective reached at 30%
+6 indicators
+Increase the number of equipment
+
+local sportspeople
+Objective reached at 25%
+1 indicator
+Better replace absent teachers from kindergarten to high school
+Objective reached at 23%
+2 indicators
+Facilitate the patient's health journey digitally
+Objective reached at 20%
+1 indicator
+Simplify access to higher education with Parcoursup
+Objective reached at 19%
+4 indicators
+Promote success and access to employment through vocational high school
+Objective reached at 18%
+3 indicators
+Strengthening professional equality in the public service
+Objective reached at 18%
+3 indicators
+Add 2 hours of physical and sporting activity per week in college
+Objective reached at 11%
+1 indicator
+Providing access to dignified and affordable housing to all overseas residents
+Objective reached at 7%
+4 indicators
+Show all
+The challenges
+that we face
+Our French social model is supported by
+essential public services, but which sometimes no longer meet expectations
+of the French.
+Access difficulties exist in certain areas (notably in rural areas, priority areas of the city or overseas) as well as
+that a feeling of degradation of these services
 ,
-notamment dans la santé (soumis à de fortes tensions, héritées du
-Covid ou plus structurelles, après des années de sous-investissement, un manque
-de médecins par rapport aux besoins croissants des Français), l’éducation
-(avec un niveau des élèves qui se dégrade, des inégalités persistantes…) ou pour des démarches administratives qui prennent trop de temps ou sont complexes (exemple : le renouvellement des papiers d'identité.)
-Des actions sont attendues pour lutter contre la
-persistance des inégalités et des déterminismes sociaux,
-qui
-s’ancrent dès le plus jeune âge
-. Ceci, dans un contexte de défi
-démographique important, avec un souhait d’accompagnement renforcé de nos
+particularly in health (subject to strong tensions, inherited from
+Covid or more structural, after years of underinvestment, a lack
+of doctors in relation to the growing needs of the French), education
+(with a deteriorating level of students, persistent inequalities, etc.) or for administrative procedures that take too long or are complex (example: renewing identity papers.)
+Actions are expected to combat
+persistence of inequalities and social determinisms,
+who
+are anchored from an early age
+. This, in a context of challenge
+significant demographic, with a desire for reinforced support from our
 seniors
-et le besoin de trouver une nouvelle solidarité entre les
-générations.
-De premières améliorations depuis 6 ans
-Un investissement inédit dans la santé avec le Ségur de
-la santé post-Covid.
-Un dédoublement des classes de grande section, CP et CE1,
-en zones REP et REP+, l’instruction obligatoire dès 3 ans, la mise en place du
-dispositif devoirs faits et du Pass culture, ainsi que la scolarisation de 120 000
-enfants en situation de handicap supplémentaires (soit + 1/3).
-La création de
-2 600 maisons France services, afin que plus de 99 % des français soient à
-moins de 30min d’un centre, et la couverture de 80% du territoire par la
-fibre.
-Des progrès pour tous : congé paternité d’un mois, versement
-automatique des pensions alimentaires, remboursement à 100 % des prothèses
-dentaires et auditives…
-…mais
-encore des chantiers à mener
-Les priorités jusqu’en 2027
-L’objectif
-est de réinvestir massivement dans les services publics, de faire
-confiance aux acteurs de terrain en leur donnant davantage de liberté
-d’action, et de développer l’ « aller-vers » pour simplifier et
-réduire le non-recours.
-1 - Renouer un pacte pour l’école
-Pourquoi
+and the need to find a new solidarity between
+generations.
+First improvements in 6 years
+An unprecedented investment in health with Ségur de
+post-Covid health.
+A splitting of the main section classes, CP and CE1,
+in REP and REP+ zones, compulsory education from the age of 3, the implementation of
+homework done system and the Culture Pass, as well as the schooling of 120,000
+additional children with disabilities (i.e. + 1/3).
+The creation of
+2,600 France services houses, so that more than 99% of French people are
+less than 30 minutes from a center, and coverage of 80% of the territory by
+fiber.
+Progress for all: one-month paternity leave, payment
+automatic alimony, 100% reimbursement of prostheses
+dental and hearing…
+…but
+still work to be done
+Priorities until 2027
+The objective
+is to reinvest massively in public services, to make
+confidence in those on the ground by giving them more freedom
+of action, and to develop the “go-towards” approach to simplify and
+reduce non-recourse.
+1 - Renew a pact for school
+Why
 ?
-L’école est le lieu de formation des citoyens de la
-Nation qui doit donner à chacun les clefs pour construire son avenir. L’objectif
-est ainsi, avec les professeurs, les parents, les élèves, toute la communauté
-éducative, de renouer avec le modèle d’une école républicaine, une école de
-l’excellence qui assure la réussite de tous. Concrètement, davantage de liberté est donnée aux établissements pour s’organiser, et des moyens supplémentaires
-inédits sont investis. L’ambition est claire : revenir en haut du classement
-PISA en fin de quinquennat et être fiers de notre école.
-Comment ?
-Un
-remplacement des professeurs absents et une amélioration du niveau des élèves
-dans les savoir-fondamentaux (mathématiques, français).
-Des établissements plus
-autonomes et une plus grande innovation pédagogique.
-Une meilleure prise
-en compte du handicap à l’école et une lutte renforcée contre le cyberharcèlement.
-Un meilleur accompagnement dans l’orientation, dès
-le collège.
-Des professeurs mieux rémunérés (entre 100 et 500€ en
-plus par mois) et un métier redevenu attractif.
-2 - Faciliter l’accès aux soins, en fonction des besoins, sur tout le
-territoire
-Pourquoi ?
-L’objectif est de refonder notre système de santé et de
-créer de nouveaux accès aux soins partout, adaptés en fonction des
-besoins de chacun. Là aussi, une pleine confiance sera accordée aux acteurs de
-terrain pour lancer des expérimentations. Les partenariats entre professions médicales seront
-renforcés et l’organisation des soins dans les territoires comme les hôpitaux
-sera radicalement transformée.
-Comment ?
-Une
-meilleure couverture territoriale de soins
-(maisons de santé …), une
-plus grande coopération entre
-professionnels
-(généralistes,
-pharmaciens, spécialistes) et un
-développement
-des outils numériques
-(télémédecine…) afin que chacun puisse bénéficier
-d’un médecin traitant.
-Un
-désengorgement
-des urgences
-, grâce à une réorganisation profonde, une meilleure
-coopération entre médecine de ville et
-hôpital, une meilleure orientation au sein du système de santé
+The school is the place of training for the citizens of the
+Nation which must give everyone the keys to build their future. The objective
+is like this, with teachers, parents, students, the whole community
+educational, to reconnect with the model of a republican school, a school of
+excellence that ensures success for all. Concretely, more freedom is given to establishments to organize themselves, and additional resources
+unpublished material is invested. The ambition is clear: return to the top of the rankings
+PISA at the end of the five-year term and be proud of our school.
+How ?
+A
+replacement of absent teachers and an improvement in the level of students
+in fundamental knowledge (mathematics, French).
+More establishments
+autonomous and greater educational innovation.
+A better grip
+taking into account disability at school and a reinforced fight against cyberbullying.
+Better support in orientation, from
+the college.
+Better paid teachers (between €100 and €500 in
+more per month) and a job that has become attractive again.
+2 - Facilitate access to care, according to needs, throughout the
+territory
+Why?
+The objective is to rebuild our health system and
+create new access to care everywhere, adapted according to
+needs of everyone. Here too, full confidence will be given to the actors of
+field to launch experiments. Partnerships between medical professions will be
+strengthened and the organization of care in the
+
+s territories like hospitals
+will be radically transformed.
+How ?
+A
+better territorial healthcare coverage
+(health homes, etc.), a
+greater cooperation between
+professionals
+(generalists,
+pharmacists, specialists) and a
+development
+digital tools
+(telemedicine, etc.) so that everyone can benefit
+of a treating physician.
+A
+unclogging
+emergencies
+, thanks to a profound reorganization, better
+cooperation between community medicine and
+hospital, better orientation within the health system
 via
-un numéro
+a number
 unique.
-Un
-renforcement de
-la recherche
-et de la
-politique de
-prévention
-, en matière de santé des femmes, d’obésité, de détection de la drépanocytose, et
-plus globalement tout au long de la vie aux âges clefs.
-Un
-meilleur accompagnement des parents
+A
+strengthening of
+research
+and the
+policy of
+prevention
+, in women's health, obesity, detection of sickle cell disease, and
+more generally throughout life at key ages.
+A
+better support for parents
 ,
-notamment au cours des 1 000 premiers jours de leurs enfants.
-3 - Renforcer les solidarités et faire de l’égalité entre les femmes et les hommes la grande cause du
-quinquennat
-Pourquoi ?
-L’égalité doit être une réalité. En outre, chacun doit
-pouvoir trouver sa place dans la société, en pouvant accéder à ses droits et
-ses devoirs sans freins (générationnels, culturels, sociaux, …).
-Comment ?
-Poursuivre la promotion de l’égalité entre les femmes et les hommes,
-grande cause du quinquennat pour la deuxième fois, avec outre la lutte contre les violences faites aux femmes et l’égalité professionnelle, une priorité donnée à la santé des femmes et l’accompagnement des familles monoparentales.
-Mieux
-accompagner nos aînés
-en construisant la
-société du « bien vieillir »
+especially during their children’s first 1,000 days.
+3 - Strengthen solidarity and make equality between women and men the great cause of
+five-year term
+Why?
+Equality must be a reality. In addition, everyone must
+be able to find their place in society, by being able to access their rights and
+its duties without brakes (generational, cultural, social, etc.).
+How ?
+Continue to promote equality between women and men,
+major cause of the five-year term for the second time, with in addition to the fight against violence against women and professional equality, a priority given to women's health and support for single-parent families.
+Better
+support our elders
+by building the
+society of “aging well”
 ,
-en leur donnant le choix, que ce soit du maintien à domicile ou des EHPADs, en
-soutenant les aidants.
-Mener une
-vraie politique d’accompagnement du handicap
-(accès à l’école, à
-l’emploi, aux mobilités…).
-Continuer
-à lutter contre les déterminismes sociaux
-et les freins à l’emploi
-(garantie
-mode de garde, Pass culture, accès au logement…).
-Mieux garantir l’accès aux droits sociaux,
+by giving them the choice, whether it be home support or EHPADs, by
+supporting caregivers.
+Conduct a
+real disability support policy
+(access to school,
+employment, mobility, etc.).
+Continue
+to fight against social determinisms
+and obstacles to employment
+(guarantee
+childcare, Culture Pass, access to housing, etc.).
+Better guarantee access to social rights,
 via
-le déploiement de
-dispositifs de « solidarité à la source », du versement automatique
-des pensions alimentaires
-pour aider davantage
-les plus modestes et classes moyennes.
-4 - Renforcer les dynamiques territoriales et
-rapprocher l’État des citoyens
-Pourquoi ?
-la décentralisation et la différenciation sont des principes
-fondamentaux de la relation État-territoires qui doivent permettre aux Français de bénéficier des meilleures solutions localement en fonction des
-besoins. L’expérimentation locale doit être encouragée et – en parallèle – des
-plans nationaux doivent être engagés pour réduire les fractures existantes (numérique, activité économiques, …). En outre, les services publics dans leur
-ensemble sont appelés à se transformer, pour « aller vers » les Français et proposer des démarches simplifiées.
-Comment ?
-Améliorer l’égalité entre les territoires et recréer des dynamiques locales
-(grâce aux dispositifs Cœur de ville, le plan ruralité, Quartiers 2030 et
-les contrats de quartiers, les réflexions en cours sur l’outre-mer, Contrats de
-ville …)
-et poursuivre la transformation
-numérique à l’échelle territoriale,
-en garantissant à tous
-un même accès au très haut débit
-(THD) ;
-Rapprocher l’État des territoires et des
-citoyens
-, et «
-aller-vers »
-les Français,
-en poursuivant l’offre France
-service, le déploiement de formations au numérique, la simplification des
-démarches pour 10 moments clefs de vie et
-agir pour renforcer l’attractivité des métiers de la fonction
-publique
-(revalorisation salariale, formation, évolution des carrières)
-ainsi qu’attirer les talents.
-Progrès et services publics
-Les grands dossiers
-Bouge 30 minutes
-La promotion de l'activité physique et sportive est la Grande cause nationale pour 2024.
-Tous mobilisés contre les violences faites aux femmes
-« Ne rien laisser passer »
-Toutes et tous égaux
-Découvrez le plan interministériel pour l’égalité femmes-hommes : des mesures pour agir sur le plan professionnel, économique et social
-Actualités
-Découvrez les dernières actualités liées aux politiques prioritaires du Gouvernement.
-Ce qui change en  janvier 2026
-Actualité · Citoyenneté
-Les dates clés de la
-rentrée scolaire 2025-2026
-Actualité · Éducation
-Refonder l’État
-local : donner toute sa place au préfet
-Actualité · Institutions
-Apprentissage, association, parentalité... : vos questions, nos réponses
-Actualité · Éducation
-Les écrans interdits dans les lieux d’accueil pour
-jeunes enfants
-Actualité · Santé
-Cap sur le Brevet pour les élèves de 3e
-Actualité · Éducation
-Voir tous les articles
+the deployment of
+“solidarity at source” schemes, automatic payment
+alimony
+to help further
+the most modest and middle classes.
+4 - Strengthen territorial dynamics and
+bringing the State closer to citizens
+Why?
+decentralization and differentiation are principles
+fundamentals of the State-territory relationship which should allow the French to benefit from the best solutions locally according to the
+needs. Local experimentation must be encouraged and – at the same time –
+national plans must be initiated to reduce existing divides (digital, economic activity, etc.). In addition, public services in their
+together are called to transform, to “reach out” to the French and propose simplified approaches.
+How ?
+Improve equality between territories and recreate local dynamics
+(thanks to the Cœur de ville schemes, the rural plan, Neighborhoods 2030 and
+neighborhood contracts, ongoing discussions on overseas territories,
+city…)
+and continue the transformation
+digital on a territorial scale,
+by guaranteeing to all
+the same access to very high speed
+(THD);
+Bringing the State closer to the territories and
+citizens
+, and “
+go-to”
+the French,
+by continuing the France offer
+service, the deployment of digital training, the simplification of
+steps for 10 key moments of life and
+act to strengthen the attractiveness of the sector’s professions
+public
+(salary increase, training, career development)
+as well as attracting talent.
+Progress and public services
+The major files
+Move for 30 minutes
+The promotion of physical and sporting activity is the Great National Cause for 2024.
+All mobilized against violence against women
+“Don’t let anything pass”
+All equal
+Discover the interministerial plan for gender equality: measures to act on the professional, economic and social levels
+News
+Discover the latest news related to the Government's priority policies.
+What changes in January 2026
+News · Citizenship
+The key dates of the
+back to school 2025-2026
+News · Education
+Rebuilding the State
+local: give full space to the prefect
+News · Institutions
+Apprenticeship, association, parenthood...: your questions, our answers
+News · Education
+Screens prohibited in reception areas for
+young children
+News · Health
+Heading towards the Brevet for 3rd grade students
+News · Education
+See all ar
+
+ticles
 
 ---
 
-### Transition écologique - Axe prioritaire du Gouvernement | info.gouv.fr
+### Carte blanche
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/carte-blanche
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 128
+- **Unique ID:** `966f45c401b4c922`
+
+#### Content:
+
+White card
+Personalities testify on topics that are in the news.
+Illustration of the "Carte blanche" format -
+Source: Government Information Service
+“Talking can save”: Bertrand Chameroy confides in his depression
+Published on December 10, 2025
+“I felt empty”: Camille Lacourt looks back on her depression
+Published on December 5, 2025
+Maïtena Biraben: “Consent is a question that arises for all of us. »
+Published on March 31, 2025
+Mental health: “don’t stay alone behind a screen”
+Published on January 6, 2025
+Sexist and sexual violence: “all violence is rooted in ordinary sexism”
+Published on November 25, 2024
+VSS: “If the other does not budge, we enter into aggression”
+Published on November 25, 2024
+Endometriosis: “I was told that I was just stressed”
+Published on March 28, 2024
+
+---
+
+### All equal
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/grand-dossier/toutes-et-tous-egaux
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 661
+- **Unique ID:** `070848e7f321e8e8`
+
+#### Content:
+
+In this folder
+All equal
+Discover the interministerial plan for gender equality: measures to act on the professional, economic and social levels
+Gender equality: major cause of the 2023-2027 five-year term
+A national commitment to real equality between women and men
+The great cause of the 2023-2027 five-year term
+Inequalities between women and men persist in many areas of daily life: salaries, access to positions of responsibility, gender-based violence, cultural representations, etc. Faced with this observation, the Government has made equality between women and men
+the great cause of the 2023-2027 five-year term
+, March 8, 2023.
+Priority objectives
+The 2023-2027 action plan is based on four major objectives:
+protect women against all forms of violence
+;
+guarantee equal access to rights, education, health and culture
+;
+promote professional and economic equality
+;
+the culture of equality
+.
+The main axes of the 2023-2027 plan
+Fight against all forms of violence against women
+The first pillar of the plan concerns gender-based and sexual violence. Several measures have been put in place:
+strengthening of the
+Professional equality index
+, particularly in businesses;
+acceleration of women's access to
+management positions
+in the public and private sectors;
+reduction of
+salary gaps
+persistent.
+Specific reporting, support and protection systems are also strengthened, in conjunction with local associations.
+Guaranteeing equality in education and culture
+From an early age, it is essential to deconstruct gender stereotypes. The plan provides:
+of
+awareness programs
+from primary school;
+the promotion of
+a culture of equality
+in school textbooks, media and cultural institutions;
+reinforced training for teachers and educational staff.
+Protecting women’s health and rights
+The
+women's health
+is the subject of a dedicated axis. The Government is acting to:
+facilitate access to the
+reproductive health
+(contraception, abortion, parenting support).
+strengthen access to
+specific care
+(
+endometriosis
+, mental health, violence).
+better support women in precarious or isolated situations.
+Support governance and monitoring of equality policies
+Gender equality is based on demanding and transparent governance. The plan provides:
+the creation of
+monitoring indicators
+to measure progress.
+a
+interministerial management
+coordinated.
+the development of
+partnerships
+with communities, businesses and associations.
+Testimonials to better understand
+“13.9%”: the podcast series to open eyes to gender inequalities at work
+The Government
+spear
+a series of podcasts
+entitled “13.9%”, a figure representing
+the average salary gap
+in France: from November 8, 4:48 p.m. and 15 seconds, French women stop being paid for their work in 2024.
+Enlarge the visual
+Visual -
+Source: Government Information Service
+Close
+Visual -
+Government Information Service
+This series explores
+persistent professional inequalities
+through
+the journeys of two professionals
+– a man and a woman – working in the same profession with comparable training.
+Find all the episodes of “13.9%”
+A podcast series that explores gender-related professional inequalities.
+Government Information Service
+Living with endometriosis
+The actress Enora Malagré, the “coach” Julie Pujol and the influencer Maï, all three suffering from endometriosis, talk about their lives with this
+chronic gynecological disease
+.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+In France, 1 in 10 women are affected by endometriosis, the leading cause of infertility. A chronic illness that is often invisible, but which disrupts lives, bodies and journeys.
+
+In this video, Enora Malagré, Maï and Julie Pujols speak. They deliver powerful, unfiltered testimonies about this illness which sometimes destroys a future, a dream, an education.
+The day of a woman changing tech
+Delphine Remy-Boutang, co-founder of “Digital Women’s Day”, brought us to life
+one of his working days
+. With one objective: to highlight women who innovate and encourage those who hesitate to take the plunge.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Delphine Remy-Boutang, a key figure in female digital entrepreneurship, shared with us her vision of a more ethical and inclusive tech.
+Published on May 23, 2023
+, modified on November 7, 2025
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+
+---
+
+### Ecological transition - Government priority area | info.gouv.fr
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/politiques-prioritaires/planifier-et-accelerer-la-transition-ecologique
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1243
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1163
 - **Unique ID:** `d246a0ad8820cdea`
 
 #### Content:
 
-Ce qui change pour moi en
-Zone :
+What changes for me
+Area:
 France
-Fermer
-Changer de zone
-Voir toute la France
-OU
-Rechercher
-Régions
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
 Auvergne-Rhône-Alpes
-Bourgogne-Franche-Comté
-Bretagne
-Centre-Val de Loire
-Corse
-Grand Est
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
 Guadeloupe
-Guyane Française
+French Guiana
 Hauts-de-France
 Île-de-France
-La Réunion
+Reunion
 Martinique
 Mayotte
-Normandie
-Nouvelle-Aquitaine
+Normandy
+New Aquitaine
 Occitanie
-Pays de la Loire
-Provence-Alpes-Côte d'Azur
-Départements
-01 - Ain
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
 02 - Aisne
 03 - Allier
 04 - Alpes-de-Haute-Provence
 05 - Hautes-Alpes
 06 - Alpes-Maritimes
-07 - Ardèche
+07 - Ardeche
 08 - Ardennes
 09 - Ariège
-10 - Aube
+10 - Dawn
 11 - Aude
 12 - Aveyron
 13 - Bouches-du-Rhône
@@ -4151,19 +8011,19 @@ Départements
 15 - Cantal
 16 - Charente
 17 - Charente-Maritime
-18 - Cher
+18 - Dear
 19 - Corrèze
-21 - Côte-d'Or
+21 - Côte-d’Or
 22 - Côtes-d'Armor
-23 - Creuse
+23 - Hollow
 24 - Dordogne
 25 - Doubs
 26 - Drôme
 27 - Eure
 28 - Eure-et-Loir
 29 - Finistère
-2A - Corse-du-Sud
-2B - Haute-Corse
+2A - South Corsica
+2B - Upper Corsica
 30 - Gard
 31 - Haute-Garonne
 32 - Gers
@@ -4182,9 +8042,9 @@ Départements
 45 - Loiret
 46 - Lot
 47 - Lot-et-Garonne
-48 - Lozère
+48 - Lozere
 49 - Maine-et-Loire
-50 - Manche
+50 - Sleeve
 51 - Marne
 52 - Haute-Marne
 53 - Mayenne
@@ -4193,7 +8053,7 @@ Départements
 56 - Morbihan
 57 - Moselle
 58 - Nièvre
-59 - Nord
+59 - North
 60 - Oise
 61 - Orne
 62 - Pas-de-Calais
@@ -4203,7 +8063,7 @@ Départements
 66 - Pyrénées-Orientales
 67 - Bas-Rhin
 68 - Haut-Rhin
-69 - Rhône
+69 - Rhone
 70 - Haute-Saône
 71 - Saône-et-Loire
 72 - Sarthe
@@ -4214,17 +8074,17 @@ Départements
 77 - Seine-et-Marne
 78 - Yvelines
 79 - Deux-Sèvres
-80 - Somme
+80 - Sum
 81 - Tarn
 82 - Tarn-et-Garonne
 83 - Var
 84 - Vaucluse
 85 - Vendée
-86 - Vienne
+86 - Vienna
 87 - Haute-Vienne
 88 - Vosges
 89 - Yonne
-90 - Territoire de Belfort
+90 - Territory of Belfort
 91 - Essonne
 92 - Hauts-de-Seine
 93 - Seine-Saint-Denis
@@ -4232,219 +8092,901 @@ Départements
 95 - Val-d'Oise
 971 - Guadeloupe
 972 - Martinique
-973 - Guyane Française
-974 - La Réunion
+973 - French Guiana
+974 - Reunion
 976 - Mayotte
-Explorer les données
-Priorité du Gouvernement
-Planifier
- et accélérer la transition écologique
-L’impact du changement climatique se faisant de plus en plus sentir, nous devons aujourd’hui accélérer la transformation des secteurs les plus émetteurs comme de nos modes de vie.
-9 chantiers pour l'écologie
-Améliorer la qualité de l'air grâce aux Zones à faibles émissions
-Objectif atteint à 86%
-1 indicateur
-Rénover son logement grâce à MaPrimeRénov’
-Objectif atteint à 81%
-1 indicateur
-Lutter contre les atteintes à l’environnement
-Objectif atteint à 73%
-1 indicateur
-Encourager le passage à la voiture électrique
-Objectif atteint à 60%
-3 indicateurs
-Assurer une gestion sobre de la ressource en eau
-Objectif atteint à 52%
-1 indicateur
-Permettre à tous les Français de faire du vélo
-Objectif atteint à 46%
-1 indicateur
-Décupler la puissance photovoltaïque française d’ici 2050
-Objectif atteint à 28%
-2 indicateurs
-Développer l’économie circulaire
-Objectif atteint à 21%
-3 indicateurs
-Planter 1 milliard d'arbres d'ici 2032
-Objectif atteint à 6%
-1 indicateur
-Afficher tout
-Les défis
-auxquels nous faisons face
-L’impact du changement climatique se fait de
-plus en plus sentir dans notre quotidien.
-La hausse de la température
-globale s’est encore accélérée, à un rythme qui fera très probablement dépasser
-le seuil de 1,5 °C de réchauffement entre 2021 et 2040. Des événements
-météorologiques extrêmes plus intenses et plus fréquents ont lieu chaque année (feux,
-orages et tempêtes ou ouragans…). Les territoires et les populations sont
-inégalement affectés par les défis climatiques et écologiques. Un
-épuisement des ressources naturelles est constaté, tant en matière de
-biodiversité que d’eau ou de minerais. Tout cela nécessite de gérer les urgences
-et planifier le long terme.
-Ces enjeux doivent orienter nos actions,
-individuelles et collectives
-. Après avoir posé le diagnostic, nous
-devons aujourd’hui accélérer la transformation des secteurs les plus émetteurs
-comme de nos modes de vie. Certains acteurs et territoires seront plus
-impactés, et devront être accompagnés spécifiquement. Les enjeux sont
-multiples, tant pour rendre notre planète plus vivable, améliorer la qualité de
-l’air, de l’eau, préserver la nature, mais aussi développer une souveraineté
-écologique française et européenne
+Explore the data
+Government priority
+Plan
+ and accelerate the ecological transition
+As the impact of climate change is increasingly felt, we must now accelerate the transformation of the most emitting sectors as well as our lifestyles.
+9 projects for ecology
+Improving air quality through Low Emission Zones
+Objective achieved at 86%
+1 indicator
+Renovate your home thanks to MaPrimeRénov’
+Objective achieved at 81%
+1 indicator
+Fight against environmental damage
+Objective achieved at 73%
+1 indicator
+Encourage the switch to electric cars
+Objective reached at 60%
+3 indicators
+Ensuring careful management of water resources
+Objective reached at 52%
+1 indicator
+Allow all French people to cycle
+Objective reached at 46%
+1 indicator
+Increase French photovoltaic power tenfold by 2050
+Objective achieved at 28%
+2 indicators
+Develop the circular economy
+Objective achieved at 21%
+3 indicators
+Plant 1 billion trees by 2032
+Objective reached at 6%
+1 indicator
+Show all
+The challenges
+that we face
+The impact of climate change is
+felt more and more in our daily lives.
+The rise in temperature
+global economy has further accelerated, at a pace that will most likely exceed
+the threshold of 1.5°C of warming between 2021 and 2040. Events
+more intense and more frequent extreme weather events occur each year (fires,
+thunderstorms and storms or hurricanes…). The territories and populations are
+unequally affected by climatic and ecological challenges. A
+depletion of natural resources is observed, both in terms of
+biodiversity than water or minerals. All this requires managing emergencies
+and plan for the long term.
+These issues must guide our actions,
+individual and collective
+. After making the diagnosis, we
+we must now accelerate the transformation of the highest emitting sectors
+as our lifestyles. Certain actors and territories will be more
+impacted, and will need specific support. The issues are
+multiple, both to make our planet more livable, to improve the quality of
+air, water, preserving nature, but also developing sovereignty
+French and European ecological
 .
-De premières améliorations depuis 6 ans
-Quelques
-exemples :
-Doublement de la vitesse de réduction de nos émissions
-sur 2017/2022 par rapport à 2012/2017.
-Un million de  bénéficiaires de « Ma prime rénov », +
-15 000 km de pistes cyclables, plan de sobriété ayant permis de réduire de 10 %
-notre consommation d’énergie, pérennisation de plus de 7 000 km de petites
-lignes ferroviaires, relance des trains de nuit, interdiction de 10 produits en
-plastiques à usage unique les plus polluants (pailles, couverts en plastiques)…
-Un accord européen avec un objectif de réduction de nos
-émissions de 55 % en 2030, puis la neutralité carbone en 2050.
-…mais
-encore des chantiers à mener
-Les priorités jusqu’en 2027
-La France a
-vocation à être la première grande Nation verte, qui inspire nos voisins
-européens et dans le monde. En lien avec le chantier de réindustrialisation,
-l’objectif est aussi de renforcer – grâce à la transition écologique – la souveraineté
-tant énergétique, qu’industrielle et alimentaire du pays.
-Comment y
-parvenir ?
-Pour cela, un cap clair a été défini, basé sur
-la planification écologique,
-déclinée au sein du projet « France
-Nation Verte » et mobilisant l’ensemble des ministères mais aussi des acteurs
-privés, de nombreuses associations et
+First improvements in 6 years
+Some
+examples:
+Doubling the speed of reducing our emissions
+on 2017/2022 compared to 2012/2017.
+One million beneficiaries of “My renovation bonus”, +
+15,000 km of cycle paths, sobriety plan having made it possible to reduce by 10%
+
+our energy consumption, sustainability of more than 7,000 km of small
+railway lines, relaunch of night trains, ban on 10 products in
+the most polluting single-use plastics (straws, plastic cutlery), etc.
+A European agreement with the objective of reducing our
+emissions by 55% in 2030, then carbon neutrality in 2050.
+…but
+still work to be done
+Priorities until 2027
+France has
+vocation to be the first great green Nation, which inspires our neighbors
+Europeans and around the world. In connection with the reindustrialization project,
+the objective is also to strengthen – thanks to the ecological transition – sovereignty
+both energy, industrial and food of the country.
+How
+achieve?
+For this, a clear course has been defined, based on
+ecological planning,
+declined within the “France
+Green Nation” and mobilizing all ministries but also stakeholders
+private individuals, numerous associations and
 in
 fine
-tous les Français
+all French people
 .
-Avec
-pour priorités :
-Accélérer
-la décarbonation des secteurs stratégiques principaux pollueurs
+With
+for priorities:
+Accelerate
+the decarbonization of the main polluting strategic sectors
 :
-transports (30 %), industrie (20 %), agriculture (20 %), logement (20 %), énergie
-et biomasse (10 %).
-Une stratégie par secteur est en train d’être définie
-et sera présentée
-d’ici l’été 2023
+transport (30%), industry (20%), agriculture (20%), housing (20%), energy
+and biomass (10%).
+A strategy by sector is being defined
+and will be presented
+by summer 2023
 .
-Les
-Conseils de planification écologique
-animées par le président de la République et la Première ministre permettront des points d’étape
-réguliers. Ces travaux permettront d’aboutir à la prochaine Stratégie Nationale
-Bas Carbone et à la prochaine Programmation Pluriannuelle de l’énergie.
-Permettre à chaque territoire d’engager sa transition
-Une
-stratégie par territoire sera aussi mise en place
-avec des objectifs construits en partenariat avec les acteurs locaux
-(collectivités, entreprises, citoyens...).
-Rendre
-la transition écologique accessible à tous
-Des
-dispositifs d’accompagnement simplifiés
-pour mieux aider les plus modestes seront déployés.
-Protéger
-la biodiversité et nos ressources
-(eau, forêts,  sols…).
-Une préservation renforcée de notre biodiversité
+The
+Green Planning Tips
+led by the President of the Republic and the Prime Minister will provide progress updates
+regular. This work will lead to the next National Strategy
+Low Carbon and the next Multi-annual Energy Program.
+Allow each territory to begin its transition
+A
+strategy by territory will also be put in place
+with objectives built in partnership with local stakeholders
+(communities, businesses, citizens, etc.).
+Return
+ecological transition accessible to all
+Of
+simplified support systems
+to better help the most modest will be deployed.
+Protect
+biodiversity and our resources
+(water, forests, soils, etc.).
+Strengthened preservation of our biodiversity
 ,
-pour
-protéger et restaurer nos écosystèmes,
-avec un suivi spécifique
-de quelques bassins et une nouvelle Stratégie Nationale Biodiversité.
-Mobiliser tous les Français pour être acteurs de la transition
-De nouveaux dispositifs de
-formation
-(notamment des administrations)
-et d’engagement
-(notamment
+for
+protect and restore our ecosystems,
+with specific monitoring
+of some basins and a new National Biodiversity Strategy.
+Mobilize all French people to be actors in the transition
+New devices
+training
+(notably administrations)
+and commitment
+(in particular
 via
-les
-services civiques)
-seront ainsi
-développés.
-Transition écologique
-Les grands dossiers
-Économies d'énergie
-En hiver comme en été, pour économiser l’énergie, on agit, on réduit. Puisque chaque geste compte.
-La planification écologique
-Mieux agir pour accélérer la transition écologique
-Ressources en eau
-Chaque geste compte
-Actualités
-Découvrez les dernières actualités liées aux politiques prioritaires du Gouvernement.
-JOP Alpes françaises
-2030 : des engagements concrets pour un héritage durable
-Actualité · Sport
-L'étiquette énergie, pour des téléphones et tablettes plus durables
-Actualité · Environnement
-Dans l'actu : la suspension de MaPrimeRénov’
-Actualité · Environnement
-Dans l’actu : une proposition de loi pour freiner la « fast fashion »
-Actualité · Environnement
-Comité interministériel de la mer 2025
-Dossier de presse · Environnement
-Un plan pour garantir notre souveraineté maritime
-Actualité · Environnement
-Voir tous les articles
+the
+civic services)
+will be like this
+developed.
+Ecological transition
+The major files
+Energy savings
+In winter as in summer, to save energy, we act and reduce. Because every gesture counts.
+Ecological planning
+Act better to accelerate the ecological transition
+Water resources
+Every gesture counts
+News
+Discover the latest news related to the Government's priority policies.
+JOP French Alps
+2030: concrete commitments for a lasting legacy
+News · Sport
+The energy label, for more sustainable phones and tablets
+News · Environment
+In the news: the suspension of MaPrimeRénov’
+News · Environment
+In the news: a proposed law to curb “fast fashion”
+News · Environment
+Interministerial Committee for the Sea 2025
+Press kit · Environment
+A plan to guarantee our maritime sovereignty
+News · Environment
+See all articles
 
 ---
 
-### Ordre républicain - Axe prioritaire du Gouvernement | info.gouv.fr
+### Instructions for use
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/toute-l-actualite/mode-demploi
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 244
+- **Unique ID:** `5945e3fa5cf374ae`
+
+#### Content:
+
+Instructions for use
+An expert answers your everyday questions concretely.
+Illustration of the "Instructions for use" format -
+Source: Government Information Service
+Elderly people: the silent scourge of social isolation, how to escape from it?
+Published on January 23, 2026
+Mental health: “peer assistance saved my life”
+Published on January 12, 2026
+“Consent education is the logic of living together”
+Published on December 10, 2025
+First aid for mental health: to learn the right reflexes
+Published on November 28, 2025
+Professional burnout: what you need to know to protect yourself
+Published on November 19, 2025
+Penalties incurred in the event of trafficking, use and transport of drugs
+Published on November 6, 2025
+How to find training in a profession of the future?
+Published on November 6, 2025
+Resilience:
+how to prepare for crises?
+Published on August 12, 2025
+Mental health: “We must not trivialize what is an illness”
+Published on July 3, 2025
+Women's mental health: resources for action at all ages of life
+Published on May 28, 2025
+Europe, instructions for use: how do its institutions work?
+Published on May 9, 2025
+Temporary sadness or depression?
+Published on April 30, 2025
+How do you track your health as a man?
+Published on April 7, 2025
+Mental health among young people: how to support and help them?
+Published on February 19, 2025
+Generative AI: how to use them well?
+Published on February 7, 2025
+How to support psychological suffering?
+Published on January 8, 2025
+
+---
+
+### France 2030
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/grand-dossier/france-2030
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 947
+- **Unique ID:** `ab6be1334bc10b7f`
+
+#### Content:
+
+In this folder
+France 2030
+France 2030 aims to accelerate the transformation of key sectors of our economy through innovation and to position France, not just as a player, but as a “leader” in the world of tomorrow.
+Apply
+54 billion
+euros by 2030
+Investment
+7,500
+innovative projects
+Support
+280,000 places 
+training
+Training
+Government Information Service
+To view the audio-described version France 2030: Together, let's continue to bring the future closer, see on
+YouTube
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Together, let's continue to bring the future closer
+Transcription
+Enlarge
+Close
+Transcription
+Illustrative images of French industrial innovations.
+Innovations in all French industrial sectors.
+Together let's continue to bring the future closer
+France 2030, let's bring the future closer
+France 2030 celebrates its four years
+France 2030 celebrates its four years! Discover this ambitious investment plan that is transforming our daily lives, the economy and the environment.
+To watch the audio-described version of France 2030: winning films, see
+YouTube
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+France 2030
+Transcription
+Enlarge
+Close
+Transcription
+Illustrative images of the different France 2030 objectives.
+Carbon-free aviation for tomorrow.
+Contribute to accelerating the energy transition through floating wind power and renewable marine energies.
+Make tractors autonomous for more efficient and less laborious agriculture.
+Develop innovative vaccines against emerging diseases.
+Promote French excellence in additives for more efficient titanium.
+Innovate with reusable stratospheric balloons.
+Structuring a competitive French sector in the field of micro-launchs to secure access to space.
+France 2030, let’s bring the future closer.
+To better understand the impact of France 2030, we invite you to
+an immersive online experience
+, in the form of a virtual city revealing innovative solutions that will redefine our daily lives, as well as the French economy and industry.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+The France 2030 experience!
+Transcription
+Enlarge
+Close
+Transcription
+Illustrative images of French industrial innovations
+Discover the France 2030 experience,
+an immersive city to explore innovations,
+which will redefine our daily lives in the future.
+Each district represents a theme:
+Carbon-free energy,
+Agriculture of the future,
+health,
+The deep seabed,
+Space and much more.
+In one click, dive into each universe:
+Discover scientific submarines,
+Surgical robots or even agricultural drones
+And learn more about the jobs of tomorrow.
+Discover the immersive city now on: experience.france2030.gouv.fr.
+France 2030, let’s bring the future closer.
+Discover the experience
+The Interministerial Committee for Innovation – April 2025
+The Interministerial Committee for Innovation highlighted the State's commitments with France 2030 made over the past three years, the assessment of the concrete impacts on our technological and industrial sovereignty, and opened the way to new prospects for investment in disruptive innovations. 16 performance indicators of the France 2030 plan are in line with the objectives, or even ahead of schedule, including 47 bio-medicines and 640,000 electric and hybrid vehicles produced in France, 100,000 new training places and even 18 million annual tonnes of CO2 saved thanks to the projects undertaken today.
+Read the article
+Highlight the solutions of today and tomorrow
+Since 2021, France 2030 has been supporting innovative players throughout France with the ambition to find, support and develop to “bring the future closer”.
+And it is precisely this ambition that the film from the General Secretariat for Investment, in charge of France 2030, and the Government carries, with the spotlighting of a gallery of actors, who, in the shadows, think of innovative solutions in the fields of health, culture, research and even agriculture. Solutions
+
+revealing, once brought to light, their full societal usefulness.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: The future is built by highlighting your projects.
+For more than two years, France 2030 has been supporting innovative players throughout France. Discover the projects that are shaping our future.
+Transcription
+Enlarge
+Close
+Transcription
+We can seek to explore the abyss, to unite our talents to bring stars to life. We may want to put innovation at the service of life, rethink our way of producing to make it more sustainable. What if the solutions were right before our eyes, in the shadows? What if it was up to us to reveal them? The future is built by highlighting your projects.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Zoom into the future with France 2030
+Transcription
+Enlarge
+Close
+Transcription
+Zoom out on illustrative images of French industrial innovations France2030.gouv.fr
+Follow France 2030 news
+Receive the newsletter
+So as not to miss the latest news, you can receive each month a summary of the highlights, the openings of new calls for projects or even testimonials from winners who are helping to transform key sectors of our economy.
+I register
+Apply for France 2030
+Contribute to the France 2030 momentum!
+You are a start-up, an SME/ETI, a large industrial group, a higher education establishment, a research organization, a laboratory, a school and you want to contribute to “giving France a head start” through innovation?
+Make yourself known
+At the heart of the territories
+A humanoid robot to help caregivers
+News · Innovation
+Published on
+                                            09/21/2023
+Supporting research to better treat endometriosis
+News · Research
+Published on
+                                            05/29/2024
+France 2030: Whispeak makes your voice a secure key
+News · Innovation
+Published on
+                                            09/20/2024
+Reef Pulse: a French company that protects coral reefs
+News · Sea
+Published on
+                                            06/09/2023
+See more articles
+Published on May 19, 2022
+, modified February 6, 2026
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+
+---
+
+### France in WIDE ANGLE
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/grand-dossier/la-france-en-grand-angle
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2304
+- **Unique ID:** `b119c9b00aaf87db`
+
+#### Content:
+
+The
+France
+in
+LARGE
+ANGLE
+The State listens
+of what matters,
+where it counts.
+In this folder
+France in wide angle
+What do the French perceive of state action where they live? To respond to this, the Government is undertaking an unprecedented approach to listening and diagnosis throughout the territory. By combining opinion research and ethnographic immersion, this operation aims to take the pulse of the country, region by region. It explores the link between citizens and their territory: what makes them proud, what questions them, what worries them - and above all, how they perceive and concretely experience the public action around them.
+Discover the results region by region.
+Select a region to display the data
+Swipe the card
+✌️ Use two fingers to move the map or
+                                            use the buttons
+Leaflet
+IGN-F/Geoportal
+Île-de-France
+Close
+Illustrative image -
+Source: Pexel
+With more than 12 million inhabitants,
+the Île-de-France region
+accumulates a density
+demographic, economic power, social, cultural and
+territorial which place it at the heart of many national dynamics, at the same time
+time that they generate experiences without equivalent to those lived in
+other territories.
+This
+extreme density brings together a diversity of experiences, resources and
+rather unique territorial fragilities. For Ile-de-France residents, Paris appears
+as an exceptional center from which everyone tries to both benefit and
+advantages and to protect themselves from real or projected disadvantages. The distance to the
+capital imposes itself as a key to effective reading of local situations.
+It is also the region of the most
+strong contrasts, bringing together the richest department in France (the
+Hauts-de-Seine) and the poorest (Seine-Saint-Denis).
+Read the regional summary
+Center-Val de Loire
+Close
+Illustrative image -
+Source: AdobeStock
+Centre-Val de Loire is perceived as a region
+peaceful and pleasant to live in, with residents attached to its quality of life
+and its tranquility. Despite an unemployment rate lower (or equal) to the national average,
+the region is little identified - wrongly - as dynamic by its inhabitants.
+Health is the main concern
+regional. The region suffers from medical understaffing, with the lowest
+number of doctors per inhabitant in mainland France. Nearly 6 out of 10 residents
+declare that they have already given up on treatment. The feeling of security is strong there, and security rarely appears as a priority, unlike the national average.
+Read the regional summary
+Burgundy-Franche-Comté
+Close
+Illustrative image -
+Source: AdobeStock
+In Burgundy-Franche-Comté, the inhabitants
+highly appreciate their quality of life, safety and the environment, but
+remain worried about the future of their region. This contrast between satisfaction
+local and regional pessimism is marked, particularly in rural areas.
+These are facing progressive devitalization, with the closure of
+shops and the departure of young people, accentuating a feeling of isolation.
+Access to care is a major concern,
+linked to the aging of the population and the distance from structures
+medical. Mobility remains difficult: many depend on the car, and
+few see rail improvements. State action is judged
+present, but difficult to read. A majority of residents do not perceive
+concretely this aid on their territory, despite massive recourse to
+public devices.
+Read the regional summary
+Normandy
+Close
+Illustrative image -
+Source: Ministry of the Interior_E.Delelis
+In Normandy, residents display optimism
+local driven by a deep attachment to their territory and its quality of
+life. The Norman identity, discreet but rooted, results in stability
+strong residential and an enhancement of landscapes and nature.
+The regional economy is seen as resilient, driven by agriculture,
+energy and industry, despite an increase in the cost of living.
+Access to care remains a major concern,
+particularly in rural areas where inequalities are marked. Safety
+more worrying in large cities. Car dependence, fault
+of transport alternatives, limits access to services. Purchasing power,
+although rarely expressed as a priority, underlies several tensions of
+daily. Enf
+
+in, if public action is recognized in certain areas,
+it is considered distant, for the benefit of local communities, perceived as more
+close and responsive.
+Read the regional summary
+Hauts-de-France
+Close
+Illustration image -
+Source: AdobeStock
+Hauts-de-France is distinguished by a strong
+attachment to their regional identity, marked by conviviality and
+solidarity. However, the region remains one of the poorest in France
+metropolitan and accumulates fragilities. Employment is at the heart of
+concerns, perceived as essential to the vitality of the territory, although
+deemed insufficiently available.
+Access to health varies greatly depending on the
+departments, with marked inequalities between Aisne, Somme and the North.
+Despite the criticism addressed to decision-makers, residents recognize the
+State efforts, particularly in terms of digital technology, culture, sport and aid
+social, from which a majority benefited.
+Read the regional summary
+Great East
+Close
+Illustrative image -
+Source: AdobeStock
+In the Grand Est, local roots are
+particularly strong: more than half of the inhabitants were born there and a large
+does not plan to leave. This loyalty is accompanied by a look
+positive on the living environment and a more marked optimism for the situation
+local and national. Employment is a regional priority, especially in
+rural or formerly industrial areas, where residents feel less
+well provided than in urban areas.
+Access to care remains mixed: satisfactory
+in town, but difficult in several rural departments, where residents
+mention a lack of doctors and the complexity linked to the digitalization of services.
+Safety is above all an urban concern. State action is good
+identified, particularly in the areas of sport, culture,
+digital and transport, with generally more positive opinions
+than elsewhere in France.
+Read the regional summary
+Loire region
+Close
+Illustrative image -
+Source: AdobeStock
+The Pays de la Loire benefits from an image
+generally positive among their inhabitants, who praise the quality of life,
+the conviviality and attractiveness of the territory. Employment is a point
+strong. However, this dynamic is less felt in the departments of
+north, like Sarthe and Mayenne, where the feeling of dynamism and
+optimism is more reserved.
+Access to care remains a major concern,
+with significant disparities depending on the departments. Safety worries
+particularly in large cities, while rural areas
+deplore their dependence on the car and the difficulty of accessing services
+public. If state action is less perceived on security issues,
+health and housing, it is more so in the areas of digital and
+culture.
+Read the regional summary
+Brittany
+Close
+Illustrative image -
+Source: AdobeStock
+In Brittany, a strong sense of belonging and
+of local confidence contrasts with the ambient pessimism on the situation
+national and global. This confidence is based on a living environment largely
+popular, a strong culture and strong local roots, reinforced by
+local consumption habits. The regional economy remains dynamic, with
+a low unemployment rate and strong business creation, but shows some
+signs of shortness of breath.
+Housing appears to be a major challenge, in
+particularly for first-time buyers and tenants, due to the increase
+prices and a lack of new housing. Security is also a
+growing concern, particularly in large cities like Rennes.
+In terms of health, territorial inequalities persist, as does the
+car dependence. However, free roads remain an asset
+regionally recognized.
+Read the regional summary
+New Aquitaine
+Close
+Illustrative image -
+Source: Prefecture of Nouvelle-Aquitaine
+New Aquitaine seduces with its quality of life
+and attracts many inhabitants, despite marked territorial disparities. Bordeaux
+concentrates economic assets but is subject to strong urban pressure. The
+medium-sized towns offer a good balance, while rural areas and
+coastal areas encounter difficulties in terms of housing, care and
+transport.
+Mobility remains a challenge outside mainland France, with
+strong dependence on the car. The feeling of insecurity varies depending on the
+territories, often reflecting
+
+t social isolation. Access to care is
+worrying, particularly in certain rural areas. The accommodation is under
+tension, between high prices and obsolescence. Finally, the rising cost of living
+weakens low-income households.
+Read the regional summary
+Occitanie
+Close
+Illustrative image -
+Source: AdobeStock
+Driven by its demographic dynamism
+and its envied living environment, Occitanie is a region on the move, which attracts.
+With its approximately 6 million inhabitants
+and an area exceeding 72,000 km² (13% of the national territory),
+Occitanie is today the second largest region in France
+metropolitan and the fourth in terms of demographics. According to INSEE, since
+2015, the region's population is increasing at a rate of +0.7% per year. In one
+decade, it gained more than 500,000 inhabitants.
+She
+brings together territories as diverse as they are complementary: the metropolises of
+Toulouse and Montpellier, structuring medium-sized cities, a coastline
+highly attractive, agricultural and wine-growing areas, as well as massifs
+mountainous with marked identities (Pyrenees, Cévennes). The inhabitants
+readily praise a pleasant living environment, a cultural and leisure offer
+dense, and a certain “art of living” of the South, between conviviality, nature
+and tradition.
+Read the regional summary
+Provence-Alpes-Côte d’Azur
+Close
+Illustrative image -
+Source: Bouches-du-Rhône Prefecture
+The Provence-Alpes-Côte d’Azur region combines
+attractiveness and contrasts: sunny climate, cultural diversity and setting
+of life appeal to its residents, a majority of whom say they are proud to live there.
+However, this attraction coexists with strong social inequalities, particularly in
+Marseille, and a housing crisis marked by scarcity, high prices and
+tourist pressure, limiting access to housing for the most modest.
+Mobility still relies largely on
+car, lack of suitable public transport, accentuating inequalities of access
+to employment and services. The feeling of insecurity is strongly felt,
+especially in urban areas, fueling social withdrawal. If access to care is
+generally good, it remains very uneven depending on the territories, with a feeling
+strong isolation in mountainous areas.
+Read the regional summary
+Corsica
+Close
+Corsica -
+Source: Prefecture of Corsica
+Corsica is distinguished by its territorial roots
+exceptional. However, this strong attachment is accompanied
+a feeling of isolation,
+lived at the
+both as an asset of identity and a constraint in access to
+essential services. The care offer is
+particularly worrying,
+with frequent recourse to medical transfers to the continent.
+Atypical demographics – aging population
+and strong tourist pressure – accentuates tensions, particularly on the
+housing. The island holds the national record for second homes,
+causing a shortage for residents. The economy remains very seasonal,
+with high job insecurity. Mobility is also a black point:
+the inadequacy of public transport reinforces dependence on the car.
+Finally, the relationship with the State is ambivalent: the Corsicans feel little
+supported, despite massive recourse to public measures.
+Read the regional summary
+Auvergne-Rhône-Alpes
+Close
+Illustrative image -
+Source: Prefecture of Auvergne-Rhône-Alpes
+In Auvergne-Rhône-Alpes, the inhabitants
+widely favor their living environment, marked by nature, the mountains and
+an environment considered pleasant. This satisfaction, however, contrasts with
+disparities in access to services: mobility is generally well perceived, but
+many still rely on cars, especially in rural areas. The
+Public transport suffers from delays or lack of coverage.
+Safety is at the top of the list of priorities, with
+growing feeling of worry, even in areas deemed calm. Side
+health, almost one in two inhabitants has already given up on care, due to
+lack of professionals or the remoteness of structures, particularly
+outside of big cities.
+Read the regional summary
+What do the French perceive of state action? What links do they maintain with institutions, public services and representatives of public action? And how do these links vary according to regions, experiences or individual trajectories?
+It is to answer these questions that
+the
+Government Information Service
+(SIG), under the impetus of
+
+e the spokesperson for the Government, has initiated an unprecedented process of listening and diagnosis
+. Combining opinion surveys (nearly 10,000 French people interviewed online), immersion in the field (150 face-to-face interviews throughout France) and regional meetings, it explores
+the relationship of the French to their territory and to local public action
+.
+Unequal trust in institutions
+While public services benefit from
+a good level of satisfaction
+(77% of French people say they are satisfied according to the barometer of the Paul Delouvrier institute with Harris Interactive published in 2024) and that local elected officials (mayors, departmental and regional councils) maintain broad support,
+distrust of politics remains strong
+(74% of French people say they no longer trust him*, according to the barometer from the Sciences Po Political Research Center published in January 2025).
+Beyond this distrust,
+some citizens express difficulty understanding public decisions and perceiving their concrete effects
+. This lack of readability fuels a feeling of distance from the State.
+At the same time, citizens are demanding
+a right to information
+: they wish to be more notified of public action, particularly when it directly impacts their daily lives.
+This observation highlights the importance of
+strengthen the clarity of public speech
+,
+to anchor public policies in local realities
+and of
+reinvesting local spaces for dialogue
+, to rebuild a lasting bond of trust with citizens.
+A closer-to-the-ground investigation
+While the Government has undertaken an exercise of
+refoundation of public action
+aimed at refocusing State action on its essential missions, this field diagnosis must fuel an informed dialogue between those who design public policies and those who experience their effects every day.
+The SIG, in conjunction with the Government spokesperson, the Interministerial Directorate for Public Transformation and the network of prefectures, launched
+a major national survey to better understand the expectations and feelings of the French.
+In partnership with the advertising agency 366 and the research firm George(s), supported by the Dentsu Aegis agency, the survey is based on:
+a large quantitative study,
+carried out by Harris Interactive, with 10,000 people (800 per region),
+an ethnographic immersion
+, with nearly 150 interviews conducted with everyday stakeholders in each region (nurses, traders, teachers, public officials, etc.).
+The country here
+Download the “mook” of France in wide angle.
+PDF - 4.75 MB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+France in Wide Angle - a unique approach
+Published on September 18, 2025
+, modified on December 18, 2025
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+
+---
+
+### Acute respiratory infections
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/risques/infections-respiratoires-aigues
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1415
+- **Unique ID:** `907c91712653e18d`
+
+#### Content:
+
+Acute respiratory infections
+Published on May 12, 2023
+, modified on November 7, 2025
+Illustration - Acute respiratory infections -
+Source: GIS
+Recognize the symptoms of acute respiratory infections and adopt the right actions: wearing a mask, washing your hands, isolation and vaccination.
+Epidemics of infectious diseases, whether the agent in question has been known for a long time, is emerging or re-emerging, represent a threat to populations and are likely to cause disorganization of the health system, or even significant disruptions to social and economic life.
+Simple individual and collective hygiene measures can help limit the risk of transmission of these diseases.
+What is it about?
+Covid-19, influenza and bronchiolitis are contagious acute respiratory infections of viral origin. Influenza and bronchiolitis are seasonal winter infections; Covid-19 has evolved in several waves over the year since its emergence.
+These epidemic waves, especially when they combine, can affect several million people (several tens of millions of cases of Covid-19 since the start of the pandemic, 2 to 6 million cases of influenza annually in France). Bronchiolitis affects 30% of infants under 2 years of age each year, with significant recourse to the healthcare system during epidemic peaks.
+These pathologies have similar modes of transmission: they are easily transmitted from person to person through respiratory secretions and/or aerosols, when sneezing or coughing. Confined, poorly ventilated and busy places (public transport, communities, performance halls, etc.) are conducive to the transmission of these viruses.
+Acute respiratory infections (ARI) on the Health Insurance website
+What are the symptoms?
+Covid-19 and the flu share similar symptoms, namely cough, runny nose, sore throat, fever, headache and fatigue. People infected with either virus can have varying degrees of illness - some people have no symptoms, mild symptoms, or severe disease.
+Here are the common symptoms of Covid-19, bronchiolitis and the flu:
+Fever.
+Cough.
+Fatigue.
+Headaches.
+Muscle or body pain.
+Nasal congestion or runny nose.
+Sore throat.
+As for loss of taste and smell, these are specific symptoms of Covid-19.
+Answers to your questions about Covid-19
+How to protect yourself?
+Certain simple hygiene measures can help limit the risk of transmission of these diseases. It is imperative to apply them during periods of epidemic circulation to protect yourself and others.
+If the entire population is susceptible to contracting the disease, certain people are more at risk of developing a serious form (elderly people, infants, chronically ill and fragile or immunocompromised people).
+They, as well as their loved ones, are recommended to respect with particular vigilance all the barrier measures and recommendations mentioned below.
+Wearing a mask
+Wearing a mask aims to ensure
+individual protection
+of each person to avoid being contaminated and developing a serious form, but also a
+collective protection
+, to reduce the risks of spreading viruses within the population and contaminating people at risk of developing serious forms of respiratory infections.
+Enlarge the visual
+Infographic wearing a mask -
+Source: sante.gouv.fr
+Close
+Infographic wearing a mask -
+sante.gouv.fr
+Transcription
+Enlarge
+Close
+Transcription
+The mask is
+particularly recommended
+for
+all people from 6 years old in the following cases
+:
+For people with a positive diagnosis of Covid-19 or another respiratory pathology, even in the absence of symptoms, throughout their contagious period.
+For people with symptoms, in the absence or awaiting diagnosis.
+For people who have had contact with a person suffering from Covid-19 or other respiratory pathology.
+For everyone, during periods of virus circulation, in enclosed and poorly ventilated places (in transport in particular) particularly in situations of high crowding.
+For the elderly, immunocompromised, chronically ill and frail, as well as for the
+
+our caregivers and the people who interact with them.
+NB: Masks may be required for people aged at least 6 years old in certain healthcare settings.
+Download the infographic
+Wearing a mask
+PDF - 305.75 KB
+Universal hygiene rules
+Hand hygiene
+regular washing with soap and water for 30 seconds is an effective hygiene measure to prevent the transmission of all viruses. In the absence of water and soap, the same actions should be carried out by rubbing with hydroalcoholic gel as often as possible.
+It is recommended to avoid touching your face, particularly your nose, mouth and eyes, to systematically cover your nose and mouth when coughing or sneezing into your elbow, and to use single-use tissues.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Protecting my baby from the risks of winter
+Vaccination
+The
+Vaccinations against Covid-19 and against influenza remain essential in the prevention of contamination, transmission and serious forms of the disease.
+Vaccination against Covid-19
+It is strongly recommended that people most at risk of severe disease receive an annual dose of vaccine against Covid-19, in particular:
+people aged 65 and over;
+people with comorbidities with a higher risk of a severe form of the disease (complicated arterial hypertension, heart, vascular, hepatic, kidney, pulmonary problems, diabetes, obesity, cancers, transplant recipients, people with Down syndrome or psychiatric disorders or dementia);
+immunocompromised people;
+pregnant women, regardless of their trimester of pregnancy;
+residents in accommodation establishments for dependent elderly people (EHPAD) and long-term care units (USLD);
+people at very high risk of serious illness according to each individual medical situation and as part of a decision shared with the healthcare teams;
+people living in close proximity to or in regular contact with immunocompromised or vulnerable people, including professionals in the health and medico-social sectors.
+The annual dose is no longer recommended for people not targeted by the recommendations described above. However, if a person is not in the target and wishes to receive a vaccination, they will be able to benefit from it free of charge.
+In addition, people wishing to be vaccinated with the Sanofi vaccine, authorized only as a booster, must have previously been vaccinated for the first time or infected with Covid-19.
+Flu vaccination
+Flu vaccination is recommended for people at risk of severe influenza. These are:
+People aged 65 and over.
+People under 65 suffering from certain chronic illnesses (list of eligible people in
+vaccination schedule
+).
+Pregnant women.
+People suffering from obesity (
+body mass index (BMI)
+greater than or equal to 40).
+The vaccination strategy also aims to ensure indirect protection by vaccinating:
+Health professionals and professionals from medical social establishments in contact with patients at risk because they can contribute to spreading the infection.
+Those close to infants under 6 months of age at risk of serious complications from influenza and those close to those who are immunocompromised.
+Home help for private employers at risk of serious influenza.
+Useful links on vaccination:
+Covid-19: vaccination against Covid-19 - Ministry of Health and Prevention
+Covid-19: vaccination-info-service: Covid-19 | Vaccination Info Service
+Seasonal flu: vaccination against seasonal flu
+Seasonal flu: Flu | Vaccination Info Service
+What to do if you have symptoms?
+From the first symptoms
+suggestive of Covid-19, flu or bronchiolitis (in adults and children), it is
+strongly recommended to apply the following measures:
+Limit contact with other people and in particular people who are fragile or at risk of developing a serious form (infants, pregnant women, elderly people or people with certain chronic diseases or suffering from obesity).
+If your state allows it and it is possible for you, favor teleworking.
+Get tested for Covid-19 and/or consult your doctor to clarify the diagnosis
+
+diagnosis.
+Wear a suitable mask.
+Cover the nose and mouth with a single-use tissue when coughing, sneezing, discharge, blowing your nose.
+Contain respiratory secretions in a tissue.
+Discard tissues immediately after use.
+If you don't have a tissue, cough or sneeze into your elbows rather than your hands.
+Wash hands after contact with respiratory secretions or contaminated objects.
+Do not touch mucous membranes (eyes, nose) with contaminated hands.
+In the event of a proven diagnosis of Covid-19, flu or bronchiolitis, inform people who could have been contaminated while the person was contagious.
+Contaminated people are invited to greatly reduce or even avoid close contact with other people, particularly vulnerable people, and to respect all of the above measures.
+Ministry of Health and Prevention – Covid-19 file
+Public Health France
+–
+Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+All the information and advice for properly applying barrier gestures
+Useful links
+Ministry of Health and Prevention – Covid-19 file
+Public Health France – Bronchiolitis file
+Public Health France - Bronchiolitis file
+Ministry of Health and Prevention - Against Bronchiolitis, preventive treatment and simple actions
+Health Insurance – Seasonal Flu File
+
+---
+
+### Republican Order - Priority axis of the Government | info.gouv.fr
 
 - **Source:** Gouvernement.fr
 - **URL:** https://www.gouvernement.fr/politiques-prioritaires/renforcer-l-ordre-republicain-et-encourager-l-engagement
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1491
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1439
 - **Unique ID:** `72c9bd3c97c9788f`
 
 #### Content:
 
-Ce qui change pour moi en
-Zone :
+What changes for me
+Area:
 France
-Fermer
-Changer de zone
-Voir toute la France
-OU
-Rechercher
-Régions
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
 Auvergne-Rhône-Alpes
-Bourgogne-Franche-Comté
-Bretagne
-Centre-Val de Loire
-Corse
-Grand Est
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
 Guadeloupe
-Guyane Française
+French Guiana
 Hauts-de-France
 Île-de-France
-La Réunion
+Reunion
 Martinique
 Mayotte
-Normandie
-Nouvelle-Aquitaine
+Normandy
+New Aquitaine
 Occitanie
-Pays de la Loire
-Provence-Alpes-Côte d'Azur
-Départements
-01 - Ain
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
 02 - Aisne
 03 - Allier
 04 - Alpes-de-Haute-Provence
 05 - Hautes-Alpes
 06 - Alpes-Maritimes
-07 - Ardèche
+07 - Ardeche
 08 - Ardennes
 09 - Ariège
-10 - Aube
+10 - Dawn
 11 - Aude
 12 - Aveyron
 13 - Bouches-du-Rhône
@@ -4452,19 +8994,19 @@ Départements
 15 - Cantal
 16 - Charente
 17 - Charente-Maritime
-18 - Cher
+18 - Dear
 19 - Corrèze
-21 - Côte-d'Or
+21 - Côte-d’Or
 22 - Côtes-d'Armor
-23 - Creuse
+23 - Hollow
 24 - Dordogne
 25 - Doubs
 26 - Drôme
 27 - Eure
 28 - Eure-et-Loir
 29 - Finistère
-2A - Corse-du-Sud
-2B - Haute-Corse
+2A - South Corsica
+2B - Upper Corsica
 30 - Gard
 31 - Haute-Garonne
 32 - Gers
@@ -4483,9 +9025,9 @@ Départements
 45 - Loiret
 46 - Lot
 47 - Lot-et-Garonne
-48 - Lozère
+48 - Lozere
 49 - Maine-et-Loire
-50 - Manche
+50 - Sleeve
 51 - Marne
 52 - Haute-Marne
 53 - Mayenne
@@ -4494,7 +9036,7 @@ Départements
 56 - Morbihan
 57 - Moselle
 58 - Nièvre
-59 - Nord
+59 - North
 60 - Oise
 61 - Orne
 62 - Pas-de-Calais
@@ -4504,7 +9046,7 @@ Départements
 66 - Pyrénées-Orientales
 67 - Bas-Rhin
 68 - Haut-Rhin
-69 - Rhône
+69 - Rhone
 70 - Haute-Saône
 71 - Saône-et-Loire
 72 - Sarthe
@@ -4515,17 +9057,17 @@ Départements
 77 - Seine-et-Marne
 78 - Yvelines
 79 - Deux-Sèvres
-80 - Somme
+80 - Sum
 81 - Tarn
 82 - Tarn-et-Garonne
 83 - Var
 84 - Vaucluse
 85 - Vendée
-86 - Vienne
+86 - Vienna
 87 - Haute-Vienne
 88 - Vosges
 89 - Yonne
-90 - Territoire de Belfort
+90 - Territory of Belfort
 91 - Essonne
 92 - Hauts-de-Seine
 93 - Seine-Saint-Denis
@@ -4533,181 +9075,6043 @@ Départements
 95 - Val-d'Oise
 971 - Guadeloupe
 972 - Martinique
-973 - Guyane Française
-974 - La Réunion
+973 - French Guiana
+974 - Reunion
 976 - Mayotte
-Explorer les données
-Priorité du Gouvernement
-Renforcer l’ordre républicain et encourager l’engagement
-Face au sentiment d’insécurité dont font régulièrement état les Français, nous devons renforcer l’ordre républicain et encourager la participation citoyenne aux décisions publiques.
-10 chantiers pour l'ordre républicain
-Objectif atteint
-Garantir l'accès à la justice grâce à l'aide juridictionnelle
-Objectif atteint à 100%
-1 indicateur
-Objectif atteint
-Pourvoir 10 000 postes d'ici à 2027 pour renforcer la justice
-Objectif atteint à 100%
-1 indicateur
-Créer 15 000 nouvelles places en prison
-Objectif atteint à 69%
-1 indicateur
-Développer l’insertion professionnelle des détenus
-Objectif atteint à 67%
-1 indicateur
-Moderniser la délivrance des titres de séjour
-Objectif atteint à 62%
-1 indicateur
-Renforcer la présence des forces de l’ordre dans l’espace public
-Objectif atteint à 61%
-3 indicateurs
-Doubler le nombre de réservistes opérationnels militaires
-Objectif atteint à 59%
-1 indicateur
-Renforcer l'efficacité de la procédure d'asile
-Objectif atteint à 53%
-1 indicateur
-Permettre aux jeunes de s'engager via le SNU
-Objectif atteint à 42%
-1 indicateur
-Rendre en moins d’un an les décisions de justice en 1ère instance
-Objectif atteint à 23%
-2 indicateurs
-Afficher tout
-Les défis
-auxquels nous faisons face
-Les Français font régulièrement état d’un
-sentiment d’insécurité
-, dans le contexte d’une société plus violente,
-malgré l’investissement quotidien des forces de l’ordre pour assurer l’ordre
+Explore the data
+Government priority
+Strengthen the republican order and encourage commitment
+Faced with the feeling of insecurity that the French regularly report, we must strengthen the republican order and encourage citizen participation in public decisions.
+10 projects for the republican order
+Objective achieved
+Guaranteeing access to justice through legal aid
+Objective achieved 100%
+1 indicator
+Objective achieved
+Fill 10,000 positions by 2027 to strengthen justice
+Objective achieved 100%
+1 indicator
+Create 15,000 new places in prison
+Objective achieved at 69%
+1 indicator
+Develop the professional integration of prisoners
+Objective reached at 67%
+1 indicator
+Modernize the issuance of residence permits
+Objective reached at 62%
+1 indicator
+Strengthen the presence of law enforcement in public spaces
+Objective reached at 61%
+3 indicators
+Double the number of military operational reservists
+Objective reached at 59%
+1 indicator
+Strengthening the efficiency of the asylum procedure
+Objective reached at 53%
+1 indicator
+Allow young people to get involved via the SNU
+Objective reached at 42%
+1 indicator
+Render court decisions in 1st instance in less than a year
+Objective reached at 23%
+2 indicators
+Show all
+The challenges
+that we face
+The French regularly report a
+feeling of insecurity
+, in the context of a more violent society,
+despite the daily investment of the police to ensure order
 public.
-La justice est également jugée
-encore trop lente et complexe. Enfin notre cadre démocratique ainsi que nos valeurs
-républicaines sont parfois remises en question.
-Un sentiment de perte de contrôle face au
-numérique est aussi de plus en plus ressenti par une partie des Français
-(désinformation,
-cyberattaques et cyberharcèlement).
-Le retour de la guerre en
+Justice is also judged
+still too slow and complex. Finally our democratic framework as well as our values
+republican are sometimes called into question.
+A feeling of loss of control over
+digital is also increasingly felt by some French people
+(disinformation,
+cyber attacks and cyber harassment).
+The return of war in
 Europe
-et l’exacerbation des
-tensions géopolitiques
-dans le
-monde (prolifération nucléaire, menaces hybrides, …) est également une source
-d’inquiétudes
-. Le défi
-migratoire
-devant nous pose de forts
-enjeux d’intégration.
-Alors que l’unité de la Nation est plus que
-jamais nécessaire, le sentiment d’appartenance est questionné
-, du fait
-notamment des fractures sociales et géographiques toujours très marquées.
-De premières améliorations depuis 6 ans
-La présence des forces de l’ordre sur le terrain a
-fortement augmenté (+ 10 000 policiers et gendarmes sur 5 ans), ayant
-notamment permis une diminution de certains crimes et délits depuis 2017
-(cambriolages -25 % en 5 ans, vol avec violence -30%, recul de la délinquance
-dans les 20 départements les plus concernés ces derniers mois …) et la
-réduction de 22 % des points de trafics.
-50 lieux de cultes islamistes fermés temporairement ou
-définitivement depuis 2017
-Une loi de programmation militaire de 413 Mds€ a permis d’engager l’effort de « réparation » nécessaire.
-…mais
-encore des chantiers à mener
-Les priorités jusqu’en 2027
-1 - Renforcer la présence des forces de l’ordre dans l’espace public.
-Pourquoi ?
-Chacun a le droit de vivre en sécurité, chez lui comme
-dans l’espace public. L’objectif est ainsi de continuer à renforcer l’action
-engagée en permettant aux forces de l’ordre d’être davantage présentes sur le
-terrain et en ciblant notamment les délits qui minent le quotidien.
-Comment ?
-Doubler la présence des forces de l’ordre dans l’espace public (notamment
-en zone périurbaine et rurale avec notamment 200 brigades de gendarmerie supplémentaires), poursuivre la transformation numérique du
-ministère, et moderniser les moyens à disposition des policiers, gendarmes et
-douaniers.
-Sécuriser les évènements d’envergure internationale à venir (Coupe du monde
-de rugby 2023, Jeux Olympiques 2024).
-Renforcer l'action contre les trafics de stupéfiants.
-Renforcer l'action contre le séparatisme.
-Renforcer l'action contre la cybercriminalité et les arnaques en ligne.
-2 - Simplifier, moderniser et réduire les délais de notre Justice.
-Pourquoi ?
-Chacun doit aussi pouvoir accéder à la justice
-facilement et obtenir une réponse dans un délai plus réduit. Les travaux de
-modernisation, de simplification et d’augmentation de moyens doivent être
-poursuivis. En outre, la prison doit davantage préparer à la réinsertion, et
-des alternatives doivent pouvoir être proposée lorsque cela est adapté.
-Comment ?
-La suite des états généraux de la justice permettront
-notamment de :
-Déployer +10 000 magistrats et personnels judiciaires sur 5 ans.
-Dématérialiser certaines démarches, avec l’ambition d’une justice
-« zéro papier ».
-Refondre en partie le Code pénal et le Code civil, pour atteindre un délai de
-procédures de maximum un an.
-Créer de nouvelles places de prison, développer les TIG et faciliter la
-réinsertion.
-3 - Transformer nos armées pour garantir notre autonomie et notre
-excellence face aux nouvelles formes de menaces.
-Pourquoi ?
-Une armée forte est gage de sécurité et d’indépendance.
-Cet atout français doit être continuellement renforcé, d’un point de vue
-capacitaire et stratégique, en cohérence avec les efforts déjà entrepris et en
-anticipant les nouvelles menaces faces auxquelles savoir se défendre.
-Comment ?
-La nouvelle loi de
-programmation militaire et toutes les actions engagées permettront de :
-Renforcer les capacités, la préparation et la réactivité des armées
-françaises, notamment face aux cybermenaces, et en garantissant la
-crédibilité dans la durée de la dissuasion nucléaire.
-Construire une véritable « économie de guerre », mobilisant la base
-industrielle et technologique de défense du pays.
-Poursuivre les efforts pour l'amélioration des conditions de vie et de
-travail des militaires et civils de la défense, ainsi que de leurs familles, et continuer à développer la réserve.
-4 - Mieux réguler les flux migratoires et mieux intégrer.
-Pourquoi ?
-Mieux contrôler l’immigration doit permettre de mieux
-traiter les demandes et accueillir ceux qui en ont besoin ou souhaitent émigrer
-légalement. En outre, l’intégration est un chantier essentiel à améliorer.
-Comment ?
-Répondre à une demande d’asile en moins de 2 mois et réformer
-l’organisation de l’asile.
-Mieux protéger nos frontières par un renforcement des moyens au service de
-contrôles plus efficients, une refonte des accords de Schengen et un
-éloignement plus systématique des personnes déboutées et délinquantes.
-Renforcer l’accompagnement des personnes obtenant l’asile (cours de langue,
-logement…).
-5 - Encourager la participation citoyenne aux décisions publiques.
-En associant la population à des dispositifs consultatifs à l’instar des
-conventions citoyennes, du Conseil National de la Refondation
-et faciliter puis valoriser l’engagement
-citoyen
-(services civiques, Service national universel…).
-6 - Réformer nos institutions et garantir les droits fondamentaux.
-Ordre républicain
-Les grands dossiers
+and the exacerbation of
+geopolitical tensions
+in the
+world (nuclear proliferation, hybrid threats, etc.) is also a source
+of worries
+. The challenge
+migratory
+in front of us lay forts
+integration issues.
+While the unity of the Nation is more than
+never necessary, the feeling of belonging is questioned
+, due to the fact
+notably social and geographical divides that are still very marked.
+First improvements in 6 years
+The presence of law enforcement on the ground has
+sharply increased (+10,000 police officers and gendarmes over 5 years), having
+notably allowed a reduction in certain crimes and misdemeanors since 2017
+(burglaries -25% in 5 years, violent theft -30%, decline in crime
+
+nce
+in the 20 departments most concerned in recent months…) and the
+22% reduction in traffic points.
+50 Islamist places of worship closed temporarily or
+definitely since 2017
+A €413 billion military programming law made it possible to initiate the necessary “repair” effort.
+…but
+still work to be done
+Priorities until 2027
+1 - Strengthen the presence of law enforcement in public spaces.
+For what ?
+Everyone has the right to live in safety, at home and
+in public space. The objective is to continue to strengthen action
+committed by allowing law enforcement to be more present on the ground
+field and in particular targeting crimes that undermine daily life.
+How ?
+Double the presence of law enforcement in public spaces (in particular
+in peri-urban and rural areas, including 200 additional gendarmerie brigades), continue the digital transformation of
+ministry, and modernize the means available to police officers, gendarmes and
+customs officers.
+Securing upcoming international events (World Cup
+rugby 2023, Olympic Games 2024).
+Strengthen action against drug trafficking.
+Strengthen action against separatism.
+Strengthen action against cybercrime and online scams.
+2 - Simplify, modernize and reduce the delays of our Justice.
+For what ?
+Everyone must also be able to access justice
+easily and get a response in a shorter time. The works of
+modernization, simplification and increased resources must be
+pursued. In addition, the prison must better prepare for reintegration, and
+alternatives must be offered when appropriate.
+How ?
+The continuation of the states general of justice will allow
+in particular:
+Deploy +10,000 magistrates and judicial staff over 5 years.
+Dematerialize certain procedures, with the ambition of justice
+“zero paper”.
+Partially recast the Penal Code and the Civil Code, to achieve a deadline of
+procedures for a maximum of one year.
+Create new prison places, develop TIG and facilitate
+reintegration.
+3 - Transform our armies to guarantee our autonomy and our
+excellence in the face of new forms of threats.
+For what ?
+A strong army is a guarantee of security and independence.
+This French asset must be continually strengthened, from a point of view
+capability and strategic, in line with the efforts already undertaken and in
+anticipating new threats against which to know how to defend yourself.
+How ?
+The new law of
+military programming and all the actions undertaken will make it possible to:
+Strengthen the capacities, preparation and responsiveness of the armed forces
+French authorities, particularly in the face of cyber threats, and by guaranteeing the
+credibility in the duration of nuclear deterrence.
+Build a real “war economy”, mobilizing the base
+industrial and technological defense of the country.
+Continue efforts to improve living conditions and
+work of military and defense civilians, as well as their families, and continue to develop the reserve.
+4 - Better regulate migratory flows and better integration.
+For what ?
+Better control of immigration should enable better
+process applications and welcome those who need it or wish to emigrate
+legally. In addition, integration is an essential area to improve.
+How ?
+Respond to an asylum request in less than 2 months and reform
+the organization of asylum.
+Better protect our borders by strengthening resources to serve
+more efficient controls, an overhaul of the Schengen agreements and a
+more systematic removal of rejected and delinquent people.
+Strengthen support for people obtaining asylum (language courses,
+housing…).
+5 - Encourage citizen participation in public decisions.
+By involving the population in consultative mechanisms like the
+citizen conventions, of the National Council for Refoundation
+and facilitate and then enhance commitment
+citizen
+(civic services, Universal National Service, etc.).
+6 - Reform our institutions and guarantee fundamental rights.
+Republican order
+The major files
 Europe 2024
-Le 9 juin 2024, les Français sont invités à élire leurs représentants au Parlement européen. Une assemblée qui façonne notre vie quotidienne bien plus qu’il n’y paraît.
-Actualités
-Découvrez les dernières actualités liées aux politiques prioritaires du Gouvernement.
-Pour voter, n’oubliez pas vos papiers d’identité
-Actualité · Citoyenneté
-Comment établir une procuration de vote ?
-Actualité · Citoyenneté
-Résilience :
-comment se préparer aux crises ?
-Actualité · Sécurité
-Pourquoi le 14
-juillet est-il notre fête nationale ?
-Actualité · Défense
-Les territoires ultramarins au cœur de l’agenda
-gouvernemental
-Actualité · Outre-Mer
-Iran - Israël - Territoires palestiniens : conseils aux ressortissants français
-Actualité · International
-Voir tous les articles
+On June 9, 2024, the French are invited to elect their representatives to the European Parliament. An assembly that shapes our daily lives much more than it seems.
+News
+Discover the latest news related to priority policies
+
+of the Government.
+To vote, don't forget your identity papers
+News · Citizenship
+How to establish a voting proxy?
+News · Citizenship
+Resilience:
+how to prepare for crises?
+News · Security
+Why the 14th
+Is July our national holiday?
+News · Defense
+Overseas territories at the heart of the agenda
+governmental
+News · Overseas
+Iran - Israel - Palestinian Territories: advice for French nationals
+News · International
+See all articles
+
+---
+
+### Why get involved?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/partenaires-de-letat/pourquoi-sengager
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 329
+- **Unique ID:** `af81b52cdb702778`
+
+#### Content:
+
+Why get involved?
+Published on June 18, 2025
+, modified on November 12, 2025
+Adobe Stock -
+Source: AdobeStock
+Join a network where your action becomes a lever for social and environmental transformation, recognized and supported by the State.
+Strengthen your societal impact
+Seize an opportunity to act in the general interest by participating in the major challenges of our time! Beyond a simple collaboration, you create new bridges between the State and citizens, thus contributing to the social and environmental transformations essential for our society. Your commitment becomes a real lever for action!
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Benefit from institutional recognition
+By joining our network, you benefit from recognition
+institutional
+and access campaign tools and resources. Strengthen the credibility of your CSR commitments and your positioning as a responsible actor!
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Integrate a dynamic ecosystem
+By becoming a partner of the State, you become part of a committed community. This network opens the doors to exclusive events, promotes enriching exchanges with other players in your sector and the development of new synergies.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Optimize your resources
+Develop high-impact actions thanks to turnkey content, or personalized support from the Government Information Service teams to co-build systems that are specific to you! In this way, you will develop high-impact actions by effectively pooling the resources at your disposal.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+The “Partnership with the State” program
+The Government Information Service (GIS) is piloting the “Partnership with the State” program. Placed under the authority of the Prime Minister, the SIG coordinates and leads a network of partners from the private and associative spheres to maximize the reach of government messages.
+I want to become a partner of the State
+
+---
+
+### Current campaigns
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/partenaires-de-letat/nos-campagnes-en-cours
+- **Published Date:** 2025-10-01
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 464
+- **Unique ID:** `77a110e5c58df338`
+
+#### Content:
+
+Current campaigns
+Published on September 16, 2025
+, modified yesterday at 9:45 p.m.
+Adobe Stock -
+Source: AdobeStock
+Apply for Government communication campaigns and become a partner of the State.
+8
+                                                campaigns
+Show filters
+Themes
+Well-being
+Crisis
+Decarbonization
+Environment
+Training
+Inclusion
+Social inclusion
+Youth
+Justice
+Prevention
+Recruitment
+Health
+Mental health
+Utilities
+Security
+Ecological transition
+Periods
+Choose one or more options
+2025
+2026
+Geographical areas
+Choose one or more options
+National
+Target audiences
+Choose one or more options
+General public
+Young people
+Ministries
+Choose one or more options
+Civic Service Agency
+Ministry of National Education
+Ministry of Justice
+Ministry of Economy
+Prime Minister's Office
+Filter
+Reset filters
+Resilience
+Campaign to raise awareness and mobilize citizens around issues of health, safety and protection of populations in the face of crises, by strengthening their capacity to prevent and manage emergency situations.
+Health
+Crisis
+Security
+Prevention
+Environment
+From
+October 1, 2025
+at
+December 31, 2026
+National
+General public
+Prime Minister's Office
+Call for expressions of interest
+PDF - 170.12 KB
+Learn more
+Apply
+I am a victim
+Campaign aimed at better informing and guiding victims by promoting the “I am a victim” portal and free support systems.
+Justice
+From
+November 14, 2025
+at
+March 31, 2026
+National
+General public
+Ministry of Justice
+Call for expressions of interest
+Learn more
+Apply
+Host families
+Recruitment campaign for host families for children in difficulty
+Recruitment
+Youth
+Inclusion
+From
+January 05, 2026
+at
+March 31, 2026
+National
+General public
+Ministry of Justice
+Call for expressions of interest
+PDF - 161.61 KB
+Learn more
+Apply
+Energy check
+Energy check information and promotion campaign
+Environment
+Utilities
+From
+March 20, 2026
+at
+March 25, 2026
+National
+General public
+Ministry of Economy
+Call for expressions of interest
+PDF - 174.56 KB
+Learn more
+Apply
+This summer I read
+Campaign to raise awareness and promote reading among young people
+Youth
+Social inclusion
+Training
+From
+March 23, 2026
+at
+April 30, 2026
+National
+General public
+Ministry of National Education
+Call for expressions of interest
+PDF - 223.77 KB
+Learn more
+Apply
+Civic Service Day
+Campaign aimed at promoting the commitment of young volunteers and increasing the visibility of Civic Service
+Youth
+Social inclusion
+From
+March 23, 2026
+at
+June 10, 2026
+National
+Young people
+Civic Service Agency
+Call for expressions of interest
+PDF - 267.08 KB
+Learn more
+Apply
+No to Harassment
+Campaign to combat school bullying
+Mental health
+Youth
+Well-being
+Prevention
+From
+March 23, 2026
+at
+April 30, 2026
+National
+General public
+Ministry of National Education
+Call for expressions of interest
+PDF - 281.37 KB
+Learn more
+Apply
+Sustainable tourism and low carbon mobility
+Campaign to raise awareness and promote low-carbon tourist mobility
+Decarbonization
+Environment
+Ecological transition
+From
+March 23, 2026
+at
+April 20, 2026
+National
+General public
+Ministry of Economy
+Call for expressions of interest
+Apply
+
+---
+
+### Prepare for an emergency
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/risques/se-preparer-a-une-situation-durgence
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2381
+- **Unique ID:** `d90c77936fbc747e`
+
+#### Content:
+
+Prepare for an emergency
+Published on May 12, 2023
+, modified on January 23, 2026
+Illustration of emergency bag preparation -
+Source: GIS
+Learn how to deal with major risks: complete guide to prepare yourself, protect your loved ones, put together a kit and adopt the right reflexes.
+What to remember
+Preparing for an emergency situation means, above all, identifying the risks that threaten me and therefore planning alternative scenarios.
+After an inventory of these risks, it is necessary to study them and assess their potential seriousness before deciding on preventive actions to put in place (emergency kit).
+Ultimately, it means taking the necessary precautions to be able to best manage a crisis situation.
+Why prepare for an emergency?
+Preparing for an emergency situation is above all
+identify risks
+who threaten me and therefore
+predict
+alternative scenarios.
+After an inventory of these risks, it is necessary to study them and
+evaluate
+their potential seriousness before deciding on the preventive actions to be implemented.  It is finally
+take the necessary precautions
+to be able to best manage a crisis situation.
+This section aims to inform citizens about
+attitudes to adopt before, during, and after an emergency situation
+.
+Before an emergency
+The “All responsible” guide
+I consult
+the “All Responsible” guide
+to inform me about useful tools to deal with a major crisis, whatever the origin: flood, fire, cyberattack, etc.
+Enlarge the visual
+The “All responsible” guide -
+Source: GIS
+Close
+The “All responsible” guide -
+GIS
+Transcription
+Enlarge
+Close
+Transcription
+Everyone is responsible for the risks, let's act.
+Prepare to face: you and your loved ones may have to face a situation in which the ordinary functioning of society would be disrupted (flood, storm, cyber attack, etc.).
+Put together an emergency kit.
+Follow three priorities: eat and drink, stay warm and take care of yourself.
+Communicate with your loved ones and build a community of mutual aid and solidarity.
+Train yourself in first aid and learn how to provide emergency care.
+Well protected
+Find out about the risks and threats and the behaviors to adopt to deal with them.
+Be prepared to face natural, health, technological and industrial risks.
+Be prepared to face the threats of cyberattack, terrorism, and in connection with a major commitment of our armed forces outside the national territory.
+Resist rumors and misinformation.
+Recognize and listen to warning signs.
+Learn the emergency numbers.
+All engage
+Get involved by joining the reserves and volunteering schemes:
+as a reservist or volunteer;
+in the service of an approved civil security association;
+serving the armed forces and internal security.
+Our society must adapt to be stronger: find out how to prepare to face a risk, whatever its origin on
+info.gouv.fr/risks
+.
+Download the infographic
+Infographic presenting the chapters of the guide
+PNG - 579.11 KB
+Consult the “All responsible” guide
+“All responsible” guide (accessible PDF)
+PDF - 13.63 MB
+Consult the “All responsible” guide in the Easy to read and understand (FALC) version
+“All responsible” guide (FALC)
+PDF - 867 KB
+Download the “All responsible” guide for printing
+“All responsible” guide for printing (plates)
+PDF - 12.1 MB
+Download the A4 poster for printing
+A4 poster to invite you to download the guide
+PDF - 6.1 MB
+I am looking for information on the risks in my region
+I find my prefecture
+I find my town hall
+I design my personal emergency plan by identifying
+Gathering places and numbers to know (emergency, family, etc.).
+Vulnerable people to help.
+The reflexes to secure my home (turn off the water, electricity, gas, etc.).
+I prepare my necessary emergency equipment in the event of an evacuation (emergency kit)
+Place your kit somewhere easy to access! Twice a year, check the contents of your kit (expiration date of medicines and food) and replace the batteries.
+Enlarge the visual
+Emergency kit -
+Source: GIS
+Close
+Emergency kit -
+GIS
+Transcription
+Enlarge
+Close
+Transcription
+Infographic showing a bag with all the
+
+items to prepare in your 72-hour emergency kit.
+Electricity, gas and running water cuts, impassable roads… when a major disaster strikes, the first 72 hours are often the most trying. This kit prepared in advance will allow you to stay at home more peacefully while waiting for help. It will also be very useful to you in the event of a hasty departure.
+Here are the things to put in this kit:
+a battery-powered radio (with spare batteries) to follow instructions from the authorities
+medicines
+a first aid kit (alcohol, bandages, compresses, etc.)
+basic tools (multi-function knife, can opener, etc.)
+non-perishable food that does not require cooking (canned goods, small baby food jars, food for
+animals…)
+warm clothes and a survival blanket
+a flashlight (with spare batteries), candles, lighter or matches
+a cell phone charger
+his glasses (backup pair)
+cash (ATMs may not work)
+plenty of drinking water (6 liters per person in bottles)
+photocopies of essential documents in a waterproof pouch (ID card, prescriptions, etc.)
+double house and car keys
+games to occupy the time.
+A box reminds you to: place the bag in an easily accessible place and check the contents of your kit once a year, in particular the expiry date of medicines and food. Also replace the batteries.
+Finally, if used, don't forget to restock your kit!
+View the emergency kit infographic
+Emergency equipment needed in the event of an evacuation.
+PDF - 335.33 KB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: TutosRisques: Security kit
+During an emergency
+The first 72 hours: a decisive period
+My most effective action is to remain constantly informed of the relief actions taken by the public authorities and to strictly respect the instructions communicated, particularly if it is necessary to evacuate my home or the disaster area.
+I constantly listen to the radio or television (France TV group channels)
+, and more particularly my local public service radio (network
+here
+, formerly France Bleu)
+.
+I listen to messages via megaphone
+wherever they come from (land, sea or air vehicle).
+I am vigilant for messages transmitted by sirens
+which may invite evacuation.
+I stay where I am
+until safety is assured or I am ordered to evacuate the premises.
+I keep my emergency kit close to me.
+I calmly weigh the advantages and disadvantages
+, in case I have to consider evacuating my home alone.
+In case of evacuation
+The evacuation order is given by the authorities only when they have reason to believe that I am in danger
+.
+I remain where I am until I am given the order to evacuate the premises or until security is assured.
+If I receive an order to evacuate the premises,
+I take my emergency kit
+,
+medications
+what I need,
+my prescriptions
+,
+identity papers
+of each member of my family,
+copies of essential papers
+of my family and a cell phone.
+I lock the doors
+from my home and
+I use the emergency routes
+recommended by the authorities or I follow the evacuation routes that I have previously identified.
+Enlarge the visual
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Source: Ministry of the Interior/J.ROCHA
+Close
+Police officers from the Paris police headquarters
+evacuate the Esplanade des Invalides, July 14, 2021. -
+Ministry of the Interior/J.ROCHA
+In case of confinement
+If local officials advise me to shelter in place, I must stay inside my home or workplace and protect myself there.
+To protect myself as best as possible:
+I close
+and locks all
+windows and doors
+overlooking the exterior;
+I turn off
+all
+fans
+, systems
+heating
+and of
+air conditioning
+air;
+J
+I go to a room above ground level
+, if possible without windows;
+I use duct tape to caulk
+the slots in the doors and possibly in the windows;
+I keep myself informed regularly through the media
+(radio, television, internet) until the announcement of the return
+
+ur to a normal situation or to the evacuation order.
+After an emergency
+Who to contact?
+It is necessary
+to be aware of the damage caused
+(at the human and material levels) and
+to be aware of the dangers
+again
+existing
+following material damage.
+In the event of an evacuation, I will not return to my
+home only when the public authorities give me permission.
+I call the emergency services or a professional to restart the electricity or gas.
+I get help from my doctor
+to face the
+emotional and psychological consequences
+which may occur. This is especially true for children. Talk about your experience
+helps him understand and better understand the situation
+.
+Enlarge the visual
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Source: Ministry of the Interior/D.MENDIBOURE
+Close
+A firefighter from the Haute-Garonne departmental fire and rescue service (SDIS 31) at the family reception point at Toulouse Blagnac airport, located at
+the occasion of an exercise of the civil security response organization (ORSEC), numerous victims (NOVI). -
+Ministry of the Interior/D.MENDIBOURE
+Know the emergency numbers
+What are the emergency numbers?
+A
+better informed citizen
+, it is a
+relief aid
+to intervene in
+best conditions and as quickly as possible
+.
+15
+Samu
+17
+Police
+18
+Firefighters
+GIS
+And other very important numbers like:
+- The
+112
+, European emergency number
+- The
+114
+for deaf and hard of hearing people
+- The
+196
+for emergencies at sea
+- The
+191
+for aeronautical emergencies
+What to say on the phone with the emergency services?
+On the phone with emergency services, here’s what to say
+:
+I am a victim or witness... I give a telephone number where I can be reached.
+I give the precise address of the place where the services must intervene, especially if I am not on site.
+I specify the reasons for my appeal, the state of the situation and that of any victims.
+I express myself clearly to my interlocutor and I listen carefully to the advice given on what to do before help arrives.
+I respond well to all questions that will be asked of me.
+Use social media in an emergency
+Which social media accounts should you follow?
+I primarily follow the accounts:
+Local services: Prefecture of my department, Fire Brigade (SDIS), etc.
+Ministries and
+@gouvernmentFr
+Services of the Ministry of the Interior:
+@Beauvau_Alerte
+,
+@Interieur_Gouv
+@Gendarmerie
+,
+@PoliceNationale
+,
+@SecCivileFrance
+and
+@prefpolice
+Partners from the State and the main institutions, associations and non-governmental organizations: my town hall, my department, the local Red Cross and Visov
+(@VISOV1)
+To learn and contribute
+It is strongly recommended to follow official state accounts and relay their preventive messages. On these accounts, the information is verified.
+Beware of unverified information
+In the event of a crisis, it is necessary not to spread false rumors and unverified information through official channels.
+In all cases, I remain attentive to the instructions given by the authorities, on the network here (formerly France Bleu), on France Télévisions and via the official Twitter and Facebook accounts.
+I am preparing my trip abroad
+Abroad, I may be exposed to numerous risks of all kinds (health, security, natural, industrial, etc.). Good preparation is necessary.
+I note
+the
+contact details of my consulate.
+I consult the section
+“Travel Tips”
+of the site
+France diplomacy
+.
+I register on
+“Ariane.”
+the online service to be alerted in the event of a crisis while traveling abroad.
+I note the useful contacts (address, telephone, email of my consulate), the French consulates are available 24 hours a day.
+I check my insurance contract: the costs (health, legal, repatriation) incurred by any incident abroad can be very high.
+FAQ - Frequently Asked Questions
+What is the “All Responsible” guide?
+The “All Responsible” guide refers to an awareness booklet aimed at preparing the
+
+children to face major risks.
+Why should we prepare for a major crisis?
+Because a major crisis can seriously disrupt daily life (power outages, water, communication; floods, storms, cyberattacks, widespread outage, etc.), and the first 72 hours are generally the most critical.
+Preparing allows:
+to reduce its vulnerabilities;
+to be autonomous while help is organized;
+to protect their loved ones and their property.
+What types of risks are possible in France?
+Major risks in France include:
+natural hazards: floods, marine submersions, forest fires, earthquakes, land movements, storms;
+technological or industrial risks: installation accidents, transport of dangerous materials, dam failure, nuclear risks;
+other types: epidemics, cyberattacks, network outages, etc.
+What to do during the first 72 hours of an attack?
+The official recommendations are:
+stay informed via the media and official channels, follow the instructions of the authorities;
+stay sheltered or evacuate if requested;
+use your emergency kit and manage your priorities: water, food, heat/shelter, communication;
+limit non-essential calls to leave networks free for emergency services.
+What should an emergency kit contain?
+Drinking water;
+non-perishable food that does not require cooking;
+flashlight with batteries or dynamo, battery-operated radio + spare batteries;
+cell phone charger, emergency glasses, warm clothing or survival blanket;
+first aid kit, personal medication, essential documents (identity, prescription), cash, double keys.
+Where to store your emergency kit?
+The kit should be placed in an easily accessible place and out of reach of water. Check its contents twice a year and replace what is expired.
+How to protect yourself in the event of a nuclear accident?
+Good reflexes:
+if you hear the warning signal: take shelter immediately in a solid building, close doors, windows, turn off the ventilation;
+not go out or pick up your children unless ordered by the authorities;
+take iodine tablets only on instructions from the prefect (if you are in a concerned area);
+carefully follow official instructions throughout the alert.
+Learn more about what to do
+.
+What are the right reflexes in the event of an industrial accident?
+Be aware of the risks around you (“Seveso” installations, transport of dangerous materials);
+when alert: follow the instructions of the prefecture or emergency services (evacuation, confinement, etc.);
+stay safe, limit exposure (indoors, doors/windows closed), stay informed.
+Learn more about what to do
+.
+Where to download the “All Responsible” guide?
+Information from the “All Responsible” guide is available on the portal
+info.gouv.fr/risks
+.
+
+---
+
+### Municipal 2026: the results of the second round
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-second-tour
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 460
+- **Unique ID:** `e9baa1b678ba046f`
+
+#### Content:
+
+Municipal 2026: the results of the second round
+Published yesterday at 5:50 p.m.
+The results of the second round of the 2026 municipal elections are available on the website of the Ministry of the Interior.
+Illustrative image -
+Source: AdobeStock
+The second round of the 2026 municipal elections took place on Sunday March 22, 2026.
+Access the results
+At 5 p.m., the
+participation rate
+in these elections was 48.10% for mainland France. It stood at 20.33% at noon the same day.
+Find the results of the first round of elections
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 2 + 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Full employment and reindustrialization - Government priority | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/atteindre-le-plein-emploi-et-reindustrialiser-la-france
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1355
+- **Unique ID:** `daa1ed6b909fddcc`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendée
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Achieve full employment and reindustrialize the country
+The challenge is to regain our strategic independence on technologies and know-how of the future, but also to reduce inequalities in access to employment and act against discrimination in hiring.
+5 projects for employment and industry
+Objective achieved
+Create jobs for our industrial sovereignty
+Objective achieved 100%
+1 indicator
+Training young people through apprenticeship
+Objective reached at 93%
+2 indicators
+Training for jobs of the future
+Objective reached at 67%
+3 indicators
+Ensuring investments for the future with France 2030
+Objective reached at 57%
+1 indicator
+Facilitate the installation and development of industrial sites
+Objective achieved at 27%
+2 indicators
+Show all
+The challenges
+that we face
+Until the 2010s, the
+France was marked by more than 40 years of mass unemployment
+and deindustrialization.
+Today, the challenge is twofold:
+Reply to
+needs of the Nation
+(jobs under pressure, strategic skills)
+to regain our independence
+strategy on technologies and know-how of the future.
+Resolve inequalities in access to employment
+and act against discrimination in hiring.
+This, in a context of
+new expectations of the French in their relationship to work
+(flexibility, mobility
+professional, development and recognition, taking into account all
+forms of arduousness, work that pays better, etc.).
+Firsts
+improvements over 6 years
+Despite a context of successive crises (health, energy, etc.), we went from 9.6% in 2017 to 7.2% unemployment in 2023 (i.e. +1.7M jobs in 6 years), we created 90,000 industrial jobs and reached more than 837,000 apprentices.
+Opening of
+	800 industries, opening of new production lines
+	strategic (paracetamol, semiconductors) and launch of the plan
+	France 2030 (54 billion euros).
+Household purchasing power
+	French almost at the same level in 2023 as in 2019, despite
+	crises, through significant support mechanisms (“
+	whatever it costs” of Covid, energy shields..),
+	the creation of various value sharing tools (“Macron bonus…”) and tax cuts
+	(removal of the housing tax, the TV license fee, reduction
+	income tax…).
+…but still work to be done
+lead
+Priorities until 2027
+1 - Achieve full employment and allow everyone to join
+professionally
+Why?
+Full employment (around 6% unemployment) is so much the ga
+
+age of a strong economy which
+produces wealth and thus allows it to be redistributed, that of a
+power regained for employees in salary negotiation, in a
+labor market with more opportunities.
+The objective today is to encourage the resumption of activity and
+better help everyone according to their needs.
+In addition to the reform
+unemployment insurance, who will be supported in particular?
+The groups furthest from employment
+(workers
+low-skilled, RSA recipients) through the deployment of reinforced support
+and personalized with France Travail (transformation of Pôle emploi).
+Young people,
+with the high school reform
+professional, learning and transformation of secondary education pathways to facilitate
+entry into the labor market, as well as by deploying programs
+specific as “1 young person, 1 solution”…
+Seniors,
+thanks to the accumulation
+employment-retirement and various measures to guarantee their continued employment.
+People with disabilities,
+by one
+transformation of support into establishments and work assistance services (ESAT) in particular.
+2 - Improve the quality of life at work and allow everyone to have a
+“good job”
+Why?
+Quality of life at work is essential for
+flourishing.
+The challenge today is to encourage both the State and the
+companies to embrace the new expectations of society to continue to
+give everyone the freedom to build their future and have a real
+professional career.
+The “life at work pact” which will be
+launched with social partners in spring 2023, should make it possible to
+answer.
+How ?
+Allow everyone to train throughout
+life
+thanks to VAE, CPF…
+Making work pay better, thanks to
+several value sharing mechanisms.
+Improve the quality of life at work,
+allow everyone to control their time and better prevent wear and tear
+professional.
+This project will be the subject of in-depth discussions with the
+social partners.
+Continue
+efforts in terms of
+equality
+professional and economic between men and women
+, thanks to the implementation
+place of index, awareness-raising and transparency actions…
+3 - Continue to reindustrialize France
+Why?
+Develop
+a French (and European) industry is essential to strengthening our
+sovereignty.
+Located in the heart of our territories, these factories and companies
+are the lungs of our economy, creators of quality and innovative jobs.
+How ?
+Pursue innovation in sectors
+strategic with France 2030
+(technologies, mobility, medicine,
+energies, artificial intelligence, etc.), with a view to
+become a great green power
+.
+Plan the needs of the Nation and train
+more than a million people in the professions of the future by 2027.
+Continue to support businesses
+, in
+reducing costs, facilitating procedures and engaging the turning point
+of digitization.
+4 –
+Continue to protect the purchasing power of the French, while
+by being part of a sustainable public finance trajectory
+Why?
+The French are hit hard by the crises
+successive and were able to pay unfair taxes. The five-year action
+precedent will be continued.
+How ?
+Protect the purchasing power of the French by
+lowering taxes
+Act against tax and social fraud
+Establish a deficit reduction trajectory
+public which makes it possible to return, in a credible manner, below 3% of GDP
+deficit per year in 2027.
+Full employment and reindustrialization
+The major files
+Building the France of tomorrow
+Relaunch the economy and emerge stronger from the crisis
+France 2030
+France 2030 aims to accelerate the transformation of key sectors of our economy through innovation and to position France, not just as a player, but as a “leader” in the world of tomorrow.
+News
+Discover the latest news related to the Government's priority policies.
+Learning:
+what changes from July 2025
+News · Education
+Meal vouchers soon to be usable on Sundays
+News · Economy
+Summer sales have started
+News · Economy
+Female entrepreneurship: 101 women who lead by example
+News · Citizenship
+Cycle tourism: how France is aiming for first place in the world
+News · International
+Foreign workers: the updated “list of professions in shortage”
+News · Economy
+See t
+
+all items
+
+---
+
+### Progress and public services - Government priority | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/batir-de-nouveaux-progres-et-refonder-nos-services-publics
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1970
+- **Unique ID:** `6b54251369719e03`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendée
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Building new progress and rebuilding our public services
+Our public services must fight against the persistence of inequalities and social determinisms, but also strengthen support for our seniors and find new solidarity between generations.
+31 projects for public services and progress
+Objective achieved
+Fight against tax, social and customs fraud
+Objective achieved 100%
+1 indicator
+Objective achieved
+Providing access to culture to all young people with the Culture Pass
+Objective achieved 100%
+1 indicator
+Objective achieved
+Strengthen equal pay for women and men with the Egapro index
+Objective achieved 100%
+2 indicators
+Objective achieved
+Better support caregivers
+Objective achieved 100%
+3 indicators
+Objective achieved
+Facilitate consular services for French people abroad
+Objective achieved 100%
+1 indicator
+Fight against violence against women and feminicide
+Objective achieved 100%
+2 indicators
+Make school more inclusive
+Objective reached at 99%
+1 indicator
+Continue free digital support
+Objective reached at 97%
+2 indicators
+Fight against bullying and cyberbullying at school
+Objective reached at 97%
+1 indicator
+Regulate emergencies through the healthcare access service (SAS)
+Objective reached at 93%
+1 indicator
+Develop volunteering thanks to jeveuxaider.gouv.fr
+Objective achieved at 89%
+2 indicators
+Free up caregivers’ time for patients
+Objective achieved at 84%
+1 indicator
+Allowing older people to age in place
+Objective achieved at 84%
+2 indicators
+Supporting the homeless to find accommodation
+Objective achieved at 78%
+1 indicator
+Fight against unpaid alimony
+Objective achieved at 76%
+1 indicator
+Ensuring digital access throughout the territory
+Objective reached at 68%
+2 indicators
+Improve vaccination coverage of the French
+Objective reached at 66%
+2 indicators
+Improve access to care in all territories
+Objective achieved at 56%
+4 indicators
+Providing artistic and cultural education to every student
+Objective achieved at 56%
+3 indicators
+Intervene earlier on neurodevelopmental disorders in children
+Objective reached at 54%
+2 indicators
+Split classes in priority education
+Objective reached at 43%
+3 indicators
+Simplifying access to the rights of people with disabilities
+Objective reached at 33%
+2 indicators
+Improve the level of students in mathematics and French
+Objective reached at 30%
+6 indicators
+Increase the number of equipment
+
+local sportspeople
+Objective reached at 25%
+1 indicator
+Better replace absent teachers from kindergarten to high school
+Objective reached at 23%
+2 indicators
+Facilitate the patient's health journey digitally
+Objective reached at 20%
+1 indicator
+Simplify access to higher education with Parcoursup
+Objective reached at 19%
+4 indicators
+Promote success and access to employment through vocational high school
+Objective reached at 18%
+3 indicators
+Strengthening professional equality in the public service
+Objective reached at 18%
+3 indicators
+Add 2 hours of physical and sporting activity per week in college
+Objective reached at 11%
+1 indicator
+Providing access to dignified and affordable housing to all overseas residents
+Objective reached at 7%
+4 indicators
+Show all
+The challenges
+that we face
+Our French social model is supported by
+essential public services, but which sometimes no longer meet expectations
+of the French.
+Access difficulties exist in certain areas (notably in rural areas, priority areas of the city or overseas) as well as
+that a feeling of degradation of these services
+,
+particularly in health (subject to strong tensions, inherited from
+Covid or more structural, after years of underinvestment, a lack
+of doctors in relation to the growing needs of the French), education
+(with a deteriorating level of students, persistent inequalities, etc.) or for administrative procedures that take too long or are complex (example: renewing identity papers.)
+Actions are expected to combat
+persistence of inequalities and social determinisms,
+who
+are anchored from an early age
+. This, in a context of challenge
+significant demographic, with a desire for reinforced support from our
+seniors
+and the need to find a new solidarity between
+generations.
+First improvements in 6 years
+An unprecedented investment in health with Ségur de
+post-Covid health.
+A splitting of the main section classes, CP and CE1,
+in REP and REP+ zones, compulsory education from the age of 3, the implementation of
+homework done system and the Culture Pass, as well as the schooling of 120,000
+additional children with disabilities (i.e. + 1/3).
+The creation of
+2,600 France services houses, so that more than 99% of French people are
+less than 30 minutes from a center, and coverage of 80% of the territory by
+fiber.
+Progress for all: one-month paternity leave, payment
+automatic alimony, 100% reimbursement of prostheses
+dental and hearing…
+…but
+still work to be done
+Priorities until 2027
+The objective
+is to reinvest massively in public services, to make
+confidence in those on the ground by giving them more freedom
+of action, and to develop the “go-towards” approach to simplify and
+reduce non-recourse.
+1 - Renew a pact for school
+Why
+?
+The school is the place of training for the citizens of the
+Nation which must give everyone the keys to build their future. The objective
+is like this, with teachers, parents, students, the whole community
+educational, to reconnect with the model of a republican school, a school of
+excellence that ensures success for all. Concretely, more freedom is given to establishments to organize themselves, and additional resources
+unpublished material is invested. The ambition is clear: return to the top of the rankings
+PISA at the end of the five-year term and be proud of our school.
+How ?
+A
+replacement of absent teachers and an improvement in the level of students
+in fundamental knowledge (mathematics, French).
+More establishments
+autonomous and greater educational innovation.
+A better grip
+taking into account disability at school and a reinforced fight against cyberbullying.
+Better support in orientation, from
+the college.
+Better paid teachers (between €100 and €500 in
+more per month) and a job that has become attractive again.
+2 - Facilitate access to care, according to needs, throughout the
+territory
+Why?
+The objective is to rebuild our health system and
+create new access to care everywhere, adapted according to
+needs of everyone. Here too, full confidence will be given to the actors of
+field to launch experiments. Partnerships between medical professions will be
+strengthened and the organization of care in the
+
+s territories like hospitals
+will be radically transformed.
+How ?
+A
+better territorial healthcare coverage
+(health homes, etc.), a
+greater cooperation between
+professionals
+(generalists,
+pharmacists, specialists) and a
+development
+digital tools
+(telemedicine, etc.) so that everyone can benefit
+of a treating physician.
+A
+unclogging
+emergencies
+, thanks to a profound reorganization, better
+cooperation between community medicine and
+hospital, better orientation within the health system
+via
+a number
+unique.
+A
+strengthening of
+research
+and the
+policy of
+prevention
+, in women's health, obesity, detection of sickle cell disease, and
+more generally throughout life at key ages.
+A
+better support for parents
+,
+especially during their children’s first 1,000 days.
+3 - Strengthen solidarity and make equality between women and men the great cause of
+five-year term
+Why?
+Equality must be a reality. In addition, everyone must
+be able to find their place in society, by being able to access their rights and
+its duties without brakes (generational, cultural, social, etc.).
+How ?
+Continue to promote equality between women and men,
+major cause of the five-year term for the second time, with in addition to the fight against violence against women and professional equality, a priority given to women's health and support for single-parent families.
+Better
+support our elders
+by building the
+society of “aging well”
+,
+by giving them the choice, whether it be home support or EHPADs, by
+supporting caregivers.
+Conduct a
+real disability support policy
+(access to school,
+employment, mobility, etc.).
+Continue
+to fight against social determinisms
+and obstacles to employment
+(guarantee
+childcare, Culture Pass, access to housing, etc.).
+Better guarantee access to social rights,
+via
+the deployment of
+“solidarity at source” schemes, automatic payment
+alimony
+to help further
+the most modest and middle classes.
+4 - Strengthen territorial dynamics and
+bringing the State closer to citizens
+Why?
+decentralization and differentiation are principles
+fundamentals of the State-territory relationship which should allow the French to benefit from the best solutions locally according to the
+needs. Local experimentation must be encouraged and – at the same time –
+national plans must be initiated to reduce existing divides (digital, economic activity, etc.). In addition, public services in their
+together are called to transform, to “reach out” to the French and propose simplified approaches.
+How ?
+Improve equality between territories and recreate local dynamics
+(thanks to the Cœur de ville schemes, the rural plan, Neighborhoods 2030 and
+neighborhood contracts, ongoing discussions on overseas territories,
+city…)
+and continue the transformation
+digital on a territorial scale,
+by guaranteeing to all
+the same access to very high speed
+(THD);
+Bringing the State closer to the territories and
+citizens
+, and “
+go-to”
+the French,
+by continuing the France offer
+service, the deployment of digital training, the simplification of
+steps for 10 key moments of life and
+act to strengthen the attractiveness of the sector’s professions
+public
+(salary increase, training, career development)
+as well as attracting talent.
+Progress and public services
+The major files
+Move for 30 minutes
+The promotion of physical and sporting activity is the Great National Cause for 2024.
+All mobilized against violence against women
+“Don’t let anything pass”
+All equal
+Discover the interministerial plan for gender equality: measures to act on the professional, economic and social levels
+News
+Discover the latest news related to the Government's priority policies.
+What changes in January 2026
+News · Citizenship
+The key dates of the
+back to school 2025-2026
+News · Education
+Rebuilding the State
+local: give full space to the prefect
+News · Institutions
+Apprenticeship, association, parenthood...: your questions, our answers
+News · Education
+Screens prohibited in reception areas for
+young children
+News · Health
+Heading towards the Brevet for 3rd grade students
+News · Education
+See all ar
+
+ticles
+
+---
+
+### Letter to the mayors of France
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/lettre-aux-maires-de-france
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1126
+- **Unique ID:** `67bc67361b6a6e82`
+
+#### Content:
+
+Letter to the mayors of France
+Published yesterday at 9:13 p.m.
+, modified yesterday at 9:26 p.m.
+The day after the second round of the municipal elections, I want to send you my Republican congratulations.
+Illustrative image -
+Source: Government Information Service
+Universal suffrage has entrusted you with a demanding responsibility. You are, throughout the territory, the first faces of the Republic. You are also the ones who hear, before all others, what our fellow citizens are experiencing.
+The municipal elections delivered a demanding message
+: too little participation which obliges us, a local commitment which honors us, and sometimes contrasting choices which impose on us a simple thing — to act concretely, as close as possible to the field. In an often harsh campaign, sometimes marked by excesses which have no place in our democratic life, and even as the international context calls for lucidity and unity, our responsibility is clear: to give in neither to fractures nor to postures, but to remain faithful to the spirit of responsibility which holds the Republic together.
+Overall, the ballot boxes have not crowned anyone - they therefore force everyone to take responsibility and act, without waiting for the next electoral deadlines. The political parties represented in Parliament will have to demonstrate that they know how to go beyond usual reflexes and find the compromises necessary to defend the general interest.
+The Government, for its part, made a simple choice:
+based on what you have heard on the ground to set your priorities in the coming weeks.
+Everywhere, and whatever the political opinions, a first expectation was expressed: that of
+security in your communities,
+and in the daily lives of your constituents.
+This is the meaning of the bill that the Minister of the Interior will present this week, aiming to provide immediate responses to the disturbances which affect public order, tranquility and daily life in our communities, in urban areas as well as in rural regions. In the same spirit, we will complete the examination of the text reinforcing the prerogatives of the municipal police and rural guards, constructed with associations of elected officials. This involves taking concrete action, as close as possible to the field, to enable municipal agents to better enforce the law, in close collaboration with the police or gendarmerie forces. Texts on the organization of our judicial system will also be presented.
+But security cannot be dissociated from another requirement that you have widely expressed:
+that of the reduction of standards and procedures which govern the initiatives of local actors
+.
+We will therefore initiate a bill to simplify local authorities. This will not be a restrictive text. It will be a text of freedom: fewer standards, fewer unnecessary procedures, more clear responsibilities. This approach extends the first measures already taken recently by decree, to reduce the standards and procedural constraints which slow down and hinder the projects for which your citizens elected you.
+At the same time, several legislative or regulatory texts will simplify economic and agricultural life, with a constant objective: to build trust rather than complicate projects.
+We will also go further to reform the organization of the local state. The role of the prefect will be strengthened to better coordinate the action of all state administrations - including agencies - in the department, but also to make the distribution of responsibilities and skills between the state and local authorities clearer. Here again, the objective is simple: decide faster, act more effectively, assume responsibilities.
+Beyond the texts that will be presented to Parliament, the Government will pursue priorities which should make it possible to obtain concrete and rapid results in the public services provided to our fellow citizens on a daily basis.
+In terms of
+health
+, the deployment of “France Santé” must allow access to care in less than 48 hours and close to every French person. The system must adapt to the difficulties of each municipality, the prefects are at your disposal to design with you the best response to provide in yours. A reform of the Regional Health Agencies will be announced in the coming days to strengthen their proximity on the ground
+
+.
+Regarding the
+housing
+, a recovery plan has been initiated (“Relance Logement”), with a massive construction and renovation objective to respond to the crisis experienced by many territories. A bill is currently being discussed which will allow the decentralization of housing policy to transfer more skills to you.
+Finally, in-depth work will continue with you to take a new step in the decentralization of skills: clarifying who decides, at what level, with what means. It is a condition of effectiveness and confidence. This work must allow our fellow citizens to know who decides, to know who to hold accountable. I remain convinced that power must be more “shared” in the country, and in clarity.
+*
+The method is constant: neither force, nor immobility. The Government will propose, Parliament will debate and vote, you will be involved.
+In the period that opens, I hope that the link between the State and mayors will be direct, demanding and useful. We need your experience and commitment to succeed.
+The Republic advances when it starts from the ground. This is the choice we make.
+Please accept, ladies and gentlemen mayors, the assurance of my consideration as well as my sincere congratulations.
+Sébastien Lecornu
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 8 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+Municipal 2026: the results of the second round
+News
+                                                    · Elections
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### Ecological transition - Government priority area | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/planifier-et-accelerer-la-transition-ecologique
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1163
+- **Unique ID:** `d246a0ad8820cdea`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendée
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Plan
+ and accelerate the ecological transition
+As the impact of climate change is increasingly felt, we must now accelerate the transformation of the most emitting sectors as well as our lifestyles.
+9 projects for ecology
+Improving air quality through Low Emission Zones
+Objective achieved at 86%
+1 indicator
+Renovate your home thanks to MaPrimeRénov’
+Objective achieved at 81%
+1 indicator
+Fight against environmental damage
+Objective achieved at 73%
+1 indicator
+Encourage the switch to electric cars
+Objective reached at 60%
+3 indicators
+Ensuring careful management of water resources
+Objective reached at 52%
+1 indicator
+Allow all French people to cycle
+Objective reached at 46%
+1 indicator
+Increase French photovoltaic power tenfold by 2050
+Objective achieved at 28%
+2 indicators
+Develop the circular economy
+Objective achieved at 21%
+3 indicators
+Plant 1 billion trees by 2032
+Objective reached at 6%
+1 indicator
+Show all
+The challenges
+that we face
+The impact of climate change is
+felt more and more in our daily lives.
+The rise in temperature
+global economy has further accelerated, at a pace that will most likely exceed
+the threshold of 1.5°C of warming between 2021 and 2040. Events
+more intense and more frequent extreme weather events occur each year (fires,
+thunderstorms and storms or hurricanes…). The territories and populations are
+unequally affected by climatic and ecological challenges. A
+depletion of natural resources is observed, both in terms of
+biodiversity than water or minerals. All this requires managing emergencies
+and plan for the long term.
+These issues must guide our actions,
+individual and collective
+. After making the diagnosis, we
+we must now accelerate the transformation of the highest emitting sectors
+as our lifestyles. Certain actors and territories will be more
+impacted, and will need specific support. The issues are
+multiple, both to make our planet more livable, to improve the quality of
+air, water, preserving nature, but also developing sovereignty
+French and European ecological
+.
+First improvements in 6 years
+Some
+examples:
+Doubling the speed of reducing our emissions
+on 2017/2022 compared to 2012/2017.
+One million beneficiaries of “My renovation bonus”, +
+15,000 km of cycle paths, sobriety plan having made it possible to reduce by 10%
+
+our energy consumption, sustainability of more than 7,000 km of small
+railway lines, relaunch of night trains, ban on 10 products in
+the most polluting single-use plastics (straws, plastic cutlery), etc.
+A European agreement with the objective of reducing our
+emissions by 55% in 2030, then carbon neutrality in 2050.
+…but
+still work to be done
+Priorities until 2027
+France has
+vocation to be the first great green Nation, which inspires our neighbors
+Europeans and around the world. In connection with the reindustrialization project,
+the objective is also to strengthen – thanks to the ecological transition – sovereignty
+both energy, industrial and food of the country.
+How
+achieve?
+For this, a clear course has been defined, based on
+ecological planning,
+declined within the “France
+Green Nation” and mobilizing all ministries but also stakeholders
+private individuals, numerous associations and
+in
+fine
+all French people
+.
+With
+for priorities:
+Accelerate
+the decarbonization of the main polluting strategic sectors
+:
+transport (30%), industry (20%), agriculture (20%), housing (20%), energy
+and biomass (10%).
+A strategy by sector is being defined
+and will be presented
+by summer 2023
+.
+The
+Green Planning Tips
+led by the President of the Republic and the Prime Minister will provide progress updates
+regular. This work will lead to the next National Strategy
+Low Carbon and the next Multi-annual Energy Program.
+Allow each territory to begin its transition
+A
+strategy by territory will also be put in place
+with objectives built in partnership with local stakeholders
+(communities, businesses, citizens, etc.).
+Return
+ecological transition accessible to all
+Of
+simplified support systems
+to better help the most modest will be deployed.
+Protect
+biodiversity and our resources
+(water, forests, soils, etc.).
+Strengthened preservation of our biodiversity
+,
+for
+protect and restore our ecosystems,
+with specific monitoring
+of some basins and a new National Biodiversity Strategy.
+Mobilize all French people to be actors in the transition
+New devices
+training
+(notably administrations)
+and commitment
+(in particular
+via
+the
+civic services)
+will be like this
+developed.
+Ecological transition
+The major files
+Energy savings
+In winter as in summer, to save energy, we act and reduce. Because every gesture counts.
+Ecological planning
+Act better to accelerate the ecological transition
+Water resources
+Every gesture counts
+News
+Discover the latest news related to the Government's priority policies.
+JOP French Alps
+2030: concrete commitments for a lasting legacy
+News · Sport
+The energy label, for more sustainable phones and tablets
+News · Environment
+In the news: the suspension of MaPrimeRénov’
+News · Environment
+In the news: a proposed law to curb “fast fashion”
+News · Environment
+Interministerial Committee for the Sea 2025
+Press kit · Environment
+A plan to guarantee our maritime sovereignty
+News · Environment
+See all articles
+
+---
+
+### Tribute to Lionel Jospin
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/hommage-a-lionel-jospin
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 286
+- **Unique ID:** `097e90b1f8268f35`
+
+#### Content:
+
+Tribute to Lionel Jospin
+Published yesterday at 9:53 p.m.
+Former Prime Minister, Lionel Jospin died on March 22, 2026.
+Illustrative image -
+Source: AFP
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Read the press release from the President of the Republic
+Read the biography of Lionel Jospin
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Government
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+The new composition of Sébastien Lecornu's Government
+News
+                                                    · Government
+What is a cabinet reshuffle?
+News
+                                                    · Government
+What to remember from the declaration of
+general policy of Sébastien Lecornu
+News
+                                                    · Government
+Composition of Sébastien Lecornu's government
+News
+                                                    · Government
+Also read
+Letter to the mayors of France
+News ·
+                         Elections
+Published yesterday
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+See all articles
+
+---
+
+### Municipal 2026: the results of the first round
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/municipales-2026-les-resultats-du-premier-tour
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 563
+- **Unique ID:** `8f6207c5d2d28b95`
+
+#### Content:
+
+Municipal 2026: the results of the first round
+Published on March 16, 2026
+, modified yesterday at 4:44 p.m.
+The first round of the municipal elections took place on March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Illustrative image -
+Source: AdobeStock
+The first round of the 2026 municipal and community elections took place on Sunday March 15, 2026. The results are available on the website of the Ministry of the Interior.
+Access the results
+The participation rate in the municipal elections stood at 48.90% this Sunday at 5 p.m. for mainland France. It stood at 19.37% at noon the same day.
+To properly prepare for the second round of elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+I am thinking of taking my identity papers so I can vote
+And to better understand the elections and their issues, you can read:
+How does a vote work?
+Elections: How are votes counted?
+What is the role of the mayor?
+Municipality, intermunicipality, metropolis: who does what?
+Read also:
+5 things you don't know about the elections
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 1
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Elections: how are votes counted?
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
+
+---
+
+### Republican Order - Priority axis of the Government | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/renforcer-l-ordre-republicain-et-encourager-l-engagement
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1439
+- **Unique ID:** `72c9bd3c97c9788f`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendee
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Strengthen the republican order and encourage commitment
+Faced with the feeling of insecurity that the French regularly report, we must strengthen the republican order and encourage citizen participation in public decisions.
+10 projects for the republican order
+Objective achieved
+Guaranteeing access to justice through legal aid
+Objective achieved 100%
+1 indicator
+Objective achieved
+Fill 10,000 positions by 2027 to strengthen justice
+Objective achieved 100%
+1 indicator
+Create 15,000 new places in prison
+Objective achieved at 69%
+1 indicator
+Develop the professional integration of prisoners
+Objective reached at 67%
+1 indicator
+Modernize the issuance of residence permits
+Objective reached at 62%
+1 indicator
+Strengthen the presence of law enforcement in public spaces
+Objective reached at 61%
+3 indicators
+Double the number of military operational reservists
+Objective reached at 59%
+1 indicator
+Strengthening the efficiency of the asylum procedure
+Objective reached at 53%
+1 indicator
+Allow young people to get involved via the SNU
+Objective reached at 42%
+1 indicator
+Render court decisions in 1st instance in less than a year
+Objective reached at 23%
+2 indicators
+Show all
+The challenges
+that we face
+The French regularly report a
+feeling of insecurity
+, in the context of a more violent society,
+despite the daily investment of the police to ensure order
+public.
+Justice is also judged
+still too slow and complex. Finally our democratic framework as well as our values
+republican are sometimes called into question.
+A feeling of loss of control over
+digital is also increasingly felt by some French people
+(disinformation,
+cyber attacks and cyber harassment).
+The return of war in
+Europe
+and the exacerbation of
+geopolitical tensions
+in the
+world (nuclear proliferation, hybrid threats, etc.) is also a source
+of worries
+. The challenge
+migratory
+in front of us lay forts
+integration issues.
+While the unity of the Nation is more than
+never necessary, the feeling of belonging is questioned
+, due to the fact
+notably social and geographical divides that are still very marked.
+First improvements in 6 years
+The presence of law enforcement on the ground has
+sharply increased (+10,000 police officers and gendarmes over 5 years), having
+notably allowed a reduction in certain crimes and misdemeanors since 2017
+(burglaries -25% in 5 years, violent theft -30%, decline in crime
+
+nce
+in the 20 departments most concerned in recent months…) and the
+22% reduction in traffic points.
+50 Islamist places of worship closed temporarily or
+definitely since 2017
+A €413 billion military programming law made it possible to initiate the necessary “repair” effort.
+…but
+still work to be done
+Priorities until 2027
+1 - Strengthen the presence of law enforcement in public spaces.
+For what ?
+Everyone has the right to live in safety, at home and
+in public space. The objective is to continue to strengthen action
+committed by allowing law enforcement to be more present on the ground
+field and in particular targeting crimes that undermine daily life.
+How ?
+Double the presence of law enforcement in public spaces (in particular
+in peri-urban and rural areas, including 200 additional gendarmerie brigades), continue the digital transformation of
+ministry, and modernize the means available to police officers, gendarmes and
+customs officers.
+Securing upcoming international events (World Cup
+rugby 2023, Olympic Games 2024).
+Strengthen action against drug trafficking.
+Strengthen action against separatism.
+Strengthen action against cybercrime and online scams.
+2 - Simplify, modernize and reduce the delays of our Justice.
+For what ?
+Everyone must also be able to access justice
+easily and get a response in a shorter time. The works of
+modernization, simplification and increased resources must be
+pursued. In addition, the prison must better prepare for reintegration, and
+alternatives must be offered when appropriate.
+How ?
+The continuation of the states general of justice will allow
+in particular:
+Deploy +10,000 magistrates and judicial staff over 5 years.
+Dematerialize certain procedures, with the ambition of justice
+“zero paper”.
+Partially recast the Penal Code and the Civil Code, to achieve a deadline of
+procedures for a maximum of one year.
+Create new prison places, develop TIG and facilitate
+reintegration.
+3 - Transform our armies to guarantee our autonomy and our
+excellence in the face of new forms of threats.
+For what ?
+A strong army is a guarantee of security and independence.
+This French asset must be continually strengthened, from a point of view
+capability and strategic, in line with the efforts already undertaken and in
+anticipating new threats against which to know how to defend yourself.
+How ?
+The new law of
+military programming and all the actions undertaken will make it possible to:
+Strengthen the capacities, preparation and responsiveness of the armed forces
+French authorities, particularly in the face of cyber threats, and by guaranteeing the
+credibility in the duration of nuclear deterrence.
+Build a real “war economy”, mobilizing the base
+industrial and technological defense of the country.
+Continue efforts to improve living conditions and
+work of military and defense civilians, as well as their families, and continue to develop the reserve.
+4 - Better regulate migratory flows and better integration.
+For what ?
+Better control of immigration should enable better
+process applications and welcome those who need it or wish to emigrate
+legally. In addition, integration is an essential area to improve.
+How ?
+Respond to an asylum request in less than 2 months and reform
+the organization of asylum.
+Better protect our borders by strengthening resources to serve
+more efficient controls, an overhaul of the Schengen agreements and a
+more systematic removal of rejected and delinquent people.
+Strengthen support for people obtaining asylum (language courses,
+housing…).
+5 - Encourage citizen participation in public decisions.
+By involving the population in consultative mechanisms like the
+citizen conventions, of the National Council for Refoundation
+and facilitate and then enhance commitment
+citizen
+(civic services, Universal National Service, etc.).
+6 - Reform our institutions and guarantee fundamental rights.
+Republican order
+The major files
+Europe 2024
+On June 9, 2024, the French are invited to elect their representatives to the European Parliament. An assembly that shapes our daily lives much more than it seems.
+News
+Discover the latest news related to priority policies
+
+of the Government.
+To vote, don't forget your identity papers
+News · Citizenship
+How to establish a voting proxy?
+News · Citizenship
+Resilience:
+how to prepare for crises?
+News · Security
+Why the 14th
+Is July our national holiday?
+News · Defense
+Overseas territories at the heart of the agenda
+governmental
+News · Overseas
+Iran - Israel - Palestinian Territories: advice for French nationals
+News · International
+See all articles
+
+---
+
+### Elections: how are votes counted?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/elections-comment-sont-comptes-les-votes
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 775
+- **Unique ID:** `a773d061470838af`
+
+#### Content:
+
+Elections: how are votes counted?
+Published on March 12, 2026
+, modified on March 17, 2026
+VIDEO. Every voice counts. But how? From the polling station to the official results: deciphering the route of a vote, as the 2026 municipal elections approach.
+Illustrative image -
+Source: Government Information Service
+Municipal elections are approaching.
+On March 15 and 22, 2026, citizens are called to the polls, provided they are registered on the electoral lists.
+How to organize
+this major meeting of local democracy?
+Concretely, how do we go from a ballot slipped into a ballot box during an election to an official result announced a few hours later by the Ministry of the Interior? Who counts the votes? Who verifies the results? How do we prevent electoral fraud? And why can certain figures change during election night, or even the next day?
+From the ballot box to the national consolidation of results, the journey of a vote follows
+a precise and transparent procedure
+, regulated by law to avoid any error or attempt at fraud.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+How are the votes counted? (We tell you everything...)
+Video decryption of the voting process
+, the role of assessors, tellers and office chairs, behind the scenes of the counting and reporting of results.
+To properly prepare for the municipal elections:
+I check my registration on the electoral lists
+I find my polling station
+I give power of attorney
+Enlarge the visual
+Visual -
+Source: Ministry of the Interior
+Close
+Visual -
+Ministry of the Interior
+Transcription
+Enlarge
+Close
+Transcription
+On a visual with a ballot box, a Go Voter logo! and the reminder of the dates of the municipal elections on March 15 and 22, 2026.
+Text:
+Did you know? Ballot boxes are opened with two keys, which cannot be held by the same person.
+Read also:
+5 things you don't know about the elections
+Usages and customs in the voting booth
+Is it mandatory to take all the ballots on the table?
+Can we take a photo in the polling station?
+Why do we say “Voted”?
+Is there an implicit “code of conduct” to follow?
+Interview with Vérène Gribonval, president of the polling station in Lyon, who explains to us how a vote takes place.
+Read the article “How does a vote happen? »
+See all our video reports
+How are the votes counted?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+More videos on other themes
+Continue
+Your browser does not support
+                                                the videos.
+Reading
+Reading
+Break
+Previous
+Video
+1 of 6
+Next
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Elections
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 7
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+
+improving the site!
+In this news
+Laurent Nunez
+Jean-Didier Berger
+Marie-Pierre Vedrenne
+On the same theme
+Municipal 2026: the results of the first round
+News
+                                                    · Elections
+To vote, don't forget your identity papers
+News
+                                                    · Elections
+Municipal elections 2026: how does a vote take place?
+News
+                                                    · Elections
+How to establish a voting proxy?
+News
+                                                    · Elections
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Parcoursup 2026: final stretch to formulate your wishes
+News ·
+                         Higher education
+Published on March 11, 2026
+See all articles
+
+---
+
+### All short videos from info.gouv
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/videos
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 366
+- **Unique ID:** `90774869de6e24b1`
+
+#### Content:
+
+All short videos from info.gouv
+Sort by
+Select an option
+From newest to oldest
+From oldest to newest
+5 tips to sleep better
+Your browser does not support videos.
+Reading
+Reading
+Break
+How are the votes counted?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Why do you vote in municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Elections: how are the results estimated?
+Your browser does not support videos.
+Reading
+Reading
+Break
+What do you think of the municipal elections?
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fighter pilot
+Your browser does not support videos.
+Reading
+Reading
+Break
+“I am old but I am beautiful”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Municipal: what is changing in Paris, Lyon and Marseille
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #2
+Your browser does not support videos.
+Reading
+Reading
+Break
+Military camera operator #1
+Your browser does not support videos.
+Reading
+Reading
+Break
+Julie Pietri facing endometrial cancer
+Your browser does not support videos.
+Reading
+Reading
+Break
+Data protection
+Your browser does not support videos.
+Reading
+Reading
+Break
+Fight against sexism
+Your browser does not support videos.
+Reading
+Reading
+Break
+The benefits of reading
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in “Mommy”
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in football
+Your browser does not support videos.
+Reading
+Reading
+Break
+Good reflexes when facing the cold
+Your browser does not support videos.
+Reading
+Reading
+Break
+What changes in January 2026
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy dermatosis: veterinary advice
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Lumpy skin disease
+Your browser does not support videos.
+Reading
+Reading
+Break
+Consent
+Your browser does not support videos.
+Reading
+Reading
+Break
+Mental health in 2000
+Your browser does not support videos.
+Reading
+Reading
+Break
+Everyday secularism
+Your browser does not support videos.
+Reading
+Reading
+Break
+Transcription
+Transcription
+Controls
+Close
+Break
+Mute the sound
+Previous video
+Next video
+Return -2s
+Move forward +2s
+See more
+Copy video link
+Link copied
+
+---
+
+### Situation in the Middle East: security instructions for French nationals
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/situation-au-moyen-orient-les-consignes-de-securite-aux-ressortissants-francais
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 720
+- **Unique ID:** `8fa6536cdc1e98e5`
+
+#### Content:
+
+Situation in the Middle East: security instructions for French nationals
+Published on March 1, 2026
+, modified March 12, 2026
+Following the outbreak of war in the Middle East, the Ministry of Europe and Foreign Affairs clarifies the measures available to French nationals in the area.
+Instructions for French nationals in the Middle East -
+Source: Government Information Service
+The French government is monitoring the situation in real time
+and remains in close contact with its local partners.
+The Ministry of Europe and Foreign Affairs recommends that French nationals on site:
+stay safe and follow the safety instructions of local authorities,
+consult the site regularly
+France diplomacy
+, its relay on
+the social network
+and the website of the French embassy concerning them,
+favor commercial flights if they plan to leave the country.
+All French people present in the region, including French people passing through, must
+register on
+Ariadne's thread
+.
+In case of emergency, it is possible to contact the crisis and support center number: +33 1 43 17 51 00.
+Subscribe to breadcrumbs
+Find updated safety instructions on the France Diplomatie website
+Official websites and local emergency numbers
+Israel
+French nationals are invited to regularly consult:
+https://il.ambafrance.org
+https://jerusalem.consulfrance.org/
+https://il.diplomatie.gouv.fr/fr
+Contacts on site:
+securite2.tel-aviv-jaffa-fslt@diplomatie.gouv.fr
++972 (0) 3 766 17 17
+United Arab Emirates
+French nationals are invited to regularly consult:
+https://ae.diplomatie.gouv.fr/fr
+the account
+@FranceinEmirats
+Contacts on site:
+consulat.dubai-fslt@diplomatie.gouv.fr
++971 44 08 49 06
+Jerusalem and the West Bank
+French nationals are invited to regularly consult:
+https://il.ambafrance.org
+https://jerusalem.consulfrance.org/
+Contacts on site:
++972 (0) 5 49 130 043
+urgence-crise.jerusalem-cslt@diplomatie.gouv.fr
+Lebanon
+French nationals are invited to regularly consult:
+https://lb.ambafrance.org/-Consulat-general-de-France-a-Beirut
+@ConsulatFRLiban
+Contact on site:
++961 1 420 292
+Saudi Arabia
+French nationals are invited to regularly consult:
+https://sa.ambafrance.org/
+@FranceinKSA
+Contacts on site:
+Riyadh: +966 11 434 4100
+Jeddah: +966 12 610 8900
+Qatar
+French nationals are invited to regularly consult:
+https://qa.diplomatie.gouv.fr/fr
+@FranceauQatar
+Contact on site:
++974 4402 1888
+Jordan
+French nationals are invited to regularly consult:
+https://jo.ambafrance.org/Aggravation-de-la-situation-regionale
+@FranceJordanie
+Contact on site:
++962 6 460 46 31
+Oman
+French nationals are invited to regularly consult:
+https://om.diplomatie.gouv.fr/fr
+@FranceinOman
+Contact on site:
++96 871 521 157
+Bahrain
+French nationals are invited to regularly consult:
+https://bh.ambafrance.org/
+@FranceinBahrain
+Contact on site:
++973 17 298 660
++973 39 799 754
+Kuwait
+French nationals are invited to regularly consult:
+https://kw.ambafrance.org/
+@FranceKuwait
+Contact on site:
++965 2205 8949
+Iran
+French nationals are invited to regularly consult:
+https://ir.ambafrance.org/
+Twitter account
+@FranceenIran
+Contacts on site:
++98 21 640 940 00
+contact.teheran-amba@diplomatie.gouv.fr
+If you have difficulty contacting the French embassy in Iran, an email can be sent to
+alerts.cdc@diplomatie.gouv.fr
+(contact of the Crisis Center of the Ministry of Europe and Foreign Affairs).
+Iraq
+French nationals are invited to regularly consult:
+https://iq.ambafrance.org/
+@FranceBagdad
+Contacts on site:
+Baghdad: +964 790 191 2365
+Erbil: +964 750 987 0159
+Syria
+French nationals are invited to regularly consult:
+@FranceEnSyrie
+Contact:
++33 1 43 17 51 00
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Defense
+›
+Army
+·
+International
+›
+Foreign policy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 2
+
+0 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 1 + 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+Jean-Noel Barrot
+On the same theme
+Camerawoman and soldier: “My first weapon is the camera”
+News
+                                                    · Army
+Sébastien Lecornu details the national defense strategy
+News
+                                                    · Army
+Prime Minister speaks after meeting on defense budget
+News
+                                                    · Army
+National service: what to remember
+News
+                                                    · Army
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### What changes in March 2026
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/ce-qui-change-en-mars-2026
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 619
+- **Unique ID:** `2411b1ff8da43f4a`
+
+#### Content:
+
+What changes in March 2026
+Published on February 25, 2026
+, modified February 25, 2026
+Registration document, tax on small parcels and maternity record... Here is what changes in March 2026.
+What changes in March 2026 -
+Source: Government Information Service
+As of March 1, 2026,
+several measures come into force
+. They concern the cost of registration certificates, the application of a tax on certain small imported packages and the updating of the maternity record.
+Gray card
+From March 1,
+the cost of registration certificates increases on average by 2.4%
+at the national level.
+The amount of a registration card mainly depends on:
+the number of fiscal horsepower of the vehicle,
+of the rate set by the regional council.
+Each region votes on the amount of the tax horse
+, which explains differences depending on the territory.
+Electric vehicles remain exempt from regional tax. This exemption aims to encourage the transition towards cleaner mobility.
+Tax on small parcels
+As of March 1,
+a tax of two euros per item applies
+to imports from outside the European Union with a value of less than 150 euros. This tax concerns each item of merchandise and applies even if several items are grouped in the same package.
+Concretely:
+a parcel worth 100 euros containing a single item incurs a small parcel tax of two euros;
+a parcel worth 100 euros containing ten distinct declared items incurs a small parcel tax of twenty euros.
+Ecobalyse: the tool that measures the ecological impact of a garment
+To help make more responsible choices, the Government is unveiling Ecobalyse, a calculator measuring the environmental impact of clothing.
+News · Climate
+Published on
+                                    04/05/2024
+Maternity notebook
+The maternity record allows pregnant women to be provided with essential information about the progress of their pregnancy.
+From March 1, a new version comes into force. It includes:
+information on the risk of postpartum depression;
+details on vaccinations carried out during pregnancy.
+This update aims to strengthen prevention, improve support for women and promote better medical monitoring.
+Birth leave: a new right effective from July 2026
+New right created in 2026 for young parents, additional birth leave is added to maternity, paternity or adoption leave.
+News · Family
+Published on
+                                    05/01/2026
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Daily life
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 7 + 8
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Laurent Nunez
+Marie-Pierre Vedrenne
+Roland Lescure
+Maud Bregeon
+Stephanie Rist
+On the same theme
+Municipality, intermunicipality, metropolis
+News
+                                                    · Daily life
+What changes in February 2026
+News
+                                                    · Daily life
+AAH and disability: allowances, rights and procedures to benefit from them
+News
+                                                    · Daily life
+Help for young people and students: systems and procedures
+News
+                                                    · Daily life
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your ID papers
+
+tity
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### Fuel: where to find the cheapest gas station?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/prix-des-carburants-500-controles-dans-les-stations-service
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 464
+- **Unique ID:** `25d1c5e7b5a143cf`
+
+#### Content:
+
+Fuel: where to find the cheapest gas station?
+Published on March 9, 2026
+, modified March 12, 2026
+The official fuel price website allows motorists to find the cheapest stations near them. A fuel price control plan took place from March 9 to 11, 2026, in a context of international tensions likely to affect energy prices.
+Illustrative image -
+Source: AdobeStock
+A tool to compare fuel prices
+The official website
+prix-carburants.gouv.fr
+lists all fuel prices in France.
+This State service, accessible to all, allows you to:
+consult fuel prices in France,
+compare prices at nearby gas stations,
+search for a station according to the type of fuel,
+search for stations along a route.
+Consult the fuel price website
+500 price controls
+The
+Directorate General for Competition, Consumer Affairs and Fraud Prevention (DGCCR)
+F) led
+500 fuel price checks
+at service stations across the country between Monday March 9 and Wednesday March 11, 2026.
+These checks aimed to ensure that price changes practiced at service stations comply with the rules and are not the result of abusive practices, in a context strained by
+the war in the Middle East
+.
+The operation represents a volume of checks usually carried out over six months, this time concentrated over a period of three days.
+Also read:
+PPE 3: France’s new energy roadmap
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Environment
+›
+Energy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Roland Lescure
+Maud Bregeon
+On the same theme
+Reopening of MaPrimeRénov’
+News
+                                                    · Energy
+PPE 3: France’s new energy roadmap
+News
+                                                    · Energy
+Time change: what you need to know about the transition to winter time
+News
+                                                    · Energy
+Info.gouv of February 18: regulated electricity prices, offshore wind power, digital citizenship and French-speaking countries
+News
+                                                    · Energy
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### Small parcel tax: how does it work?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/taxe-sur-les-petits-colis-comment-ca-marche
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 572
+- **Unique ID:** `922393c577e22ae8`
+
+#### Content:
+
+Small parcel tax: how does it work?
+Published on February 26, 2026
+, modified March 3, 2026
+From March 1, 2026, a tax of two euros per item applies to packages imported from a country outside the European Union.
+Illustrative image -
+Source: AdobeStock
+The so-called “small parcel” tax comes into force
+March 1, 2026.
+Concretely, it applies to
+merchandise items
+contained in shipments with a value of less than 150 euros
+when they are imported from a country outside the European Union.
+Different from customs duties and VAT,
+This tax applies to each item.
+It applies
+even if several items are grouped in the same package
+. For example:
+a package worth 100 euros containing a single item incurs a tax of two euros;
+a package worth 100 euros containing ten separate declared items incurs a tax of twenty euros.
+The tax must be
+paid by the person liable for import VAT
+. It can therefore be either directly the seller or the platform serving as an intermediary.
+The tax applies to shipments to mainland France, Martinique, Guadeloupe, Réunion and Monaco. It does not apply to imports into the territories of Mayotte, Guyana and Saint-Martin.
+This tax is established by article 82 of
+the finance law for 2026
+, which has just been promulgated, in order to
+limit imports of very cheap products
+and encourage the use of short circuits and local shops.
+It is applicable until the entry into force of the similar system
+management fees at the European Union level, scheduled for no later than December 31, 2026.
+To go further:
+Tax on small parcels: information point on its implementation
+on the portal of the General Directorate of Customs and Indirect Duties.
+Simulate the carbon impact of parcel delivery purchasing methods
+What changes in March 2026
+Registration document, tax on small parcels and maternity record... Here is what changes in March 2026.
+News · Daily life
+Published on
+                                    02/25/2026
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Public finances
+·
+Economy
+›
+Consumption
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 8 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Roland Lescure
+On the same theme
+Budget 2026: the Prime Minister commits the Government to responsibility
+News
+                                                    · Public finances
+Budget 2026: Sébastien Lecornu defends a compromise budget
+News
+                                                    · Public finances
+Budget 2026: the Prime Minister details his priorities
+News
+                                                    · Public finances
+Budget 2026: what to remember from the special law
+News
+                                                    · Public finances
+Also read
+Municipal 2026: the results of the second round
+News ·
+                         Elections
+Published yesterday
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+See all articles
+
+---
+
+### “My psychological support”: 12 sessions reimbursed per year
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1153
+- **Unique ID:** `2a001161089ddf5e`
+
+#### Content:
+
+“My psychological support”: 12 sessions reimbursed per year
+Published on April 3, 2025
+, modified on May 28, 2025
+The objective of the system is to facilitate access to psychological support. We'll explain how.
+An appointment with the psychologist -
+Source: Getty
+You suffer
+anxiety disorders or depressive disorders? Of troubles
+eating behavior? You would like to consult a
+psychologist?
+You can, with the “My psychological support” system, benefit from
+reimbursement of twelve psychological support sessions per year.
+These twelve sessions include
+an assessment session
+in person, then until
+eleven follow-up sessions.
+For students, My psychological support can be combined with
+Health Psy student
+.
+It is estimated that more than one in five French people will be affected by a mental disorder during their lifetime (according to the World Health Organization).
+16% of the population in France is affected by depression and 23% by an anxiety disorder, according to Public Health France.
+My psychological support allowed
+nearly 587,000 patients have access to mental health care
+since its launch in 2022
+The number of new policyholders who have benefited from the system has
+almost doubled
+comparing the end of 2023 and 2024.
+My psychological support, how does it work?
+It is no longer essential to have a medical prescription to benefit from the device.
+To benefit from this system, you must:
+be at least 3 years old and have mild to moderate disorders
+(anxiety, depression, anxiety, problem with tobacco, alcohol or cannabis consumption, eating disorder),
+address
+a partner psychologist
+of Health Insurance via
+the directory available on ameli.fr
+.
+At the beginning of April 2025, Health Insurance had nearly 5,500 partner psychologists spread across the entire French territory.
+Criteria, steps...: click here to find out more about My psychological support on the Ameli website
+Health professionals
+(treating doctors or midwives for example) can also refer the patient to a psychologist if their condition requires it.
+Each session is billed at 50 euros
+by the psychologists who are partners of the system. Excess fees are prohibited.
+The price was recently increased to 50 euros, compared to 30 euros previously.
+This amount is covered 60% by Health Insurance and 40% by complementary health insurance. (For patients benefiting from Supplementary Solidarity Health, for care related to a long-term illness, maternity (from the 6th month of pregnancy), or even an accident at work or an occupational illness, coverage is 100%.)
+Enlarge the visual
+My psychological support, in short.  -
+Source: Source: Ministry of Labor, Health and Solidarity
+Close
+My psychological support, in short.  -
+Source: Ministry of Labor, Health and Solidarity
+Transcription
+Enlarge
+Close
+Transcription
+My Psychological Support, talking about it is already treating yourself.
+“My psychological support” (from 3 years old). Benefit from reimbursed sessions with a psychologist approved by Health Insurance.
+Anyone can benefit, depending on their needs, from reimbursed sessions with a partner psychologist:
+- a system for the entire population from 3 years old,
+- up to 8 sessions of psychological support reimbursed per calendar year,
+- upon referral from a doctor
+Find all the information on the My psy support system on: monsoutienpsy.sante.gouv.fr
+If you have any questions, you can contact your primary health insurance fund (CPAM): at 3646 (free service, + call price)
+What is the role of the doctor?
+In the “My psych support” system, you must necessarily be referred by a doctor. He checks your state of health and can offer you psychological support. In the event of more severe problems, he can direct you towards appropriate treatment.
+In case of emergency or suicidal thoughts, contact 3114 immediately.
+What is the role of the psychologist?
+The partner psychologist is there to help you.
+Psychological support includes a dimension of listening, empathy and understanding. For mild to moderate disorders, it is an effective alternative to drug treatment.
+With your agreement, the doctor and the psychologist communicate regularly to adapt your course to your needs.
+“Don’t be alone with your discomfort”
+To make it better known My support ps
+
+y
+, Health Insurance is launching, from March 30 to April 20, 2025,
+a national campaign
+which encourages people experiencing discomfort to seek out a partner psychologist.
+This campaign wants to contribute
+to destigmatize disorders affecting mental health
+, while mental health is the
+Great national cause
+of the year 2025.
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+The TV spot shows
+people gripped in their daily lives by dark thoughts
+, represented by a “nebula” around their heads.
+The message emphasizes that
+psychological monitoring is likely to alleviate
+, or even to make this suffering disappear. The film ends with an invitation:
+“My psychological support, don’t be alone with your discomfort.”
+To find out more about the My Psycho Support campaign:
+a national campaign to raise awareness of the system
+Let’s talk mental health!
+“Let’s talk mental health! ". More than a slogan, this formula is an ambition for our society supported by the Government, which has made mental health the great national cause...
+Large folder
+Published on
+                                    03/17/2025
+The questions you dare not ask about mental health
+Astrid Chevance is a psychiatrist, head of public health clinic at Paris-Cité University, and researcher in epidemiology. A recognized specialist, she helps us better understand...
+News · Public health
+Published on
+                                    03/19/2025
+How to support psychological suffering?
+DIRECTIONS FOR USE. Mental suffering can take forms ranging from mild to serious, such as depression, anxiety disorders and post-traumatic disorders.
+News · Public health
+Published on
+                                    01/08/2025
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Health
+›
+Search
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following math question: 5 + 8
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Building new progress and rebuilding our public services
+Frédéric Valletoux
+On the same theme
+Better treatment for endometriosis
+News
+                                                    · Search
+Becoming the first innovative European nation in health
+News
+                                                    · Search
+Innovation, the spearhead of medical progress
+News
+                                                    · Search
+Finding drugs for diseases that are currently incurable
+News
+                                                    · Search
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Bipolar disorders, when speech becomes free
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/troubles-bipolaires-quand-la-parole-se-libere
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 970
+- **Unique ID:** `4bf84d4074d25e27`
+
+#### Content:
+
+Crossed perspectives -
+Source: Government Information Service
+Bipolar disorders, when speech becomes free
+Published on February 13, 2026
+, modified February 13, 2026
+CROSSED VIEWS. Bipolarity today benefits from increased visibility in the public space, supported in particular by testimonies from artists or media personalities. This development helps to remove certain taboos, but it is also accompanied by risks of simplification, or even romanticization of the disease. Cross-interview with professor Chantal Henry, specialist in bipolar disorders, and singer Laurēm, author and performer of the album Bipolar.
+With the speaking of public figures like Nicolas Demorand, bipolarity is gaining visibility. A major breakthrough for a disorder that is still little-known and often surrounded by clichés. State of play in the company of singer Laurēm, author and performer of the album
+Bipolar
+, accompanied by a book bringing together patient testimonies and contributions from experts, and Professor Chantal Henry, psychiatrist specializing in bipolar disorders.
+We cannot cure bipolar disorder in the strict sense, because the vulnerability persists. On the other hand, lasting stabilization is possible.
+Chantal Henry
+Professor of psychiatry at Paris Cité University and practitioner at Sainte-Anne hospital, specialist in bipolar disorders.
+Telling my story in songs and poems allowed me to rebuild myself [...]. Sharing this word helps other people recognize themselves and seek help sooner.
+Laurēm
+Author and performer of the album
+Bipolar.
+The liberation of speech: a still fragile turning point?
+Laurēm:
+The word around bipolarity is becoming clearer, but we must continue to increase the number of testimonies and interviews. In my family, the disease crosses several generations: I grew up with adults affected, some went as far as suicide. When my own disorders broke out at the age of 28, I immediately understood what I was going through. For a long time, I stopped and resumed my treatments, went through manic phases and deep depressions, was hospitalized... This put my life on hold, while I built my artistic career and my personal life.
+Today, telling my story in songs and poems has allowed me to rebuild myself, to give meaning to scattered fragments written during my hospitalizations. Sharing this word helps other people recognize themselves and seek help sooner.
+Professor Chantal Henry:
+Speech is freed, but it remains fragile and in the minority. However, it is decisive: many patients recognize their symptoms after hearing a testimony and finally consult. The artistic word opens a door of identification, the medical word provides the framework and the benchmarks. The two registers complement each other: one removes shame, the other provides the means to act.
+Does liberated speech allow us to better understand the reality of the illness, far from clichés?
+L.:
+Bipolarity is too often minimized. Hearing phrases like “we’re all a little bit bipolar” or “you just need to get moving” is harsh. It's not laziness or acting out if you stay in bed for weeks. I experienced these moments as a mother: sometimes I couldn't take care of my baby, be there for him, because I was totally devastated. The illness is destructive, and you must learn to master it to regain control of your daily life.
+Professor C. H.:
+Stereotypes persist: violence, unpredictability, “creative genius.” Bipolar disorder is a serious, intermittent illness that can be severe and even fatal if left untreated. Creativity is born neither in depression nor in mania: it is built in a stable phase, when energy and mental organization are restored. Between episodes, life can be quite ordinary - a point too often forgotten.
+Diagnosis, treatment, access to care: what are the real issues?
+L.:
+I experienced twelve years of wandering, interrupted treatments, manic and depressive cycles, hospitalizations. The support allowed me to regain control: understand the signals, adjust my pace, feel supported. The book that I coordinated brings together numerous testimonies: finding a psychiatrist, getting support, is often an obstacle course. Speech is freed, but access to care must
+
+follow.
+Professor C. H.:
+The diagnosis still comes too late, often after years of wandering. Hypomania, more discreet, delays treatment. However, appropriate treatment – ​​medicinal, psychotherapeutic and psychoeducational – allows lasting stabilization and a fully satisfying life. The major challenge remains access to care: shortage of psychiatrists, territorial inequalities, excessively long delays. The freedom of speech only makes sense if it is accompanied by a real capacity to help those who finally recognize themselves in this disorder.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Health
+›
+Public health
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 10 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Stephanie Rist
+On the same theme
+Depression in adolescents: “consulting is never serious”
+News
+                                                    · Public health
+Mental health: “peer assistance saved my life”
+News
+                                                    · Public health
+Intergenerational cohabitation: an encounter that changes two lives
+News
+                                                    · Public health
+Mental suffering of the elderly: better identification, better support, better prevention
+News
+                                                    · Public health
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### Depression in adolescents: “when school results drop, depression is often already established”
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/depression-chez-l-adolescent-quand-les-resultats-scolaires-baissent-la-depression-est-souvent-deja-installee
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 970
+- **Unique ID:** `d27b6a36ba9ac4e1`
+
+#### Content:
+
+Decoding -
+Source: Government Information Service
+Depression in adolescents: “when school results drop, depression is often already established”
+Published on January 19, 2026
+, modified on January 20, 2026
+DECODING. How to distinguish psychological suffering from a normal phase of adolescence, and when to consult? Child psychiatrist Laelia Benoit provides benchmarks to better understand and act.
+Anger, isolation, dropping out of school, poor self-esteem… Adolescence carries many prejudices. It is then difficult to distinguish what is a normal process of identity construction and what may signal depression. Child psychiatrist and researcher
+Inserm
+and at
+Yale Child Study Center
+, Laelia Benoit sheds light on these vague areas and helps to spot the signs that should alert you.
+When slamming doors are accompanied by a marked drop in self-esteem, a feeling of uselessness, withdrawal and a general loss of interest, the situation becomes more worrying.
+Laelia Benoit
+Child psychiatrist, researcher at the Center for Research in Epidemiology and Population Health (CESP) at Inserm and at Yale University.
+How does teenage depression manifest?
+Depression doesn't manifest itself in the same way in adolescents as it does in adults, which sometimes makes it difficult to spot. Where adults evoke persistent sadness or a feeling of despondency, adolescent unhappiness is expressed more through irritability, anger or aggressiveness. This can result in doors slamming at the slightest remark or, on the contrary, in a marked withdrawal, with a feeling of emptiness and boredom.
+At the same time, the adolescent may drop out of school and no longer be interested in what previously motivated him. A young person who loved playing sports, seeing friends or doing hobbies may turn away. We frequently observe difficulties with concentration and memory, a drop in self-esteem with self-deprecating comments, a lasting lack of interest in school and friendly relationships, as well as a very pessimistic vision of the future. Sleep is often disturbed with either hypersomnia, difficulty getting up, an inversion of the sleep-wake rhythm or even insomnia.
+Diet can also change, with a loss of appetite or, on the contrary, significant food intake, often sweet. We can also engage in risky behaviors such as the consumption of substances such as alcohol or cannabis, or even self-aggressive actions.
+Many of these signs can easily be confused with “typical” adolescence…
+During adolescence, the construction of identity, the search for autonomy and difficulties linked to self-image are normal processes. What should alert is not an isolated sign, but change and the whole. We must observe how the adolescent functions at home, at school and with his friends.
+A one-off conflict is not worrying if the adolescent is generally doing well and remains invested in his relationships and activities. On the other hand, when slamming doors are accompanied by a marked drop in self-esteem, a feeling of uselessness, withdrawal and a generalized loss of interest, the situation becomes more worrying. It is the accumulation of signs, their intensity and their duration that allows us to understand that the adolescent is suffering.
+How can a parent talk about it with their child?
+When faced with worrying behavior, particularly self-aggressive behavior, it is preferable to avoid the question “why”, experienced as accusatory. Instead, ask “how do you feel when you do this?” » allows you to open the discussion. More broadly, ask the question “do you feel bad?” » is already a first step.
+When to consult?
+Often, parents seek help when grades drop. However, when academic results drop, depression is already set in. Parental concern is a good signal to see a professional. Consulting is never a big deal.
+We can start with the attending physician, in order to open the discussion, and, if necessary, to carry out a health check. Some symptoms can be explained by somatic causes, for example anemia in adolescents at the start of their periods.
+What treatments to follow when depression is confirmed?
+First intention
+
+, the recommendations favor psychotherapy, which allows work on self-image, academic or relational difficulties. An adolescent always evolves in a family, school and social context. Sometimes everything seems fine at home and at school, but there are difficulties elsewhere, such as harassment on the commute or online. Therapy allows you to have this overview.
+If this is not enough, antidepressant treatments can be offered, including serotonin reuptake inhibitors. Data shows that the combination of the two is often the most effective.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Health
+›
+Public health
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Stephanie Rist
+On the same theme
+Bipolar disorders, when speech becomes free
+News
+                                                    · Public health
+Mental health: “peer assistance saved my life”
+News
+                                                    · Public health
+Intergenerational cohabitation: an encounter that changes two lives
+News
+                                                    · Public health
+Mental suffering of the elderly: better identification, better support, better prevention
+News
+                                                    · Public health
+Also read
+Against the abuse of vulnerable adults: call 3133
+News ·
+                         Elderly
+Published on March 18, 2026
+Municipal 2026: the results of the first round
+News ·
+                         Elections
+Published on March 16, 2026
+To vote, don't forget your identity papers
+News ·
+                         Elections
+Published on March 13, 2026
+Elections: how are votes counted?
+News ·
+                         Elections
+Published on March 12, 2026
+See all articles
+
+---
+
+### All equal
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/grand-dossier/toutes-et-tous-egaux
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 660
+- **Unique ID:** `070848e7f321e8e8`
+
+#### Content:
+
+In this folder
+All equal
+Discover the interministerial plan for gender equality: measures to act on the professional, economic and social levels
+Gender equality: major cause of the 2023-2027 five-year term
+A national commitment to real equality between women and men
+The great cause of the 2023-2027 five-year term
+Inequalities between women and men persist in many areas of daily life: salaries, access to positions of responsibility, gender-based violence, cultural representations, etc. Faced with this observation, the Government has made equality between women and men
+the great cause of the 2023-2027 five-year term
+, March 8, 2023.
+Priority objectives
+The 2023-2027 action plan is based on four major objectives:
+protect women against all forms of violence
+;
+guarantee equal access to rights, education, health and culture
+;
+promote professional and economic equality
+;
+the culture of equality
+.
+The main axes of the 2023-2027 plan
+Fight against all forms of violence against women
+The first pillar of the plan concerns gender-based and sexual violence. Several measures have been put in place:
+strengthening of the
+Professional equality index
+, particularly in businesses;
+acceleration of women's access to
+management positions
+in the public and private sectors;
+reduction of
+salary gaps
+persistent.
+Specific reporting, support and protection systems are also strengthened, in conjunction with local associations.
+Guaranteeing equality in education and culture
+From an early age, it is essential to deconstruct gender stereotypes. The plan provides:
+of
+awareness programs
+from primary school;
+the promotion of
+a culture of equality
+in school textbooks, media and cultural institutions;
+reinforced training for teachers and educational staff.
+Protecting women’s health and rights
+The
+women's health
+is the subject of a dedicated axis. The Government is acting to:
+facilitate access to the
+reproductive health
+(contraception, abortion, parenting support).
+strengthen access to
+specific care
+(
+endometriosis
+, mental health, violence).
+better support women in precarious or isolated situations.
+Support governance and monitoring of equality policies
+Gender equality is based on demanding and transparent governance. The plan provides:
+the creation of
+monitoring indicators
+to measure progress.
+a
+interministerial management
+coordinated.
+the development of
+partnerships
+with communities, businesses and associations.
+Testimonials to better understand
+“13.9%”: the podcast series to open eyes to gender inequalities at work
+The Government
+spear
+a series of podcasts
+entitled “13.9%”, a figure representing
+the average salary gap
+in France: from November 8, 4:48 p.m. and 15 seconds, French women stop being paid for their work in 2024.
+Enlarge the visual
+Visual -
+Source: Government Information Service
+Close
+Visual -
+Government Information Service
+This series explores
+persistent professional inequalities
+through
+the journeys of two professionals
+– a man and a woman – working in the same profession with comparable training.
+Find all the episodes of “13.9%”
+A podcast series that explores gender-related professional inequalities.
+Government Information Service
+Living with endometriosis
+The actress Enora Malagré, the “coach” Julie Pujol and the influencer Maï, all three suffering from endometriosis, talk about their lives with this
+chronic gynecological disease
+.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+In France, 1 in 10 women are affected by endometriosis, the leading cause of infertility. A chronic illness that is often invisible, but which disrupts lives, bodies and journeys.
+
+In this video, Enora Malagré, Maï and Julie Pujols speak. They deliver powerful, unfiltered testimonies about this illness which sometimes destroys a future, a dream, an education.
+The day of a woman changing tech
+Delphine Remy-Boutang, co-founder of “Digital Women’s Day”, brought us to life
+one of his working days
+. With one objective: to highlight women who innovate and encourage those who hesitate to take the plunge.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Delphine Remy-Boutang, figure incontournable de l’entrepreneuriat féminin du numérique, nous a partagé sa vision d’une tech plus éthique et inclusive.
+Published on May 23, 2023
+, modified on November 7, 2025
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+
+---
+
+### France 2030
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/grand-dossier/france-2030
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 947
+- **Unique ID:** `ab6be1334bc10b7f`
+
+#### Content:
+
+In this folder
+France 2030
+France 2030 aims to accelerate the transformation of key sectors of our economy through innovation and to position France, not just as a player, but as a “leader” in the world of tomorrow.
+Apply
+54 billion
+euros by 2030
+Investment
+7,500
+innovative projects
+Support
+280,000 places 
+training
+Training
+Government Information Service
+To view the audio-described version France 2030: Together, let's continue to bring the future closer, see on
+YouTube
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Together, let's continue to bring the future closer
+Transcription
+Enlarge
+Close
+Transcription
+Illustrative images of French industrial innovations.
+Innovations in all French industrial sectors.
+Together let's continue to bring the future closer
+France 2030, let's bring the future closer
+France 2030 celebrates its four years
+France 2030 celebrates its four years! Discover this ambitious investment plan that is transforming our daily lives, the economy and the environment.
+To watch the audio-described version of France 2030: winning films, see
+YouTube
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+France 2030
+Transcription
+Enlarge
+Close
+Transcription
+Illustrative images of the different France 2030 objectives.
+Carbon-free aviation for tomorrow.
+Contribute to accelerating the energy transition through floating wind power and renewable marine energies.
+Make tractors autonomous for more efficient and less laborious agriculture.
+Develop innovative vaccines against emerging diseases.
+Promote French excellence in additives for more efficient titanium.
+Innovate with reusable stratospheric balloons.
+Structuring a competitive French sector in the field of micro-launchs to secure access to space.
+France 2030, let’s bring the future closer.
+To better understand the impact of France 2030, we invite you to
+an immersive online experience
+, in the form of a virtual city revealing innovative solutions that will redefine our daily lives, as well as the French economy and industry.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+The France 2030 experience!
+Transcription
+Enlarge
+Close
+Transcription
+Illustrative images of French industrial innovations
+Discover the France 2030 experience,
+an immersive city to explore innovations,
+which will redefine our daily lives in the future.
+Each district represents a theme:
+Carbon-free energy,
+Agriculture of the future,
+health,
+The deep seabed,
+Space and much more.
+In one click, dive into each universe:
+Discover scientific submarines,
+Surgical robots or even agricultural drones
+And learn more about the jobs of tomorrow.
+Discover the immersive city now on: experience.france2030.gouv.fr.
+France 2030, let’s bring the future closer.
+Discover the experience
+The Interministerial Committee for Innovation – April 2025
+The Interministerial Committee for Innovation highlighted the State's commitments with France 2030 made over the past three years, the assessment of the concrete impacts on our technological and industrial sovereignty, and opened the way to new prospects for investment in disruptive innovations. 16 performance indicators of the France 2030 plan are in line with the objectives, or even ahead of schedule, including 47 bio-medicines and 640,000 electric and hybrid vehicles produced in France, 100,000 new training places and even 18 million annual tonnes of CO2 saved thanks to the projects undertaken today.
+Read the article
+Highlight the solutions of today and tomorrow
+Since 2021, France 2030 has been supporting innovative players throughout France with the ambition to find, support and develop to “bring the future closer”.
+And it is precisely this ambition that the film from the General Secretariat for Investment, in charge of France 2030, and the Government carries, with the spotlighting of a gallery of actors, who, in the shadows, think of innovative solutions in the fields of health, culture, research and even agriculture. Solutions
+
+revealing, once brought to light, their full societal usefulness.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: The future is built by highlighting your projects.
+For more than two years, France 2030 has been supporting innovative players throughout France. Discover the projects that are shaping our future.
+Transcription
+Enlarge
+Close
+Transcription
+We can seek to explore the abyss, to unite our talents to bring stars to life. We may want to put innovation at the service of life, rethink our way of producing to make it more sustainable. What if the solutions were right before our eyes, in the shadows? What if it was up to us to reveal them? The future is built by highlighting your projects.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Zoom into the future with France 2030
+Transcription
+Enlarge
+Close
+Transcription
+Zoom out on illustrative images of French industrial innovations France2030.gouv.fr
+Follow France 2030 news
+Receive the newsletter
+So as not to miss the latest news, you can receive each month a summary of the highlights, the openings of new calls for projects or even testimonials from winners who are helping to transform key sectors of our economy.
+I register
+Apply for France 2030
+Contribute to the France 2030 momentum!
+You are a start-up, an SME/ETI, a large industrial group, a higher education establishment, a research organization, a laboratory, a school and you want to contribute to “giving France a head start” through innovation?
+Make yourself known
+At the heart of the territories
+A humanoid robot to help caregivers
+News · Innovation
+Published on
+                                            09/21/2023
+Supporting research to better treat endometriosis
+News · Research
+Published on
+                                            05/29/2024
+France 2030: Whispeak makes your voice a secure key
+News · Innovation
+Published on
+                                            09/20/2024
+Reef Pulse: a French company that protects coral reefs
+News · Sea
+Published on
+                                            06/09/2023
+See more articles
+Published on May 19, 2022
+, modified February 6, 2026
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+
+---
+
+### France in WIDE ANGLE
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/grand-dossier/la-france-en-grand-angle
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2304
+- **Unique ID:** `b119c9b00aaf87db`
+
+#### Content:
+
+The
+France
+in
+LARGE
+ANGLE
+The State listens
+of what matters,
+where it counts.
+In this folder
+France in wide angle
+What do the French perceive of state action where they live? To respond to this, the Government is undertaking an unprecedented approach to listening and diagnosis throughout the territory. By combining opinion research and ethnographic immersion, this operation aims to take the pulse of the country, region by region. It explores the link between citizens and their territory: what makes them proud, what questions them, what worries them - and above all, how they perceive and concretely experience the public action around them.
+Discover the results region by region.
+Select a region to display the data
+Swipe the card
+✌️ Use two fingers to move the map or
+                                            use the buttons
+Leaflet
+IGN-F/Geoportal
+Île-de-France
+Close
+Illustrative image -
+Source: Pexel
+With more than 12 million inhabitants,
+the Île-de-France region
+accumulates a density
+demographic, economic power, social, cultural and
+territorial which place it at the heart of many national dynamics, at the same time
+time that they generate experiences without equivalent to those lived in
+other territories.
+This
+extreme density brings together a diversity of experiences, resources and
+rather unique territorial fragilities. For Ile-de-France residents, Paris appears
+as an exceptional center from which everyone tries to both benefit and
+advantages and to protect themselves from real or projected disadvantages. The distance to the
+capital imposes itself as a key to effective reading of local situations.
+It is also the region of the most
+strong contrasts, bringing together the richest department in France (the
+Hauts-de-Seine) and the poorest (Seine-Saint-Denis).
+Read the regional summary
+Center-Val de Loire
+Close
+Illustrative image -
+Source: AdobeStock
+Centre-Val de Loire is perceived as a region
+peaceful and pleasant to live in, with residents attached to its quality of life
+and its tranquility. Despite an unemployment rate lower (or equal) to the national average,
+the region is little identified - wrongly - as dynamic by its inhabitants.
+Health is the main concern
+regional. The region suffers from medical understaffing, with the lowest
+number of doctors per inhabitant in mainland France. Nearly 6 out of 10 residents
+declare that they have already given up on treatment. The feeling of security is strong there, and security rarely appears as a priority, unlike the national average.
+Read the regional summary
+Burgundy-Franche-Comté
+Close
+Illustrative image -
+Source: AdobeStock
+In Burgundy-Franche-Comté, the inhabitants
+highly appreciate their quality of life, safety and the environment, but
+remain worried about the future of their region. This contrast between satisfaction
+local and regional pessimism is marked, particularly in rural areas.
+These are facing progressive devitalization, with the closure of
+shops and the departure of young people, accentuating a feeling of isolation.
+Access to care is a major concern,
+linked to the aging of the population and the distance from structures
+medical. Mobility remains difficult: many depend on the car, and
+few see rail improvements. State action is judged
+present, but difficult to read. A majority of residents do not perceive
+concretely this aid on their territory, despite massive recourse to
+public devices.
+Read the regional summary
+Normandy
+Close
+Illustrative image -
+Source: Ministry of the Interior_E.Delelis
+In Normandy, residents display optimism
+local driven by a deep attachment to their territory and its quality of
+life. The Norman identity, discreet but rooted, results in stability
+strong residential and an enhancement of landscapes and nature.
+The regional economy is seen as resilient, driven by agriculture,
+energy and industry, despite an increase in the cost of living.
+Access to care remains a major concern,
+particularly in rural areas where inequalities are marked. Safety
+more worrying in large cities. Car dependence, fault
+of transport alternatives, limits access to services. Purchasing power,
+although rarely expressed as a priority, underlies several tensions of
+daily. Enf
+
+in, if public action is recognized in certain areas,
+it is considered distant, for the benefit of local communities, perceived as more
+close and responsive.
+Read the regional summary
+Hauts-de-France
+Close
+Illustration image -
+Source: AdobeStock
+Hauts-de-France is distinguished by a strong
+attachment to their regional identity, marked by conviviality and
+solidarity. However, the region remains one of the poorest in France
+metropolitan and accumulates fragilities. Employment is at the heart of
+concerns, perceived as essential to the vitality of the territory, although
+deemed insufficiently available.
+Access to health varies greatly depending on the
+departments, with marked inequalities between Aisne, Somme and the North.
+Despite the criticism addressed to decision-makers, residents recognize the
+State efforts, particularly in terms of digital technology, culture, sport and aid
+social, from which a majority benefited.
+Read the regional summary
+Great East
+Close
+Illustrative image -
+Source: AdobeStock
+In the Grand Est, local roots are
+particularly strong: more than half of the inhabitants were born there and a large
+does not plan to leave. This loyalty is accompanied by a look
+positive on the living environment and a more marked optimism for the situation
+local and national. Employment is a regional priority, especially in
+rural or formerly industrial areas, where residents feel less
+well provided than in urban areas.
+Access to care remains mixed: satisfactory
+in town, but difficult in several rural departments, where residents
+mention a lack of doctors and the complexity linked to the digitalization of services.
+Safety is above all an urban concern. State action is good
+identified, particularly in the areas of sport, culture,
+digital and transport, with generally more positive opinions
+than elsewhere in France.
+Read the regional summary
+Loire region
+Close
+Illustrative image -
+Source: AdobeStock
+The Pays de la Loire benefits from an image
+generally positive among their inhabitants, who praise the quality of life,
+the conviviality and attractiveness of the territory. Employment is a point
+strong. However, this dynamic is less felt in the departments of
+north, like Sarthe and Mayenne, where the feeling of dynamism and
+optimism is more reserved.
+Access to care remains a major concern,
+with significant disparities depending on the departments. Safety worries
+particularly in large cities, while rural areas
+deplore their dependence on the car and the difficulty of accessing services
+public. If state action is less perceived on security issues,
+health and housing, it is more so in the areas of digital and
+culture.
+Read the regional summary
+Brittany
+Close
+Illustrative image -
+Source: AdobeStock
+In Brittany, a strong sense of belonging and
+of local confidence contrasts with the ambient pessimism on the situation
+national and global. This confidence is based on a living environment largely
+popular, a strong culture and strong local roots, reinforced by
+local consumption habits. The regional economy remains dynamic, with
+a low unemployment rate and strong business creation, but shows some
+signs of shortness of breath.
+Housing appears to be a major challenge, in
+particularly for first-time buyers and tenants, due to the increase
+prices and a lack of new housing. Security is also a
+growing concern, particularly in large cities like Rennes.
+In terms of health, territorial inequalities persist, as does the
+car dependence. However, free roads remain an asset
+regionally recognized.
+Read the regional summary
+New Aquitaine
+Close
+Illustrative image -
+Source: Prefecture of Nouvelle-Aquitaine
+New Aquitaine seduces with its quality of life
+and attracts many inhabitants, despite marked territorial disparities. Bordeaux
+concentrates economic assets but is subject to strong urban pressure. The
+medium-sized towns offer a good balance, while rural areas and
+coastal areas encounter difficulties in terms of housing, care and
+transport.
+Mobility remains a challenge outside mainland France, with
+strong dependence on the car. The feeling of insecurity varies depending on the
+territories, often reflecting
+
+t social isolation. Access to care is
+worrying, particularly in certain rural areas. The accommodation is under
+tension, between high prices and obsolescence. Finally, the rising cost of living
+weakens low-income households.
+Read the regional summary
+Occitanie
+Close
+Illustrative image -
+Source: AdobeStock
+Driven by its demographic dynamism
+and its envied living environment, Occitanie is a region on the move, which attracts.
+With its approximately 6 million inhabitants
+and an area exceeding 72,000 km² (13% of the national territory),
+Occitanie is today the second largest region in France
+metropolitan and the fourth in terms of demographics. According to INSEE, since
+2015, the region's population is increasing at a rate of +0.7% per year. In one
+decade, it gained more than 500,000 inhabitants.
+She
+brings together territories as diverse as they are complementary: the metropolises of
+Toulouse and Montpellier, structuring medium-sized cities, a coastline
+highly attractive, agricultural and wine-growing areas, as well as massifs
+mountainous with marked identities (Pyrenees, Cévennes). The inhabitants
+readily praise a pleasant living environment, a cultural and leisure offer
+dense, and a certain “art of living” of the South, between conviviality, nature
+and tradition.
+Read the regional summary
+Provence-Alpes-Côte d’Azur
+Close
+Illustrative image -
+Source: Bouches-du-Rhône Prefecture
+The Provence-Alpes-Côte d’Azur region combines
+attractiveness and contrasts: sunny climate, cultural diversity and setting
+of life appeal to its residents, a majority of whom say they are proud to live there.
+However, this attraction coexists with strong social inequalities, particularly in
+Marseille, and a housing crisis marked by scarcity, high prices and
+tourist pressure, limiting access to housing for the most modest.
+Mobility still relies largely on
+car, lack of suitable public transport, accentuating inequalities of access
+to employment and services. The feeling of insecurity is strongly felt,
+especially in urban areas, fueling social withdrawal. If access to care is
+generally good, it remains very uneven depending on the territories, with a feeling
+strong isolation in mountainous areas.
+Read the regional summary
+Corsica
+Close
+Corsica -
+Source: Prefecture of Corsica
+Corsica is distinguished by its territorial roots
+exceptional. However, this strong attachment is accompanied
+a feeling of isolation,
+lived at the
+both as an asset of identity and a constraint in access to
+essential services. The care offer is
+particularly worrying,
+with frequent recourse to medical transfers to the continent.
+Atypical demographics – aging population
+and strong tourist pressure – accentuates tensions, particularly on the
+housing. The island holds the national record for second homes,
+causing a shortage for residents. The economy remains very seasonal,
+with high job insecurity. Mobility is also a black point:
+the inadequacy of public transport reinforces dependence on the car.
+Finally, the relationship with the State is ambivalent: the Corsicans feel little
+supported, despite massive recourse to public measures.
+Read the regional summary
+Auvergne-Rhône-Alpes
+Close
+Illustrative image -
+Source: Prefecture of Auvergne-Rhône-Alpes
+In Auvergne-Rhône-Alpes, the inhabitants
+widely favor their living environment, marked by nature, the mountains and
+an environment considered pleasant. This satisfaction, however, contrasts with
+disparities in access to services: mobility is generally well perceived, but
+many still rely on cars, especially in rural areas. The
+Public transport suffers from delays or lack of coverage.
+Safety is at the top of the list of priorities, with
+growing feeling of worry, even in areas deemed calm. Side
+health, almost one in two inhabitants has already given up on care, due to
+lack of professionals or the remoteness of structures, particularly
+outside of big cities.
+Read the regional summary
+What do the French perceive of state action? What links do they maintain with institutions, public services and representatives of public action? And how do these links vary according to regions, experiences or individual trajectories?
+It is to answer these questions that
+the
+Government Information Service
+(SIG), under the impetus of
+
+e the spokesperson for the Government, has initiated an unprecedented process of listening and diagnosis
+. Combining opinion surveys (nearly 10,000 French people interviewed online), immersion in the field (150 face-to-face interviews throughout France) and regional meetings, it explores
+the relationship of the French to their territory and to local public action
+.
+Unequal trust in institutions
+While public services benefit from
+a good level of satisfaction
+(77% of French people say they are satisfied according to the barometer of the Paul Delouvrier institute with Harris Interactive published in 2024) and that local elected officials (mayors, departmental and regional councils) maintain broad support,
+distrust of politics remains strong
+(74% of French people say they no longer trust him*, according to the barometer from the Sciences Po Political Research Center published in January 2025).
+Beyond this distrust,
+some citizens express difficulty understanding public decisions and perceiving their concrete effects
+. This lack of readability fuels a feeling of distance from the State.
+At the same time, citizens are demanding
+a right to information
+: they wish to be more notified of public action, particularly when it directly impacts their daily lives.
+This observation highlights the importance of
+strengthen the clarity of public speech
+,
+to anchor public policies in local realities
+and of
+reinvesting local spaces for dialogue
+, to rebuild a lasting bond of trust with citizens.
+A closer-to-the-ground investigation
+While the Government has undertaken an exercise of
+refoundation of public action
+aimed at refocusing State action on its essential missions, this field diagnosis must fuel an informed dialogue between those who design public policies and those who experience their effects every day.
+The SIG, in conjunction with the Government spokesperson, the Interministerial Directorate for Public Transformation and the network of prefectures, launched
+a major national survey to better understand the expectations and feelings of the French.
+In partnership with the advertising agency 366 and the research firm George(s), supported by the Dentsu Aegis agency, the survey is based on:
+a large quantitative study,
+carried out by Harris Interactive, with 10,000 people (800 per region),
+an ethnographic immersion
+, with nearly 150 interviews conducted with everyday stakeholders in each region (nurses, traders, teachers, public officials, etc.).
+The country here
+Download the “mook” of France in wide angle.
+PDF - 4.75 MB
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+France in Wide Angle - a unique approach
+Published on September 18, 2025
+, modified on December 18, 2025
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+
+---
+
+### Why get involved?
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/partenaires-de-letat/pourquoi-sengager
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 329
+- **Unique ID:** `af81b52cdb702778`
+
+#### Content:
+
+Why get involved?
+Published on June 18, 2025
+, modified on November 12, 2025
+Adobe Stock -
+Source: AdobeStock
+Join a network where your action becomes a lever for social and environmental transformation, recognized and supported by the State.
+Strengthen your societal impact
+Seize an opportunity to act in the general interest by participating in the major challenges of our time! Beyond a simple collaboration, you create new bridges between the State and citizens, thus contributing to the social and environmental transformations essential for our society. Your commitment becomes a real lever for action!
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Benefit from institutional recognition
+By joining our network, you benefit from recognition
+institutional
+and access campaign tools and resources. Strengthen the credibility of your CSR commitments and your positioning as a responsible actor!
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Integrate a dynamic ecosystem
+By becoming a partner of the State, you become part of a committed community. This network opens the doors to exclusive events, promotes enriching exchanges with other players in your sector and the development of new synergies.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+Optimize your resources
+Develop high-impact actions thanks to turnkey content, or personalized support from the Government Information Service teams to co-build systems that are specific to you! In this way, you will develop high-impact actions by effectively pooling the resources at your disposal.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: GIS
+The “Partnership with the State” program
+The Government Information Service (GIS) is piloting the “Partnership with the State” program. Placed under the authority of the Prime Minister, the SIG coordinates and leads a network of partners from the private and associative spheres to maximize the reach of government messages.
+I want to become a partner of the State
+
+---
+
+### Current campaigns
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/partenaires-de-letat/nos-campagnes-en-cours
+- **Published Date:** 2025-10-01
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 464
+- **Unique ID:** `77a110e5c58df338`
+
+#### Content:
+
+Current campaigns
+Published on September 16, 2025
+, modified yesterday at 9:45 p.m.
+Adobe Stock -
+Source: AdobeStock
+Apply for Government communication campaigns and become a partner of the State.
+8
+                                                campaigns
+Show filters
+Themes
+Well-being
+Crisis
+Decarbonization
+Environment
+Training
+Inclusion
+Social inclusion
+Youth
+Justice
+Prevention
+Recruitment
+Health
+Mental health
+Utilities
+Security
+Ecological transition
+Periods
+Choose one or more options
+2025
+2026
+Geographical areas
+Choose one or more options
+National
+Target audiences
+Choose one or more options
+General public
+Young people
+Ministries
+Choose one or more options
+Civic Service Agency
+Ministry of National Education
+Ministry of Justice
+Ministry of Economy
+Prime Minister's Office
+Filter
+Reset filters
+Resilience
+Campaign to raise awareness and mobilize citizens around issues of health, safety and protection of populations in the face of crises, by strengthening their capacity to prevent and manage emergency situations.
+Health
+Crisis
+Security
+Prevention
+Environment
+From
+October 1, 2025
+at
+December 31, 2026
+National
+General public
+Prime Minister's Office
+Call for expressions of interest
+PDF - 170.12 KB
+Learn more
+Apply
+I am a victim
+Campaign aimed at better informing and guiding victims by promoting the “I am a victim” portal and free support systems.
+Justice
+From
+November 14, 2025
+at
+March 31, 2026
+National
+General public
+Ministry of Justice
+Call for expressions of interest
+Learn more
+Apply
+Host families
+Recruitment campaign for host families for children in difficulty
+Recruitment
+Youth
+Inclusion
+From
+January 05, 2026
+at
+March 31, 2026
+National
+General public
+Ministry of Justice
+Call for expressions of interest
+PDF - 161.61 KB
+Learn more
+Apply
+Energy check
+Energy check information and promotion campaign
+Environment
+Utilities
+From
+March 20, 2026
+at
+March 25, 2026
+National
+General public
+Ministry of Economy
+Call for expressions of interest
+PDF - 174.56 KB
+Learn more
+Apply
+This summer I read
+Campaign to raise awareness and promote reading among young people
+Youth
+Social inclusion
+Training
+From
+March 23, 2026
+at
+April 30, 2026
+National
+General public
+Ministry of National Education
+Call for expressions of interest
+PDF - 223.77 KB
+Learn more
+Apply
+Civic Service Day
+Campaign aimed at promoting the commitment of young volunteers and increasing the visibility of Civic Service
+Youth
+Social inclusion
+From
+March 23, 2026
+at
+June 10, 2026
+National
+Young people
+Civic Service Agency
+Call for expressions of interest
+PDF - 267.08 KB
+Learn more
+Apply
+No to Harassment
+Campaign to combat school bullying
+Mental health
+Youth
+Well-being
+Prevention
+From
+March 23, 2026
+at
+April 30, 2026
+National
+General public
+Ministry of National Education
+Call for expressions of interest
+PDF - 281.37 KB
+Learn more
+Apply
+Sustainable tourism and low carbon mobility
+Campaign to raise awareness and promote low-carbon tourist mobility
+Decarbonization
+Environment
+Ecological transition
+From
+March 23, 2026
+at
+April 20, 2026
+National
+General public
+Ministry of Economy
+Call for expressions of interest
+Apply
+
+---
+
+### Full employment and reindustrialization - Government priority | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/atteindre-le-plein-emploi-et-reindustrialiser-la-france
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1355
+- **Unique ID:** `daa1ed6b909fddcc`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendee
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Achieve full employment and reindustrialize the country
+The challenge is to regain our strategic independence on technologies and know-how of the future, but also to reduce inequalities in access to employment and act against discrimination in hiring.
+5 projects for employment and industry
+Objective achieved
+Create jobs for our industrial sovereignty
+Objective achieved 100%
+1 indicator
+Training young people through apprenticeship
+Objective reached at 93%
+2 indicators
+Training for jobs of the future
+Objective reached at 67%
+3 indicators
+Ensuring investments for the future with France 2030
+Objective reached at 57%
+1 indicator
+Facilitate the installation and development of industrial sites
+Objective achieved at 27%
+2 indicators
+Show all
+The challenges
+that we face
+Until the 2010s, the
+France was marked by more than 40 years of mass unemployment
+and deindustrialization.
+Today, the challenge is twofold:
+Reply to
+needs of the Nation
+(jobs under pressure, strategic skills)
+to regain our independence
+strategy on technologies and know-how of the future.
+Resolve inequalities in access to employment
+and act against discrimination in hiring.
+This, in a context of
+new expectations of the French in their relationship to work
+(flexibility, mobility
+professional, development and recognition, taking into account all
+forms of arduousness, work that pays better, etc.).
+Firsts
+improvements over 6 years
+Despite a context of successive crises (health, energy, etc.), we went from 9.6% in 2017 to 7.2% unemployment in 2023 (i.e. +1.7M jobs in 6 years), we created 90,000 industrial jobs and reached more than 837,000 apprentices.
+Opening of
+	800 industries, opening of new production lines
+	strategic (paracetamol, semiconductors) and launch of the plan
+	France 2030 (54 billion euros).
+Household purchasing power
+	French almost at the same level in 2023 as in 2019, despite
+	crises, through significant support mechanisms (“
+	whatever it costs” of Covid, energy shields..),
+	the creation of various value sharing tools (“Macron bonus…”) and tax cuts
+	(removal of the housing tax, the TV license fee, reduction
+	income tax…).
+…but still work to be done
+lead
+Priorities until 2027
+1 - Achieve full employment and allow everyone to join
+professionally
+Why?
+Full employment (around 6% unemployment) is so much the ga
+
+age of a strong economy which
+produces wealth and thus allows it to be redistributed, that of a
+power regained for employees in salary negotiation, in a
+labor market with more opportunities.
+The objective today is to encourage the resumption of activity and
+better help everyone according to their needs.
+In addition to the reform
+unemployment insurance, who will be supported in particular?
+The groups furthest from employment
+(workers
+low-skilled, RSA recipients) through the deployment of reinforced support
+and personalized with France Travail (transformation of Pôle emploi).
+Young people,
+with the high school reform
+professional, learning and transformation of secondary education pathways to facilitate
+entry into the labor market, as well as by deploying programs
+specific as “1 young person, 1 solution”…
+Seniors,
+thanks to the accumulation
+employment-retirement and various measures to guarantee their continued employment.
+People with disabilities,
+by one
+transformation of support into establishments and work assistance services (ESAT) in particular.
+2 - Improve the quality of life at work and allow everyone to have a
+“good job”
+Why?
+Quality of life at work is essential for
+flourishing.
+The challenge today is to encourage both the State and the
+companies to embrace the new expectations of society to continue to
+give everyone the freedom to build their future and have a real
+professional career.
+The “life at work pact” which will be
+launched with social partners in spring 2023, should make it possible to
+answer.
+How ?
+Allow everyone to train throughout
+life
+thanks to VAE, CPF…
+Making work pay better, thanks to
+several value sharing mechanisms.
+Improve the quality of life at work,
+allow everyone to control their time and better prevent wear and tear
+professional.
+This project will be the subject of in-depth discussions with the
+social partners.
+Continue
+efforts in terms of
+equality
+professional and economic between men and women
+, thanks to the implementation
+place of index, awareness-raising and transparency actions…
+3 - Continue to reindustrialize France
+Why?
+Develop
+a French (and European) industry is essential to strengthening our
+sovereignty.
+Located in the heart of our territories, these factories and companies
+are the lungs of our economy, creators of quality and innovative jobs.
+How ?
+Pursue innovation in sectors
+strategic with France 2030
+(technologies, mobility, medicine,
+energies, artificial intelligence, etc.), with a view to
+become a great green power
+.
+Plan the needs of the Nation and train
+more than a million people in the professions of the future by 2027.
+Continue to support businesses
+, in
+reducing costs, facilitating procedures and engaging the turning point
+of digitization.
+4 –
+Continue to protect the purchasing power of the French, while
+by being part of a sustainable public finance trajectory
+Why?
+The French are hit hard by the crises
+successive and were able to pay unfair taxes. The five-year action
+precedent will be continued.
+How ?
+Protect the purchasing power of the French by
+lowering taxes
+Act against tax and social fraud
+Establish a deficit reduction trajectory
+public which makes it possible to return, in a credible manner, below 3% of GDP
+deficit per year in 2027.
+Full employment and reindustrialization
+The major files
+Building the France of tomorrow
+Relaunch the economy and emerge stronger from the crisis
+France 2030
+France 2030 aims to accelerate the transformation of key sectors of our economy through innovation and to position France, not just as a player, but as a “leader” in the world of tomorrow.
+News
+Discover the latest news related to the Government's priority policies.
+Learning:
+what changes from July 2025
+News · Education
+Meal vouchers soon to be usable on Sundays
+News · Economy
+Summer sales have started
+News · Economy
+Female entrepreneurship: 101 women who lead by example
+News · Citizenship
+Cycle tourism: how France is aiming for first place in the world
+News · International
+Foreign workers: the updated “list of professions in shortage”
+News · Economy
+See t
+
+all items
+
+---
+
+### Progress and public services - Government priority | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/batir-de-nouveaux-progres-et-refonder-nos-services-publics
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1328
+- **Unique ID:** `6b54251369719e03`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendee
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Building new progress and rebuilding our public services
+Our public services must fight against the persistence of inequalities and social determinisms, but also strengthen support for our seniors and find new solidarity between generations.
+31 projects for public services and progress
+Objective achieved
+Fight against tax, social and customs fraud
+Objective achieved 100%
+1 indicator
+Objective achieved
+Providing access to culture to all young people with the Culture Pass
+Objective achieved 100%
+1 indicator
+Objective achieved
+Strengthen equal pay for women and men with the Egapro index
+Objective achieved 100%
+2 indicators
+Objective achieved
+Better support caregivers
+Objective achieved 100%
+3 indicators
+Objective achieved
+Facilitate consular services for French people abroad
+Objective achieved 100%
+1 indicator
+Fight against violence against women and feminicide
+Objective achieved 100%
+2 indicators
+Make school more inclusive
+Objective reached at 99%
+1 indicator
+Continue free digital support
+Objective reached at 97%
+2 indicators
+Fight against bullying and cyberbullying at school
+Objective reached at 97%
+1 indicator
+Regulate emergencies through the healthcare access service (SAS)
+Objective reached at 93%
+1 indicator
+Develop volunteering thanks to jeveuxaider.gouv.fr
+Objective achieved at 89%
+2 indicators
+Free up caregivers’ time for patients
+Objective achieved at 84%
+1 indicator
+Allowing older people to age in place
+Objective achieved at 84%
+2 indicators
+Supporting the homeless to find accommodation
+Objective achieved at 78%
+1 indicator
+Fight against unpaid alimony
+Objective achieved at 76%
+1 indicator
+Ensuring digital access throughout the territory
+Objective reached at 68%
+2 indicators
+Improve vaccination coverage of the French
+Objective reached at 66%
+2 indicators
+Improve access to care in all territories
+Objective achieved at 56%
+4 indicators
+Providing artistic and cultural education to every student
+Objective achieved at 56%
+3 indicators
+Intervene earlier on neurodevelopmental disorders in children
+Objective reached at 54%
+2 indicators
+Split classes in priority education
+Objective reached at 43%
+3 indicators
+Simplifying access to the rights of people with disabilities
+Objective reached at 33%
+2 indicators
+Improve the level of students in mathematics and French
+Objective reached at 30%
+6 indicators
+Increase the number of equipment
+
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
+
+s territories like hospitals
+will be radically transformed.
+How ?
+A
+better territorial healthcare coverage
+(health homes, etc.), a
+greater cooperation between
+professionals
+(generalists,
+pharmacists, specialists) and a
+development
+digital tools
+(telemedicine, etc.) so that everyone can benefit
+of a treating physician.
+A
+unclogging
+emergencies
+, thanks to a profound reorganization, better
+cooperation between community medicine and
+hospital, better orientation within the health system
+via
+a number
+unique.
+A
+strengthening of
+research
+and the
+policy of
+prevention
+, in women's health, obesity, detection of sickle cell disease, and
+more generally throughout life at key ages.
+A
+better support for parents
+,
+especially during their children’s first 1,000 days.
+3 - Strengthen solidarity and make equality between women and men the great cause of
+five-year term
+Why?
+Equality must be a reality. In addition, everyone must
+be able to find their place in society, by being able to access their rights and
+its duties without brakes (generational, cultural, social, etc.).
+How ?
+Continue to promote equality between women and men,
+major cause of the five-year term for the second time, with in addition to the fight against violence against women and professional equality, a priority given to women's health and support for single-parent families.
+Better
+support our elders
+by building the
+society of “aging well”
+,
+by giving them the choice, whether it be home support or EHPADs, by
+supporting caregivers.
+Conduct a
+real disability support policy
+(access to school,
+employment, mobility, etc.).
+Continue
+to fight against social determinisms
+and obstacles to employment
+(guarantee
+childcare, Culture Pass, access to housing, etc.).
+Better guarantee access to social rights,
+via
+the deployment of
+“solidarity at source” schemes, automatic payment
+alimony
+to help further
+the most modest and middle classes.
+4 - Strengthen territorial dynamics and
+bringing the State closer to citizens
+Why?
+decentralization and differentiation are principles
+fundamentals of the State-territory relationship which should allow the French to benefit from the best solutions locally according to the
+needs. Local experimentation must be encouraged and – at the same time –
+national plans must be initiated to reduce existing divides (digital, economic activity, etc.). In addition, public services in their
+together are called to transform, to “reach out” to the French and propose simplified approaches.
+How ?
+Improve equality between territories and recreate local dynamics
+(thanks to the Cœur de ville schemes, the rural plan, Neighborhoods 2030 and
+neighborhood contracts, ongoing discussions on overseas territories,
+city…)
+and continue the transformation
+digital on a territorial scale,
+by guaranteeing to all
+the same access to very high speed
+(THD);
+Bringing the State closer to the territories and
+citizens
+, and “
+go-to”
+the French,
+by continuing the France offer
+service, the deployment of digital training, the simplification of
+steps for 10 key moments of life and
+act to strengthen the attractiveness of the sector’s professions
+public
+(salary increase, training, career development)
+as well as attracting talent.
+Progress and public services
+The major files
+Move for 30 minutes
+The promotion of physical and sporting activity is the Great National Cause for 2024.
+All mobilized against violence against women
+“Don’t let anything pass”
+All equal
+Discover the interministerial plan for gender equality: measures to act on the professional, economic and social levels
+News
+Discover the latest news related to the Government's priority policies.
+What changes in January 2026
+News · Citizenship
+The key dates of the
+back to school 2025-2026
+News · Education
+Rebuilding the State
+local: give full space to the prefect
+News · Institutions
+Apprenticeship, association, parenthood...: your questions, our answers
+News · Education
+Screens prohibited in reception areas for
+young children
+News · Health
+Heading towards the Brevet for 3rd grade students
+News · Education
+See all ar
+
+ticles
+
+---
+
+### Ecological transition - Government priority area | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/planifier-et-accelerer-la-transition-ecologique
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1163
+- **Unique ID:** `d246a0ad8820cdea`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendee
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Plan
+ and accelerate the ecological transition
+As the impact of climate change is increasingly felt, we must now accelerate the transformation of the most emitting sectors as well as our lifestyles.
+9 projects for ecology
+Improving air quality through Low Emission Zones
+Objective achieved at 86%
+1 indicator
+Renovate your home thanks to MaPrimeRénov’
+Objective achieved at 81%
+1 indicator
+Fight against environmental damage
+Objective achieved at 73%
+1 indicator
+Encourage the switch to electric cars
+Objective reached at 60%
+3 indicators
+Ensuring careful management of water resources
+Objective reached at 52%
+1 indicator
+Allow all French people to cycle
+Objective reached at 46%
+1 indicator
+Increase French photovoltaic power tenfold by 2050
+Objective achieved at 28%
+2 indicators
+Develop the circular economy
+Objective achieved at 21%
+3 indicators
+Plant 1 billion trees by 2032
+Objective reached at 6%
+1 indicator
+Show all
+The challenges
+that we face
+The impact of climate change is
+felt more and more in our daily lives.
+The rise in temperature
+global economy has further accelerated, at a pace that will most likely exceed
+the threshold of 1.5°C of warming between 2021 and 2040. Events
+more intense and more frequent extreme weather events occur each year (fires,
+thunderstorms and storms or hurricanes…). The territories and populations are
+unequally affected by climatic and ecological challenges. A
+depletion of natural resources is observed, both in terms of
+biodiversity than water or minerals. All this requires managing emergencies
+and plan for the long term.
+These issues must guide our actions,
+individual and collective
+. After making the diagnosis, we
+we must now accelerate the transformation of the highest emitting sectors
+as our lifestyles. Certain actors and territories will be more
+impacted, and will need specific support. The issues are
+multiple, both to make our planet more livable, to improve the quality of
+air, water, preserving nature, but also developing sovereignty
+French and European ecological
+.
+First improvements in 6 years
+Some
+examples:
+Doubling the speed of reducing our emissions
+on 2017/2022 compared to 2012/2017.
+One million beneficiaries of “My renovation bonus”, +
+15,000 km of cycle paths, sobriety plan having made it possible to reduce by 10%
+
+our energy consumption, sustainability of more than 7,000 km of small
+railway lines, relaunch of night trains, ban on 10 products in
+the most polluting single-use plastics (straws, plastic cutlery), etc.
+A European agreement with the objective of reducing our
+emissions by 55% in 2030, then carbon neutrality in 2050.
+…but
+still work to be done
+Priorities until 2027
+France has
+vocation to be the first great green Nation, which inspires our neighbors
+Europeans and around the world. In connection with the reindustrialization project,
+the objective is also to strengthen – thanks to the ecological transition – sovereignty
+both energy, industrial and food of the country.
+How
+achieve?
+For this, a clear course has been defined, based on
+ecological planning,
+declined within the “France
+Green Nation” and mobilizing all ministries but also stakeholders
+private individuals, numerous associations and
+in
+fine
+all French people
+.
+With
+for priorities:
+Accelerate
+the decarbonization of the main polluting strategic sectors
+:
+transport (30%), industry (20%), agriculture (20%), housing (20%), energy
+and biomass (10%).
+A strategy by sector is being defined
+and will be presented
+by summer 2023
+.
+The
+Green Planning Tips
+led by the President of the Republic and the Prime Minister will provide progress updates
+regular. This work will lead to the next National Strategy
+Low Carbon and the next Multi-annual Energy Program.
+Allow each territory to begin its transition
+A
+strategy by territory will also be put in place
+with objectives built in partnership with local stakeholders
+(communities, businesses, citizens, etc.).
+Return
+ecological transition accessible to all
+Of
+simplified support systems
+to better help the most modest will be deployed.
+Protect
+biodiversity and our resources
+(water, forests, soils, etc.).
+Strengthened preservation of our biodiversity
+,
+for
+protect and restore our ecosystems,
+with specific monitoring
+of some basins and a new National Biodiversity Strategy.
+Mobilize all French people to be actors in the transition
+New devices
+training
+(notably administrations)
+and commitment
+(in particular
+via
+the
+civic services)
+will be like this
+developed.
+Ecological transition
+The major files
+Energy savings
+In winter as in summer, to save energy, we act and reduce. Because every gesture counts.
+Ecological planning
+Act better to accelerate the ecological transition
+Water resources
+Every gesture counts
+News
+Discover the latest news related to the Government's priority policies.
+JOP French Alps
+2030: concrete commitments for a lasting legacy
+News · Sport
+The energy label, for more sustainable phones and tablets
+News · Environment
+In the news: the suspension of MaPrimeRénov’
+News · Environment
+In the news: a proposed law to curb “fast fashion”
+News · Environment
+Interministerial Committee for the Sea 2025
+Press kit · Environment
+A plan to guarantee our maritime sovereignty
+News · Environment
+See all articles
+
+---
+
+### Republican Order - Priority axis of the Government | info.gouv.fr
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/politiques-prioritaires/renforcer-l-ordre-republicain-et-encourager-l-engagement
+- **Published Date:** 
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1439
+- **Unique ID:** `72c9bd3c97c9788f`
+
+#### Content:
+
+What changes for me
+Area:
+France
+Close
+Change zone
+See all of France
+OR
+Search
+Regions
+Auvergne-Rhône-Alpes
+Burgundy-Franche-Comté
+Brittany
+Center-Val de Loire
+Corsica
+Great East
+Guadeloupe
+French Guiana
+Hauts-de-France
+Île-de-France
+Reunion
+Martinique
+Mayotte
+Normandy
+New Aquitaine
+Occitanie
+Loire region
+Provence-Alpes-Côte d’Azur
+Departments
+01 - Aïn
+02 - Aisne
+03 - Allier
+04 - Alpes-de-Haute-Provence
+05 - Hautes-Alpes
+06 - Alpes-Maritimes
+07 - Ardeche
+08 - Ardennes
+09 - Ariège
+10 - Dawn
+11 - Aude
+12 - Aveyron
+13 - Bouches-du-Rhône
+14 - Calvados
+15 - Cantal
+16 - Charente
+17 - Charente-Maritime
+18 - Dear
+19 - Corrèze
+21 - Côte-d’Or
+22 - Côtes-d'Armor
+23 - Hollow
+24 - Dordogne
+25 - Doubs
+26 - Drôme
+27 - Eure
+28 - Eure-et-Loir
+29 - Finistère
+2A - South Corsica
+2B - Upper Corsica
+30 - Gard
+31 - Haute-Garonne
+32 - Gers
+33 - Gironde
+34 - Hérault
+35 - Ille-et-Vilaine
+36 - Indre
+37 - Indre-et-Loire
+38 - Isère
+39 - Jura
+40 - Landes
+41 - Loir-et-Cher
+42 - Loire
+43 - Haute-Loire
+44 - Loire-Atlantique
+45 - Loiret
+46 - Lot
+47 - Lot-et-Garonne
+48 - Lozere
+49 - Maine-et-Loire
+50 - Sleeve
+51 - Marne
+52 - Haute-Marne
+53 - Mayenne
+54 - Meurthe-et-Moselle
+55 - Meuse
+56 - Morbihan
+57 - Moselle
+58 - Nièvre
+59 - North
+60 - Oise
+61 - Orne
+62 - Pas-de-Calais
+63 - Puy-de-Dôme
+64 - Pyrénées-Atlantiques
+65 - Hautes-Pyrénées
+66 - Pyrénées-Orientales
+67 - Bas-Rhin
+68 - Haut-Rhin
+69 - Rhone
+70 - Haute-Saône
+71 - Saône-et-Loire
+72 - Sarthe
+73 - Savoie
+74 - Haute-Savoie
+75 - Paris
+76 - Seine-Maritime
+77 - Seine-et-Marne
+78 - Yvelines
+79 - Deux-Sèvres
+80 - Sum
+81 - Tarn
+82 - Tarn-et-Garonne
+83 - Var
+84 - Vaucluse
+85 - Vendee
+86 - Vienna
+87 - Haute-Vienne
+88 - Vosges
+89 - Yonne
+90 - Territory of Belfort
+91 - Essonne
+92 - Hauts-de-Seine
+93 - Seine-Saint-Denis
+94 - Val-de-Marne
+95 - Val-d'Oise
+971 - Guadeloupe
+972 - Martinique
+973 - French Guiana
+974 - Reunion
+976 - Mayotte
+Explore the data
+Government priority
+Strengthen the republican order and encourage commitment
+Faced with the feeling of insecurity that the French regularly report, we must strengthen the republican order and encourage citizen participation in public decisions.
+10 projects for the republican order
+Objective achieved
+Guaranteeing access to justice through legal aid
+Objective achieved 100%
+1 indicator
+Objective achieved
+Fill 10,000 positions by 2027 to strengthen justice
+Objective achieved 100%
+1 indicator
+Create 15,000 new places in prison
+Objective achieved at 69%
+1 indicator
+Develop the professional integration of prisoners
+Objective reached at 67%
+1 indicator
+Modernize the issuance of residence permits
+Objective reached at 62%
+1 indicator
+Strengthen the presence of law enforcement in public spaces
+Objective reached at 61%
+3 indicators
+Double the number of military operational reservists
+Objective reached at 59%
+1 indicator
+Strengthening the efficiency of the asylum procedure
+Objective reached at 53%
+1 indicator
+Allow young people to get involved via the SNU
+Objective reached at 42%
+1 indicator
+Render court decisions in 1st instance in less than a year
+Objective reached at 23%
+2 indicators
+Show all
+The challenges
+that we face
+The French regularly report a
+feeling of insecurity
+, in the context of a more violent society,
+despite the daily investment of the police to ensure order
+public.
+Justice is also judged
+still too slow and complex. Finally our democratic framework as well as our values
+republican are sometimes called into question.
+A feeling of loss of control over
+digital is also increasingly felt by some French people
+(disinformation,
+cyber attacks and cyber harassment).
+The return of war in
+Europe
+and the exacerbation of
+geopolitical tensions
+in the
+world (nuclear proliferation, hybrid threats, etc.) is also a source
+of worries
+. The challenge
+migratory
+in front of us lay forts
+integration issues.
+While the unity of the Nation is more than
+never necessary, the feeling of belonging is questioned
+, due to the fact
+notably social and geographical divides that are still very marked.
+First improvements in 6 years
+The presence of law enforcement on the ground has
+sharply increased (+10,000 police officers and gendarmes over 5 years), having
+notably allowed a reduction in certain crimes and misdemeanors since 2017
+(burglaries -25% in 5 years, violent theft -30%, decline in crime
+
+nce
+in the 20 departments most concerned in recent months…) and the
+22% reduction in traffic points.
+50 Islamist places of worship closed temporarily or
+definitely since 2017
+A €413 billion military programming law made it possible to initiate the necessary “repair” effort.
+…but
+still work to be done
+Priorities until 2027
+1 - Strengthen the presence of law enforcement in public spaces.
+For what ?
+Everyone has the right to live in safety, at home and
+in public space. The objective is to continue to strengthen action
+committed by allowing law enforcement to be more present on the ground
+field and in particular targeting crimes that undermine daily life.
+How ?
+Double the presence of law enforcement in public spaces (in particular
+in peri-urban and rural areas, including 200 additional gendarmerie brigades), continue the digital transformation of
+ministry, and modernize the means available to police officers, gendarmes and
+customs officers.
+Securing upcoming international events (World Cup
+rugby 2023, Olympic Games 2024).
+Strengthen action against drug trafficking.
+Strengthen action against separatism.
+Strengthen action against cybercrime and online scams.
+2 - Simplify, modernize and reduce the delays of our Justice.
+For what ?
+Everyone must also be able to access justice
+easily and get a response in a shorter time. The works of
+modernization, simplification and increased resources must be
+pursued. In addition, the prison must better prepare for reintegration, and
+alternatives must be offered when appropriate.
+How ?
+The continuation of the states general of justice will allow
+in particular:
+Deploy +10,000 magistrates and judicial staff over 5 years.
+Dematerialize certain procedures, with the ambition of justice
+“zero paper”.
+Partially recast the Penal Code and the Civil Code, to achieve a deadline of
+procedures for a maximum of one year.
+Create new prison places, develop TIG and facilitate
+reintegration.
+3 - Transform our armies to guarantee our autonomy and our
+excellence in the face of new forms of threats.
+For what ?
+A strong army is a guarantee of security and independence.
+This French asset must be continually strengthened, from a point of view
+capability and strategic, in line with the efforts already undertaken and in
+anticipating new threats against which to know how to defend yourself.
+How ?
+The new law of
+military programming and all the actions undertaken will make it possible to:
+Strengthen the capacities, preparation and responsiveness of the armed forces
+French authorities, particularly in the face of cyber threats, and by guaranteeing the
+credibility in the duration of nuclear deterrence.
+Build a real “war economy”, mobilizing the base
+industrial and technological defense of the country.
+Continue efforts to improve living conditions and
+work of military and defense civilians, as well as their families, and continue to develop the reserve.
+4 - Better regulate migratory flows and better integration.
+For what ?
+Better control of immigration should enable better
+process applications and welcome those who need it or wish to emigrate
+legally. In addition, integration is an essential area to improve.
+How ?
+Respond to an asylum request in less than 2 months and reform
+the organization of asylum.
+Better protect our borders by strengthening resources to serve
+more efficient controls, an overhaul of the Schengen agreements and a
+more systematic removal of rejected and delinquent people.
+Strengthen support for people obtaining asylum (language courses,
+housing…).
+5 - Encourage citizen participation in public decisions.
+By involving the population in consultative mechanisms like the
+citizen conventions, of the National Council for Refoundation
+and facilitate and then enhance commitment
+citizen
+(civic services, Universal National Service, etc.).
+6 - Reform our institutions and guarantee fundamental rights.
+Republican order
+The major files
+Europe 2024
+On June 9, 2024, the French are invited to elect their representatives to the European Parliament. An assembly that shapes our daily lives much more than it seems.
+News
+Discover the latest news related to priority policies
+
+of the Government.
+To vote, don't forget your identity papers
+News · Citizenship
+How to establish a voting proxy?
+News · Citizenship
+Resilience:
+how to prepare for crises?
+News · Security
+Why the 14th
+Is July our national holiday?
+News · Defense
+Overseas territories at the heart of the agenda
+governmental
+News · Overseas
+Iran - Israel - Palestinian Territories: advice for French nationals
+News · International
+See all articles
 
 ---
 

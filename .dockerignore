@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Python virtual environment (rebuilt inside Docker)
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Scraped data — mounted as volume so not baked into image
+data/
+
+# Logs — mounted as volume
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Docker files themselves (avoid recursive copy)
+Dockerfile
+docker-compose.yml
+.dockerignore

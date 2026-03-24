@@ -10,7 +10,6 @@
 
 import os
 import json
-import re
 from datetime import datetime, timezone
 
 from config import PROCESSED_DIR, MARKDOWN_DIR, RAW_DIR, CHECKPOINT_FILE
@@ -57,7 +56,17 @@ def load_index(country_code: str) -> dict:
     """
     Load {normalised_url: record} for all previously saved articles.
     Returns {} if the country has never been scraped before.
+
+    IMPORTANT: If the markdown output file doesn't exist (was deleted),
+    we ignore the index and return {} — forces a clean re-scrape so the
+    .md file gets rebuilt. Prevents the 'all skipped / 0 saved' bug.
     """
+    # If the .md output file is missing, the index is stale — ignore it
+    md_path = os.path.join(MARKDOWN_DIR, f"{country_code}.md")
+    if not os.path.exists(md_path):
+        log.info(f"  No markdown file for {country_code} — ignoring stale index, will re-scrape.")
+        return {}
+
     path = _index_path(country_code)
     if os.path.exists(path):
         try:
@@ -168,7 +177,7 @@ def save_summary_report(summary: dict) -> str:
     """Write a Markdown summary report after all countries finish."""
     _ensure_dirs()
     path = os.path.join(PROCESSED_DIR, "summary_report.md")
-    now  = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    now  = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     total_saved   = sum(v.get("saved",   0) for v in summary.values())
     total_skipped = sum(v.get("skipped", 0) for v in summary.values())

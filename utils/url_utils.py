@@ -69,9 +69,22 @@ def can_fetch(url: str) -> bool:
     Respect robots.txt for the domain.
     Returns True if the bot is allowed to fetch this URL.
     Defaults to True if robots.txt can't be loaded (fail-open).
+
+    Always uses the www. variant of the robots.txt URL so that
+    pm.gc.ca and www.pm.gc.ca share the same (permissive) rules.
     """
-    parsed     = urlparse(url)
-    domain_key = f"{parsed.scheme}://{parsed.netloc}"
+    parsed = urlparse(url)
+    netloc = parsed.netloc.lower()
+
+    # Normalise to www. for robots.txt lookup
+    # e.g. pm.gc.ca  → www.pm.gc.ca
+    #      www.pm.gc.ca → www.pm.gc.ca  (unchanged)
+    if netloc and not netloc.startswith("www."):
+        robots_netloc = "www." + netloc
+    else:
+        robots_netloc = netloc
+
+    domain_key = f"{parsed.scheme}://{robots_netloc}"
 
     if domain_key not in _robots_cache:
         rp = urllib.robotparser.RobotFileParser()

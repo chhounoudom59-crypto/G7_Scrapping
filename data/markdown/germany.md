@@ -1,92 +1,6 @@
 # Country: Germany
 
-*Last updated: 2026-03-23 15:14 UTC*
-
----
-
-### Data privacy information
-
-- **Source:** Bundesregierung
-- **URL:** https://www.bundesregierung.de/breg-en/news
-- **Published Date:** 2026-03-19
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 427
-- **Unique ID:** `a9cd2c78b6ce9876`
-
-#### Content:
-
-Please enter a maximum of 256 characters.
-Search
-Enter search term
-Time period
-Format
-154 Results
-Sorted by
-Date descending
-Date ascending
-Relevance
-Press conference of the Federal Chancellor after the European Council
-Strength and sovereignty for Europe
-Following the European Council, Federal Chancellor Merz praised the joint decisions on competitiveness and the reduction of bureaucracy. Other topics in Brussels were: energy prices, the situation in the Middle East and further support for Ukraine.
-E-mail, Strength and sovereignty for Europe
-Facebook, Strength and sovereignty for Europe
-Joint statement by the leaders of France, Germany, the United Kingdom, Italy, the Netherlands, Japan and Canada on the Strait of Hormuz.
-press release
-19.3.2026
-Policy statement by the Federal Chancellor ahead of the European Council
-A united Europe as a guarantee for the future
-18.3.2026
-In his policy statement to the European Council, Federal Chancellor Merz appealed for a consistent reduction in bureaucracy and for further ...
-The current Middle East conflict
-Federal Government measures to counter high fuel prices
-17.3.2026
-Petrol stations will soon be permitted to increase their fuel prices only once a day. This is the step now being taken by the Federal ...
-Joint Statement on Lebanon
-press release
-16.3.2026
-Press conference by Federal Chancellor Merz, Norway’s Prime Minister Støre and Canada’s Prime Minister Carney
-NATO
-’s Cold Response exercise: defending security on
-NATO
-’s northern flank
-13.3.2026
-Germany is training with Norway, Canada and other partners to defend the North as part of
-NATO
-’s Cold Response exercise. Federal Chancellor ...
-Current developments in the Middle East
-The Iranian people have the right to determine their fate
-10.3.2026
-In light of the developments resulting from the Israeli and American military strikes against Iran, the Federal Government remains in close ...
-Press conference between Federal Chancellor Merz and Czech Prime Minister Babiš
-Closely connected for a stable Europe
-The dramatic situation in the Middle East shows that close coordination between neighbours in the European Union is more important than ...
-European trade policy
-EU signs Mercosur agreement
-6.3.2026
-The President of the European Commission has announced the provisional application of the trade part of the MERCOSUR agreement. Following ...
-Press conference of the Federal Chancellor after the meeting with
-US
-President Trump
-Difficult times call for strong partnerships
-4.3.2026
-Transatlantic relations, the war in Ukraine, economic and trade issues: Federal Chancellor Friedrich Merz discussed these topics with
-US
-...
-Joint declaration of President Macron and Chancellor Merz
-press release
-2.3.2026
-back
-1
-2
-3
-4
-5
-Further pages
-15
-16
-forward
-154 Results
-Print the page
+*Last updated: 2026-03-24 02:29 UTC*
 
 ---
 
@@ -95,7 +9,7 @@ Print the page
 - **Source:** Bundesregierung
 - **URL:** https://www.bundesregierung.de/breg-en/service
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 91
 - **Unique ID:** `6cd766be7753f8d3`
 
@@ -121,7 +35,7 @@ Print the page
 - **Source:** Bundesregierung
 - **URL:** https://www.bundesregierung.de/breg-en/media-center
 - **Published Date:** 2026-02-26
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 168
 - **Unique ID:** `2e036cf360c77e6b`
 

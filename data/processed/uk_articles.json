@@ -1,182 +1,155 @@
 [
   {
-    "url": "https://www.gov.uk/government/news/joint-statement-from-tallinn-mechanism-member-states-10-march-2026",
-    "title": "Joint statement from Tallinn Mechanism member states: 10 March 2026",
+    "url": "https://www.gov.uk/government/news/time-to-pay-up-government-unveils-toughest-crackdown-on-late-payments-in-over-25-years",
+    "title": "Time to Pay Up: Government unveils toughest crackdown on late payments in over 25 years",
+    "date": "2026-03-24",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-24T02:19:28.112719+00:00",
+    "content_hash": "7b8251b46c0dbadb990b38efce13cee4",
+    "unique_id": "23e8c008c7c93ff4"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months",
+    "title": "Government to make “plug-in solar” available within months",
+    "date": "2026-03-24",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-24T02:19:31.226325+00:00",
+    "content_hash": "21650e59131a4b56f144a9609c455424",
+    "unique_id": "d64aaf25f4166829"
+  },
+  {
+    "url": "https://www.gov.uk/government/speeches/the-uk-will-not-cease-in-our-support-for-ukraine-and-its-people-uk-statement-at-the-un-security-council",
+    "title": "The UK will not cease in our support for Ukraine and its people: UK statement at the UN Security Council",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:04.314848+00:00",
-    "content_hash": "29b9f47f6487a85923f41d32b6d008ee",
-    "unique_id": "01e649ac679bfca0"
+    "scraped_at": "2026-03-24T02:19:44.002012+00:00",
+    "content_hash": "c932ecba26ce93c3d7a29668c00a5b12",
+    "unique_id": "1236fec09df6b60d"
   },
   {
-    "url": "https://www.gov.uk/government/news/advice-accepted-on-autumn-2026-covid-19-vaccination-programme",
-    "title": "Advice accepted on autumn 2026 COVID-19 vaccination programme",
+    "url": "https://www.gov.uk/government/news/readout-cobrm-iran-economic-and-domestic-impacts-23-march-2026",
+    "title": "Readout: COBR(M)  – Iran economic and domestic impacts: 23 March 2026",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:06.166608+00:00",
-    "content_hash": "5712ef7232941c29815766d29b967908",
-    "unique_id": "ae81f879e314856a"
+    "scraped_at": "2026-03-24T02:19:47.811363+00:00",
+    "content_hash": "7b0ba7b061b1eced556b260c4602e22d",
+    "unique_id": "00f2636daec9a69c"
   },
   {
-    "url": "https://www.gov.uk/government/news/king-scallop-dredge-fishery-temporary-closure-decision",
-    "title": "King scallop dredge fishery temporary closure decision",
+    "url": "https://www.gov.uk/government/news/government-outlines-reforms-of-industry-training-boards-to-boost-construction-and-engineering-skills",
+    "title": "Government outlines reforms of Industry Training Boards to boost construction and engineering skills",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:08.735256+00:00",
-    "content_hash": "caa52f8715fc1663c31de1bc01846676",
-    "unique_id": "a2008b8a66807517"
+    "scraped_at": "2026-03-24T02:19:50.452272+00:00",
+    "content_hash": "a905b6bce765e2706472d69725629061",
+    "unique_id": "72eb088ff7cf9f7f"
   },
   {
-    "url": "https://www.gov.uk/government/publications/hm-land-registry-chairs-letter-202627",
-    "title": "HM Land Registry Chair’s letter 2026/27",
+    "url": "https://www.gov.uk/government/speeches/security-minister-statement-hatzola-ambulance-attack",
+    "title": "Security Minister statement: Hatzola ambulance attack",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:11.387219+00:00",
-    "content_hash": "f61fb7a6ede053479fc5146cb3dfc2d3",
-    "unique_id": "f5238f9b09a7ecd3"
+    "scraped_at": "2026-03-24T02:19:57.413841+00:00",
+    "content_hash": "89d5b6547b486c8ed9e3a8c3394caad6",
+    "unique_id": "894398062db0cb07"
   },
   {
-    "url": "https://www.gov.uk/government/news/charity-commission-responds-to-attacks-in-north-london",
-    "title": "Charity Commission responds to attacks in North London",
+    "url": "https://www.gov.uk/government/news/summoning-of-the-iranian-ambassador-to-the-united-kingdom-fcdo-statement--3",
+    "title": "Summoning of the Iranian Ambassador to the United Kingdom: FCDO statement",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:14.645285+00:00",
-    "content_hash": "b41261dcd14abe1692d318d1fdf7a73e",
-    "unique_id": "33e93ba9dc47f3a4"
+    "scraped_at": "2026-03-24T02:20:00.955583+00:00",
+    "content_hash": "6a48a4988d55bfa6be5afee30f2215f0",
+    "unique_id": "ff9f61f363ca47fe"
   },
   {
-    "url": "https://www.gov.uk/government/news/new-apprenticeship-unit-to-supercharge-battery-manufacturing",
-    "title": "New apprenticeship unit to supercharge battery manufacturing",
+    "url": "https://www.gov.uk/government/news/sir-robert-buckland-kc-appointed-to-review-the-death-of-sir-david-amess",
+    "title": "Sir Robert Buckland KC appointed to review the death of Sir David Amess",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:17.459574+00:00",
-    "content_hash": "c53026eff4ba535bcd451d9a7fd85bdd",
-    "unique_id": "6a0c5ce9dc6cb1b0"
+    "scraped_at": "2026-03-24T02:20:07.899855+00:00",
+    "content_hash": "6bdbd38c7f766a352dbfe2a04df38bcf",
+    "unique_id": "52b830103700f578"
   },
   {
-    "url": "https://www.gov.uk/government/publications/slough-borough-council-letter-to-will-tuckley-extending-his-appointment-as-managing-director-commissioner",
-    "title": "Slough Borough Council: Letter to Will Tuckley extending his appointment as Managing Director Commissioner",
+    "url": "https://www.gov.uk/government/news/england-recovered-from-drought-as-weather-whiplash-sees-floods",
+    "title": "England recovered from drought as weather whiplash sees floods",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:21.285782+00:00",
-    "content_hash": "ac47b43f7dd7d176d9130ee587057e78",
-    "unique_id": "558ce83d942f110a"
+    "scraped_at": "2026-03-24T02:20:10.494420+00:00",
+    "content_hash": "5c0ac8d2c10d02d63b2c5d59ceee4c56",
+    "unique_id": "ac4a99772764a986"
   },
   {
-    "url": "https://www.gov.uk/government/news/full-time-undergraduate-student-finance-applications-now-open-for-2026-to-2027",
-    "title": "Full-time undergraduate student finance applications now open for 2026 to 2027!",
+    "url": "https://www.gov.uk/government/news/yjb-board-member-becomes-victims-commissioner-chief-executive",
+    "title": "YJB Board Member becomes Victims’ Commissioner Chief Executive",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:23.608420+00:00",
-    "content_hash": "464b5a9e8c3e6391a9990553f7c65824",
-    "unique_id": "62ff89aa34c90561"
+    "scraped_at": "2026-03-24T02:20:13.469804+00:00",
+    "content_hash": "d112ca99d5cce9a7eb00d7bf73255bdf",
+    "unique_id": "cccb25038cac1d90"
   },
   {
-    "url": "https://www.gov.uk/government/news/slc-opens-application-service-for-2627-academic-year",
-    "title": "SLC opens application service for 26/27 academic year",
+    "url": "https://www.gov.uk/government/news/precautionary-recall-of-hibiwash-due-to-microbial-contamination",
+    "title": "Precautionary recall of Hibiwash due to microbial contamination",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:27.552714+00:00",
-    "content_hash": "8a0612ef2ab015392f7c4f05acc7878d",
-    "unique_id": "aa3246b8a163d1d7"
+    "scraped_at": "2026-03-24T02:20:15.438888+00:00",
+    "content_hash": "eb5d6306fd6cc76bdb210f1d2d379778",
+    "unique_id": "eea38271d4bd1ffc"
   },
   {
-    "url": "https://www.gov.uk/government/news/drivers-hours-a-traffic-commissioners-perspective-on-safety-compliance-and-responsibility",
-    "title": "Drivers’ Hours: A Traffic Commissioner’s Perspective on Safety, Compliance, and Responsibility",
+    "url": "https://www.gov.uk/government/news/uk-government-commits-up-to-9-million-to-support-mossmorrans-future",
+    "title": "UK Government commits up to £9m to support Mossmorran's future",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:31.238084+00:00",
-    "content_hash": "5d0a25773784688867cc1102927aa59c",
-    "unique_id": "a1a692842f47647c"
+    "scraped_at": "2026-03-24T02:20:19.505353+00:00",
+    "content_hash": "3ae326bb5535f3988a0ffe55d32ab943",
+    "unique_id": "8e8e97199c9163a2"
   },
   {
-    "url": "https://www.gov.uk/government/news/sports-stars-say-enough-to-violence-against-women-and-girls",
-    "title": "Sports stars say ‘Enough’ to violence against women and girls",
+    "url": "https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy",
+    "title": "Welsh steel industry backed with new trade measure and strategy",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:33.223781+00:00",
-    "content_hash": "886fcb394a4f577da71dd8735a078e32",
-    "unique_id": "452618a6837d7a12"
+    "scraped_at": "2026-03-24T02:20:23.150868+00:00",
+    "content_hash": "bcbb56ada1a70d036f01b1041ca75d7e",
+    "unique_id": "49769130ff7efe8d"
   },
   {
-    "url": "https://www.gov.uk/government/news/chevening-british-library-fellowship-202627-applications-open",
-    "title": "Chevening British Library Fellowship 2026/27: Applications Open",
+    "url": "https://www.gov.uk/government/news/transport-secretary-tasks-hs2-with-reducing-construction-time-and-cost-to-taxpayers",
+    "title": "Transport Secretary tasks HS2 with reducing construction time and cost to taxpayers",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:36.143839+00:00",
-    "content_hash": "5ad2bd771da980dbb036b20e2aed6617",
-    "unique_id": "434e9b2c229ae232"
+    "scraped_at": "2026-03-24T02:20:25.546966+00:00",
+    "content_hash": "21934ec707897b6f60026a14b0eb9f00",
+    "unique_id": "c0152c0df1b1f127"
   },
   {
-    "url": "https://www.gov.uk/government/news/independent-assurance-reviewer-sought-to-examine-dwps-activities-relating-to-post-office-staff-prosecutions",
-    "title": "Independent Assurance Reviewer sought to examine DWP’s activities relating to Post Office staff prosecutions",
+    "url": "https://www.gov.uk/government/speeches/hs2-6-monthly-report-to-parliament-march-2026",
+    "title": "HS2 6-monthly report to Parliament: March 2026",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:39.405504+00:00",
-    "content_hash": "fde01dc147e62370dfec5bebaee2aea4",
-    "unique_id": "2f5707acb768f79c"
+    "scraped_at": "2026-03-24T02:20:31.312775+00:00",
+    "content_hash": "08a798ee03f72aca501311bc8ca18f1f",
+    "unique_id": "b947bc0a111294ff"
   },
   {
-    "url": "https://www.gov.uk/government/news/uk-packaging-proappointed-to-deliver-extended-producer-responsibilityfor-packagingscheme",
-    "title": "UK Packaging PRO appointed to deliver Extended Producer Responsibility for packaging scheme",
+    "url": "https://www.gov.uk/government/news/current-inspections",
+    "title": "Current inspections",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:41.488529+00:00",
-    "content_hash": "2ae9d65453fc61f21370291d49b08817",
-    "unique_id": "700e5049d3a6dd6a"
+    "scraped_at": "2026-03-24T02:20:33.355391+00:00",
+    "content_hash": "1b63e70904647b7b72d7ba05bf23c086",
+    "unique_id": "50e8e00e7ffb07ae"
   },
   {
-    "url": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026",
-    "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
+    "url": "https://www.gov.uk/government/news/call-for-evidence-an-inspection-of-the-uk-france-agreement-on-the-prevention-of-dangerous-journeys--2",
+    "title": "Call for evidence: An inspection of the UK-France Agreement on the Prevention of Dangerous Journeys",
     "date": "2026-03-23",
     "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:44.346151+00:00",
-    "content_hash": "9016c5ac7fb3efc4f2583e486264d4a3",
-    "unique_id": "40194d392fd28725"
-  },
-  {
-    "url": "https://www.gov.uk/government/news/dbs-expands-faith-in-safeguarding-campaign-nationally",
-    "title": "DBS expands Faith in Safeguarding campaign nationally",
-    "date": "2026-03-23",
-    "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:47.492792+00:00",
-    "content_hash": "f27c9e49ead91cf594819c53659a674a",
-    "unique_id": "b65b4b03ccc08dbc"
-  },
-  {
-    "url": "https://www.gov.uk/government/news/cases-of-invasive-meningococcal-disease-confirmed-in-kent",
-    "title": "Cases of invasive meningococcal disease notified in Kent",
-    "date": "2026-03-23",
-    "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:51.512254+00:00",
-    "content_hash": "4f9ee38cbfecf6d44119d82f08c7a3a2",
-    "unique_id": "f00151c4578169d1"
-  },
-  {
-    "url": "https://www.gov.uk/government/news/seven-new-towns-proposed-to-kickstart-housebuilding-push",
-    "title": "Seven new towns proposed to kickstart housebuilding push",
-    "date": "2026-03-22",
-    "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:55.606737+00:00",
-    "content_hash": "30665da85b77c5318ae53106c4e7dbcd",
-    "unique_id": "1ec9c9dea77bca2e"
-  },
-  {
-    "url": "https://www.gov.uk/government/news/new-school-nurseries-to-help-cut-childcare-costs-in-poorest-areas",
-    "title": "New school nurseries to help cut childcare costs in poorest areas",
-    "date": "2026-03-22",
-    "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:47:58.510226+00:00",
-    "content_hash": "5f7fe66aef11344f3bebbb9d5250452d",
-    "unique_id": "adaa2ce1f49e5619"
-  },
-  {
-    "url": "https://www.gov.uk/government/news/pm-call-with-president-trump-of-the-united-states-22-march-2026",
-    "title": "PM call with President Trump of the United States: 22 March 2026",
-    "date": "2026-03-22",
-    "source": "GOV.UK",
-    "scraped_at": "2026-03-23T14:48:01.924141+00:00",
-    "content_hash": "e9278d51a1dc0d12018baf3c1b21481c",
-    "unique_id": "b5fdd2e3025fc02b"
+    "scraped_at": "2026-03-24T02:20:37.110779+00:00",
+    "content_hash": "e4d58b48a38fbdc56798410001342724",
+    "unique_id": "f21ca14827ddcae8"
   }
 ]

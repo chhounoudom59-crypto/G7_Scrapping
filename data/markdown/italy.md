@@ -1,45 +1,45 @@
 # Country: Italy
 
-*Last updated: 2026-03-23 15:16 UTC*
+*Last updated: 2026-03-24 02:31 UTC*
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/tipologie-contenuto/notizie
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 19
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 18
 - **Unique ID:** `24d12d274ee124dc`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, questa mattina ha partecipato alle esequie di Umberto Bossi, presso l'Abbazia di Pontida.
+The Prime Minister, Giorgia Meloni, attended the funeral of Umberto Bossi this morning at the Abbey of Pontida.
 
 ---
 
-### Il Presidente Meloni alle esequie di Umberto Bossi
+### Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31381
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 19
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 18
 - **Unique ID:** `e36ada1b3900859c`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, questa mattina ha partecipato alle esequie di Umberto Bossi, presso l'Abbazia di Pontida.
+The Prime Minister, Giorgia Meloni, attended the funeral of Umberto Bossi this morning at the Abbey of Pontida.
 
 ---
 
-### Dichiarazione congiunta dei leader di Regno Unito, Francia, Germania, Italia, Paesi Bassi e Giappone sullo Stretto di Hormuz
+### Joint statement by the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31374
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 612
 - **Unique ID:** `a13b3fc510217182`
 
@@ -69,144 +69,127 @@ La sicurezza marittima e la libertà di navigazione vanno a vantaggio di tutti i
 
 ---
 
-### Riunione informale sul tema della gestione del fenomeno migratorio
+### Informal meeting on the topic of managing the migration phenomenon
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31368
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 296
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 323
 - **Unique ID:** `926b4cc6c8ad1f12`
 
 #### Content:
 
-A margine del Consiglio europeo, il Presidente del Consiglio, Giorgia Meloni, insieme ai Primi Ministri danese, Mette Frederiksen, e olandese, Rob Jetten, ha ospitato una nuova riunione informale tra alcuni degli Stati membri più interessati al tema delle soluzioni innovative da applicare alla gestione del fenomeno migratorio e, in particolare, al rafforzamento del quadro legale in materia di rimpatri.
-Insieme a Italia, Danimarca, Paesi Bassi e Commissione europea, hanno preso parte all’incontro Austria, Belgio, Bulgaria, Cipro, Germania, Grecia, Polonia, Lettonia, Malta, Slovacchia, Repubblica Ceca, Svezia e Ungheria.
-La Presidente Ursula von der Leyen ha illustrato i principali filoni di lavoro della Commissione in ambito migratorio, concentrandosi in particolare sulle iniziative messe in campo per far fronte ai rischi migratori derivanti dal conflitto in Medio Oriente e sullo stato di avanzamento dei negoziati relativi al nuovo “Regolamento Rimpatri”.
-Oltre a esprimere soddisfazione per i risultati sinora raggiunti dal gruppo, da ultimo con l’adozione della lista UE dei Paesi sicuri di origine e del nuovo concetto di Paese terzo sicuro, il Presidente Meloni ha illustrato ai partecipanti la lettera inviata il giorno precedente insieme al primo ministro danese Frederiksen, per rafforzare il sostegno europeo alle popolazioni colpite dal conflitto in Medio Oriente e il coordinamento in caso di nuove ondate migratorie, con l’obiettivo di evitare il ripetersi della crisi migratoria del 2015.
-Il Presidente Meloni ha, allo stesso tempo, indicato alcuni ulteriori filoni di lavoro, a partire dalla preparazione della posizione del gruppo in vista dell’International Migration Review Forum di New York del prossimo maggio e della riunione del Comitato dei Ministri del Consiglio d’Europa di Chisinau, sempre prevista per il prossimo maggio.
-I leader presenti hanno concordato di continuare a mantenere uno stretto raccordo operativo sui temi discussi, anche in vista dei prossimi appuntamenti europei di vertice.
+On the sidelines of the European Council, the President of the Council, Giorgia Meloni, together with the Danish Prime Ministers, Mette Frederiksen, and the Dutch Prime Ministers, Rob Jetten, hosted a new informal meeting between some of the member states most interested in the topic of innovative solutions to be applied to the management of the migration phenomenon and, in particular, in the strengthening of the legal framework regarding repatriations.
+Together with Italy, Denmark, the Netherlands and the European Commission, Austria, Belgium, Bulgaria, Cyprus, Germany, Greece, Poland, Latvia, Malta, Slovakia, the Czech Republic, Sweden and Hungary took part in the meeting.
+President Ursula von der Leyen illustrated the main lines of work of the Commission in the field of migration, focusing in particular on the initiatives implemented to deal with the migratory risks deriving from the conflict in the Middle East and on the progress of the negotiations relating to the new "Repatriation Regulation".
+In addition to expressing satisfaction with the results achieved so far by the group, most recently with the adoption of the EU list of safe countries of origin and the new concept of safe third country, President Meloni illustrated to the participants the letter sent the previous day together with the Danish Prime Minister Frederiksen, to strengthen European support for the populations affected by the conflict in the Middle East and coordination in the event of new waves of migration, with the aim of avoiding a repeat of the 2015 migration crisis.
+At the same time, President Meloni indicated some further lines of work, starting from the preparation of the group's position in view of the International Migration Review Forum in New York next May and the meeting of the Committee of Ministers of the Council of Europe in Chisinau, also scheduled for next May.
+The leaders present agreed to continue to maintain close operational cooperation on the topics discussed, also in view of the next European summit meetings.
 
 ---
 
-### Bruxelles, incontro Meloni - Merz - De Wever sulla competitività europea
+### Brussels, Meloni - Merz - De Wever meeting on European competitiveness
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31366
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 118
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 130
 - **Unique ID:** `b05c7bafce53800a`
 
 #### Content:
 
-Il Presidente del Consiglio dei Ministri, Giorgia Meloni, il Cancelliere tedesco, Friedrich Merz, e il Primo Ministro belga Bart De Wever si sono incontrati a margine del Consiglio europeo per uno scambio di vedute in vista della discussione  sulla competitività europea.
-La riunione ha consentito di fare il punto sugli esiti della videoconferenza dei Leader del gruppo di lavoro informale sulla competitività europea ospitata congiuntamente lo scorso 10 marzo, concentrandosi in particolare sulle conseguenze del conflitto in Medio Oriente sul mercato globale delle fonti energetiche e sulle possibili iniziative da adottare rapidamente per contenere la spinta dei prezzi dell’energia. Sono state allo stesso tempo discusse le priorità da promuovere congiuntamente in tema di semplificazione, mercato unico e investimenti.
+The President of the Council of Ministers, Giorgia Meloni, the German Chancellor, Friedrich Merz, and the Belgian Prime Minister Bart De Wever met on the sidelines of the European Council for an exchange of views in view of the discussion on European competitiveness.
+The meeting made it possible to take stock of the results of the video conference of the leaders of the informal working group on European competitiveness jointly hosted last 10 March, focusing in particular on the consequences of the conflict in the Middle East on the global market of energy sources and on the possible initiatives to be adopted quickly to contain the pressure on energy prices. At the same time, the priorities to be jointly promoted in terms of simplification, single market and investments were discussed.
 
 ---
 
-### Il Presidente Meloni a Bruxelles
+### President Meloni in Brussels
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31365
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 121
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 129
 - **Unique ID:** `4eb471a7877da2ac`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Bruxelles al Consiglio europeo.
-Prima dell'inizio dei lavori il Presidente Meloni ha tenuto un incontro con il Cancelliere tedesco, Friedrich Merz, e il Primo Ministro belga Bart De Wever, per uno scambio di vedute in vista della discussione sulla competitività europea.
-A seguire, insieme ai Primi Ministri danese, Mette Frederiksen, e olandese, Rob Jetten, ha ospitato una nuova riunione informale tra alcuni degli Stati membri più interessati al tema delle soluzioni innovative da applicare alla gestione del fenomeno migratorio e, in particolare, al rafforzamento del quadro legale in materia di rimpatri.
-In tarda serata, al termine della riunione dei leader, il Presidente Meloni ha tenuto un punto stampa.
+The President of the Council, Giorgia Meloni, participated in the European Council in Brussels.
+Before the start of the work, President Meloni held a meeting with the German Chancellor, Friedrich Merz, and the Belgian Prime Minister Bart De Wever, for an exchange of views in view of the discussion on European competitiveness.
+Afterwards, together with the Danish Prime Minister Mette Frederiksen and the Dutch Prime Minister Rob Jetten, he hosted a new informal meeting between some of the member states most interested in the topic of innovative solutions to be applied to the management of the migration phenomenon and, in particular, in strengthening the legal framework regarding repatriations.
+Late in the evening, at the end of the leaders' meeting, President Meloni held a press point.
 [
-Punto stampa
+Press point
 ]
 
 ---
 
-### Il Presidente Meloni a Bruxelles
+### President Meloni in Brussels
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31369
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 148
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 153
 - **Unique ID:** `6d4779be2c0c9f25`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni a Bruxelles
+Italian
+President Meloni in Brussels
 19 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, è a Bruxelles per partecipare al Consiglio europeo. Prima dell'inizio dei lavori il Presidente Meloni ha tenuto un incontro con il Cancelliere tedesco, Friedrich Merz, e il Primo Ministro belga Bart De Wever, per uno scambio di vedute in vista della discussione sulla competitività europea. A seguire, insieme ai primi ministri danese, Mette Frederiksen, e olandese, Rob Jetten, ha ospitato una nuova riunione informale tra alcuni degli Stati membri più interessati al tema delle soluzioni innovative da applicare alla gestione del fenomeno migratorio e, in particolare, al rafforzamento del quadro legale in materia di rimpatri.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Presidente Meloni a Bruxelles
+The President of the Council, Giorgia Meloni, is in Brussels to participate in the European Council. Before the start of the work, President Meloni held a meeting with the German Chancellor, Friedrich Merz, and the Belgian Prime Minister Bart De Wever, to exchange views in view of the discussion on European competitiveness. Following this, together with the Danish Prime Minister Mette Frederiksen and the Dutch Prime Minister Rob Jetten, he hosted a new informal meeting between some of the Member States most interested in the topic of innovative solutions to be applied to the management of the migration phenomenon and, in particular, in strengthening the legal framework regarding repatriations.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+President Meloni in Brussels
 
 ---
 
-### Il Presidente Meloni a Bruxelles
+### President Meloni in Brussels
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31376
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 70
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 16
 - **Unique ID:** `a889e10b2fee858f`
 
 #### Content:
 
-English
-|
-Italiano
-Il Presidente Meloni a Bruxelles
-19 March 2026
-Al termine della riunione dei leader del Consiglio europeo, il Presidente Meloni ha tenuto un punto stampa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Il punto stampa del Presidente Meloni
-Articoli Correlati
-Il Presidente Meloni a Bruxelles
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ---
 
-### Riunione del CIPESS del 18 marzo 2026
+### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31362
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 409
 - **Unique ID:** `f86d8d727f748989`
 
 #### Content:
 
 Nella seduta odierna, il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo GIORGETTI, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alessandro MORELLI, ha approvato alcuni importanti provvedimenti in materia di infrastrutture, di politiche di coesione e altri temi rilevanti.
-Il Comitato:
+The Committee:
 ha espresso parere sul Contratto di Programma (CdP) tra ENAC e la Società Aeroporto Guglielmo Marconi di Bologna S.p.A. (AdB), ex D.L. n. 133 del 2014, visto il parere del NARS n. 1 dell’11 marzo 2026. Il totale degli investimenti previsti per il 2023-2026 è di 198,5 milioni di euro interamente in autofinanziamento;
 ha deliberato l’assegnazione alla regione Basilicata, ai sensi dell’articolo 1, comma 54, della legge n. 178 del 2020, di risorse del Fondo di rotazione di cui alla legge n. 183 del 1987, pari a circa 180,1 milioni di euro, per il finanziamento degli interventi e delle linee di azione individuati nell’Atto integrativo all’Accordo per la coesione della medesima regione;
-ha approvato il Piano di attività e il Sistema dei limiti di rischio (RAF) per l’anno 2026 relativamente alle attività di SACE S.p.A. per la concessione di garanzie finanziarie nell’ambito dell’operatività denominata “Archimede”. Per il 2026, la legge di bilancio ha stabilito che il limite degli impegni assumibili è fissato in 13 miliardi di euro;
+approved the Business Plan and the Risk Limit System (RAF) for the year 2026 relating to the activities of SACE S.p.A. per la concessione di garanzie finanziarie nell’ambito dell’operatività denominata “Archimede”. Per il 2026, la legge di bilancio ha stabilito che il limite degli impegni assumibili è fissato in 13 miliardi di euro;
 ha approvato, per il successivo inoltro ai due rami del Parlamento, il “Rapporto sul sistema di monitoraggio degli investimenti pubblici e codice unico di progetto” (MIP e CUP), relativo al secondo semestre 2025.
-Il Comitato ha, infine, udito le seguenti informative che non comportano l’adozione di delibera:
+Finally, the Committee heard the following information which does not require the adoption of a resolution:
 Relazione sulle attività di monitoraggio degli interventi delle programmazioni del Fondo per la tutela del patrimonio culturale, ai sensi dell’art. 1, commi 9 e 10, della legge 23 dicembre 2014, n. 190;
 Sisma Abruzzo 2009 - Relazione sullo stato di utilizzo al 31 dicembre 2024 e anticipazioni 2025 delle risorse assegnate dal CIPESS per l’attuazione del Programma unitario di sviluppo RESTART;
 Relazione sull’attività di rilascio delle garanzie green svolta dalla SACE S.p.A. nell’anno 2025, ai sensi dell'articolo 64, comma 1, del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120;
@@ -214,172 +197,172 @@ Aggiornamento 2026, tramite Quarto Atto integrativo del Contratto di programma t
 
 ---
 
-### Riunione del CIPESS del 18 marzo 2026
+### CIPESS meeting of 18 March 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31363
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 96
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 93
 - **Unique ID:** `228970e6566feb04`
 
 #### Content:
 
-Riunione del CIPESS del 18 marzo 2026
+CIPESS meeting of 18 March 2026
 18 March 2026
 Riunione a Palazzo Chigi del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alessandro Morelli.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Riunione del CIPESS del 18 marzo 2026
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+CIPESS meeting of 18 March 2026
 
 ---
 
-### Convocazione del Consiglio dei Ministri n. 165
+### Convocation of the Council of Ministers n. 165
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31358
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 63
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 57
 - **Unique ID:** `6add9cc9bf28610a`
 
 #### Content:
 
-Il Consiglio dei ministri è convocato oggi, mercoledì 18 marzo 2026, alle ore 19.00 a Palazzo Chigi, per l’esame del seguente ordine del giorno:
-SCHEMA DI DECRETO – LEGGE: Disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali (PRESIDENZA – ECONOMIA E FINANZE – AMBIENTE E SICUREZZA ENERGETICA – IMPRESE E MADE IN ITALY);
-LEGGI REGIONALI;
-VARIE ED EVENTUALI.
+The Council of Ministers is convened today, Wednesday 18 March 2026, at 7.00 pm at Palazzo Chigi, to examine the following agenda:
+SCHEME OF DECREE - LAW: Urgent provisions regarding oil prices connected to crises in international markets (PRESIDENCY - ECONOMY AND FINANCE - ENVIRONMENT AND ENERGY SECURITY - BUSINESSES AND MADE IN ITALY);
+REGIONAL LAWS;
+MISCELLANEOUS.
 
 ---
 
-### Giornata dell’Unità Nazionale, le iniziative di Palazzo Chigi
+### National Unity Day, the initiatives of Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31345
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 336
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 352
 - **Unique ID:** `9888ec74a3b8e272`
 
 #### Content:
 
-In occasione del 17 marzo, «Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera», il Presidente del Consiglio, Giorgia Meloni, ha partecipato alle ore 9.45 alla cerimonia di deposizione di una corona d'alloro da parte del Presidente della Repubblica, Sergio Mattarella, all'Altare della Patria. Durante la cerimonia, il Ministero della Difesa ha autorizzato, su richiesta della Presidenza del Consiglio dei Ministri, il sorvolo di una formazione ridotta delle Frecce Tricolori. Inoltre, sempre su richiesta di Palazzo Chigi, il tradizionale colpo di cannone a salve sparato al Gianicolo a mezzogiorno in punto è stato sostituito con una salva di tre colpi, sparati contemporaneamente da tre pezzi d’artiglieria, che hanno prodotto una fumata verde, bianca e rossa.
-La Presidenza del Consiglio dei Ministri ha organizzato in Piazza Colonna l’esibizione delle Bande musicali delle Forze Armate e delle Forze di Polizia. Il programma, che è iniziato alle ore 10.30 ed è proseguito fino alle ore 17.15 circa, ha previsto l’esibizione della Banda della Polizia Locale di Roma Capitale, della Banda del Corpo Nazionale dei Vigili del Fuoco, della Banda della Polizia Penitenziaria, della Banda della Polizia di Stato, della Banda della Guardia di Finanza, della Banda dell’Arma dei Carabinieri, della Banda dell’Aeronautica Militare, della Banda della Marina Militare e della Banda dell’Esercito.
-Per celebrare la solennità civile del 17 marzo, istituita con la legge 23 novembre 2012, n. 222, il Presidente del Consiglio ha inoltre delegato i rappresentanti del Governo a deporre delle corone d’alloro sulle tombe dei Padri della Patria: Giuseppe Mazzini (Cimitero monumentale di Staglieno a Genova), Camillo Benso di Cavour (Castello Cavour a Santema, in provincia di Torino), Vittorio Emanuele II (Pantheon a Roma) e Giuseppe Garibaldi (Compendio garibaldino di Caprera, in provincia di Sassari).
-Sempre in occasione della «Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera», la Presidenza del Consiglio dei Ministri ha predisposto l’imbandieramento speciale degli edifici pubblici e l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, dalle ore 00:01 alle ore 23:59 del 17 marzo, con interruzione nelle ore diurne.
+On the occasion of March 17, «Day of National Unity, of the Constitution, of the Anthem and of the Flag», the Prime Minister, Giorgia Meloni, participated at 9.45 am in the ceremony of laying a laurel wreath by the President of the Republic, Sergio Mattarella, at the Altare della Patria. During the ceremony, the Ministry of Defense authorized, at the request of the Presidency of the Council of Ministers, the overflight of a reduced formation of the Frecce Tricolori. Furthermore, again at the request of Palazzo Chigi, the traditional blank cannon shot fired at the Janiculum at high noon was replaced with a salvo of three shots, fired simultaneously from three artillery pieces, which produced green, white and red smoke.
+The Presidency of the Council of Ministers organized the performance of the musical bands of the Armed Forces and the Police Forces in Piazza Colonna. The program, which began at 10.30 am and continued until approximately 5.15 pm, included performances by the Band of the Local Police of Rome Capital, the Band of the National Fire Brigade, the Band of the Penitentiary Police, the Band of the State Police, the Band of the Guardia di Finanza, the Band of the Carabinieri, the Band of the Air Force, the Navy Band and Army Band.
+To celebrate the civil solemnity of March 17, established by law November 23, 2012, n. 222, the Prime Minister also delegated the representatives of the Government to lay laurel wreaths on the tombs of the Fathers of the Fatherland: Giuseppe Mazzini (Monumental Cemetery of Staglieno in Genoa), Camillo Benso di Cavour (Castello Cavour in Santema, in the province of Turin), Vittorio Emanuele II (Pantheon in Rome) and Giuseppe Garibaldi (Garibaldi Compendium of Caprera, in the province of Sassari).
+Also on the occasion of the «Day of National Unity, of the Constitution, of the Anthem and of the Flag», the Presidency of the Council of Ministers has arranged for the special flagging of public buildings and the lighting of the main façade of Palazzo Chigi with the Tricolore, from 00:01 to 23:59 on 17 March, with interruption during daylight hours.
 
 ---
 
-### Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+### Day of National Unity, of the Constitution, of the Anthem and of the Flag
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31350
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 339
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 358
 - **Unique ID:** `7b8f891640a0f486`
 
 #### Content:
 
 English
 |
-Italiano
-Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+Italian
+Day of National Unity, of the Constitution, of the Anthem and of the Flag
 17 March 2026
-In occasione della Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera, il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi alla cerimonia di deposizione di una corona d'alloro da parte del Presidente della Repubblica, Sergio Mattarella, all'Altare della Patria.
-Nel corso delle cerimonia, è avvenuto il sorvolo di una formazione delle Frecce Tricolori. Al colle romano del Gianicolo, il tradizionale sparo a salve di mezzogiorno è stato sostituito con una salva di tre colpi, che hanno prodotto una fumata verde, bianca e rossa.
-Nel corso della giornata, le autorità delegate dal Presidente del Consiglio hanno deposto delle corone d’alloro sulle tombe dei Padri della Patria: il Ministro della Pubblica Amministrazione Paolo Zangrillo alla tomba di Giuseppe Mazzini (Cimitero monumentale di Staglieno a Genova); il Sottosegretario alla Difesa Matteo Perego di Cremnago alla tomba di Camillo Benso di Cavour (Castello Cavour a Santena, in provincia di Torino); il Sottosegretario alla Difesa Isabella Rauti alla tomba di Vittorio Emanuele II (Pantheon a Roma); e il Sottosegretario all'Economia Lucia Albano alla tomba di Giuseppe Garibaldi (Compendio garibaldino di Caprera, in provincia di Sassari).
-A Piazza Colonna, a Roma, dalla mattina fino alle 17.15 si è svolta l’esibizione delle Bande musicali delle Forze Armate e delle Forze di Polizia. L'evento ha visto la partecipazione della Banda della Polizia Locale di Roma Capitale, della Banda del Corpo Nazionale dei Vigili del Fuoco, della Banda della Polizia Penitenziaria, della Banda della Polizia di Stato, della Banda della Guardia di Finanza, della Banda dell’Arma dei Carabinieri, della Banda dell’Aeronautica Militare, della Banda della Marina Militare e della Banda dell’Esercito.
-Infine, in tarda serata, l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, fino alle ore 23:59 del 17 marzo.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+On the occasion of the Day of National Unity, of the Constitution, of the Anthem and of the Flag, the Prime Minister, Giorgia Meloni, today participated in the ceremony of laying a laurel wreath by the President of the Republic, Sergio Mattarella, at the Altare della Patria.
+During the ceremony, a formation of the Frecce Tricolori was overflighted. At the Roman Janiculum Hill, the traditional midday salvo firing was replaced with a salvo of three shots, which produced green, white and red smoke.
+During the day, the authorities delegated by the Prime Minister laid laurel wreaths on the tombs of the Fathers of the Homeland: the Minister of Public Administration Paolo Zangrillo at the tomb of Giuseppe Mazzini (Staglieno monumental cemetery in Genoa); the Undersecretary of Defense Matteo Perego of Cremnago at the tomb of Camillo Benso di Cavour (Castello Cavour in Santena, in the province of Turin); the Undersecretary of Defense Isabella Rauti at the tomb of Vittorio Emanuele II (Pantheon in Rome); and the Undersecretary of Economy Lucia Albano at the tomb of Giuseppe Garibaldi (Garibaldi Compendium of Caprera, in the province of Sassari).
+In Piazza Colonna, in Rome, a performance by the musical bands of the Armed Forces and the Police Force took place from morning until 5.15pm. The event saw the participation of the Band of the Local Police of Rome Capital, the Band of the National Fire Brigade, the Band of the Penitentiary Police, the Band of the State Police, the Band of the Guardia di Finanza, the Band of the Carabinieri, the Band of the Air Force, the Band of the Navy and the Army Band.
+Finally, in the late evening, the main façade of Palazzo Chigi will be illuminated with the Tricolore, until 11.59pm on 17 March.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Day of National Unity, of the Constitution, of the Anthem and of the Flag
 
 ---
 
-### Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+### Day of National Unity, of the Constitution, of the Anthem and of the Flag
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31354
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 154
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 171
 - **Unique ID:** `410fef329de03b8f`
 
 #### Content:
 
 English
 |
-Italiano
-Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+Italian
+Day of National Unity, of the Constitution, of the Anthem and of the Flag
 17 March 2026
-In occasione della Giornata dell'Unità Nazionale, della Costituzione, dell’Inno e della Bandiera, il tradizionale colpo di cannone sparato a salve dal colle del Gianicolo a mezzogiorno, è stato sostituito con una salva di tre colpi che hanno prodotto una fumata verde, bianca e rossa.
-A Piazza Colonna, si è svolta un’esibizione delle Bande musicali delle Forze Armate e delle Forze di Polizia.
-In serata, l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-La cerimonia al Gianicolo
-La facciata di Palazzo Chigi illuminata con il Tricolore
-L'esibizione delle Bande musicali delle Forze Armate e delle Forze di Polizia
-Articoli Correlati
-Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+On the occasion of the Day of National Unity, of the Constitution, of the Anthem and of the Flag, the traditional cannon shot fired from the Janiculum hill at midday was replaced with a salvo of three shots which produced green, white and red smoke.
+In Piazza Colonna, a performance was held by the musical bands of the Armed Forces and the Police Forces.
+In the evening, the lighting of the main façade of Palazzo Chigi with the Tricolore.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The ceremony on the Janiculum
+The facade of Palazzo Chigi illuminated with the Tricolore
+The performance of the musical bands of the Armed Forces and the Police Forces
+Related Articles
+Day of National Unity, of the Constitution, of the Anthem and of the Flag
 
 ---
 
-### Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera
+### Day of National Unity, of the Constitution, of the Anthem and of the Flag
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31349
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 284
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 294
 - **Unique ID:** `39bdb846e991bfb8`
 
 #### Content:
 
-In occasione della Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera, il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi alla cerimonia di deposizione di una corona d'alloro da parte del Presidente della Repubblica, Sergio Mattarella, all'Altare della Patria.
-Nel corso delle cerimonia, è avvenuto il sorvolo di una formazione delle Frecce Tricolori. Al colle romano del Gianicolo, il tradizionale sparo a salve di mezzogiorno è stato sostituito con una salva di tre colpi, che hanno prodotto una fumata verde, bianca e rossa.
-Nel corso della giornata, le autorità delegate dal Presidente del Consiglio hanno deposto delle corone d’alloro sulle tombe dei Padri della Patria: il Ministro della Pubblica Amministrazione Paolo Zangrillo alla tomba di Giuseppe Mazzini (Cimitero monumentale di Staglieno a Genova); il Sottosegretario alla Difesa Matteo Perego di Cremnago alla tomba di Camillo Benso di Cavour (Castello Cavour a Santena, in provincia di Torino); il Sottosegretario alla Difesa Isabella Rauti alla tomba di Vittorio Emanuele II (Pantheon a Roma); e il Sottosegretario all'Economia Lucia Albano alla tomba di Giuseppe Garibaldi (Compendio garibaldino di Caprera, in provincia di Sassari).
-A Piazza Colonna, a Roma, dalla mattina fino alle 17.15 si è svolta l’esibizione delle Bande musicali delle Forze Armate e delle Forze di Polizia. L'evento ha visto la partecipazione della Banda della Polizia Locale di Roma Capitale, della Banda del Corpo Nazionale dei Vigili del Fuoco, della Banda della Polizia Penitenziaria, della Banda della Polizia di Stato, della Banda della Guardia di Finanza, della Banda dell’Arma dei Carabinieri, della Banda dell’Aeronautica Militare, della Banda della Marina Militare e della Banda dell’Esercito.
-Infine, in tarda serata, l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, fino alle ore 23:59 del 17 marzo.
+On the occasion of the Day of National Unity, of the Constitution, of the Anthem and of the Flag, the Prime Minister, Giorgia Meloni, today participated in the ceremony of laying a laurel wreath by the President of the Republic, Sergio Mattarella, at the Altare della Patria.
+During the ceremony, a formation of the Frecce Tricolori was overflighted. At the Roman Janiculum Hill, the traditional midday salvo firing was replaced with a salvo of three shots, which produced green, white and red smoke.
+During the day, the authorities delegated by the Prime Minister laid laurel wreaths on the tombs of the Fathers of the Homeland: the Minister of Public Administration Paolo Zangrillo at the tomb of Giuseppe Mazzini (Staglieno monumental cemetery in Genoa); the Undersecretary of Defense Matteo Perego of Cremnago at the tomb of Camillo Benso di Cavour (Castello Cavour in Santena, in the province of Turin); the Undersecretary of Defense Isabella Rauti at the tomb of Vittorio Emanuele II (Pantheon in Rome); and the Undersecretary of Economy Lucia Albano at the tomb of Giuseppe Garibaldi (Garibaldi Compendium of Caprera, in the province of Sassari).
+In Piazza Colonna, in Rome, a performance by the musical bands of the Armed Forces and the Police Force took place from morning until 5.15pm. The event saw the participation of the Band of the Local Police of Rome Capital, the Band of the National Fire Brigade, the Band of the Penitentiary Police, the Band of the State Police, the Band of the Guardia di Finanza, the Band of the Carabinieri, the Band of the Air Force, the Band of the Navy and the Army Band.
+Finally, in the late evening, the main façade of Palazzo Chigi will be illuminated with the Tricolore, until 11.59pm on 17 March.
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=1
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 702
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 722
 - **Unique ID:** `9f82be47375116ed`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -392,42 +375,44 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Dichiarazione congiunta sul conflitto tra Israele e Hezbollah
+News
+Joint statement on the conflict between Israel and Hezbollah
 16 March 2026
-Dichiarazione dei Leader di Canada, Francia, Germania, Italia e Regno Unito sull'escalation del conflitto tra Israele e Hezbollah.
-Notizie
-Attacco a Erbil, il cordoglio del Presidente Meloni
+Statement by the Leaders of Canada, France, Germany, Italy and the United Kingdom on the escalation of the conflict between Israel and Hezbollah.
+News
+Attack in Erbil, President Meloni's condolences
 13 March 2026
-A nome del Governo italiano e mio personale, esprimo il più profondo cordoglio alla Francia per la scomparsa di uno dei militari rimasti coinvolti da un nuovo, ingiustificabile attacco a Erbil. Alla sua famiglia e alle autorità francesi va la nostra vicinanza in questo momento di dolore. Rivolgo inoltre un pensiero di pronta guarigione agli altri militari feriti, nell’auspicio di un rapido e completo recupero. [...]
-Notizie
-Nave LNG Arctic Metagaz, nota di Palazzo Chigi
+On behalf of the Italian Government and myself, I express my deepest condolences to France for the passing of one of the soldiers involved in a new, unjustifiable attack in Erbil. Our sympathy goes to his family and the French authorities in this moment of pain. I also extend a thought of speedy recovery to the other wounded soldiers, in the hope of a rapid and complete recovery. [...]
+News
+LNG ship Arctic Metagaz, note from Palazzo Chigi
 13 March 2026
-Si è svolta a Palazzo Chigi una riunione presieduta dal Presidente del Consiglio, Giorgia Meloni, alla quale hanno partecipato il Ministro degli Affari esteri e della Cooperazione internazionale Antonio Tajani, il Ministro della Difesa Guido Crosetto, il Ministro dell’Ambiente e della Sicurezza energetica Gilberto Pichetto Fratin e il Ministro per la Protezione civile e le Politiche del mare Nello Musumeci, oltre al Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano e al capo del Dipartimento della Protezione civile Fabio Ciciliano. [...]
-Notizie
-Dichiarazione del Presidente del Consiglio, Giorgia Meloni
+A meeting was held at Palazzo Chigi chaired by the Prime Minister, Giorgia Meloni, attended by the Minister of Foreign Affairs and International Cooperation Antonio Tajani, the Minister of Defense Guido Crosetto, the Minister of the Environment and Energy Security Gilberto Pichetto Fratin and the Minister for Civil Protection and Maritime Policies Nello Musumeci, as well as the Undersecretary to the Prime Minister Alfredo Mantovano and the head of the Civil Protection Department Fabio Sicilian. [...]
+News
+Statement by the Prime Minister, Giorgia Meloni
 12 March 2026
-Mi corre l’obbligo, per ristabilire quanto accaduto, di rispondere alle dichiarazioni della segretaria del Partito Democratico, Elly Schlein, relativamente all’appello all’unità che ho rivolto ieri, in aula, alle opposizioni. Il mio è stato un appello al dialogo sincero e pubblico, a fronte del quale l’opposizione ha risposto con accuse, ironie e perfino insulti personali. “Serva”, “ridicola”, “imbarazzante”, “pericolo per l’umanità”, “persona che striscia per non inciampare” e molti altri. Questi sono stati i toni utilizzati da esponenti dell’opposizione, che mi sembrano ben lontani da un clima di confronto costruttivo. [...]
-Notizie
-Crisi nel Golfo, il Presidente Meloni partecipa a una videoconferenza dei Leader del G7
+In order to re-establish what happened, I am obliged to respond to the declarations of the secretary of the Democratic Party, Elly Schlein, regarding the appeal for unity that I addressed to the opposition yesterday in the chamber. Mine was an appeal for sincere and public dialogue, to which the opposition responded with accusations, irony and even personal insults. “Servant”, “ridiculous”, “embarrassing”, “danger to humanity”, “person who crawls to avoid tripping” and many others. These were the tones used by opposition members, which seem to me to be far from a climate of constructive discussion. [...]
+News
+Crisis in the Gulf, President Meloni participates in a video conference of the G7 Leaders
 11 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi a una videoconferenza dei Leader del G7 dedicata agli sviluppi della crisi nel Golfo e alle relative implicazioni economiche ed energetiche. In questo contesto, i Capi di Stato e di Governo del G7 hanno riaffermato l’importanza di garantire libertà di navigazione. Il Presidente del Consiglio ha anche riaffermato l’impegno per favorire un ritorno alla diplomazia che conduca a soluzioni per la stabilità della regione e l’importanza della solidarietà del G7 verso le Nazioni del Golfo colpite dagli attacchi iraniani. [...]
-Notizie
-Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+The Prime Minister, Giorgia Meloni, participated today in a video conference of the G7 Leaders dedicated to the developments of the crisis in the Gulf and the related economic and energy implications. In this context, the G7 Heads of State and Government reaffirmed the importance of guaranteeing freedom of navigation. The Prime Minister also reaffirmed his commitment to promoting a return to diplomacy that leads to solutions for the stability of the region and the importance of G7 solidarity towards the Gulf Nations affected by Iranian attacks. [...]
+News
+European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 11 March 2026
-Il Presidente Meloni, questo pomeriggio, ha tenuto alla Camera dei Deputati l'intervento di replica a seguito della discussione generale sulle Comunicazioni in vista del Consiglio europeo del 19 e 20 marzo 2026, nonché sugli sviluppi della crisi in Medio Oriente. In mattinata, al Senato della Repubblica, il Presidente ha reso le Comunicazioni e, al termine del dibattito, ha tenuto l'intervento di replica.
-Notizie
-Seconda riunione del gruppo di lavoro informale sulla competitività europea
+This afternoon, President Meloni gave a reply speech in the Chamber of Deputies following the general discussion on Communications in view of the European Council of 19 and 20 March 2026, as well as on the developments of the crisis in the Middle East. In the morning, in the Senate of the Republic, the President made the communications and, at the end of the debate, gave the reply speech.
+News
+Second meeting of the informal working group on European competitiveness
 10 March 2026
-In vista del Consiglio europeo del 19 e 20 marzo e alla luce dei più recenti sviluppi in Medio Oriente, il Presidente del Consiglio dei Ministri, Giorgia Meloni, il Cancelliere federale tedesco Friedrich Merz e il Primo Ministro belga Bart De Wever hanno ospitato una riunione in videoconferenza del gruppo di lavoro informale sui temi della competitività europea, inaugurato in occasione del ritiro dei Leader ad Alden Biesen dello scorso 12 febbraio.
-Notizie
-Piano Mattei per l’Africa, riunione cabina di regia a Palazzo Chigi
+In view of the European Council of 19 and 20 March and in light of the most recent developments in the Middle East, the President of the Council of Ministers, Giorgia Meloni, the German Federal Chancellor Friedrich Merz and the Belgian Prime Minister Bart De Wever hosted a videoconference meeting of the informal working group on European competitiveness issues, inaugurated on the occasion of the Leaders' retreat in Alden Biesen on 12 February.
+News
+Mattei Plan for Africa, control room meeting at Palazzo Chigi
 10 March 2026
-Si è svolta a Palazzo Chigi la quinta riunione della Cabina di regia del Piano Mattei per l’Africa, presieduta dal Vicepresidente del Consiglio dei Ministri e Ministro degli Esteri e della Cooperazione Internazionale, Antonio Tajani.
-Notizie
-Incontro del Presidente Meloni con Sviatlana Tsikhanouskaya
+The fifth meeting of the control room of the Mattei Plan for Africa took place at Palazzo Chigi, chaired by the Vice President of the Council of Ministers and Minister of Foreign Affairs and International Cooperation, Antonio Tajani.
+News
+Meeting of President Meloni with Sviatlana Tsikhanouskaya
 9 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto a Palazzo Chigi l'esponente dell'opposizione bielorussa, Sviatlana Tsikhanouskaya.
+The Prime Minister, Giorgia Meloni, received the representative of the right at Palazzo Chigi
+
+ell'opposizione bielorussa, Sviatlana Tsikhanouskaya.
 Pages
 « first
 ‹ previous
@@ -446,18 +431,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=2
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 542
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 560
 - **Unique ID:** `7c95dfbe5eeff260`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -470,42 +455,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Droghe: Mantovano a Vienna per la CDN, incontri con Carter (USA) e Nolan (Ue)
+News
+Drugs: Mantovano in Vienna for the CDN, meetings with Carter (USA) and Nolan (EU)
 9 March 2026
-​Nell’ambito della missione a Vienna per l'apertura della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite, il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano ha avuto due colloqui bilaterali: con la sua omologa statunitense Sara Carter, Capo dell’ONDCP (Office of National Drug Control Policy), l’Ufficio per il controllo della droga incardinato presso la Casa Bianca, e con la nuova Direttrice esecutiva dell’Agenzia dell’Unione europea sulle droghe (EUDA), Lorraine Nolan.
-Notizie
-Celebrazione della "Giornata Internazionale della Donna"
+​As part of the mission to Vienna for the opening of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations, the Undersecretary to the Presidency of the Council Alfredo Mantovano had two bilateral talks: with his US counterpart Sara Carter, Head of the ONDCP (Office of National Drug Control Policy), the Office for Drug Control based at the White House, and with the new Executive Director of the European Union Agency for drugs (EUDA), Lorraine Nolan.
+News
+Celebration of "International Women's Day"
 9 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Celebrazione della “Giornata Internazionale della Donna” al Palazzo del Quirinale.
-Notizie
-Droghe: il Sottosegretario Mantovano interviene alla plenaria della 69ª sessione CND a Vienna
+The Prime Minister, Giorgia Meloni, participated in the celebration of "International Women's Day" at the Quirinale Palace.
+News
+Drugs: Undersecretary Mantovano speaks at the plenary of the 69th CND session in Vienna
 9 March 2026
-Il Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano, è intervenuto questa mattina a Vienna alla plenaria della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite.
-Notizie
-Il Sottosegretario Mantovano alla 69ª sessione della Commission on Narcotic Drugs​ delle Nazioni Unite
+The Undersecretary to the Presidency of the Council with responsibility for policies against drugs and other addictions, Alfredo Mantovano, spoke this morning in Vienna at the plenary of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations.
+News
+Undersecretary Mantovano at the 69th session of the United Nations Commission on Narcotic Drugs
 9 March 2026
-Il Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano, interviene oggi a Vienna in occasione dell'apertura della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite, a partire dalle ore 10.00.
-Notizie
-Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026
+The Undersecretary to the Presidency of the Council with responsibility for policies against drugs and other addictions, Alfredo Mantovano, speaks today in Vienna on the occasion of the opening of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations, starting from 10.00 am.
+News
+Opening Ceremony of the XIV Paralympic Winter Games Milan Cortina 2026
 6 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026, presso l'Arena di Verona.
-Notizie
-Conversazione telefonica con il Presidente della Turchia Recep Erdoğan
+The Prime Minister, Giorgia Meloni, participated in the Opening Ceremony of the XIV Milan Cortina 2026 Paralympic Winter Games, at the Verona Arena.
+News
+Telephone conversation with the President of Turkey Recep Erdoğan
 6 March 2026
-Nel quadro dei continui contatti con i principali partner sulla crisi in Medio Oriente, il Presidente del Consiglio, Giorgia Meloni, ha avuto oggi una conversazione telefonica con il Presidente della Turchia Recep Tayyip Erdoğan.
-Notizie
-Colloquio telefonico del Presidente Meloni con il Presidente Zelensky
+As part of the ongoing contacts with the main partners on the crisis in the Middle East, the Prime Minister, Giorgia Meloni, today had a telephone conversation with the President of Turkey Recep Tayyip Erdoğan.
+News
+Telephone conversation between President Meloni and President Zelensky
 5 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto oggi una conversazione telefonica con il Presidente dell’Ucraina, Volodymyr Zelensky. Il colloquio ha permesso un approfondito scambio di vedute sullo stato di avanzamento del processo per il raggiungimento di una pace giusta e duratura per l’Ucraina e sui prossimi passi da compiere, anche alla luce degli attuali sviluppi della crisi in Medio Oriente.
-Notizie
-Conversazione telefonica con il Presidente della Repubblica francese
+The Prime Minister, Giorgia Meloni, had a telephone conversation today with the President of Ukraine, Volodymyr Zelensky. The meeting allowed an in-depth exchange of views on the progress of the process for achieving a just and lasting peace for Ukraine and on the next steps to be taken, also in light of the current developments of the crisis in the Middle East.
+News
+Telephone conversation with the President of the French Republic
 5 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con il Presidente della Repubblica francese, Emmanuel Macron. I due leader hanno discusso le implicazioni del conflitto in Iran sia sul quadro regionale mediorientale che a livello globale, concentrandosi in particolare sull’impatto delle ostilità sulla libertà di navigazione. [...]
-Notizie
-Incontro con il Ministro degli Esteri degli Emirati Arabi Uniti
+The Prime Minister, Giorgia Meloni, had a telephone conversation with the President of the French Republic, Emmanuel Macron. The two leaders discussed the implications of the conflict in Iran both on the Middle Eastern regional framework and at a global level, focusing in particular on the impact of hostilities on freedom of navigation. [...]
+News
+Meeting with the Foreign Minister of the United Arab Emirates
 4 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi il Ministro degli Esteri degli Emirati Arabi Uniti Abdullah bin Zayed Al Nahyan.
+The Prime Minister, Giorgia Meloni, met the Foreign Minister of the United Arab Emirates Abdullah bin Zayed Al Nahyan at Palazzo Chigi.
 Pages
 « first
 ‹ previous
@@ -524,18 +509,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=3
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 746
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 767
 - **Unique ID:** `936928ad9efe042a`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -548,42 +533,44 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Assegnazione della quota dell'Otto per mille dell’IRPEF a diretta gestione statale per l’anno 2024
+News
+Assignment of the eight per thousand share of IRPEF directly managed by the state for the year 2024
 4 March 2026
-Pubblicati i Dpcm di assegnazione della quota dell’otto per mille dell’IRPEF a diretta gestione statale per l’anno 2024 relativi alle seguenti categorie di intervento: “Assistenza ai rifugiati e ai minori stranieri non accompagnati”, “Calamità naturali”, “Conservazione dei beni culturali”, “Fame nel mondo”, “Prevenzione e recupero dalle tossicodipendenze e dalle altre dipendenze patologiche”.
-Notizie
-Il Presidente Meloni al convegno "Laying the Groundwork for Jobs in Africa"
+The Prime Ministerial Decrees have been published for the allocation of the eight per thousand share of the IRPEF directly managed by the state for the year 2024 relating to the following categories of intervention: "Assistance to refugees and unaccompanied foreign minors", "Natural disasters", "Conservation of cultural heritage", "World hunger", "Prevention and recovery from drug addiction and other pathological addictions".
+News
+President Meloni at the conference "Laying the Groundwork for Jobs in Africa"
 4 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento al Convegno "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments".
-Notizie
-Crisi in Medio Oriente, il Presidente Meloni presiede un nuovo vertice a Palazzo Chigi
+The Prime Minister, Giorgia Meloni, gave a speech at the conference "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments".
+News
+Crisis in the Middle East, President Meloni presides over a new summit at Palazzo Chigi
 4 March 2026
-Si è svolto a Palazzo Chigi un nuovo vertice dedicato all’analisi degli sviluppi della crisi in Medio Oriente e alle relative implicazioni economiche, presieduto dal Presidente del Consiglio, Giorgia Meloni. Alla riunione hanno partecipato il Vicepresidente del Consiglio e Ministro degli Affari Esteri Antonio Tajani, il Vicepresidente del Consiglio e Ministro delle Infrastrutture e dei Trasporti Matteo Salvini (collegato da remoto), il Ministro della Difesa Guido Crosetto, il Ministro dell’Economia e delle Finanze Giancarlo Giorgetti, i Sottosegretari alla Presidenza del Consiglio, Alfredo Mantovano e Giovanbattista Fazzolari, e i vertici dell’intelligence. [...]
-Notizie
-Relazione sulla politica dell’informazione per la sicurezza - anno 2025
+A new summit dedicated to the analysis of the developments of the crisis in the Middle East and the related economic implications, chaired by the Prime Minister, Giorgia Meloni, took place at Palazzo Chigi. The meeting was attended by the Vice President of the Council and Minister of Foreign Affairs Antonio Tajani, the Vice President of the Council and Minister of Infrastructure and Transport Matteo Salvini (connected remotely), the Minister of Defense Guido Crosetto, the Minister of Economy and Finance Giancarlo Giorgetti, the Undersecretaries to the Presidency of the Council, Alfredo Mantovano and Giovanbattista Fazzolari, and the top intelligence officials. [...]
+News
+Report on information policy for security - year 2025
 4 March 2026
-Il Sottosegretario alla Presidenza del Consiglio - Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, ha tenuto un intervento alla presentazione della Relazione annuale sulla politica dell’informazione per la sicurezza relativa all’anno 2025. L'evento si è svolto a Roma presso l'Aula dei Gruppi Parlamentari alla presenza del Presidente della Camera dei Deputati, Lorenzo Fontana, del Direttore generale del DIS, Vittorio Rizzi, del Presidente del COPASIR, Lorenzo Guerini, del Direttore dell'AISE, Giovanni Caravelli, ed il Direttore dell'AISI, Bruno Valensise.
-Notizie
-Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+The Undersecretary to the Presidency of the Council - Delegated Authority for the Security of the Republic, Alfredo Mantovano, gave a speech at the presentation of the Annual Report on information policy for security relating to the year 2025. The event took place in Rome in the Hall of Parliamentary Groups in the presence of the President of the Chamber of Deputies, Lorenzo Fontana, of the Director General of the DIS, Vittorio Rizzi, of the President of COPASIR, Lorenzo Guerini, of the Director of AISE, Giovanni Caravelli, and the Director of AISI, Bruno Valensise.
+News
+President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 3 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento, con i Ministri Eugenia Roccella (Famiglia, Natalità e Pari opportunità) ed Andrea Abodi (Sport e Giovani), all'incontro "Voto alle donne. La democrazia italiana compie ottant’anni". L'evento si è svolto a Roma presso l'Accademia della Scherma, Casa delle Armi, Parco del Foro Italico.
-Notizie
-Medio Oriente, il Presidente Meloni presiede due riunioni di Governo
+The Prime Minister, Giorgia Meloni, gave a speech, with the Ministers Eugenia Roccella (Family, Natality and Equal Opportunities) and Andrea Abodi (Sport and Youth), at the meeting "Vote for women. Italian democracy turns eighty". The event took place in Rome at the Fencing Academy, Casa delle Armi, Foro Italico Park.
+News
+Middle East, President Meloni chairs two Government meetings
 3 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha presieduto due riunioni di Governo dedicate agli sviluppi della crisi in Medio Oriente. Al primo incontro hanno partecipato il Vicepresidente e Ministro degli Esteri Antonio Tajani, il Ministro della Difesa Guido Crosetto, il Ministro dell’Ambiente e della Sicurezza Energetica Gilberto Pichetto Fratin e i Sottosegretari alla Presidenza del Consiglio Alfredo Mantovano e Giovanbattista Fazzolari. [...]
-Notizie
-Medio Oriente, proseguono i contatti del Presidente Meloni con i leader della regione
+The Prime Minister, Giorgia Meloni, chaired two Government meetings dedicated to the developments of the crisis in the Middle East. The first meeting was attended by the Vice President and Minister of Foreign Affairs Antonio Tajani, the Minister of Defense Guido Crosetto, the Minister of the Environment and Energy Security Gilberto Pichetto Fratin and the Undersecretaries to the Presidency of the Council Alfredo Mantovano and Giovanbattista Fazzolari. [...]
+News
+Middle East, President Meloni's contacts with the leaders of the region continue
 1 March 2026
-Anche nel corso della giornata odierna sono proseguiti i contatti del Presidente Meloni con i leader della regione mediorientale, a partire dalle conversazioni telefoniche intercorse con il Re di Giordania e il Sultano dell’Oman, che si aggiungono ai numerosi contatti già avuti nella giornata di ieri con le restanti autorità delle nazioni del Golfo. Il Presidente Meloni ha inoltre avuto colloqui con la Presidente della Commissione europea e con il Presidente della Repubblica di Cipro, in qualità di Presidenza di turno del Consiglio della Ue.
-Notizie
-Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+President Meloni's contacts with the leaders of the Middle Eastern region also continued today, starting with the telephone conversations with the King of Jordan and the Sultan of Oman, in addition to the numerous contacts already had yesterday with the remaining authorities of the Gulf nations. President Meloni also held talks with the President of the European Commission and with the President of the Republic of Cyprus, in his capacity as rotating Presidency of the Council of the EU.
+News
+Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 28 February 2026
-Il Presidente Meloni continua a seguire da vicino gli sviluppi in Medio Oriente e ha presieduto questa sera a Palazzo Chigi una nuova riunione, cui hanno preso parte il Vice Presidente e Ministro degli Esteri Tajani e il Sottosegretario Mantovano; in collegamento telefonico il Vice Presidente Salvini, il Ministro della Difesa Crosetto, il Sottosegretario Fazzolari. Presenti i vertici dell’Intelligence.
-Notizie
-Medio Oriente, il Presidente Meloni presiede una conferenza telefonica
+President Meloni continues to closely follow developments in the Middle East and chaired a new meeting this evening at Palazzo Chigi, attended by Vice President and Foreign Minister Tajani and Undersecretary Mantovano; Vice President Salvini, the Minister of Defense in telephone connection
+
+in Crosetto, Undersecretary Fazzolari. Intelligence leaders present.
+News
+Middle East, President Meloni chairs a telephone conference
 28 February 2026
-Alla luce degli ultimi sviluppi in Medio Oriente, il Presidente del Consiglio, Giorgia Meloni, ha presieduto questa mattina una conferenza telefonica, cui hanno preso parte il Vicepresidente e Ministro degli Esteri Antonio Tajani, il Vicepresidente Matteo Salvini, il Ministro della Difesa Guido Crosetto, i Sottosegretari Alfredo Mantovano e Giovanbattista Fazzolari e i vertici dell’Intelligence.
+In light of the latest developments in the Middle East, the Prime Minister, Giorgia Meloni, chaired a telephone conference this morning, attended by the Vice President and Minister of Foreign Affairs Antonio Tajani, the Vice President Matteo Salvini, the Minister of Defense Guido Crosetto, the Undersecretaries Alfredo Mantovano and Giovanbattista Fazzolari and the heads of Intelligence.
 Pages
 « first
 ‹ previous
@@ -602,18 +589,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=4
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 623
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 668
 - **Unique ID:** `74652ae81b9bd35b`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -626,42 +613,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Incidente a Milano, il cordoglio del Presidente Meloni
+News
+Accident in Milan, President Meloni's condolences
 27 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, esprime profondo cordoglio per il grave incidente avvenuto a Milano. A titolo personale e a nome dell’intero Governo, manifesta la propria vicinanza alle famiglie delle vittime, esprime solidarietà alla città di Milano e rivolge un sentito augurio di pronta e completa guarigione ai feriti.
-Notizie
-Corinaldo, incontro con i familiari delle vittime a Palazzo Chigi
+The Prime Minister, Giorgia Meloni, expresses deep condolences for the serious accident that occurred in Milan. On a personal basis and on behalf of the entire Government, he expresses his closeness to the families of the victims, expresses solidarity with the city of Milan and extends heartfelt wishes for a speedy and complete recovery to the injured.
+News
+Corinaldo, meeting with the victims' families at Palazzo Chigi
 27 February 2026
-Il Segretario Generale della Presidenza del Consiglio dei Ministri, Carlo Deodato, ha incontrato oggi a Palazzo Chigi i familiari delle vittime della tragedia di Corinaldo, avvenuta nella notte tra il 7 e l’8 dicembre 2018 nella discoteca “Lanterna Azzurra” e in cui persero la vita 6 persone, mentre altre 59 rimasero ferite.
-Notizie
-Incontro con il Presidente della Repubblica di Cipro
+The General Secretary of the Presidency of the Council of Ministers, Carlo Deodato, met today at Palazzo Chigi with the families of the victims of the Corinaldo tragedy, which occurred on the night between 7 and 8 December 2018 in the "Lanterna Azzurra" nightclub and in which 6 people lost their lives, while another 59 were injured.
+News
+Meeting with the President of the Republic of Cyprus
 26 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi il Presidente della Repubblica di Cipro, Nikos Christodoulidīs. Al termine dell'incontro i due Leader, hanno rilasciato le dichiarazioni congiunte alla stampa.
-Notizie
-La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+The Prime Minister, Giorgia Meloni, met the President of the Republic of Cyprus, Nikos Christodoulidīs, at Palazzo Chigi. At the end of the meeting the two leaders released joint statements to the press.
+News
+The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 24 February 2026
-In occasione del quarto anniversario dell’invasione dell’Ucraina da parte della Russia, la facciata principale di Palazzo Chigi è illuminata con i colori nazionali dell’Ucraina fino alle ore 23:59 del 24 febbraio.
-Notizie
-G7 leaders’ statement on the war in Ukraine
+On the occasion of the fourth anniversary of Russia's invasion of Ukraine, the main facade of Palazzo Chigi is illuminated with the national colors of Ukraine until 11.59pm on 24 February.
+News
+G7 leaders' statement on the war in Ukraine
 24 February 2026
-La dichiarazione dei leader G7 in occasione del quarto anniversario della guerra di invasione russa in Ucraina.
-Notizie
-Anniversario dell'aggressione russa all'Ucraina, nota di Palazzo Chigi
+The statement of G7 leaders on the occasion of the fourth anniversary of the Russian invasion war in Ukraine.
+News
+Anniversary of the Russian aggression against Ukraine, note from Palazzo Chigi
 24 February 2026
-Nel quarto anniversario dell’ingiustificata e brutale aggressione russa all’Ucraina, il Governo italiano rinnova la propria solidarietà e vicinanza alle Istituzioni e alla popolazione ucraina. In questi quattro anni di lotta del popolo ucraino per la difesa della propria libertà e indipendenza, l’Italia ha sempre assicurato il proprio costante e convinto sostegno insieme ai propri alleati europei e occidentali. L’Italia concorre con determinazione agli sforzi internazionali per promuovere una pace giusta e duratura [...].
-Notizie
-Il Sottosegretario Mantovano partecipa all'inaugurazione dell’anno giudiziario della Corte dei conti
+On the fourth anniversary of the unjustified and brutal Russian aggression against Ukraine, the Italian Government renews its solidarity and closeness to the institutions and the Ukrainian population. In these four years of the Ukrainian people's struggle to defend their freedom and independence, Italy has always ensured its constant and convinced support together with its European and Western allies. Italy contributes with determination to international efforts to promote a just and lasting peace [...][...].
+News
+Undersecretary Mantovano participates in the inauguration of the judicial year of the Court of Auditors
 24 February 2026
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, in rappresentanza del Governo, ha partecipato oggi a Roma, presso la sede della Corte dei conti, alla cerimonia d’inaugurazione dell’Anno Giudiziario 2026 alla presenza del Presidente della Repubblica Sergio Mattarella e delle più alte cariche dello Stato.
-Notizie
-Uccisione di uno spacciatore nel boschetto di Rogoredo, la dichiarazione del Presidente Meloni
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, representing the Government, participated today in Rome, at the headquarters of the Court of Auditors, in the inauguration ceremony of the Judicial Year 2026 in the presence of the President of the Republic Sergio Mattarella and the highest officials of the State.
+News
+Killing of a drug dealer in the Rogoredo grove, President Meloni's statement
 23 February 2026
-Leggo con sgomento gli ultimi sviluppi sull’uccisione di uno spacciatore nel noto “boschetto della droga” di Rogoredo. Gli inquirenti ipotizzano che questo crimine sia legato a dinamiche connesse allo spaccio di sostanze stupefacenti, nelle quali sarebbe coinvolto anche l’agente di Polizia che ha sparato. Se quanto ipotizzato trovasse conferma nel seguito delle indagini, ci ritroveremmo davanti a un fatto gravissimo, un tradimento nei confronti della Nazione e della dignità e onorabilità delle nostre Forze dell’Ordine [...]
-Notizie
-Giorno del Ricordo, dal 10 febbraio al 1° marzo 2026 la 3a edizione del “Treno del Ricordo”
+I read with dismay the latest developments on the killing of a drug dealer in the well-known "drug thicket" of Rogoredo. Investigators hypothesize that this crime is linked to dynamics related to drug dealing, in which the police officer who fired the shot would also be involved. If what was hypothesized was confirmed in the subsequent investigations, we would find ourselves faced with a very serious fact, a betrayal of the nation and of the dignity and honorability of our law enforcement forces [...]
+News
+Remembrance Day, from 10 February to 1 March 2026 the 3rd edition of the "Train of Remembrance"
 23 February 2026
-Con una mostra itinerante allestita su un treno storico, messo a disposizione dal Gruppo FS Italiane e da Fondazione FS, l’iniziativa ripercorre idealmente il viaggio compiuto all’epoca dagli esuli istriani, fiumani e dalmati per raggiungere i vari campi profughi sul territorio nazionale, da Nord a Sud. Il progetto racconta la storia di centinaia di migliaia di italiani che scelsero di abbandonare tutto pur di non rinunciare alla propria identità.
+With a traveling exhibition set up on a historic train, made available by the FS Italiane Group and the FS Foundation, the initiative ideally retraces the journey made at the time by the Istrian, Fiume and Dalmatian exiles to reach the various refugee camps across the national territory, from North to South. The project tells the story of hundreds of thousands of Italians who chose to abandon everything in order not to give up their identity.
 Pages
 « first
 ‹ previous
@@ -680,18 +667,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=5
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 546
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 563
 - **Unique ID:** `1f50ec4b1969b7f1`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -704,42 +691,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026
+News
+Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games
 22 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026, presso l’Arena di Verona.
-Notizie
-Scomparsa del piccolo Domenico Caliendo, il cordoglio del Presidente Meloni
+The Prime Minister, Giorgia Meloni, participated in the Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games, at the Verona Arena.
+News
+Passing away of little Domenico Caliendo, condolences from President Meloni
 21 February 2026
-L’Italia intera si stringe nel dolore per la scomparsa del piccolo Domenico, un guerriero che non sarà dimenticato. Alla mamma Patrizia, al papà Antonio e a tutti i suoi cari rivolgo, a nome mio e del Governo, il più sincero abbraccio e il più profondo cordoglio. Sono certa che le autorità competenti faranno piena luce su questa terribile vicenda.
-Notizie
-"La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+The whole of Italy is grieving over the passing of little Domenico, a warrior who will not be forgotten. I address, on behalf of myself and the Government, my most sincere embrace and deepest condolences to my mother Patrizia, father Antonio and all their loved ones. I am sure that the competent authorities will shed full light on this terrible affair.
+News
+"Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 20 February 2026
-Il Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, Alfredo Mantovano, intervistato dal direttore Mario Sechi, ha partecipato all’evento “La sicurezza oggi - Istituzioni, imprese e nuovi scenari”, organizzato da Libero Quotidiano.
-Notizie
-Anniversario dei Patti Lateranensi e della Revisione del Concordato
+The Undersecretary of State at the Presidency of the Council of Ministers, Alfredo Mantovano, interviewed by the director Mario Sechi, participated in the event "Security today - Institutions, businesses and new scenarios", organized by Libero Quotidiano.
+News
+Anniversary of the Lateran Pacts and of the Revision of the Concordat
 17 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato all'Anniversario della firma dei Patti Lateranensi e dell'Accordo di Revisione del Concordato presso Palazzo Borromeo, Ambasciata d’Italia presso la Santa Sede.
-Notizie
-“M’illumino di Meno”, Palazzo Chigi aderisce all'iniziativa sul risparmio energetico
+The Prime Minister, Giorgia Meloni, participated in the Anniversary of the signing of the Lateran Pacts and the Concordat Revision Agreement at Palazzo Borromeo, Italian Embassy to the Holy See.
+News
+“M'illumino di Meno”, Palazzo Chigi joins the energy saving initiative
 16 February 2026
-La Presidenza del  Consiglio dei Ministri aderisce a "M'Illumino di Meno". L'iniziativa, ideata dal programma Caterpillar di Rai Radio 2, giunta alla sua XXII Edizione, è nata come campagna di sensibilizzazione sui temi dell'efficienza energetica e della sostenibilità e prevede lo spegnimento delle luci di edifici, palazzi istituzionali e monumenti. Per l'occasione è stato pertanto disposto lo spegnimento simbolico della facciata esterna di Palazzo Chigi dalle ore 19:00 alle ore 20:00 di oggi, lunedì 16 febbraio 2026.
-Notizie
-Il Presidente Meloni a Niscemi
+The Presidency of the Council of Ministers adheres to "M'Illumino di Meno". The initiative, conceived by Rai Radio 2's Caterpillar program, now in its 22nd edition, was born as an awareness campaign on the issues of energy efficiency and sustainability and involves turning off the lights of buildings, institutional buildings and monuments. For this occasion, the symbolic shutdown of the external façade of Palazzo Chigi was therefore arranged from 7.00 pm to 8.00 pm today, Monday 16 February 2026.
+News
+President Meloni in Niscemi
 16 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, si è recata questa mattina a Niscemi dove ha incontrato il Sindaco Massimiliano Conti, le autorità locali e la cittadinanza. Il Presidente Meloni era accompagnata dal Capo Dipartimento della Protezione Civile, Fabio Ciciliano.
-Notizie
-Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+The Prime Minister, Giorgia Meloni, went to Niscemi this morning where she met the Mayor Massimiliano Conti, the local authorities and the citizens. President Meloni was accompanied by the Head of the Civil Protection Department, Fabio Ciciliano.
+News
+President Meloni at the Assembly of Heads of State and Government of the African Union
 14 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ad Addis Abeba, ha tenuto un intervento alla riunione plenaria della 39esima sessione ordinaria dell'Assemblea dei Capi di Stato e di Governo dell'Unione Africana.
-Notizie
-Secondo Vertice Italia-Africa
+The Prime Minister, Giorgia Meloni, in Addis Ababa, gave a speech at the plenary meeting of the 39th ordinary session of the Assembly of Heads of State and Government of the African Union.
+News
+Second Italy-Africa Summit
 13 February 2026
-Si è tenuta, presso il Convention Center di Addis Abeba, la seconda edizione del Vertice Italia-Africa a livello di Capi di Stato e di Governo, dopo quello di Roma di gennaio 2024, al fine di fare il punto sui risultati conseguiti in questi anni dal Piano Mattei per l’Africa.
-Notizie
-Terra dei Fuochi: riunione a Palazzo Chigi
+The second edition of the Italy-Africa Summit at the level of Heads of State and Government was held at the Convention Center in Addis Ababa, after the one in Rome in January 2024, in order to take stock of the results achieved in recent years by the Mattei Plan for Africa.
+News
+Land of Fires: meeting at Palazzo Chigi
 12 February 2026
-Si è tenuta stamani, a Palazzo Chigi, l’ottava riunione della cabina di regia dedicata alle attività di contrasto alla gestione illecita dei rifiuti, bonifica e recupero dei territori inquinati nell’area della Terra dei Fuochi, coordinata dal Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano.
+The eighth meeting of the control room dedicated to activities to combat the illicit management of waste, reclamation and recovery of polluted territories in the Terra dei Fuochi area, coordinated by the Undersecretary to the Presidency of the Council, Alfredo Mantovano, was held this morning at Palazzo Chigi.
 Pages
 « first
 ‹ previous
@@ -759,18 +746,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=6
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 634
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 658
 - **Unique ID:** `c6d3af1d32287b10`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -783,42 +770,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Prima riunione del gruppo di lavoro informale sulla competitività europea
+News
+First meeting of the informal working group on European competitiveness
 12 February 2026
-A margine dell’incontro informale dei Capi di Stato e di Governo Ue di Alden Biesen, il Presidente del Consiglio dei Ministri Giorgia Meloni, insieme al Cancelliere federale tedesco Friedrich Merz e al Primo Ministro belga Bart De Wever, ha ospitato l’incontro inaugurale di un nuovo gruppo di lavoro informale dedicato ai temi della competitività europea.
-Notizie
-Incontro informale dei Leader dell'Ue
+On the sidelines of Alden Biesen's informal meeting of EU Heads of State and Government, the President of the Council of Ministers Giorgia Meloni, together with the German Federal Chancellor Friedrich Merz and the Belgian Prime Minister Bart De Wever, hosted the inaugural meeting of a new informal working group dedicated to the issues of European competitiveness.
+News
+Informal meeting of EU leaders
 12 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato in Belgio all’incontro informale dei Leader dell’Ue. Al suo arrivo presso il Castello di Alden Biesen ha tenuto un punto stampa. Precedentemente, il Presidente Meloni, insieme al Cancelliere federale tedesco Friedrich Merz e al Primo Ministro belga Bart De Wever, ha ospitato l’incontro inaugurale di un nuovo gruppo di lavoro informale dedicato ai temi della competitività europea.
-Notizie
-Strage a Tumbler Ridge, il cordoglio del Presidente Meloni
+The Prime Minister, Giorgia Meloni, participated in the informal meeting of EU leaders in Belgium. Upon his arrival at Alden Castle Biesen held a press point. Previously, President Meloni, together with German Federal Chancellor Friedrich Merz and Belgian Prime Minister Bart De Wever, hosted the inaugural meeting of a new informal working group dedicated to European competitiveness issues.
+News
+Massacre at Tumbler Ridge, President Meloni's condolences
 11 February 2026
-Esprimo le più sentite condoglianze per la strage avvenuta in British Columbia. Nel manifestare la mia vicinanza alla comunità di Tumbler Ridge e un pensiero commosso per le famiglie spezzate dal dolore, desidero rivolgere la piena e più sentita solidarietà del Governo italiano e mia personale al Primo Ministro Mark Carney e a tutto il popolo canadese di fronte a questa terribile tragedia.
-Notizie
-Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+I express my deepest condolences for the massacre that occurred in British Columbia. In expressing my closeness to the Tumbler Ridge community and a heartfelt thought for the families broken by grief, I would like to address the full and heartfelt solidarity of the Italian Government and my own to Prime Minister Mark Carney and to all the Canadian people in the face of this terrible tragedy.
+News
+Remembrance Day, Palazzo Chigi lights up with the Tricolore
 10 February 2026
-In occasione del Giorno del Ricordo, dalle ore 00.01 alle ore 23.59 di martedì 10 febbraio 2026, con interruzione nelle ore diurne, la Presidenza del Consiglio dei Ministri ha disposto l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, al centro della piazza della sede del Governo viene proiettata la frase “Io Ricordo”. La Presidenza ha inoltre disposto l’imbandieramento a mezz’asta su tutti gli uffici pubblici.
-Notizie
-Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+On the occasion of Remembrance Day, from 00.01 to 23.59 on Tuesday 10 February 2026, with interruption during daylight hours, the Presidency of the Council of Ministers has ordered the illumination of the main facade of Palazzo Chigi with the Tricolore, in the center of the square of the Government headquarters the phrase "I Remember" is projected. The Presidency has also ordered the flag to be flown at half-mast in all public offices.
+News
+Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 10 February 2026
-Nell’ambito delle celebrazioni legate al Giorno del ricordo dei martiri delle foibe e della tragedia dell’esodo giuliano-dalmata, si è svolta oggi a Palazzo Chigi la cerimonia di consegna dei riconoscimenti, previsti dalla legge 30 marzo 2004 n. 92, ai congiunti degli infoibati e degli italiani scomparsi o uccisi ad opera delle autorità di polizia politica jugoslave, nei territori del confine orientale, durante e dopo la Seconda guerra mondiale. [...]
-Notizie
-Memorandum d’Intesa con il Segretariato Generale del Governo della Repubblica di Macedonia del Nord
+As part of the celebrations linked to the Day of Remembrance of the Martyrs of the Foibe and the tragedy of the Julian-Dalmatian exodus, the award ceremony, provided for by law no. 30 March 2004, took place today at Palazzo Chigi. 92, to the relatives of the Infoibati and the Italians who disappeared or were killed by the Yugoslav political police authorities, in the territories of the eastern border, during and after the Second World War. [...]
+News
+Memorandum of Understanding with the General Secretariat of the Government of the Republic of North Macedonia
 10 February 2026
-La Presidenza del Consiglio dei Ministri ha stipulato un Memorandum d’Intesa con il Segretariato Generale del Governo della Repubblica di Macedonia del Nord sull’efficientamento dell’azione dell’Amministrazione dello Stato.
-Notizie
-Giorno del Ricordo, il Presidente Meloni alla cerimonia celebrativa
+The Presidency of the Council of Ministers has signed a Memorandum of Understanding with the General Secretariat of the Government of the Republic of North Macedonia on the efficiency of the action of the State Administration.
+News
+Remembrance Day, President Meloni at the celebratory ceremony
 10 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato questa mattina alla cerimonia celebrativa del "Giorno del Ricordo", presso l'Aula di Montecitorio.
-Notizie
-Giorno del Ricordo, il calendario delle iniziative per il 2026
+The Prime Minister, Giorgia Meloni, participated this morning in the ceremony celebrating the "Day of Remembrance" in the Montecitorio Chamber.
+News
+Remembrance Day, the calendar of initiatives for 2026
 9 February 2026
-È disponibile il calendario 2026 delle iniziative e degli eventi promossi in occasione del Giorno del Ricordo dei martiri delle foibe e dell’esodo giuliano-dalmata, predisposto dal Comitato di coordinamento per le celebrazioni istituito presso la Presidenza del Consiglio dei Ministri. Il programma, ampio e articolato, è frutto della sinergia tra le diverse Amministrazioni dello Stato e il mondo dell’associazionismo impegnato nella conservazione della memoria e nella promozione della conoscenza della tragedia delle foibe e dell’esodo.
-Notizie
-Cerimonia di Apertura di Milano Cortina 2026
+The 2026 calendar of initiatives and events promoted on the occasion of the Day of Remembrance of the martyrs of the Foibe and the Julian-Dalmatian exodus is available, prepared by the Coordination Committee for the celebrations established at the Presidency of the Council of Ministers. The program, broad and detailed, is the result of the synergy between the various State Administrations and the world of associations involved in preserving the memory and promoting knowledge of the tragedy of the foibe and the exodus.
+News
+Opening Ceremony of Milano Cortina 2026
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Apertura dei XXV Giochi Olimpici Invernali Milano Cortina 2026.
+The Prime Minister, Giorgia Meloni, participated in the Opening Ceremony of the XXV Milan Cortina 2026 Olympic Winter Games.
 Pages
 « first
 ‹ previous
@@ -838,18 +825,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=7
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 670
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 686
 - **Unique ID:** `87688f8411014da9`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -862,42 +849,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Incontro con il Presidente della Repubblica di Polonia
+News
+Meeting with the President of the Republic of Poland
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Milano il Presidente della Repubblica di Polonia, Karol Nawrocki.
-Notizie
-Operazione Strade Sicure, dichiarazione del Presidente Meloni
+The Prime Minister, Giorgia Meloni, met the President of the Republic of Poland, Karol Nawrocki, today in Milan.
+News
+Operation Safe Roads, statement by President Meloni
 6 February 2026
-Nell’ambito del rafforzamento dell’operazione Strade Sicure, i carri leggeri dell’esercito Puma arrivano anche alla stazione Rogoredo di Milano. Allo stesso tempo, nel Decreto Sicurezza approvato ieri il Ministro Piantedosi ha inserito diverse norme per velocizzare l’assunzione di migliaia di nuovi agenti, e il Ministro Crosetto lavora per rafforzare il presidio su strada con circa 12mila carabinieri ausiliari. Non ci arrendiamo!
-Notizie
-Incontro con il Vice Presidente degli Stati Uniti d’America
+As part of the strengthening of the Strade Sicure operation, the light tanks of the Puma army also arrive at the Rogoredo station in Milan. At the same time, in the Security Decree approved yesterday, Minister Piantedosi inserted various rules to speed up the hiring of thousands of new agents, and Minister Crosetto is working to strengthen the road patrol with around 12 thousand auxiliary carabinieri. We don't give up!
+News
+Meeting with the Vice President of the United States of America
 6 February 2026
-Il Presidente del Consiglio dei Ministri, Giorgia Meloni, ha avuto oggi a Milano un colloquio con il Vice Presidente degli Stati Uniti, J.D. Vance. All’incontro hanno preso parte il Vice Presidente del Consiglio e Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, e il Segretario di Stato statunitense, Marco Rubio.
-Notizie
-Incontro con l'Emiro del Qatar
+The President of the Council of Ministers, Giorgia Meloni, had a conversation today in Milan with the Vice President of the United States, J.D. Vance. The meeting was attended by the Vice President of the Council and Minister of Foreign Affairs and International Cooperation, Antonio Tajani, and the US Secretary of State, Marco Rubio.
+News
+Meeting with the Emir of Qatar
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Milano l’Emiro del Qatar, Sheikh Tamim bin Hamad Al Thani.
-Notizie
-Incontro con il Presidente eletto della Repubblica del Cile
+The Prime Minister, Giorgia Meloni, met the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, today in Milan.
+News
+Meeting with the President-elect of the Republic of Chile
 5 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi il Presidente eletto della Repubblica del Cile, José Antonio Kast, al quale ha rinnovato le congratulazioni per l’esito delle recenti consultazioni elettorali, in vista del suo prossimo insediamento. Nel corso del colloquio, il Presidente eletto Kast ha illustrato le priorità del programma del futuro Governo cileno, con particolare riferimento alle misure per la crescita economica, all’attrazione degli investimenti, al rafforzamento del contrasto alla criminalità e alle politiche a sostegno della natalità.
-Notizie
-Incontro con il Primo Ministro della Repubblica Ceca
+The Prime Minister, Giorgia Meloni, received today at Palazzo Chigi the President-elect of the Republic of Chile, José Antonio Kast, to whom she renewed her congratulations for the outcome of the recent electoral consultations, in view of his next inauguration. During the conversation, President-elect Kast illustrated the priorities of the program of the future Chilean Government, with particular reference to measures for economic growth, attracting investments, strengthening the fight against crime and policies to support the birth rate.
+News
+Meeting with the Prime Minister of the Czech Republic
 4 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi il Primo Ministro della Repubblica Ceca, Andrej Babiš. Il colloquio ha permesso di affrontare i principali dossier dell’agenda europea, a partire da quello della competitività, anche in vista del Leaders' Retreat del prossimo 12 febbraio. [...]
-Notizie
-Conversazione telefonica con il Presidente dell'Algeria
+The Prime Minister, Giorgia Meloni, received the Prime Minister of the Czech Republic, Andrej Babiš, today at Palazzo Chigi. The meeting made it possible to address the main dossiers of the European agenda, starting from that of competitiveness, also in view of the Leaders' Retreat on 12 February. [...]
+News
+Telephone conversation with the President of Algeria
 3 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con il Presidente della Repubblica Algerina Democratica e Popolare, Abdelmadjid Tebboune. Richiamando i risultati del Quinto Vertice Italia-Algeria del luglio scorso, i due leader hanno fatto il punto sulle relazioni bilaterali, confermando l’impegno comune per rafforzare la cooperazione economica tra le due Nazioni. In particolare, il colloquio ha permesso di esaminare l’avanzamento delle iniziative comuni nel quadro del Piano Mattei, tra cui l’avvio dei lavori del Centro d’eccellenza italo algerino per la formazione, la ricerca e l’innovazione in campo agricolo Enrico Mattei a Sidi Bel Abbes e l’avanzamento del progetto di agricoltura desertica. [...]
-Notizie
-Premio Giacomo Matteotti 2026, Bando di concorso - XXII edizione
+The Prime Minister, Giorgia Meloni, had a telephone conversation with the President of the Democratic and Popular Algerian Republic, Abdelmadjid Tebboune. Recalling the results of the Fifth Italy-Algeria Summit last July, the two leaders took stock of bilateral relations, confirming the common commitment to strengthen economic cooperation between the two Nations. In particular, the meeting made it possible to examine the progress of common initiatives within the framework of the Mattei Plan, including the start of work on the Enrico Mattei Italian-Algerian Center of Excellence for training, research and innovation in the agricultural field in Sidi Bel Abbes and the progress of the desert agriculture project. [...]
+News
+Giacomo Matteotti Prize 2026, Competition announcement - XXII edition
 3 February 2026
-Pubblicato nella Gazzetta Ufficiale n. 8 del 30 gennaio 2026 il bando di concorso della XXII edizione del Premio Giacomo Matteotti.
-Notizie
-Sicurezza dei cittadini e ordine pubblico, riunione a Palazzo Chigi
+Published in the Official Journal no. 8 of 30 January 2026 the competition notice for the XXII edition of the Giacomo Matteotti Prize.
+News
+Citizen safety and public order, meeting at Palazzo Chigi
 2 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha presieduto questa mattina a Palazzo Chigi una riunione per fare il punto sui recenti gravi episodi di violenza contro le forze dell’ordine e sui provvedimenti da adottare a garanzia della sicurezza dei cittadini e dell’ordine pubblico. Al vertice hanno preso parte i vicepresidenti del Consiglio Antonio Tajani (in collegamento da Palermo) e Matteo Salvini, i ministri Matteo Piantedosi (Interno), Guido Crosetto (Difesa) e Carlo Nordio (Giustizia), i sottosegretari Alfredo Mantovano e Giovanbattista Fazzolari, nonché il capo della Polizia Vittorio Pisani, il comandante generale dell’Arma dei Carabinieri Salvatore Luongo e il comandante generale della Guardia di Finanza Andrea De Gennaro. [...]
+The Prime Minister, Giorgia Meloni, chaired a meeting this morning at Palazzo Chigi to take stock of the recent serious episodes of violence against the police and the measures to be adopted to guarantee the safety of citizens and public order. The summit was attended by the vice-presidents of the Council Antonio Tajani (connecting from Palermo) and Matteo Salvini, the ministers Matteo Piantedosi (Interior), Guido Crosetto (Defence) and Carlo Nordio (Justice), the undersecretaries Alfredo Mantovano and Giovanbattista Fazzolari, as well as the head of the Police Vittorio Pisani, the general commander of the Carabinieri Salvatore Luongo and the general commander of the Guardia di Finanza Andrea De Gennaro. [...]
 Pages
 « first
 ‹ previous
@@ -907,6 +894,7 @@ Pages
 6
 7
 8
+
 9
 10
 11
@@ -917,18 +905,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=8
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 695
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 704
 - **Unique ID:** `256a0efba2e5da5c`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -941,43 +929,45 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Giornata nazionale delle vittime civili delle guerre e dei conflitti nel mondo
+News
+National day of civilian victims of wars and conflicts in the world
 2 February 2026
-La Presidenza del Consiglio dei Ministri ha aderito alla campagna di sensibilizzazione per la “Giornata Nazionale delle vittime civili delle guerre e dei conflitti nel mondo” illuminando la facciata principale di Palazzo Chigi di colore BLU dalle ore 00.01 alle ore 23.59 del 1° febbraio 2026, con interruzione nelle ore diurne.
-Notizie
-Askatasuna, dichiarazione del Presidente Meloni in occasione della visita ai due agenti ricoverati a Torino
+The Presidency of the Council of Ministers has joined the awareness campaign for the "National Day of Civilian Victims of Wars and Conflicts in the World" by lighting the main facade of Palazzo Chigi in BLUE from 00.01 to 23.59 on 1 February 2026, with interruption during daylight hours.
+News
+Askatasuna, statement by President Meloni on the occasion of the visit to the two officers hospitalized in Turin
 1 February 2026
-Questa mattina sono stata all’ospedale Le Molinette di Torino per portare, a nome dell’Italia, la solidarietà a due degli agenti rimasti feriti negli scontri di ieri e, attraverso loro, a tutti i militari e gli appartenenti alle Forze dell’ordine coinvolti. Alessandro ha 29 anni, Lorenzo ne ha 28. Contro di loro martelli, molotov, bombe carta ripiene di chiodi, pietre lanciate con le catapulte, oggetti contundenti di ogni genere e jammer per impedire alla polizia di comunicare. “Erano lì per farci fuori”, ha detto un agente. [...]
-Notizie
-Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+This morning I was at Le Molinette hospital in Turin to show solidarity, on behalf of Italy, to two of the officers injured in yesterday's clashes and, through them, to all the military and law enforcement personnel involved. Alessandro is 29 years old, Lorenzo is 28. Against them hammers, Molotov cocktails, paper bombs filled with nails, stones thrown with catapults, blunt objects of all kinds and jammers to prevent the police from communicating. “They were there to take us out,” one officer said. [...]
+News
+Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 31 January 2026
-Il Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, Alfredo Mantovano, è intervenuto presso il Salone dei Busti di Castel Capuano, a Napoli, in occasione della cerimonia di inaugurazione dell’Anno Giudiziario 2026 nel Distretto della Corte d’Appello di Napoli.
-Notizie
-Il Sottosegretario Mantovano alla cerimonia di inaugurazione dell'Anno Giudiziario
+The Undersecretary of State at the Presidency of the Council of Ministers, Alfredo Mantovano, spoke at the Salone dei Busti of Castel Capuano, in Naples, on the occasion of the inauguration ceremony of the Judicial Year 2026 in the District of the Court of Appeal of Naples.
+News
+Undersecretary Mantovano at the inauguration ceremony of the Judicial Year
 30 January 2026
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, ha partecipato alla cerimonia di inaugurazione dell'Anno Giudiziario 2026 a Roma, presso il Palazzo di Giustizia.
-Notizie
-Il Sottosegretario Mantovano all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona"
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, participated in the inauguration ceremony of the Judicial Year 2026 in Rome, at the Palace of Justice.
+News
+Undersecretary Mantovano at the event "Addictions as an injury to the freedom and dignity of the individual"
 29 January 2026
-Giovedì 29 gennaio, il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano è intervenuto all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona". L'incontro, che si è tenuto a Roma nell'Auditorium San Pio X - Angelo Brizi (piazza della Balduina 67), si è aperto con il saluto di Sua Eminenza il Cardinale Baldo Reina. Oltre al Sottosegretario Mantovano, sono intervenuti il prof. Giulio Maira, neurochirurgo, fondatore e Presidente della Fondazione Atena Onlus, e il dott. Giampaolo Nicolasi, Capo struttura e Direttore della Comunità Incontro Onlus di Amelia.
-​L'iniziativa è stata promossa nell'ambito del "Progetto Persona" dalla Parrocchia San Pio X di Roma.
-Notizie
-Riunione del Comitato Nazionale per la Bioetica
+On Thursday 29 January, the Undersecretary to the Presidency of the Council Alfredo Mantovano spoke at the event "Addictions as an injury to the freedom and dignity of the Person". The meeting, which was held in Rome in the San Pio In addition to Undersecretary Mantovano, prof. Giulio Maira, neurosurgeon, founder and President of the Atena Onlus Foundation, and Dr. Giampaolo Nicolasi, Head of structure and Director of the Comunità Incontro Onlus of Amelia.
+The initiative was promoted as part of the "Person Project" by the Parish of Saint Pius
+News
+Meeting of the National Committee for Bioethics
 29 January 2026
-Si tiene oggi presso la Presidenza del Consiglio dei ministri la seduta plenaria del Comitato Nazionale per la Bioetica (CNB), presieduto dal professor Angelo Luigi Vescovi. Ad aprire l’incontro, l'intervento del Sottosegretario alla Presidenza Alfredo Mantovano, che ha sottolineato l’importanza del riconoscimento per legge del CNB e del Comitato Nazionale per la Biosicurezza, le Biotecnologie e le Scienze della Vita (CNBBSV), avvenuto con la Legge 30 dicembre 2025, n. 199 (Bilancio di previsione dello Stato per l'anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028), ai commi 271/272. [...]
-Notizie
-Riunione del CIPESS del 29 gennaio 2026
+The plenary session of the National Committee for Bioethics (CNB), chaired by Professor Angelo Luigi Vescovi, is held today at the Presidency of the Council of Ministers. The meeting was opened by the speech of the Undersecretary to the Presidency Alfredo Mantovano, who underlined the importance of the legal recognition of the NBC and the National Committee for Biosafety, Biotechnology and Life Sciences (CNBBSV), which occurred with Law 30 December 2025, n. 199 (State budget forecast for the financial year 2026 and multi-year budget for the three-year period 2026-2028), in paragraphs 271/272. [...]
+News
+CIPESS meeting of 29 January 2026
 29 January 2026
-Nella seduta odierna, il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alessandro Morelli, ha approvato alcuni importanti provvedimenti in materia di salute, di politiche di coesione e altri temi rilevanti.
-Notizie
-Otto per mille dell’IRPEF 2026, individuazione dei parametri di valutazione
+In today's session, the Interministerial Committee for Economic Planning and Sustainable Development (CIPESS), chaired by the Minister of Economy and Finance and Vice President of CIPESS, Giancarlo Giorgetti, and with the presence of the Secretary of CIPESS, Undersecretary of State at the Presidency of the Council of Ministers, Alessandro Morelli, approved some important measures regarding health, cohesion policies and other relevant topics.
+News
+Eight per thousand of the 2026 IRPEF, identification of the evaluation parameters
 29 January 2026
-Pubblicato il DSG 26 gennaio 2026 relativo ai requisiti e ai nuuovi parametri di valutazione delle domande di accesso alla quota dell’otto per mille dell’IRPEF a diretta gestione statale. Le domande possono essere dal 1° febbraio al 30 settembre 2026.
-Notizie
-Incontro con il Presidente del Parlamento europeo
+The DSG published on 26 January 2026 relating to the requirements and new parameters for evaluating applications for access to the eight per thousand quota of the IRPEF directly managed by the state. Applications can be from February 1 to September 30, 2026.
+News
+Meeting with the President of the European Parliament
 29 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi Roberta Metsola, Presidente del Parlamento europeo.
+The Prime Minister, Giorgia M
+
+eloni, met today at Palazzo Chigi Roberta Metsola, President of the European Parliament.
 Pages
 « first
 ‹ previous
@@ -997,18 +987,18 @@ last »
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=208
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 210
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 211
 - **Unique ID:** `1e0711db06c3cc95`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -1021,19 +1011,19 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Il Presidente Meloni incontra a Roma il Presidente Macron
+News
+President Meloni meets President Macron in Rome
 23 October 2022
-Cordiale e proficuo confronto, di oltre un'ora, tra il Presidente del Consiglio Giorgia Meloni e il Presidente della Repubblica francese Emmanuel Macron. Nel corso del colloquio, seppur informale, sono stati discussi tutti i principali dossier europei: la necessità di dare risposte veloci e comuni sul caro energia, il sostegno all’Ucraina, la difficile congiuntura economica, la gestione dei flussi migratori.
-I Presidenti Meloni e Macron hanno convenuto sulla volontà di proseguire con una collaborazione sulle grandi sfide comuni a livello europeo e nel rispetto dei reciproci interessi nazionali.
-Notizie
-I Ministri del Governo Meloni
+Cordial and fruitful discussion, lasting over an hour, between the Prime Minister Giorgia Meloni and the President of the French Republic Emmanuel Macron. During the conversation, albeit informal, all the main European dossiers were discussed: the need to give quick and common answers on the high cost of energy, support for Ukraine, the difficult economic situation, the management of migratory flows.
+Presidents Meloni and Macron agreed on the desire to continue with collaboration on the great common challenges at European level and in respect of mutual national interests.
+News
+The Ministers of the Meloni Government
 23 October 2022
-L'elenco dei Ministri del Governo Meloni.
-Notizie
-A Palazzo Chigi la cerimonia di insediamento del Governo Meloni
+The list of Ministers of the Meloni Government.
+News
+The inauguration ceremony of the Meloni Government took place at Palazzo Chigi
 23 October 2022
-Si è svolta a Palazzo Chigi la tradizionale cerimonia del passaggio di consegne tra il Presidente uscente, Mario Draghi, e il Presidente del Consiglio, Giorgia Meloni. E a seguire si è tenuta la prima riunione del Consiglio dei Ministri.
+The traditional handover ceremony between the outgoing President, Mario Draghi, and the President of the Council, Giorgia Meloni, took place at Palazzo Chigi. And to follow, the first meeting of the Council of Ministers was held.
 Pages
 « first
 ‹ previous
@@ -1050,12 +1040,12 @@ Pages
 
 ---
 
-### Dichiarazione congiunta sul conflitto tra Israele e Hezbollah
+### Joint statement on the conflict between Israel and Hezbollah
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31347
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 463
 - **Unique ID:** `b7783494e723a312`
 
@@ -1079,246 +1069,246 @@ Ribadiamo il nostro appello affinché tutte le parti applichino integralmente la
 
 ---
 
-### Attacco a Erbil, il cordoglio del Presidente Meloni
+### Attack in Erbil, President Meloni's condolences
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31337
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 102
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 106
 - **Unique ID:** `68e2e6824eefb872`
 
 #### Content:
 
-A nome del Governo italiano e mio personale, esprimo il più profondo cordoglio alla Francia per la scomparsa di uno dei militari rimasti coinvolti da un nuovo, ingiustificabile attacco a Erbil. Alla sua famiglia e alle autorità francesi va la nostra vicinanza in questo momento di dolore.
-Rivolgo inoltre un pensiero di pronta guarigione agli altri militari feriti, nell’auspicio di un rapido e completo recupero.
-L’Italia, al fianco dei partner internazionali, inclusi i Paesi del Golfo maggiormente colpiti, resta fermamente impegnata nel promuovere un allentamento della tensione. Continueremo a lavorare con determinazione affinché la pace e la stabilità nella regione siano ristabilite.
+On behalf of the Italian Government and myself, I express my deepest condolences to France for the passing of one of the soldiers involved in a new, unjustifiable attack in Erbil. Our sympathy goes to his family and the French authorities in this moment of pain.
+I also extend a thought of speedy recovery to the other wounded soldiers, in the hope of a rapid and complete recovery.
+Italy, alongside its international partners, including the most affected Gulf countries, remains firmly committed to promoting an easing of tension. We will continue to work with determination to ensure that peace and stability in the region are re-established.
 
 ---
 
-### Nave LNG Arctic Metagaz, nota di Palazzo Chigi
+### LNG ship Arctic Metagaz, note from Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31335
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 189
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 192
 - **Unique ID:** `106150d40897d619`
 
 #### Content:
 
-Si è svolta a Palazzo Chigi una riunione presieduta dal Presidente del Consiglio, Giorgia Meloni, alla quale hanno partecipato il Ministro degli Affari esteri e della Cooperazione internazionale Antonio Tajani, il Ministro della Difesa Guido Crosetto, il Ministro dell’Ambiente e della Sicurezza energetica Gilberto Pichetto Fratin e il Ministro per la Protezione civile e le Politiche del mare Nello Musumeci, oltre al sottosegretario alla Presidenza del Consiglio Alfredo Mantovano e al capo del Dipartimento della Protezione civile Fabio Ciciliano.
-Al centro dell’incontro la situazione della nave LNG Arctic Metagaz, battente bandiera russa, che trasporta consistenti quantitativi di gas, olio pesante e gasolio e che da alcuni giorni si trova alla deriva, senza equipaggio, nel Mar Mediterraneo.
-Premesso che l’imbarcazione si trova attualmente all’interno della zona SAR maltese, e che le autorità di Malta hanno stabilito una distanza di sicurezza minima di 5 miglia nautiche, il Governo italiano ha assicurato al Governo de La Valletta la condivisione del monitoraggio avviato fin dal primo momento.
-L’Italia ha inoltre confermato la propria disponibilità a svolgere attività di supporto, in attesa delle determinazioni delle autorità maltesi, con le quali rimane in costante contatto.
+A meeting was held at Palazzo Chigi chaired by the Prime Minister, Giorgia Meloni, which was attended by the Minister of Foreign Affairs and International Cooperation Antonio Tajani, the Minister of Defense Guido Crosetto, the Minister of the Environment and Energy Security Gilberto Pichetto Fratin and the Minister for Civil Protection and Maritime Policies Nello Musumeci, as well as the undersecretary to the Prime Minister Alfredo Mantovano and the head of the Civil Protection Department Fabio Sicilian.
+At the center of the meeting was the situation of the LNG ship Arctic Metagaz, flying the Russian flag, which transports large quantities of gas, heavy oil and diesel and which has been adrift, without a crew, in the Mediterranean Sea for some days.
+Given that the vessel is currently within the Maltese SAR zone, and that the Maltese authorities have established a minimum safety distance of 5 nautical miles, the Italian Government has assured the Government of Valletta that it will share the monitoring started from the first moment.
+Italy has also confirmed its willingness to carry out support activities, awaiting the decisions of the Maltese authorities, with whom it remains in constant contact.
 
 ---
 
-### Dichiarazione del Presidente del Consiglio, Giorgia Meloni
+### Statement by the Prime Minister, Giorgia Meloni
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31328
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 243
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 257
 - **Unique ID:** `b594d31c84b6f8a6`
 
 #### Content:
 
-Mi corre l’obbligo, per ristabilire quanto accaduto, di rispondere alle dichiarazioni della segretaria del Partito Democratico, Elly Schlein, relativamente all’appello all’unità che ho rivolto ieri, in aula, alle opposizioni.
-Il mio è stato un appello al dialogo sincero e pubblico, a fronte del quale l’opposizione ha risposto con accuse, ironie e perfino insulti personali. “Serva”, “ridicola”, “imbarazzante”, “pericolo per l’umanità”, “persona che striscia per non inciampare” e molti altri. Questi sono stati i toni utilizzati da esponenti dell’opposizione, che mi sembrano ben lontani da un clima di confronto costruttivo.
-Altri, invece, sempre nell’opposizione, hanno cominciato ad accampare condizioni surreali per sedersi al tavolo, chiarendo come non vi fosse alcuna disponibilità ad avviare questo confronto.
-I toni che io ho utilizzato nella replica, invece, sono rimasti rispettosi. Mi sono limitata a chiedere all’opposizione conto della differenza tra le posizioni che chiedono di assumere a noi, oggi, e quelle che assumevano quando non erano all’opposizione. Nessuna clava, nessuna mancanza di rispetto, nessun insulto.
-Questa è la realtà che chiunque può verificare riguardando il dibattito parlamentare. Se non vi è disponibilità da parte dell’opposizione a un coordinamento sulla crisi lo rispetto, ma non se ne dia la responsabilità a me.
-A dimostrazione di quello che dico, confermo che il mio invito resta valido. Se l’opposizione ha cambiato idea e intende davvero collaborare nell’interesse dell’Italia, lo dica chiaramente invece di accampare pretesti o condizioni. In questo caso, il governo è pronto ad aprire un tavolo di confronto.
+In order to re-establish what happened, I am obliged to respond to the declarations of the secretary of the Democratic Party, Elly Schlein, regarding the appeal for unity that I addressed to the opposition yesterday in the chamber.
+Mine was an appeal for sincere and public dialogue, to which the opposition responded with accusations, irony and even personal insults. “Servant”, “ridiculous”, “embarrassing”, “danger to humanity”, “person who crawls to avoid tripping” and many others. These were the tones used by opposition members, which seem to me to be far from a climate of constructive discussion.
+Others, however, still in the opposition, began to put forward surreal conditions for sitting at the table, making it clear that there was no willingness to start this discussion.
+The tones that I used in the reply, however, remained respectful. Mi sono limitata a chiedere all’opposizione conto della differenza tra le posizioni che chiedono di assumere a noi, oggi, e quelle che assumevano quando non erano all’opposizione. No clubs, no disrespect, no insults.
+This is the reality that anyone can verify by looking at the parliamentary debate. If there is no willingness on the part of the opposition to coordinate on the crisis, I respect that, but don't put the responsibility on me.
+To demonstrate what I say, I confirm that my invitation remains valid. If the opposition has changed its mind and really intends to collaborate in Italy's interest, let it be clear instead of making pretexts or conditions. In this case, the government is ready to open a discussion table.
 
 ---
 
-### Crisi nel Golfo, il Presidente Meloni partecipa a una videoconferenza dei Leader del G7
+### Crisis in the Gulf, President Meloni participates in a video conference of the G7 Leaders
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31321
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 200
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 195
 - **Unique ID:** `a597b4fa2c43e99e`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi a una videoconferenza dei Leader del G7 dedicata agli sviluppi della crisi nel Golfo e alle relative implicazioni economiche ed energetiche.
-In questo contesto, i Capi di Stato e di Governo del G7 hanno riaffermato l’importanza di garantire libertà di navigazione.
-Il Presidente del Consiglio ha anche riaffermato l’impegno per favorire un ritorno alla diplomazia che conduca a soluzioni per la stabilità della regione e l’importanza della solidarietà del G7 verso le Nazioni del Golfo colpite dagli attacchi iraniani. A quest’ultimo proposito, il Presidente Meloni ha proposto che sia organizzato un confronto tra il G7 e il GCC (Consiglio di Cooperazione del Golfo).
-Nel corso della riunione, il Presidente Meloni ha quindi sottolineato l’importanza che l’attuale volatilità non si traduca in effetti strutturali sulla crescita economica. A questo riguardo il Presidente del Consiglio, come gli altri leader G7, ha richiamato l’importante decisione assunta nell’ambito dell’Agenzia Internazionale dell’Energia di rilasciare fino a 400 milioni di barili di greggio per stabilizzare i mercati.
-I Leader G7 hanno concordato di mantenere uno stretto coordinamento nelle prossime settimane per contribuire alla soluzione della crisi, alla stabilità dei mercati e garantire la sicurezza delle forniture energetiche.
+The Prime Minister, Giorgia Meloni, participated today in a video conference of the G7 Leaders dedicated to the developments of the crisis in the Gulf and the related economic and energy implications.
+In this context, the G7 Heads of State and Government reaffirmed the importance of guaranteeing freedom of navigation.
+The Prime Minister also reaffirmed his commitment to promoting a return to diplomacy that leads to solutions for the stability of the region and the importance of G7 solidarity towards the Gulf Nations affected by Iranian attacks. In this last regard, President Meloni proposed that a discussion be organized between the G7 and the GCC (Gulf Cooperation Council).
+During the meeting, President Meloni therefore underlined the importance that the current volatility does not translate into structural effects on economic growth. In this regard, the Prime Minister, like the other G7 leaders, recalled the important decision taken within the International Energy Agency to release up to 400 million barrels of crude oil to stabilize the markets.
+G7 Leaders agreed to maintain close coordination in the coming weeks to contribute to the resolution of the crisis, the stability of markets and ensure the security of energy supplies.
 
 ---
 
-### Crisi nel Golfo, il Presidente Meloni partecipa a una videoconferenza dei Leader del G7
+### Crisis in the Gulf, President Meloni participates in a video conference of the G7 Leaders
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31322
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 95
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 98
 - **Unique ID:** `0cbcee5f789538e4`
 
 #### Content:
 
 English
 |
-Italiano
-Crisi nel Golfo, il Presidente Meloni partecipa a una videoconferenza dei Leader del G7
+Italian
+Crisis in the Gulf, President Meloni participates in a video conference of the G7 Leaders
 11 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi a una videoconferenza dei Leader del G7 dedicata agli sviluppi della crisi nel Golfo e alle relative implicazioni economiche ed energetiche.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Crisi nel Golfo, il Presidente Meloni partecipa a una videoconferenza dei Leader del G7
+The Prime Minister, Giorgia Meloni, participated today in a video conference of the G7 Leaders dedicated to the developments of the crisis in the Gulf and the related economic and energy implications.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Crisis in the Gulf, President Meloni participates in a video conference of the G7 Leaders
 
 ---
 
-### Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+### European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31314
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 100
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 106
 - **Unique ID:** `0038e6141cc9faef`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, questo pomeriggio ha tenuto alla Camera dei Deputati l'intervento di replica a seguito della discussione generale sulle Comunicazioni in vista del Consiglio europeo del 19 e 20 marzo 2026, nonché sugli sviluppi della crisi in Medio Oriente. In mattinata, al Senato della Repubblica, il Presidente ha reso le Comunicazioni e, al termine del dibattito, ha tenuto l'intervento di replica.
+The Prime Minister, Giorgia Meloni, gave a reply speech this afternoon in the Chamber of Deputies following the general discussion on Communications in view of the European Council of 19 and 20 March 2026, as well as on the developments of the crisis in the Middle East. In the morning, in the Senate of the Republic, the President made the communications and, at the end of the debate, gave the reply speech.
 [
-L'intervento di replica del Presidente Meloni alla Camera dei Deputati
+President Meloni's reply speech to the Chamber of Deputies
 ]
 [
-L'intervento di replica del Presidente Meloni al Senato della Repubblica
+President Meloni's reply speech to the Senate of the Republic
 ]
 [
-Le Comunicazioni del Presidente Meloni al Senato della Repubblica
+President Meloni's communications to the Senate of the Republic
 ]
 
 ---
 
-### Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+### European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31320
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 140
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 144
 - **Unique ID:** `c5b7d2d3df9f20e4`
 
 #### Content:
 
 English
 |
-Italiano
-Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+Italian
+European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 11 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, questo pomeriggio ha tenuto alla Camera dei Deputati l'intervento di replica a seguito della discussione generale sulle Comunicazioni in vista del Consiglio europeo del 19 e 20 marzo 2026, nonché sugli sviluppi della crisi in Medio Oriente. In mattinata, al Senato della Repubblica, il Presidente ha reso le Comunicazioni e, al termine del dibattito, ha tenuto l'intervento di replica.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+The Prime Minister, Giorgia Meloni, gave a reply speech this afternoon in the Chamber of Deputies following the general discussion on Communications in view of the European Council of 19 and 20 March 2026, as well as on the developments of the crisis in the Middle East. In the morning, in the Senate of the Republic, the President made the communications and, at the end of the debate, gave the reply speech.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 
 ---
 
-### Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+### European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31316
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 169
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 172
 - **Unique ID:** `0705a29be4fa3fa7`
 
 #### Content:
 
 English
 |
-Italiano
-Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+Italian
+European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 11 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, questo pomeriggio ha tenuto alla Camera dei Deputati l'intervento di replica a seguito della discussione generale sulle Comunicazioni in vista del Consiglio europeo del 19 e 20 marzo 2026, nonché sugli sviluppi della crisi in Medio Oriente. In mattinata, al Senato della Repubblica, il Presidente ha reso le Comunicazioni e, al termine del dibattito, ha tenuto l'intervento di replica.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Le Comunicazioni del Presidente Meloni al Senato della Repubblica
-L'intervento di replica del Presidente Meloni al Senato della Repubblica
-L'intervento di replica del Presidente Meloni alla Camera dei Deputati
-Articoli Correlati
-Consiglio europeo del 19 e 20 marzo e crisi in Medio Oriente: le Comunicazioni del Presidente Meloni in Parlamento
+The Prime Minister, Giorgia Meloni, gave a reply speech this afternoon in the Chamber of Deputies following the general discussion on Communications in view of the European Council of 19 and 20 March 2026, as well as on the developments of the crisis in the Middle East. In the morning, in the Senate of the Republic, the President made the communications and, at the end of the debate, gave the reply speech.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+President Meloni's communications to the Senate of the Republic
+President Meloni's reply speech to the Senate of the Republic
+President Meloni's reply speech to the Chamber of Deputies
+Related Articles
+European Council of 19 and 20 March and crisis in the Middle East: President Meloni's communications in Parliament
 
 ---
 
-### Seconda riunione del gruppo di lavoro informale sulla competitività europea
+### Second meeting of the informal working group on European competitiveness
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31312
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 262
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 266
 - **Unique ID:** `a82b7322a66d280f`
 
 #### Content:
 
-In vista del Consiglio europeo del 19 e 20 marzo e alla luce dei più recenti sviluppi in Medio Oriente, il Presidente del Consiglio dei Ministri, Giorgia Meloni, il Cancelliere federale tedesco Friedrich Merz e il Primo Ministro belga Bart De Wever hanno ospitato una riunione in videoconferenza del gruppo di lavoro informale sui temi della competitività europea, inaugurato in occasione del
-ritiro dei Leader ad Alden Biesen
-dello scorso 12 febbraio.
-Insieme a Italia, Germania e Belgio, hanno preso parte alla videoconferenza la Commissione europea, Austria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Irlanda, Lettonia, Lituania, Malta, Paesi Bassi, Portogallo, Polonia, Repubblica Ceca, Romania, Spagna, Slovenia, Svezia e Slovacchia.
-La discussione si è in primo luogo concentrata sulle conseguenze di breve e medio termine del conflitto in corso sul mercato globale delle fonti energetiche e sulle possibili iniziative da promuovere rapidamente per contenere la spinta dei prezzi dell’energia.
-Il Presidente Meloni si è in particolare soffermata sulla necessità di una sospensione temporanea del meccanismo di tassazione del carbonio (ETS) sulla produzione di energia, in attesa di una rapida e più ampia revisione del meccanismo per affrontare anche i temi delle quote gratuite, della volatilità delle tariffe ETS nonché dell’interazione del meccanismo ETS con le regole del mercato elettrico europeo.
-Attenzione è stata anche riservata al completamento del Mercato unico e alla semplificazione regolatoria europea.
-I Leader hanno infine concordato di mantenersi in stretto contatto in vista del Consiglio europeo di marzo per mantenere alta l’attenzione sui temi della competitività e contribuire alla definizione di obiettivi concreti e scadenze precise nel testo delle Conclusioni.
+In view of the European Council of 19 and 20 March and in light of the most recent developments in the Middle East, the President of the Council of Ministers, Giorgia Meloni, the German Federal Chancellor Friedrich Merz and the Belgian Prime Minister Bart De Wever hosted a videoconference meeting of the informal working group on European competitiveness issues, inaugurated on the occasion of the
+Leaders' retreat in Alden Biesen
+of last February 12th.
+Together with Italy, Germany and Belgium, the European Commission, Austria, Cyprus, Croatia, Denmark, Estonia, Finland, Ireland, Latvia, Lithuania, Malta, the Netherlands, Portugal, Poland, the Czech Republic, Romania, Spain, Slovenia, Sweden and Slovakia took part in the video conference.
+The discussion firstly focused on the short and medium term consequences of the ongoing conflict on the global market of energy sources and on the possible initiatives to be promoted quickly to contain the pressure on energy prices.
+President Meloni focused in particular on the need for a temporary suspension of the carbon taxation mechanism (ETS) on energy production, pending a rapid and broader review of the mechanism to also address the issues of free quotas, the volatility of ETS tariffs as well as the interaction of the ETS mechanism with the rules of the European electricity market.
+Attention was also paid to the completion of the Single Market and European regulatory simplification.
+Finally, the Leaders agreed to keep in close contact in view of the European Council in March to maintain high attention on competitiveness issues and contribute to the definition of concrete objectives and precise deadlines in the text of the Conclusions.
 
 ---
 
-### Piano Mattei per l’Africa, riunione cabina di regia a Palazzo Chigi
+### Mattei Plan for Africa, control room meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31310
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 252
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 266
 - **Unique ID:** `fcc9c4ee7c0b3a32`
 
 #### Content:
 
-Si è svolta a Palazzo Chigi la quinta riunione della Cabina di regia del Piano Mattei per l’Africa, presieduta dal Vicepresidente del Consiglio dei Ministri e Ministro degli Esteri e della Cooperazione Internazionale, Antonio Tajani.
-Alla riunione hanno partecipato i membri di Governo componenti della Cabina di Regia, i Presidenti delle Commissioni Esteri di Camera e Senato, la Conferenza delle Regioni e delle Province autonome, l’Anci e un’ampia rappresentanza del Sistema Italia, degli Enti e delle società dello Stato e delle imprese a partecipazione pubblica, del mondo dell’università e della ricerca, del terzo settore, compresa una rappresentanza della diaspora in Italia, e della cooperazione e delle associazioni di categoria.
-Nel corso della riunione sono stati illustrati gli esiti del secondo Summit Italia-Africa, tenutosi ad Addis Abeba il 13 febbraio scorso. Nell’ottica della logica incrementale che caratterizza l’attuazione del Piano Mattei, è stato inoltre ricordato l’ampliamento a quattro nuove Nazioni – Gabon, Repubblica Democratica del Congo, Ruanda e Zambia – che porta a diciotto il numero complessivo di Nazioni coinvolte nei progetti.
-La riunione si è poi focalizzata sull’approfondimento dei progetti in corso nell’ambito di due verticali tematiche: la gestione delle risorse idriche, tema prioritario prescelto dall'Unione Africana per il 2026, e l'istruzione e formazione professionale, in sinergia con i numerosi attori italiani coinvolti. In tale ambito, infine, è stato ricordato che il prossimo giugno l'Italia co-presiederà a Roma assieme alla Nigeria il Vertice di chiusura del ciclo di rifinanziamento della "Global Partnership for Education", il principale partenariato internazionale per il rafforzamento dell'istruzione.
+The fifth meeting of the control room of the Mattei Plan for Africa took place at Palazzo Chigi, chaired by the Vice President of the Council of Ministers and Minister of Foreign Affairs and International Cooperation, Antonio Tajani.
+The meeting was attended by members of the Government who are members of the Control Room, the Presidents of the Foreign Affairs Commissions of the Chamber and Senate, the Conference of Regions and Autonomous Provinces, the ANCI and a broad representation of the Italian System, of the State bodies and companies and of publicly-owned companies, of the world of universities and research, of the third sector, including a representation of the diaspora in Italy, and of cooperation and trade associations.
+During the meeting, the results of the second Italy-Africa Summit, held in Addis Ababa on 13 February, were illustrated. From the perspective of the incremental logic that characterizes the implementation of the Mattei Plan, the expansion to four new Nations was also mentioned - Gabon, Democratic Republic of Congo, Rwanda and Zambia - which brings the total number of Nations involved in the projects to eighteen.
+The meeting then focused on in-depth analysis of ongoing projects in the context of two thematic verticals: the management of water resources, a priority theme chosen by the African Union for 2026, and professional education and training, in synergy with the numerous Italian actors involved. Finally, in this context, it was recalled that next June Italy will co-chair in Rome together with Nigeria the summit closing the refinancing cycle of the "Global Partnership for Education", the main international partnership for strengthening education.
 
 ---
 
-### Piano Mattei per l’Africa, riunione cabina di regia a Palazzo Chigi
+### Mattei Plan for Africa, control room meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31311
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 94
 - **Unique ID:** `399c89fbb6b5ed28`
 
@@ -1326,45 +1316,45 @@ La riunione si è poi focalizzata sull’approfondimento dei progetti in corso n
 
 English
 |
-Italiano
-Piano Mattei per l’Africa, riunione cabina di regia a Palazzo Chigi
+Italian
+Mattei Plan for Africa, control room meeting at Palazzo Chigi
 10 March 2026
-Si è svolta a Palazzo Chigi la quinta riunione della Cabina di regia del Piano Mattei per l’Africa, presieduta dal Vicepresidente del Consiglio dei Ministri e Ministro degli Esteri e della Cooperazione Internazionale, Antonio Tajani.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Piano Mattei per l’Africa, riunione cabina di regia a Palazzo Chigi
+The fifth meeting of the control room of the Mattei Plan for Africa took place at Palazzo Chigi, chaired by the Vice President of the Council of Ministers and Minister of Foreign Affairs and International Cooperation, Antonio Tajani.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Mattei Plan for Africa, control room meeting at Palazzo Chigi
 
 ---
 
-### Incontro del Presidente Meloni con Sviatlana Tsikhanouskaya
+### Meeting of President Meloni with Sviatlana Tsikhanouskaya
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31291
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 16
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 17
 - **Unique ID:** `36d0d8be3c4eab03`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto a Palazzo Chigi l'esponente dell'opposizione bielorussa, Sviatlana Tsikhanouskaya.
+The Prime Minister, Giorgia Meloni, received the representative of the Belarusian opposition, Sviatlana Tsikhanouskaya, at Palazzo Chigi.
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 643
 - **Unique ID:** `7ce80c52f1d6b4cc`
 
@@ -1435,331 +1425,329 @@ last »
 
 ---
 
-### Droghe: Mantovano a Vienna per la CDN, incontri con Carter (USA) e Nolan (Ue)
+### Drugs: Mantovano in Vienna for the CDN, meetings with Carter (USA) and Nolan (EU)
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31289
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 366
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 370
 - **Unique ID:** `2aa65427d84ac86e`
 
 #### Content:
 
-​Nell’ambito della missione a Vienna per l'apertura della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite, il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano ha avuto due colloqui bilaterali.
-​In primo luogo, con la sua omologa statunitense Sara Carter, Capo dell’ONDCP (Office of National Drug Control Policy), l’Ufficio per il controllo della droga incardinato presso la Casa Bianca, per condividere le preoccupazioni derivanti dai traffici internazionali di oppioidi sintetici, e in particolare di fentanyl, e definire una più intensa cooperazione nella prevenzione e nel contrasto al traffico medesimo e ai relativi precursori. Durante l’incontro, partendo dalla pluridecennale comune esperienza di lotta al narcotraffico e al riciclaggio, i due hanno concordato l’attuazione di nuovi protocolli per l’offerta di formazione alle forze di polizia dei Paesi dell’America Latina che ne facciano richiesta, mirato anche al ‘follow the money’, e iniziative congiunte di efficace comunicazione, rivolta soprattutto agli adolescenti. Mantovano ha rivolto a Carter l’invito a una visita in Italia per approfondire il nostro modello di trattamento delle dipendenze, che vede nella rete delle comunità terapeutiche un pilastro per il recupero e il reinserimento fondati sulla dignità della persona.
-Mantovano ha poi incontrato la nuova Direttrice esecutiva dell’Agenzia dell’Unione europea sulle droghe (EUDA), Lorraine Nolan. Nell’incontro sono stati illustrati i traguardi raggiunti dall’Italia sul fronte del contrasto alla diffusione di nuove sostanze, ed è stata condivisa la necessità che l’UE sostenga un approccio volto a privilegiare l’oggettività del dato scientifico, mettendo da parte condizionamenti ideologici e puntando sulle parole chiave ‘prevenzione e recupero’.
-​La giornata si è conclusa con il side event organizzato dall'Italia sulle misure di prevenzione contro l’uso improprio di fentanyl. “Due anni fa siamo stati tra le prime Nazioni ad approvare un piano nazionale di prevenzione del traffico di fentanyl. Abbiamo agito prima che questo fenomeno esplodesse in Italia”, ha dichiarato Mantovano, sottolineando come “i servizi di intelligence, le forze di polizia e l’Agenzia delle dogane” abbiano “potenziato il controllo sia sulle rotte che sulla rete web, poiché la conoscenza delle modalità di commercializzazione e pagamento è cruciale per contenere l’immissione sul mercato”. La delegazione italiana ha inoltre presentato l’esperienza della Regione Veneto come modello virtuoso di applicazione territoriale delle linee guida nazionali.
+​As part of the mission to Vienna for the opening of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations, the Undersecretary to the Presidency of the Council Alfredo Mantovano had two bilateral talks.
+First of all, with his US counterpart Sara Carter, Head of the ONDCP (Office of National Drug Control Policy), the Office for Drug Control based at the White House, to share the concerns arising from international trafficking in synthetic opioids, and in particular fentanyl, and define more intense cooperation in preventing and combating the trafficking itself and its precursors. During the meeting, starting from decades of common experience in the fight against drug trafficking and money laundering, the two agreed on the implementation of new protocols for the provision of training to the police forces of Latin American countries that request it, also aimed at 'follow the money', and joint initiatives of effective communication, aimed above all at adolescents. Mantovano extended an invitation to Carter to visit Italy to explore our model of addiction treatment, which sees the network of therapeutic communities as a pillar for recovery and reintegration based on the dignity of the person.
+Mantovano then met the new Executive Director of the European Union Drug Agency (EUDA), Lorraine Nolan. The meeting illustrated the goals achieved by Italy in terms of combating the spread of new substances, and shared the need for the EU to support an approach aimed at privileging the objectivity of scientific data, putting aside ideological conditioning and focusing on the key words 'prevention and recovery'.
+​The day ended with the side event organized by Italy on prevention measures against the improper use of fentanyl. "Two years ago we were among the first nations to approve a national plan for the prevention of fentanyl trafficking. We acted before this phenomenon exploded in Italy", declared Mantovano, underlining how "the intelligence services, the police forces and the Customs Agency" have "strengthened control both on the routes and on the web, since knowledge of the marketing and payment methods is crucial to contain the placing on the market". The Italian delegation also presented the experience of the Veneto Region as a virtuous model of territorial application of national guidelines.
 
 ---
 
-### Droghe: Mantovano a Vienna per la CDN, incontri con Carter (USA) e Nolan (Ue)
+### Drugs: Mantovano in Vienna for the CDN, meetings with Carter (USA) and Nolan (EU)
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31290
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 137
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 145
 - **Unique ID:** `738cb8a452a0c287`
 
 #### Content:
 
 English
 |
-Italiano
-Droghe: Mantovano a Vienna per la CDN, incontri con Carter (USA) e Nolan (Ue)
+Italian
+Drugs: Mantovano in Vienna for the CDN, meetings with Carter (USA) and Nolan (EU)
 9 March 2026
-​Nell’ambito della missione a Vienna per l'apertura della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite, il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano ha avuto due colloqui bilaterali: con la sua omologa statunitense Sara Carter, Capo dell’ONDCP (Office of National Drug Control Policy), l’Ufficio per il controllo della droga incardinato presso la Casa Bianca, e con la nuova Direttrice esecutiva dell’Agenzia dell’Unione europea sulle droghe (EUDA), Lorraine Nolan.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Droghe: Mantovano a Vienna per la CDN, incontri con Carter (USA) e Nolan (Ue)
+​As part of the mission to Vienna for the opening of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations, the Undersecretary to the Presidency of the Council Alfredo Mantovano had two bilateral talks: with his US counterpart Sara Carter, Head of the ONDCP (Office of National Drug Control Policy), the Office for Drug Control based at the White House, and with the new Executive Director of the European Union Agency on Drugs (EUDA), Lorraine Nolan.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Drugs: Mantovano in Vienna for the CDN, meetings with Carter (USA) and Nolan (EU)
 
 ---
 
-### Celebrazione della "Giornata Internazionale della Donna"
+### Celebration of "International Women's Day"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31283
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 19
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 17
 - **Unique ID:** `bbae8c41f685ede6`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Celebrazione della “Giornata Internazionale della Donna” al Palazzo del Quirinale.
+The Prime Minister, Giorgia Meloni, participated in the celebration of "International Women's Day" at the Quirinale Palace.
 
 ---
 
-### Celebrazione della "Giornata Internazionale della Donna"
+### Celebration of "International Women's Day"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31284
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 68
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 63
 - **Unique ID:** `9d4de527e0b91447`
 
 #### Content:
 
 English
 |
-Italiano
-Celebrazione della "Giornata Internazionale della Donna"
+Italian
+Celebration of "International Women's Day"
 9 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Celebrazione della “Giornata Internazionale della Donna” al Palazzo del Quirinale.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Celebrazione della "Giornata Internazionale della Donna"
+The Prime Minister, Giorgia Meloni, participated in the celebration of "International Women's Day" at the Quirinale Palace.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Celebration of "International Women's Day"
 
 ---
 
-### Droghe: il Sottosegretario Mantovano interviene alla plenaria della 69ª sessione CND a Vienna
+### Drugs: Undersecretary Mantovano speaks at the plenary of the 69th CND session in Vienna
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31281
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 89
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 90
 - **Unique ID:** `83e65ae29f6bd80f`
 
 #### Content:
 
-Il Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano, è intervenuto questa mattina a Vienna alla plenaria della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite.
-Nel corso del suo intervento, il Sottosegretario ha illustrato la posizione del Governo italiano sulle strategie internazionali di contrasto al narcotraffico e sull'importanza di un modello che metta al centro la prevenzione e il recupero sociale.
-In allegato il testo integrale dell'intervento in inglese, con traduzione di cortesia in italiano.
+The Undersecretary to the Presidency of the Council with responsibility for policies against drugs and other addictions, Alfredo Mantovano, spoke this morning in Vienna at the plenary of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations.
+During his speech, the Undersecretary illustrated the Italian Government's position on international strategies to combat drug trafficking and the importance of a model that places prevention and social recovery at the centre.
+Attached is the full text of the speech in English, with a courtesy translation into Italian.
 
 ---
 
-### Droghe: il Sottosegretario Mantovano alla 69ª sessione CND a Vienna
+### Drugs: Undersecretary Mantovano at the 69th CND session in Vienna
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31282
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 99
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 102
 - **Unique ID:** `149364a2a830aaa3`
 
 #### Content:
 
 English
 |
-Italiano
-Droghe: il Sottosegretario Mantovano alla 69ª sessione CND a Vienna
+Italian
+Drugs: Undersecretary Mantovano at the 69th CND session in Vienna
 9 March 2026
-Il Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano, è intervenuto questa mattina a Vienna alla plenaria della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Droghe: il Sottosegretario Mantovano interviene alla plenaria della 69ª sessione CND a Vienna
+The Undersecretary to the Presidency of the Council with responsibility for policies against drugs and other addictions, Alfredo Mantovano, spoke this morning in Vienna at the plenary of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Drugs: Undersecretary Mantovano speaks at the plenary of the 69th CND session in Vienna
 
 ---
 
-### Il Sottosegretario Mantovano alla 69ª sessione della Commission on Narcotic Drugs​ delle Nazioni Unite
+### Undersecretary Mantovano at the 69th session of the United Nations Commission on Narcotic Drugs
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31278
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 135
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 145
 - **Unique ID:** `682e1b4257dcd5b9`
 
 #### Content:
 
-Il Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano, interviene oggi a Vienna in occasione dell'apertura della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite, a partire dalle ore 10.00.
+The Undersecretary to the Presidency of the Council with responsibility for policies against drugs and other addictions, Alfredo Mantovano, speaks today in Vienna on the occasion of the opening of the 69th session of the Commission on Narcotic Drugs (CND) of the United Nations, starting at 10.00 am.
 ​
-Il Sottosegretario illustrerà in plenaria la posizione dell'Italia sulle strategie internazionali di contrasto al narcotraffico e sulle politiche di prevenzione e recupero.
+The Undersecretary will illustrate in the plenary session Italy's position on international strategies to combat drug trafficking and on prevention and recovery policies.
 ​
-Nel pomeriggio, alle 16.30, è previsto un side event organizzato dalla delegazione italiana dal titolo "Misure di prevenzione e monitoraggio contro l'uso improprio di fentanyl e altri oppioidi sintetici".
-Dopo l'apertura del Sottosegretario Mantovano, si confronteranno sul tema esperti tra cui Lorraine Nolan (EUDA), Roberto Moro (Argentina), Maria Silvia Varalta della Direzione Programmazione Sanitaria della Regione Veneto e Asma Fakhri (UNODC), sotto la moderazione di Justice Tettey (UNODC).
+In the afternoon, at 4.30 pm, a side event organized by the Italian delegation entitled "Prevention and monitoring measures against the improper use of fentanyl and other synthetic opioids" is scheduled.
+After the opening by Undersecretary Mantovano, experts including Lorraine Nolan (EUDA), Roberto Moro (Argentina), Maria Silvia Varalta of the Health Planning Directorate of the Veneto Region and Asma Fakhri (UNODC) will discuss the topic, under the moderation of Justice Tettey (UNODC).
 
 ---
 
-### Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026
+### Opening Ceremony of the XIV Paralympic Winter Games Milan Cortina 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31272
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 30
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 28
 - **Unique ID:** `83d332770fc1ce69`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026, presso l'Arena di Verona.
+The Prime Minister, Giorgia Meloni, participated in the Opening Ceremony of the XIV Milan Cortina 2026 Paralympic Winter Games, at the Verona Arena.
 [
-La Cerimonia di apertura
+The Opening Ceremony
 ]
 
 ---
 
-### Cerimonia di Apertura dei Giochi Paralimpici Invernali di Milano Cortina 2026
+### Opening Ceremony of the Milan Cortina 2026 Paralympic Winter Games
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31273
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 81
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 80
 - **Unique ID:** `195575251753a39b`
 
 #### Content:
 
 English
 |
-Italiano
-Cerimonia di Apertura dei Giochi Paralimpici Invernali di Milano Cortina 2026
+Italian
+Opening Ceremony of the Milan Cortina 2026 Paralympic Winter Games
 6 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, partecipaalla Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026, presso l'Arena di Verona.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026
+The Prime Minister, Giorgia Meloni, participates in the Opening Ceremony of the XIV Milan Cortina 2026 Paralympic Winter Games, at the Verona Arena.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Opening Ceremony of the XIV Paralympic Winter Games Milan Cortina 2026
 
 ---
 
-### Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026
+### Opening Ceremony of the XIV Paralympic Winter Games Milan Cortina 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31274
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 87
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 84
 - **Unique ID:** `0668aabe40fe3299`
 
 #### Content:
 
 English
 |
-Italiano
-Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026
+Italian
+Opening Ceremony of the XIV Paralympic Winter Games Milan Cortina 2026
 7 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026, presso l'Arena di Verona.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-La Cerimonia di apertura
-Articoli Correlati
-Cerimonia di Apertura dei XIV Giochi Paralimpici Invernali Milano Cortina 2026
+The Prime Minister, Giorgia Meloni, participated in the Opening Ceremony of the XIV Milan Cortina 2026 Paralympic Winter Games, at the Verona Arena.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The Opening Ceremony
+Related Articles
+Opening Ceremony of the XIV Paralympic Winter Games Milan Cortina 2026
 
 ---
 
-### Conversazione telefonica con il Presidente della Turchia Recep Erdoğan
+### Telephone conversation with the President of Türkiye Recep Erdoğan
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31266
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 111
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 117
 - **Unique ID:** `13e75179fa5b48f1`
 
 #### Content:
 
-Nel quadro dei continui contatti con i principali partner sulla crisi in Medio Oriente, il Presidente del Consiglio, Giorgia Meloni, ha avuto oggi una conversazione telefonica con il Presidente della Turchia Recep Tayyip Erdoğan.
-Il Presidente Meloni ha prima di tutto espresso la sua solidarietà e vicinanza alla Turchia, partner strategico dell’Italia e alleato NATO, a fronte dell’ingiustificabile attacco missilistico di cui è stata oggetto.
-I due Presidenti hanno quindi avuto uno scambio sull’evoluzione della situazione regionale, anche sulla base dei contatti tenuti negli scorsi giorni dal Presidente Meloni con i diversi attori mediorientali, e sull’impatto a livello globale della crisi.
-I due leader hanno concordato di mantenersi in stretto contatto.
+As part of the ongoing contacts with the main partners on the crisis in the Middle East, the Prime Minister, Giorgia Meloni, today had a telephone conversation with the President of Turkey Recep Tayyip Erdoğan.
+President Meloni first of all expressed his solidarity and closeness to Turkey, Italy's strategic partner and NATO ally, in the face of the unjustifiable missile attack to which it was subjected.
+The two Presidents then had an exchange on the evolution of the regional situation, also on the basis of the contacts held in recent days by President Meloni with the various Middle Eastern actors, and on the global impact of the crisis.
+The two leaders agreed to keep in close contact.
 
 ---
 
-### Colloquio telefonico del Presidente Meloni con il Presidente Zelensky
+### Telephone conversation between President Meloni and President Zelensky
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31263
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 159
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 155
 - **Unique ID:** `63a93325d3cc214c`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto oggi una conversazione telefonica con il Presidente dell’Ucraina, Volodymyr Zelensky.
-Il colloquio ha permesso un approfondito scambio di vedute sullo stato di avanzamento del processo per il raggiungimento di una pace giusta e duratura per l’Ucraina e sui prossimi passi da compiere, anche alla luce degli attuali sviluppi della crisi in Medio Oriente.
-I due leader hanno ribadito quanto, soprattutto in questa fase, sia indispensabile l’unità di vedute tra partner europei e americani e il riconoscimento del contributo europeo al processo di pace, il cui esito tocca interessi europei fondamentali ed è determinante per la stabilità e sicurezza del continente.
-Il Presidente Zelensky ha colto l’occasione per ringraziare nuovamente l’Italia per l’invio di forniture di emergenza a sostegno del settore energetico ucraino.
-In conclusione, il Presidente del Consiglio ha rinnovato la vicinanza dell’Italia alla nazione ucraina, assicurando che l’Italia manterrà un ruolo di primo piano nel percorso di ricostruzione del Paese.
+The Prime Minister, Giorgia Meloni, had a telephone conversation today with the President of Ukraine, Volodymyr Zelensky.
+The meeting allowed an in-depth exchange of views on the progress of the process for achieving a just and lasting peace for Ukraine and on the next steps to be taken, also in light of the current developments of the crisis in the Middle East.
+The two leaders reiterated how indispensable, especially at this stage, is unity of views between European and American partners and the recognition of the European contribution to the peace process, the outcome of which affects fundamental European interests and is decisive for the stability and security of the continent.
+President Zelensky took the opportunity to thank Italy again for sending emergency supplies to support the Ukrainian energy sector.
+In conclusion, the Prime Minister renewed Italy's closeness to the Ukrainian nation, ensuring that Italy will maintain a leading role in the country's reconstruction process.
 
 ---
 
-### Conversazione telefonica con il Presidente della Repubblica francese
+### Telephone conversation with the President of the French Republic
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31259
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 98
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 16
 - **Unique ID:** `f690ff606b092cdc`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con il Presidente della Repubblica francese, Emmanuel Macron.
-I due leader hanno discusso le implicazioni del conflitto in Iran sia sul quadro regionale mediorientale che a livello globale, concentrandosi in particolare sull’impatto delle ostilità sulla libertà di navigazione. Il Presidente Meloni e il Presidente Macron hanno anche ribadito il comune impegno per sostenere le Nazioni del Golfo colpite dagli ingiustificabili attacchi iraniani e la sicurezza di Cipro e a evitare un’escalation militare in Libano.
-I due leader hanno concordato di mantenersi in stretto contatto sull’evoluzione della crisi.
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ---
 
-### Incontro con il Ministro degli Esteri degli Emirati Arabi Uniti
+### Meeting with the Foreign Minister of the United Arab Emirates
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31253
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 22
 - **Unique ID:** `675205057cbd6c62`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi il Ministro degli Esteri degli Emirati Arabi Uniti Abdullah bin Zayed Al Nahyan.
+The Prime Minister, Giorgia Meloni, met the Foreign Minister of the United Arab Emirates Abdullah bin Zayed Al Nahyan at Palazzo Chigi.
 
 ---
 
-### Assegnazione della quota dell'Otto per mille dell’IRPEF a diretta gestione statale per l’anno 2024
+### Assignment of the eight per thousand share of IRPEF directly managed by the state for the year 2024
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31247
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 58
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 66
 - **Unique ID:** `ac78a0e1c5d6d18f`
 
 #### Content:
 
-Pubblicati i decreti del Presidente del Consiglio dei ministri di assegnazione della quota dell’otto per mille dell’IRPEF a diretta gestione statale per l’anno 2024 relativi alle seguenti categorie di intervento: “Assistenza ai rifugiati e ai minori stranieri non accompagnati”, “Calamità naturali”, “Conservazione dei beni culturali”, “Fame nel mondo”, “Prevenzione e recupero dalle tossicodipendenze e dalle altre dipendenze patologiche”.
+The decrees of the President of the Council of Ministers have been published for the allocation of the eight per thousand share of the IRPEF directly managed by the state for the year 2024 relating to the following categories of intervention: "Assistance to refugees and unaccompanied foreign minors", "Natural disasters", "Conservation of cultural heritage", "World hunger", "Prevention and recovery from drug addiction and other pathological addictions".
 
 ---
 
@@ -1768,15 +1756,15 @@ Pubblicati i decreti del Presidente del Consiglio dei ministri di assegnazione d
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31246
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 46
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 45
 - **Unique ID:** `0f80d130a0f8416e`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento al Convegno "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments". L'evento si è svolto a Roma, presso la sede centrale della Banca d'Italia a Palazzo Koch.
+The Prime Minister, Giorgia Meloni, gave a speech at the conference "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments". The event took place in Rome, at the headquarters of the Bank of Italy in Palazzo Koch.
 [
-L'intervento del Presidente Meloni
+President Meloni's speech
 ]
 
 ---
@@ -1786,29 +1774,29 @@ L'intervento del Presidente Meloni
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31256
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 101
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 99
 - **Unique ID:** `e9ceee69f0a343d7`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni al convegno "Laying the Groundwork for Jobs in Africa"
+Italian
+President Meloni at the conference "Laying the Groundwork for Jobs in Africa"
 4 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento al convegno "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments", che si è tenuto a Roma, presso la sede centrale della Banca d'Italia a Palazzo Koch.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Presidente Meloni al convegno "Laying the Groundwork for Jobs in Africa"
+The Prime Minister, Giorgia Meloni, gave a speech at the conference "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments", which was held in Rome, at the headquarters of the Bank of Italy in Palazzo Koch.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+President Meloni at the conference "Laying the Groundwork for Jobs in Africa"
 
 ---
 
@@ -1817,564 +1805,564 @@ Il Presidente Meloni al convegno "Laying the Groundwork for Jobs in Africa"
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31249
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 89
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 86
 - **Unique ID:** `8c5a3dc8c26821b7`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni al convegno "Laying the Groundwork for Jobs in Africa"
+Italian
+President Meloni at the conference "Laying the Groundwork for Jobs in Africa"
 4 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento al Convegno "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments".
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'intervento del Presidente Meloni
-Articoli Correlati
-Il Presidente Meloni al convegno "Laying the Groundwork for Jobs in Africa"
+The Prime Minister, Giorgia Meloni, gave a speech at the conference "Laying the Groundwork for Jobs in Africa: Core Infrastructure & Business Environments".
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+President Meloni's speech
+Related Articles
+President Meloni at the conference "Laying the Groundwork for Jobs in Africa"
 
 ---
 
-### Crisi in Medio Oriente, il Presidente Meloni presiede un nuovo vertice a Palazzo Chigi
+### Crisis in the Middle East, President Meloni presides over a new summit at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31240
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 111
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 120
 - **Unique ID:** `ab4a99169f01a2f0`
 
 #### Content:
 
-Si è svolto a Palazzo Chigi un nuovo vertice dedicato all’analisi degli sviluppi della crisi in Medio Oriente e alle relative implicazioni economiche, presieduto dal Presidente del Consiglio, Giorgia Meloni.
-Alla riunione hanno partecipato il Vicepresidente del Consiglio e Ministro degli Affari Esteri Antonio Tajani, il Vicepresidente del Consiglio e Ministro delle Infrastrutture e dei Trasporti Matteo Salvini (collegato da remoto), il Ministro della Difesa Guido Crosetto, il Ministro dell’Economia e delle Finanze Giancarlo Giorgetti, i Sottosegretari alla Presidenza del Consiglio, Alfredo Mantovano e Giovanbattista Fazzolari, e i vertici dell’intelligence.
-Nella giornata di domani, giovedì 5 marzo, i Ministri Tajani e Crosetto riferiranno alle Camere in merito all’evoluzione del quadro internazionale.
+A new summit dedicated to the analysis of the developments of the crisis in the Middle East and the related economic implications, chaired by the Prime Minister, Giorgia Meloni, took place at Palazzo Chigi.
+The meeting was attended by the Vice President of the Council and Minister of Foreign Affairs Antonio Tajani, the Vice President of the Council and Minister of Infrastructure and Transport Matteo Salvini (connected remotely), the Minister of Defense Guido Crosetto, the Minister of Economy and Finance Giancarlo Giorgetti, the Undersecretaries to the Presidency of the Council, Alfredo Mantovano and Giovanbattista Fazzolari, and the top intelligence officials.
+Tomorrow, Thursday 5 March, Ministers Tajani and Crosetto will report to the Chambers on the evolution of the international framework.
 
 ---
 
-### Relazione sulla politica dell’informazione per la sicurezza - anno 2025
+### Report on information policy for security - year 2025
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31237
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 89
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 103
 - **Unique ID:** `ed1cab0350ceecb1`
 
 #### Content:
 
-Il Sottosegretario alla Presidenza del Consiglio - Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, ha tenuto un intervento alla presentazione della Relazione annuale sulla politica dell’informazione per la sicurezza relativa all’anno 2025. L'evento si è svolto a Roma presso l'Aula dei Gruppi Parlamentari alla presenza del Presidente della Camera dei Deputati, Lorenzo Fontana, del Direttore generale del DIS, Vittorio Rizzi, del Presidente del COPASIR, Lorenzo Guerini, del Direttore dell'AISE, Giovanni Caravelli, ed il Direttore dell'AISI, Bruno Valensise.
+The Undersecretary to the Presidency of the Council - Delegated Authority for the Security of the Republic, Alfredo Mantovano, gave a speech at the presentation of the Annual Report on information policy for security relating to the year 2025. The event took place in Rome in the Hall of Parliamentary Groups in the presence of the President of the Chamber of Deputies, Lorenzo Fontana, of the Director General of the DIS, Vittorio Rizzi, of the President of COPASIR, Lorenzo Guerini, of the Director of AISE, Giovanni Caravelli, and the Director of AISI, Bruno Valensise.
 [
-Relazione annuale sulla politica dell’informazione per la sicurezza
+Annual report on information policy for security
 ]
 
 ---
 
-### Relazione annuale sulla politica dell’informazione per la sicurezza
+### Annual report on information policy for security
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31239
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 131
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 143
 - **Unique ID:** `b7897b2e59f944bd`
 
 #### Content:
 
-Relazione annuale sulla politica dell’informazione per la sicurezza
+Annual report on information policy for security
 4 March 2026
-Il Sottosegretario alla Presidenza del Consiglio - Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, ha tenuto un intervento alla presentazione della Relazione annuale sulla politica dell’informazione per la sicurezza relativa all’anno 2025. L'evento si è svolto a Roma presso l'Aula dei Gruppi Parlamentari alla presenza del Presidente della Camera dei Deputati, Lorenzo Fontana, del Direttore generale del DIS, Vittorio Rizzi, del Presidente del COPASIR, Lorenzo Guerini, del Direttore dell'AISE, Giovanni Caravelli, ed il Direttore dell'AISI, Bruno Valensise.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Relazione sulla politica dell’informazione per la sicurezza - anno 2025
+The Undersecretary to the Presidency of the Council - Delegated Authority for the Security of the Republic, Alfredo Mantovano, gave a speech at the presentation of the Annual Report on information policy for security relating to the year 2025. The event took place in Rome in the Hall of Parliamentary Groups in the presence of the President of the Chamber of Deputies, Lorenzo Fontana, of the Director General of the DIS, Vittorio Rizzi, of the President of COPASIR, Lorenzo Guerini, of the Director of AISE, Giovanni Caravelli, and the Director of AISI, Bruno Valensise.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Report on information policy for security - year 2025
 
 ---
 
-### Relazione annuale sulla politica dell’informazione per la sicurezza
+### Annual report on information policy for security
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31238
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 139
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 150
 - **Unique ID:** `99afe844a5b9ba71`
 
 #### Content:
 
-Relazione annuale sulla politica dell’informazione per la sicurezza
+Annual report on information policy for security
 4 March 2026
-Il Sottosegretario alla Presidenza del Consiglio - Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, ha tenuto un intervento alla presentazione della Relazione annuale sulla politica dell’informazione per la sicurezza relativa all’anno 2025. L'evento si è svolto a Roma presso l'Aula dei Gruppi Parlamentari alla presenza del Presidente della Camera dei Deputati, Lorenzo Fontana, del Direttore generale del DIS, Vittorio Rizzi, del Presidente del COPASIR, Lorenzo Guerini, del Direttore dell'AISE, Giovanni Caravelli, ed il Direttore dell'AISI, Bruno Valensise.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Relazione annuale sulla politica dell’informazione per la sicurezza
-Articoli Correlati
-Relazione sulla politica dell’informazione per la sicurezza - anno 2025
+The Undersecretary to the Presidency of the Council - Delegated Authority for the Security of the Republic, Alfredo Mantovano, gave a speech at the presentation of the Annual Report on information policy for security relating to the year 2025. The event took place in Rome in the Hall of Parliamentary Groups in the presence of the President of the Chamber of Deputies, Lorenzo Fontana, of the Director General of the DIS, Vittorio Rizzi, of the President of COPASIR, Lorenzo Guerini, of the Director of AISE, Giovanni Caravelli, and the Director of AISI, Bruno Valensise.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Annual report on information policy for security
+Related Articles
+Report on information policy for security - year 2025
 
 ---
 
-### Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+### President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31228
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 65
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 62
 - **Unique ID:** `d7cd3284e3659a19`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento, con i Ministri Eugenia Roccella (Famiglia, Natalità e Pari opportunità) ed Andrea Abodi (Sport e Giovani), all'incontro "Voto alle donne. La democrazia italiana compie ottant’anni". L'evento si è svolto a Roma presso l'Accademia della Scherma, Casa delle Armi, Parco del Foro Italico.
+The Prime Minister, Giorgia Meloni, gave a speech, with the Ministers Eugenia Roccella (Family, Natality and Equal Opportunities) and Andrea Abodi (Sport and Youth), at the meeting "Vote for women. Italian democracy turns eighty". The event took place in Rome at the Fencing Academy, Casa delle Armi, Foro Italico Park.
 [
-Gli interventi dei Ministri Roccella e Abodi e del Presidente Meloni
+The speeches of Ministers Roccella and Abodi and President Meloni
 ]
 
 ---
 
-### Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+### President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31235
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 96
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 94
 - **Unique ID:** `e92aa7fde2040bd7`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+Italian
+President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 3 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento, con i Ministri Eugenia Roccella (Famiglia, Natalità e Pari opportunità) ed Andrea Abodi (Sport e Giovani), all'incontro "Voto alle donne. La democrazia italiana compie ottant’anni".
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+The Prime Minister, Giorgia Meloni, gave a speech, with the Ministers Eugenia Roccella (Family, Natality and Equal Opportunities) and Andrea Abodi (Sport and Youth), at the meeting "Vote for women. Italian democracy turns eighty".
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 
 ---
 
-### Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+### President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31232
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 107
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 104
 - **Unique ID:** `57bf9c94c1eb8a0a`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+Italian
+President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 3 March 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha tenuto un intervento, con i Ministri Eugenia Roccella (Famiglia, Natalità e Pari opportunità) ed Andrea Abodi (Sport e Giovani), all'incontro "Voto alle donne. La democrazia italiana compie ottant’anni".
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Gli interventi dei Ministri Roccella e Abodi e del Presidente Meloni
-Articoli Correlati
-Il Presidente Meloni all'incontro “Voto alle Donne. La democrazia italiana compie ottant’anni”
+The Prime Minister, Giorgia Meloni, gave a speech, with the Ministers Eugenia Roccella (Family, Natality and Equal Opportunities) and Andrea Abodi (Sport and Youth), at the meeting "Vote for women. Italian democracy turns eighty".
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The speeches of Ministers Roccella and Abodi and President Meloni
+Related Articles
+President Meloni at the meeting "Vote for Women. Italian democracy turns eighty"
 
 ---
 
-### Medio Oriente, il Presidente Meloni presiede due riunioni di Governo
+### Middle East, President Meloni chairs two Government meetings
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31230
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 153
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 167
 - **Unique ID:** `a8ece842ae0f1c56`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha presieduto due riunioni di Governo dedicate agli sviluppi della crisi in Medio Oriente. Al primo incontro hanno partecipato il Vicepresidente e Ministro degli Esteri Antonio Tajani, il Ministro della Difesa Guido Crosetto, il Ministro dell’Ambiente e della Sicurezza Energetica Gilberto Pichetto Fratin e i Sottosegretari alla Presidenza del Consiglio Alfredo Mantovano e Giovanbattista Fazzolari.
-La riunione si è focalizzata sugli ultimi sviluppi della crisi, con particolare attenzione alle ulteriori misure per assistere e garantire la sicurezza dei cittadini italiani presenti nelle aree coinvolte, ribadendo il massimo impegno dell’Esecutivo.
-Nel secondo incontro, a cui si sono aggiunti gli amministratori delegati di Eni Claudio Descalzi e di Snam Agostino Scornajenchi, è stato inoltre affrontato il tema della sicurezza energetica, con un’analisi dell’impatto attuale e potenziale delle ostilità sui mercati dell’energia e sull’economia, nonché delle possibili azioni di mitigazione che il Governo potrebbe adottare nel breve e medio periodo.
+The Prime Minister, Giorgia Meloni, chaired two Government meetings dedicated to the developments of the crisis in the Middle East. The first meeting was attended by the Vice President and Minister of Foreign Affairs Antonio Tajani, the Minister of Defense Guido Crosetto, the Minister of the Environment and Energy Security Gilberto Pichetto Fratin and the Undersecretaries to the Presidency of the Council Alfredo Mantovano and Giovanbattista Fazzolari.
+The meeting focused on the latest developments of the crisis, with particular attention to further measures to assist and guarantee the safety of Italian citizens present in the areas involved, reiterating the maximum commitment of the Executive.
+In the second meeting, which was joined by the CEOs of Eni Claudio Descalzi and Snam Agostino Scornajenchi, the topic of energy security was also addressed, with an analysis of the current and potential impact of hostilities on the energy markets and on the economy, as well as the possible mitigation actions that the Government could adopt in the short and medium term.
 
 ---
 
-### Medio Oriente, proseguono i contatti del Presidente Meloni con i leader della regione
+### Middle East, President Meloni's contacts with the leaders of the region continue
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31223
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 167
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 171
 - **Unique ID:** `4a28f77990547c8a`
 
 #### Content:
 
-Anche nel corso della giornata odierna sono proseguiti i contatti del Presidente del Consiglio, Giorgia Meloni, con i leader della regione mediorientale, a partire dalle conversazioni telefoniche intercorse con il Re di Giordania e il Sultano dell’Oman, che si aggiungono ai numerosi contatti già avuti nella giornata di ieri con le restanti autorità delle Nazioni del Golfo.
-Il Presidente Meloni ha inoltre avuto colloqui con la Presidente della Commissione europea, Ursula von der Leyen, e con il Presidente della Repubblica di Cipro, Nikos Christodoulidīs, in qualità di Presidenza di turno del Consiglio dell’Unione europea.
-Il Presidente del Consiglio ha quindi relazionato il Presidente della Repubblica, Sergio Mattarella, aggiornandolo compiutamente sugli sviluppi della situazione e sui contatti intercorsi.
-In parallelo, continua il costante coordinamento con il Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, in merito alla situazione dei connazionali residenti e in transito nella regione, a cui si rinnova l’invito alla massima prudenza e a osservare le indicazioni che provengono dall’Unità di crisi della Farnesina.
+Even today, the contacts of the Prime Minister, Giorgia Meloni, continued with the leaders of the Middle Eastern region, starting from the telephone conversations held with the King of Jordan and the Sultan of Oman, which are added to the numerous contacts already had yesterday with the remaining authorities of the Gulf Nations.
+President Meloni also held talks with the President of the European Commission, Ursula von der Leyen, and with the President of the Republic of Cyprus, Nikos Christodoulidīs, in his capacity as rotating Presidency of the Council of the European Union.
+The Prime Minister then reported to the President of the Republic, Sergio Mattarella, fully updating him on the developments of the situation and the contacts that have taken place.
+In parallel, constant coordination continues with the Minister of Foreign Affairs and International Cooperation, Antonio Tajani, regarding the situation of compatriots residing and in transit in the region, to whom the invitation to exercise maximum prudence and to observe the indications coming from the Farnesina Crisis Unit is renewed.
 
 ---
 
-### Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+### Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31217
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 297
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 294
 - **Unique ID:** `8fc7a958e0713210`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, continua a seguire da vicino gli sviluppi in Medio Oriente e ha presieduto questa sera a Palazzo Chigi una nuova riunione, cui hanno preso parte il Vice Presidente e Ministro degli Esteri Antonio Tajani e il Sottosegretario Alfredo Mantovano; in collegamento telefonico il Vice Presidente Matteo Salvini, il Ministro della Difesa Guido Crosetto, il Sottosegretario Giovanbattista Fazzolari. Presenti i vertici dell’Intelligence.
-La riunione ha consentito un’aggiornata valutazione della situazione di sicurezza per i connazionali presenti nella Regione che è oggetto, fin da questa mattina, di un costante monitoraggio ed assistenza da parte dell’Unità di Crisi e su cui ha riferito il Ministro degli Esteri, Antonio Tajani.
-Il Presidente del Consiglio ha inoltre condiviso le valutazioni raccolte nel pomeriggio nei numerosi contatti telefonici avuti con alcuni partner europei, a partire dal Cancelliere Merz e dal Primo Ministro Starmer oltre che con il Re del Bahrein, l’Emiro del Kuwait, il Presidente degli Emirati Arabi Uniti, l’Emiro del Qatar e il Principe Ereditario e Primo Ministro dell’Arabia Saudita. Sono in corso ulteriori contatti con il Sultano dell’Oman e il Re di Giordania. In serata e domani si terranno ulteriori contatti con i nostri partner nelle riunioni previste a livello dei Ministri degli Esteri in ambito sia G7 che di Unione europea.
-Ai leader del Golfo il Presidente Meloni ha espresso la vicinanza del Governo italiano e la condanna degli ingiustificabili attacchi subiti dalle loro Nazioni.
-Il Governo, come già in passato, continuerà a impegnarsi con i partner europei, regionali e internazionali per una soluzione a favore della stabilità della Regione e al contempo ha rinnovato la sua vicinanza alla popolazione civile iraniana che, con coraggio, nelle scorse settimane ha richiesto il rispetto dei suoi diritti civili e politici, subendo una repressione violenta e ingiustificabile.
+The Prime Minister, Giorgia Meloni, continues to closely follow developments in the Middle East and chaired a new meeting this evening at Palazzo Chigi, attended by the Vice President and Foreign Minister Antonio Tajani and the Undersecretary Alfredo Mantovano; in telephone connection the Vice President Matteo Salvini, the Minister of Defense Guido Crosetto, the Undersecretary Giovanbattista Fazzolari. Intelligence leaders present.
+The meeting allowed an updated assessment of the security situation for compatriots present in the Region which has been the subject, since this morning, of constant monitoring and assistance by the Crisis Unit and on which the Minister of Foreign Affairs, Antonio Tajani, reported.
+The Prime Minister also shared the assessments collected in the afternoon in the numerous telephone contacts he had with some European partners, starting with Chancellor Merz and Prime Minister Starmer as well as with the King of Bahrain, the Emir of Kuwait, the President of the United Arab Emirates, the Emir of Qatar and the Crown Prince and Prime Minister of Saudi Arabia. Further contacts are underway with the Sultan of Oman and the King of Jordan. In the evening and tomorrow, further contacts will be held with our partners in the meetings planned at the level of Foreign Ministers within both the G7 and the European Union.
+President Meloni expressed the Italian Government's closeness to the Gulf leaders and condemned the unjustifiable attacks suffered by their nations.
+The Government, as in the past, will continue to engage with European, regional and international partners for a solution in favor of the stability of the Region and at the same time has renewed its closeness to the Iranian civilian population who, with courage, in recent weeks has requested respect for their civil and political rights, suffering a violent and unjustifiable repression.
 
 ---
 
-### Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+### Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31219
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 114
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 105
 - **Unique ID:** `9ed750efd528db67`
 
 #### Content:
 
 English
 |
-Italiano
-Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+Italian
+Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 28 February 2026
-Il Presidente Meloni ha presieduto in serata a Palazzo Chigi una nuova riunione sugli sviluppi in Medio Oriente, cui hanno preso parte il Vice Presidente e Ministro degli Esteri Tajani e il Sottosegretario Mantovano; in collegamento telefonico il Vice Presidente Salvini, il Ministro della Difesa Crosetto, il Sottosegretario Fazzolari. Presenti i vertici dell’Intelligence.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+In the evening, President Meloni chaired a new meeting on developments in the Middle East at Palazzo Chigi, attended by Vice President and Foreign Minister Tajani and Undersecretary Mantovano; in telephone connection the Vice President Salvini, the Minister of Defense Crosetto, the Undersecretary Fazzolari. Intelligence leaders present.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 
 ---
 
-### Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+### Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31218
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 114
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 106
 - **Unique ID:** `a8579254576e6bea`
 
 #### Content:
 
 English
 |
-Italiano
-Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+Italian
+Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 28 February 2026
-Il Presidente Meloni  ha presieduto in serata a Palazzo Chigi una nuova riunione sugli sviluppi in Medio Oriente, cui hanno preso parte il Vice Presidente e Ministro degli Esteri Tajani e il Sottosegretario Mantovano; in collegamento telefonico il Vice Presidente Salvini, il Ministro della Difesa Crosetto, il Sottosegretario Fazzolari. Presenti i vertici dell’Intelligence.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi
+President Meloni  chaired a new meeting in the evening at Palazzo Chigi on developments in the Middle East, attended by the Vice President and Foreign Minister Tajani and Undersecretary Mantovano; in telephone connection the Vice President Salvini, the Minister of Defense Crosetto, the Undersecretary Fazzolari. Intelligence leaders present.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Middle East, President Meloni chairs a new meeting at Palazzo Chigi
 
 ---
 
-### Medio Oriente, il Presidente Meloni presiede una conferenza telefonica
+### Middle East, President Meloni chairs a telephone conference
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31215
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 164
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 165
 - **Unique ID:** `fdcbb591b84e48a2`
 
 #### Content:
 
-Alla luce degli ultimi sviluppi in Medio Oriente, il Presidente del Consiglio, Giorgia Meloni, ha presieduto questa mattina una conferenza telefonica, cui hanno preso parte il Vicepresidente e Ministro degli Esteri Antonio Tajani, il Vicepresidente Matteo Salvini, il Ministro della Difesa Guido Crosetto, i Sottosegretari Alfredo Mantovano e Giovanbattista Fazzolari e i vertici dell’Intelligence.
-Nel corso della conversazione è stata analizzata la situazione nel suo complesso, a partire dalla sicurezza dei cittadini italiani presenti in Medio Oriente.
-Il Governo invita tutti i connazionali alla massima prudenza e a seguire con attenzione le indicazioni fornite dalle Ambasciate d’Italia nella regione e dalla Farnesina.
-In questo momento particolarmente difficile, l’Italia rinnova la propria vicinanza alla popolazione civile iraniana che con coraggio continua a richiedere il rispetto dei suoi diritti civili e politici.
-Il Presidente del Consiglio si terrà in contatto con i principali alleati e leader della regione già a partire dalle prossime ore per sostenere ogni iniziativa che possa condurre a un allentamento delle tensioni.
+In light of the latest developments in the Middle East, the Prime Minister, Giorgia Meloni, chaired a telephone conference this morning, attended by the Vice President and Minister of Foreign Affairs Antonio Tajani, the Vice President Matteo Salvini, the Minister of Defense Guido Crosetto, the Undersecretaries Alfredo Mantovano and Giovanbattista Fazzolari and the heads of Intelligence.
+During the conversation, the situation as a whole was analyzed, starting from the safety of Italian citizens present in the Middle East.
+The Government invites all compatriots to exercise maximum caution and to carefully follow the instructions provided by the Italian Embassies in the region and by the Farnesina.
+In this particularly difficult moment, Italy renews its closeness to the Iranian civilian population who courageously continues to demand respect for their civil and political rights.
+The Prime Minister will be in contact with the main allies and leaders of the region starting in the next few hours to support any initiative that could lead to an easing of tensions.
 
 ---
 
-### Incidente a Milano, il cordoglio del Presidente Meloni
+### Accident in Milan, President Meloni's condolences
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31213
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 50
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 57
 - **Unique ID:** `b609fa2469b2629f`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, esprime profondo cordoglio per il grave incidente avvenuto a Milano. A titolo personale e a nome dell’intero Governo, manifesta la propria vicinanza alle famiglie delle vittime, esprime solidarietà alla città di Milano e rivolge un sentito augurio di pronta e completa guarigione ai feriti.
+The Prime Minister, Giorgia Meloni, expresses deep condolences for the serious accident that occurred in Milan. On a personal basis and on behalf of the entire Government, he expresses his closeness to the families of the victims, expresses solidarity with the city of Milan and extends heartfelt wishes for a speedy and complete recovery to the injured.
 
 ---
 
-### Corinaldo, incontro con i familiari delle vittime a Palazzo Chigi
+### Corinaldo, meeting with the victims' families at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31212
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 158
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 164
 - **Unique ID:** `302b91c7fd209e06`
 
 #### Content:
 
-Il Segretario Generale della Presidenza del Consiglio dei Ministri, Carlo Deodato, ha incontrato oggi a Palazzo Chigi i familiari delle vittime della tragedia di Corinaldo, avvenuta nella notte tra il 7 e l’8 dicembre 2018 nella discoteca “Lanterna Azzurra” e in cui persero la vita 6 persone, mentre altre 59 rimasero ferite.
-Il Segretario Generale ha rinnovato la profonda vicinanza del Presidente del Consiglio Giorgia Meloni e ha assicurato il sostegno e l’attenzione di Palazzo Chigi. È stato un momento di ascolto, durante il quale i familiari hanno rinnovato l'appello a non dimenticare la vicenda e hanno sottolineato l'importanza di mantenere alto l'impegno per garantire la sicurezza nei locali e nei luoghi di aggregazione. Nel corso del colloquio, i familiari hanno inoltre espresso l’auspicio che possa concludersi rapidamente l’iter parlamentare per l'istituzione della "Giornata nazionale per il diritto al divertimento in sicurezza". Infine, il Segretario Generale ha assicurato la disponibilità a mantenere un dialogo costante con i familiari.
+The General Secretary of the Presidency of the Council of Ministers, Carlo Deodato, met today at Palazzo Chigi with the families of the victims of the Corinaldo tragedy, which occurred on the night between 7 and 8 December 2018 in the "Lanterna Azzurra" nightclub and in which 6 people lost their lives, while another 59 were injured.
+The General Secretary renewed the deep closeness of the Prime Minister Giorgia Meloni and assured the support and attention of Palazzo Chigi. It was a moment of listening, during which the family members renewed their appeal not to forget the story and underlined the importance of maintaining a high level of commitment to guarantee safety in premises and gathering places. During the conversation, the family members also expressed the hope that the parliamentary process for the establishment of the "National Day for the Right to Safe Entertainment" can be concluded quickly. Finally, the Secretary General assured his willingness to maintain a constant dialogue with the family members.
 
 ---
 
-### Corinaldo, incontro con i familiari delle vittime a Palazzo Chigi
+### Corinaldo, meeting with the victims' families at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31211
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 106
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 108
 - **Unique ID:** `3d1c8f2f9ac19447`
 
 #### Content:
 
-Corinaldo, incontro con i familiari delle vittime a Palazzo Chigi
+Corinaldo, meeting with the victims' families at Palazzo Chigi
 27 February 2026
-Il Segretario Generale della Presidenza del Consiglio dei Ministri, Carlo Deodato, ha incontrato oggi a Palazzo Chigi i familiari delle vittime della tragedia di Corinaldo, avvenuta nella notte tra il 7 e l’8 dicembre 2018 nella discoteca “Lanterna Azzurra” e in cui persero la vita 6 persone, mentre altre 59 rimasero ferite.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Corinaldo, incontro con i familiari delle vittime a Palazzo Chigi
+The General Secretary of the Presidency of the Council of Ministers, Carlo Deodato, met today at Palazzo Chigi with the families of the victims of the Corinaldo tragedy, which occurred on the night between 7 and 8 December 2018 in the "Lanterna Azzurra" nightclub and in which 6 people lost their lives, while another 59 were injured.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Corinaldo, meeting with the victims' families at Palazzo Chigi
 
 ---
 
-### Incontro con il Presidente della Repubblica di Cipro
+### Meeting with the President of the Republic of Cyprus
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31196
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 58
 - **Unique ID:** `26c7bd90e3d441e5`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi il Presidente della Repubblica di Cipro, Nikos Christodoulidīs. Al termine dell'incontro i due Leader, hanno rilasciato le dichiarazioni congiunte alla stampa.
+The Prime Minister, Giorgia Meloni, met the President of the Republic of Cyprus, Nikos Christodoulidīs, at Palazzo Chigi. At the end of the meeting the two leaders released joint statements to the press.
 [
-L'incontro a Palazzo Chigi
+The meeting at Palazzo Chigi
 ]
 [
-Dichiarazioni congiunte alla stampa - traduzione simultanea e LIS
+Joint press statements - simultaneous translation and LIS
 ]
 [
-Dichiarazioni congiunte alla stampa - audio originale
+Joint press statements - original audio
 ]
 
 ---
 
-### Incontro con il Presidente della Repubblica di Cipro
+### Meeting with the President of the Republic of Cyprus
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31200
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 85
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 87
 - **Unique ID:** `271f2b011448292f`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Presidente della Repubblica di Cipro
+Italian
+Meeting with the President of the Republic of Cyprus
 26 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi il Presidente della Repubblica di Cipro, Nikos Christodoulidīs. Al termine dell'incontro i due Leader, hanno rilasciato le dichiarazioni congiunte alla stampa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con il Presidente della Repubblica di Cipro
+The Prime Minister, Giorgia Meloni, met the President of the Republic of Cyprus, Nikos Christodoulidīs, at Palazzo Chigi. At the end of the meeting the two leaders released joint statements to the press.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the President of the Republic of Cyprus
 
 ---
 
-### Incontro con il Presidente della Repubblica di Cipro
+### Meeting with the President of the Republic of Cyprus
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31198
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 107
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 112
 - **Unique ID:** `f782e6d6f5e65eec`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Presidente della Repubblica di Cipro
+Italian
+Meeting with the President of the Republic of Cyprus
 26 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi il Presidente della Repubblica di Cipro, Nikos Christodoulidīs. Al termine dell'incontro i due Leader, hanno rilasciato le dichiarazioni congiunte alla stampa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Dichiarazioni alla stampa Meloni - Christodoulidīs (traduzione simultanea e LIS)
-Dichiarazioni alla stampa Meloni - Christodoulidīs (audio originale)
-L'incontro a Palazzo Chigi
-Articoli Correlati
-Incontro con il Presidente della Repubblica di Cipro
+The Prime Minister, Giorgia Meloni, met the President of the Republic of Cyprus, Nikos Christodoulidīs, at Palazzo Chigi. At the end of the meeting the two Leaders released joint statements to the press.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Statements to the press Meloni - Christodoulidīs (simultaneous translation and LIS)
+Statements to the press Meloni - Christodoulidīs (original audio)
+The meeting at Palazzo Chigi
+Related Articles
+Meeting with the President of the Republic of Cyprus
 
 ---
 
-### La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+### The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31188
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 49
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 50
 - **Unique ID:** `c57e1e1dd5381b4b`
 
 #### Content:
 
-In occasione del quarto anniversario dell’invasione dell’Ucraina da parte della Russia, la facciata principale di Palazzo Chigi è illuminata con i colori nazionali dell’Ucraina fino alle ore 23:59 di oggi, con interruzione nelle ore diurne.
+On the occasion of the fourth anniversary of Russia's invasion of Ukraine, the main facade of Palazzo Chigi is illuminated with the national colors of Ukraine until 11.59 pm today, with interruption during daylight hours.
 [
-La facciata di Palazzo Chigi illuminata con i colori della Bandiera dell'Ucraina
+The facade of Palazzo Chigi illuminated with the colors of the Ukrainian flag
 ]
 
 ---
 
-### La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+### The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31189
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 94
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 99
 - **Unique ID:** `72f9ef343e13290c`
 
 #### Content:
 
 English
 |
-Italiano
-La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+Italian
+The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 24 February 2026
-In occasione del quarto anniversario dell’invasione dell’Ucraina da parte della Russia, la facciata principale di Palazzo Chigi è illuminata con i colori nazionali dell’Ucraina fino alle ore 23:59 del 24 febbraio.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+On the occasion of the fourth anniversary of Russia's invasion of Ukraine, the main facade of Palazzo Chigi is illuminated with the national colors of Ukraine until 11.59pm on 24 February.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 
 ---
 
-### La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+### The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31190
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 102
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 108
 - **Unique ID:** `500e42f463ab3483`
 
 #### Content:
 
-La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 24 February 2026
-In occasione del quarto anniversario dell’invasione dell’Ucraina da parte della Russia, la facciata principale di Palazzo Chigi è illuminata con i colori nazionali dell’Ucraina fino alle ore 23:59 del 24 febbraio.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-La facciata di Palazzo Chigi con i colori della Bandiera dell'Ucraina
-Articoli Correlati
-La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasione dell'Ucraina
+On the occasion of the fourth anniversary of Russia's invasion of Ukraine, the main facade of Palazzo Chigi is illuminated with the national colors of Ukraine until 11.59pm on 24 February.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The facade of Palazzo Chigi with the colors of the Ukrainian flag
+Related Articles
+The facade of Palazzo Chigi lights up for the fourth anniversary of the invasion of Ukraine
 
 ---
 
@@ -2383,7 +2371,7 @@ La facciata di Palazzo Chigi si illumina per il quarto anniversario dell'invasio
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31186
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 341
 - **Unique ID:** `a9c45bdc50e7cb0e`
 
@@ -2397,670 +2385,669 @@ We will continue to provide humanitarian aid and support to the Ukrainian popula
 
 ---
 
-### Anniversario dell'aggressione russa all'Ucraina, nota di Palazzo Chigi
+### Anniversary of the Russian aggression against Ukraine, note from Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31180
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 284
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 304
 - **Unique ID:** `9a0625c28c886806`
 
 #### Content:
 
-Nel quarto anniversario dell’ingiustificata e brutale aggressione russa all’Ucraina, il Governo italiano rinnova la propria solidarietà e vicinanza alle Istituzioni e alla popolazione ucraina. In questi quattro anni di lotta del popolo ucraino per la difesa della propria libertà e indipendenza, l’Italia ha sempre assicurato il proprio costante e convinto sostegno insieme ai propri alleati europei e occidentali.
-L’Italia concorre con determinazione agli sforzi internazionali per promuovere una pace giusta e duratura. In questa prospettiva, il Governo sostiene e accompagna il processo negoziale promosso dagli Stati Uniti e partecipa alle attività della Coalizione dei volenterosi per la definizione di solide garanzie di sicurezza per l’Ucraina. La risoluzione del conflitto rappresenta un interesse strategico europeo prioritario, essenziale per garantire la sicurezza del Continente e quindi dell’Italia.
-L’Italia sta rivolgendo, inoltre, una particolare attenzione alle urgenti esigenze umanitarie della popolazione ucraina. È attualmente in corso un programma di fornitura di generatori e caldaie a sostegno del sistema energetico ucraino, fondamentale per la resilienza civile. Parallelamente, è stata avviata un’iniziativa per la fornitura di apparecchiature sanitarie destinate ai reparti materno-infantili degli ospedali situati nelle aree più colpite dagli attacchi.
-Questo impegno umanitario costituisce il presupposto per la futura opera di ricostruzione della Nazione, alla quale l’Italia partecipa con un ruolo di primo piano, come testimoniato dall’organizzazione della Conferenza per la ricostruzione dell’Ucraina nel luglio 2025.
-Su queste basi, il Presidente del Consiglio, Giorgia Meloni, è oggi intervenuta in video-collegamento alla riunione dei leader della coalizione dei volenterosi.
-L’obiettivo rimane quello di creare le condizioni affinché la popolazione ucraina possa vivere in pace nel pieno rispetto della sovranità e dell’integrità territoriale. Il Governo continuerà a fornire il proprio contributo agli sforzi della comunità internazionale dedicati a questo traguardo.
+On the fourth anniversary of the unjustified and brutal Russian aggression against Ukraine, the Italian Government renews its solidarity and closeness to the institutions and the Ukrainian population. In these four years of the Ukrainian people's struggle to defend their freedom and independence, Italy has always ensured its constant and convinced support together with its European and Western allies.
+Italy contributes with determination to international efforts to promote a just and lasting peace. From this perspective, the Government supports and accompanies the negotiation process promoted by the United States and participates in the activities of the Coalition of the Willing for the definition of solid security guarantees for Ukraine. The resolution of the conflict represents a priority European strategic interest, essential to guarantee the security of the continent and therefore of Italy.
+Italy is also paying particular attention to the urgent humanitarian needs of the Ukrainian population. A generator and boiler supply program is currently underway to support the Ukrainian energy system, which is critical for civil resilience. At the same time, an initiative was launched for the supply of healthcare equipment for the maternal and child departments of hospitals located in the areas most affected by the attacks.
+This humanitarian commitment constitutes the prerequisite for the future reconstruction of the Nation, in which Italy participates with a leading role, as demonstrated by the organization of the Conference for the reconstruction of Ukraine in July 2025.
+On this basis, the Prime Minister, Giorgia Meloni, today spoke via video link at the meeting of the leaders of the coalition of the willing.
+The objective remains to create the conditions so that the Ukrainian population can live in peace in full respect of sovereignty and territorial integrity. The Government will continue to provide its contribution to the efforts of the international community dedicated to this goal.
 
 ---
 
-### Riunione della Coalizione dei volenterosi
+### Meeting of the Coalition of the Willing
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31181
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 66
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 72
 - **Unique ID:** `8f38934eb2c86804`
 
 #### Content:
 
 English
 |
-Italiano
-Riunione della Coalizione dei volenterosi
+Italian
+Meeting of the Coalition of the Willing
 24 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato in video-collegamento alla riunione della Coalizione dei volenterosi.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Anniversario dell'aggressione russa all'Ucraina, nota di Palazzo Chigi
+The Prime Minister, Giorgia Meloni, participated via video link in the meeting of the Coalition of the Willing.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Anniversary of the Russian aggression against Ukraine, note from Palazzo Chigi
 
 ---
 
-### Il Sottosegretario Mantovano partecipa all'inaugurazione dell’anno giudiziario della Corte dei conti
+### Undersecretary Mantovano participates in the inauguration of the judicial year of the Court of Auditors
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31179
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 45
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 52
 - **Unique ID:** `8efa81328823b664`
 
 #### Content:
 
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, in rappresentanza del Governo, ha partecipato oggi a Roma, presso la sede della Corte dei conti, alla cerimonia d’inaugurazione dell’Anno Giudiziario 2026 alla presenza del Presidente della Repubblica Sergio Mattarella e delle più alte cariche dello Stato.
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, representing the Government, participated today in Rome, at the headquarters of the Court of Auditors, in the inauguration ceremony of the Judicial Year 2026 in the presence of the President of the Republic Sergio Mattarella and the highest officials of the State.
 
 ---
 
-### Uccisione di uno spacciatore nel boschetto di Rogoredo, la dichiarazione del Presidente Meloni
+### Killing of a drug dealer in the Rogoredo grove, President Meloni's statement
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31178
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 219
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 241
 - **Unique ID:** `4346e73ca969720c`
 
 #### Content:
 
-Leggo con sgomento gli ultimi sviluppi sull’uccisione di uno spacciatore nel noto “boschetto della droga” di Rogoredo. Gli inquirenti ipotizzano che questo crimine sia legato a dinamiche connesse allo spaccio di sostanze stupefacenti, nelle quali sarebbe coinvolto anche l’agente di Polizia che ha sparato. Se quanto ipotizzato trovasse conferma nel seguito delle indagini, ci ritroveremmo davanti a un fatto gravissimo, un tradimento nei confronti della Nazione e della dignità e onorabilità delle nostre Forze dell’Ordine. Provo profonda rabbia all’idea che l'operato di chi tradisce la divisa possa “sporcare” il lavoro dei tantissimi uomini e donne che, ogni giorno, ci proteggono e difendono la nostra sicurezza, con abnegazione, sacrificio e senso delle Istituzioni. Servitori dello Stato nei confronti dei quali, invece, dobbiamo tutti essere riconoscenti. Come dobbiamo essere riconoscenti in particolare alla Polizia di Stato che, su delega della Procura di Milano, sta svolgendo le indagini sui propri agenti coinvolti in questa tragica vicenda, al solo fine di far emergere la verità.
-Chi indossa una divisa e rappresenta le Istituzioni ha il dovere di farlo con il massimo del rigore. E con chi sbaglia, a maggior ragione perché indossa quella divisa, occorre essere implacabili. La giustizia farà il suo corso e confidiamo che sia determinata, anche perché - a differenza di quello che leggo - non esiste alcuno "scudo penale".
+I read with dismay the latest developments on the killing of a drug dealer in the well-known "drug thicket" of Rogoredo. Investigators hypothesize that this crime is linked to dynamics related to drug dealing, in which the police officer who fired the shot would also be involved. If what was hypothesized was confirmed in the subsequent investigations, we would find ourselves faced with a very serious fact, a betrayal of the nation and of the dignity and honorability of our law enforcement forces. I feel deep anger at the idea that the actions of those who betray the uniform could "dirty" the work of the many men and women who, every day, protect us and defend our safety, with self-sacrifice, sacrifice and sense of the institutions. Servants of the State towards whom, however, we must all be grateful. How grateful we must be in particular to the State Police who, on behalf of the Milan Prosecutor's Office, are carrying out investigations into their agents involved in this tragic affair, with the sole aim of bringing out the truth.
+Anyone who wears a uniform and represents the institutions has the duty to do so with the utmost rigor. And with those who make mistakes, even more so because they wear that uniform, we must be implacable. Justice will take its course and we trust that it will be determined, also because - unlike what I read - there is no "criminal shield".
 
 ---
 
-### Giorno del Ricordo, dal 10 febbraio al 1° marzo 2026 la 3a edizione del “Treno del Ricordo”
+### Remembrance Day, from 10 February to 1 March 2026 the 3rd edition of the "Train of Remembrance"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31176
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 410
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 435
 - **Unique ID:** `7f11357f52b7f75d`
 
 #### Content:
 
-Dal 10 febbraio al 1° marzo 2026, si svolge la terza edizione del “Treno del Ricordo”.
-Con una mostra itinerante allestita su un treno storico, messo a disposizione dal Gruppo FS Italiane e da Fondazione FS, l’iniziativa ripercorre idealmente il viaggio compiuto all’epoca dagli esuli istriani, fiumani e dalmati per raggiungere i vari campi profughi sul territorio nazionale, da Nord a Sud. Il progetto racconta la storia di centinaia di migliaia di italiani che scelsero di abbandonare tutto pur di non rinunciare alla propria identità.
-Nelle cinque carrozze del treno, i visitatori possono conoscere e approfondire la tragedia delle foibe e dell’esodo attraverso un percorso multimediale, nel quale si alternano pannelli informativi, immagini di repertorio e testi originali recitati da una voce narrante. La mostra è arricchita dall’esposizione di alcune delle masserizie degli esuli, custodite dall’Istituto Regionale per la Cultura Istriano-fiumano-dalmata nel Magazzino 18 di Trieste. La quinta carrozza, novità dell’edizione 2026, è dedicata alla trasmissione del ricordo alle giovani generazioni. È allestita in collaborazione con il Ministero dell’Istruzione e del Merito, che ha fornito una selezione degli elaborati degli studenti che hanno partecipato al concorso nazionale “Il Giorno del Ricordo”, e con l’Agenzia Italiana per la Gioventù, che ha realizzato “Il Viaggio del Ricordo” nei luoghi simbolo dell’esodo giuliano-dalmata.
-L’edizione 2026 tocca 11 città: Trieste (10-11 febbraio), Pordenone (12-13 febbraio), Bologna (14-15 febbraio), Pescara (16-17 febbraio), L’Aquila (18 febbraio), Roma (19-20 febbraio), Latina (21 febbraio), Salerno (22 febbraio), Reggio Calabria (24-25 febbraio), Palermo (26-27 febbraio), Siracusa (28 febbraio-1° marzo).
-Particolarmente significativa la presenza nell’itinerario di Pordenone e L’Aquila, entrambe proclamate “Capitale Italiana della Cultura”: il capoluogo abruzzese per il 2026 e Pordenone per il 2027. Il Treno del Ricordo traccia un simbolico “passaggio di consegne” tra le due città, per unire memoria, identità e futuro.
-Il “Treno del Ricordo” è un progetto promosso dal Ministro per lo Sport e i Giovani, Andrea Abodi. È realizzato dalla Struttura di missione per gli anniversari di interesse nazionale della Presidenza del Consiglio dei ministri, dal Gruppo FS Italiane e Fondazione FS, in collaborazione con il Ministero della Difesa, il Ministero dell’Istruzione e del Merito, il Ministero dell’Università e della Ricerca, il Ministero della Cultura, l’Agenzia Italiana per la Gioventù, l’Istituto Regionale per la Cultura Istriano-Fiumano-Dalmata, Rai Teche, Istituto Luce, Rai Cultura e Rai Storia.
-Il “Treno del Ricordo” rientra nell’ambito delle commemorazioni programmate dal Comitato di coordinamento per le celebrazioni del Giorno del Ricordo, istituito presso la Presidenza del Consiglio dei ministri.
+From 10 February to 1 March 2026, the third edition of the "Train of Remembrance" takes place.
+With a traveling exhibition set up on a historic train, made available by the FS Italiane Group and the FS Foundation, the initiative ideally retraces the journey made at the time by the Istrian, Fiume and Dalmatian exiles to reach the various refugee camps across the national territory, from North to South. The project tells the story of hundreds of thousands of Italians who chose to abandon everything in order not to give up their identity.
+In the five carriages of the train, visitors can learn about and learn more about the tragedy of the foibe and the exodus through a multimedia journey, in which information panels, archive images and original texts recited by a narrator alternate. The exhibition is enriched by the display of some of the exiles' household goods, kept by the Regional Institute for Istrian-Fiume-Dalmatian Culture in Warehouse 18 in Trieste. The fifth carriage, new to the 2026 edition, is dedicated to transmitting memories to the younger generations. It is set up in collaboration with the Ministry of Education and Merit, which provided a selection of the works of the students who participated in the national competition "The Day of Remembrance", and with the Italian Youth Agency, which created "The Journey of Remembrance" in the symbolic places of the Julian-Dalmatian exodus.
+The 2026 edition touches 11 cities: Trieste (10-11 February), Pordenone (12-13 February), Bologna (14-15 February), Pescara (16-17 February), L'Aquila (18 February), Rome (19-20 February), Latina (21 February), Salerno (22 February), Reggio Calabria (24-25 February), Palermo (26-27 February), Syracuse (February 28-March 1).
+The presence of Pordenone and L'Aquila on the itinerary is particularly significant, both proclaimed "Italian Capital of Culture": the capital of Abruzzo for 2026 and Pordenone for 2027. The Memory Train traces a symbolic "handover" between the two cities, to unite memory, identity and future.
+The “Train of Remembrance” is a project promoted by the Minister for Sport and Youth, Andrea Abodi. It is created by the Mission Structure for the anniversaries of national interest of the Presidency of the Council of Ministers, by the FS Italiane Group and the FS Foundation, in collaboration with the Ministry of Defence, the Ministry of Education and Merit, the Ministry of University and Research, the Ministry of Culture, the Italian Youth Agency, the Istrian-Fiumano-Dalmatian Regional Institute for Culture, Rai Teche, Istituto Luce, Rai Cultura and Rai Storia.
+The "Train of Remembrance" is part of the commemorations planned by the Coordination Committee for the celebrations of Remembrance Day, established at the Presidency of the Council of Ministers.
 
 ---
 
-### Giorno del Ricordo, dal 10 febbraio al 1° marzo 2026 la 3a edizione del “Treno del Ricordo”
+### Remembrance Day, from 10 February to 1 March 2026 the 3rd edition of the "Train of Remembrance"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31177
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 181
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 189
 - **Unique ID:** `eecb2450af4211f5`
 
 #### Content:
 
-Giorno del Ricordo, dal 10 febbraio al 1° marzo 2026 la 3a edizione del “Treno del Ricordo”
+Remembrance Day, from 10 February to 1 March 2026 the 3rd edition of the "Train of Remembrance"
 23 February 2026
-Dal 10 febbraio al 1° marzo 2026, si svolge la terza edizione del “Treno del Ricordo”. Con una mostra itinerante allestita su un treno storico, messo a disposizione dal Gruppo FS Italiane e da Fondazione FS, l’iniziativa ripercorre idealmente il viaggio compiuto all’epoca dagli esuli istriani, fiumani e dalmati per raggiungere i vari campi profughi sul territorio nazionale, da Nord a Sud. Il progetto racconta la storia di centinaia di migliaia di italiani che scelsero di abbandonare tutto pur di non rinunciare alla propria identità. Il “Treno del Ricordo” rientra nell’ambito delle commemorazioni programmate dal Comitato di coordinamento per le celebrazioni del Giorno del Ricordo, istituito presso la Presidenza del Consiglio dei Ministri.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Giorno del Ricordo, dal 10 febbraio al 1° marzo 2026 la 3a edizione del “Treno del Ricordo”
+From 10 February to 1 March 2026, the third edition of the "Train of Remembrance" takes place. With a traveling exhibition set up on a historic train, made available by the FS Italiane Group and the FS Foundation, the initiative ideally retraces the journey made at the time by the Istrian, Fiume and Dalmatian exiles to reach the various refugee camps across the national territory, from North to South. The project tells the story of hundreds of thousands of Italians who chose to abandon everything in order not to give up their identity. The "Train of Remembrance" is part of the commemorations planned by the Coordination Committee for the celebrations of Remembrance Day, established at the Presidency of the Council of Ministers.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Remembrance Day, from 10 February to 1 March 2026 the 3rd edition of the "Train of Remembrance"
 
 ---
 
-### Campagna di comunicazione istituzionale “Il Treno del Ricordo 2026"
+### Institutional communication campaign "The Memory Train 2026"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31082
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 225
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 250
 - **Unique ID:** `675672bf83930e64`
 
 #### Content:
 
-La campagna di comunicazione istituzionale “Il Treno del Ricordo dell’esodo giuliano-dalmata” è dedicata alla vicenda dell’esodo giuliano-dalmata nel secondo dopoguerra. Lo spot è promosso dal Ministro dello Sport e dei giovani e dalla Struttura di missione per gli anniversari di interesse nazionale ed è realizzato dalla Rai.
-Dal 10 febbraio al 1° marzo 2026 il convoglio storico, messo a disposizione dalle Ferrovie dello Stato, ripercorrerà questo esodo, con 11 tappe nelle principali città italiane: Trieste, Pordenone, Bologna, Pescara, L’Aquila, Roma, Latina, Salerno, Reggio Calabria, Palermo e Siracusa. A bordo del treno è allestita una mostra multimediale aperta al pubblico, attraverso la quale si potranno conoscere e approfondire la tragedia delle foibe e dell’esodo, ripercorrendo idealmente il viaggio compiuto dagli esuli istriani, fiumani e dalmati per raggiungere i vari campi profughi sul territorio nazionale.
-I quattro vagoni principali faranno da cornice alle quattro sezioni in cui è suddivisa l’esposizione: Italianità, Esodo, Viaggio del dolore e Ricordi di una vita. Lungo il percorso si potranno vedere filmati di repertorio provenienti dall’Archivio Istituto Luce e da Rai Teche, video originali, fotografie e materiali forniti dall'Istituto Regionale per la Cultura Istriana-Fiumana-Dalmata. La mostra è arricchita dall’esposizione di alcune delle masserizie degli esuli, custodite dall’Istituto Regionale per la Cultura Istriano-fiumano-dalmata nel Magazzino 18 di Trieste. La quinta carrozza, novità dell’edizione 2026, è dedicata alla trasmissione del ricordo alle giovani generazioni.
+The institutional communication campaign "The Train of Memory of the Julian-Dalmatian Exodus" is dedicated to the story of the Julian-Dalmatian exodus after the Second World War. The commercial is promoted by the Minister of Sport and Youth and by the Mission Structure for anniversaries of national interest and is produced by Rai.
+From 10 February to 1 March 2026 the historic convoy, made available by the State Railways, will retrace this exodus, with 11 stops in the main Italian cities: Trieste, Pordenone, Bologna, Pescara, L'Aquila, Rome, Latina, Salerno, Reggio Calabria, Palermo and Syracuse. On board the train there is a multimedia exhibition open to the public, through which it will be possible to learn about and delve deeper into the tragedy of the Foibe and the exodus, ideally retracing the journey undertaken by the Istrian, Fiume and Dalmatian exiles to reach the various refugee camps on the national territory.
+The four main carriages will frame the four sections into which the exhibition is divided: Italianity, Exodus, Journey of Pain and Memories of a Lifetime. Along the route you will be able to see archive footage from the Istituto Luce Archive and Rai Teche, original videos, photographs and materials provided by the Regional Institute for Istrian-Fiumana-Dalmatian Culture. The exhibition is enriched by the display of some of the exiles' household goods, kept by the Regional Institute for Istrian-Fiume-Dalmatian Culture in Warehouse 18 in Trieste. The fifth carriage, new to the 2026 edition, is dedicated to transmitting memories to the younger generations.
 
 ---
 
-### Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026
+### Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31174
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 22
 - **Unique ID:** `b022dd5c42c4ceb6`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026, presso l’Arena di Verona.
+The Prime Minister, Giorgia Meloni, participated in the Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games, at the Verona Arena.
 
 ---
 
-### Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026
+### Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31175
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 83
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 78
 - **Unique ID:** `69b2ec3d163a9fc1`
 
 #### Content:
 
 English
 |
-Italiano
-Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026
+Italian
+Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games
 22 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026, presso l’Arena di Verona.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Cerimonia di Chiusura dei Giochi Olimpici Invernali di Milano Cortina 2026
+The Prime Minister, Giorgia Meloni, participated in the Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games, at the Verona Arena.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Closing Ceremony of the Milan Cortina 2026 Winter Olympic Games
 
 ---
 
-### Scomparsa del piccolo Domenico Caliendo, il cordoglio del Presidente Meloni
+### Passing away of little Domenico Caliendo, condolences from President Meloni
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31173
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 59
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 61
 - **Unique ID:** `cd93b0daffb64af4`
 
 #### Content:
 
-L’Italia intera si stringe nel dolore per la scomparsa del piccolo Domenico, un guerriero che non sarà dimenticato. Alla mamma Patrizia, al papà Antonio e a tutti i suoi cari rivolgo, a nome mio e del Governo, il più sincero abbraccio e il più profondo cordoglio. Sono certa che le autorità competenti faranno piena luce su questa terribile vicenda.
+The whole of Italy is grieving over the passing of little Domenico, a warrior who will not be forgotten. I address, on behalf of myself and the Government, my most sincere embrace and deepest condolences to my mother Patrizia, father Antonio and all their loved ones. I am sure that the competent authorities will shed full light on this terrible affair.
 
 ---
 
-### "La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+### "Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31170
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 39
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 43
 - **Unique ID:** `3b0d79bf2333189a`
 
 #### Content:
 
-Il Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, Alfredo Mantovano, intervistato dal direttore Mario Sechi, ha partecipato all’evento “La sicurezza oggi - Istituzioni, imprese e nuovi scenari”, organizzato da Libero Quotidiano.
+The Undersecretary of State at the Presidency of the Council of Ministers, Alfredo Mantovano, interviewed by the director Mario Sechi, participated in the event "Security today - Institutions, businesses and new scenarios", organized by Libero Quotidiano.
 [
-L'intervista al Sottosegretario Mantovano
+The interview with Undersecretary Mantovano
 ]
 
 ---
 
-### "La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+### "Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31172
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 91
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 93
 - **Unique ID:** `0a95885334116a45`
 
 #### Content:
 
-"La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+"Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 20 February 2026
-Il Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, Alfredo Mantovano, intervistato dal direttore Mario Sechi, ha partecipato all’evento “La sicurezza oggi - Istituzioni, imprese e nuovi scenari”, organizzato da Libero Quotidiano.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-"La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+The Undersecretary of State at the Presidency of the Council of Ministers, Alfredo Mantovano, interviewed by the director Mario Sechi, participated in the event "Security today - Institutions, businesses and new scenarios", organized by Libero Quotidiano.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+"Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 
 ---
 
-### "La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+### "Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31171
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 95
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 98
 - **Unique ID:** `c5c8199caf157b61`
 
 #### Content:
 
-"La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+"Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 20 February 2026
-Il Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, Alfredo Mantovano, intervistato dal direttore Mario Sechi, ha partecipato all’evento “La sicurezza oggi - Istituzioni, imprese e nuovi scenari”, organizzato da Libero Quotidiano.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'intervista al Sottosegretario Mantovano
-Articoli Correlati
-"La sicurezza oggi. Istituzioni, imprese e nuovi scenari", l'intervista al Sottosegretario Mantovano
+The Undersecretary of State at the Presidency of the Council of Ministers, Alfredo Mantovano, interviewed by the director Mario Sechi, participated in the event "Security today - Institutions, businesses and new scenarios", organized by Libero Quotidiano.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The interview with Undersecretary Mantovano
+Related Articles
+"Security today. Institutions, companies and new scenarios", the interview with Undersecretary Mantovano
 
 ---
 
-### Anniversario dei Patti Lateranensi e della Revisione del Concordato
+### Anniversary of the Lateran Pacts and of the Revision of the Concordat
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31153
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 29
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 30
 - **Unique ID:** `5d6d14a1944ebb80`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato all'Anniversario della firma dei Patti Lateranensi e dell'Accordo di Revisione del Concordato presso Palazzo Borromeo, Ambasciata d’Italia presso la Santa Sede.
+The Prime Minister, Giorgia Meloni, participated in the Anniversary of the signing of the Lateran Pacts and the Concordat Revision Agreement at Palazzo Borromeo, Italian Embassy to the Holy See.
 
 ---
 
-### Anniversario dei Patti Lateranensi e della Revisione del Concordato
+### Anniversary of the Lateran Pacts and of the Revision of the Concordat
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31152
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 84
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 90
 - **Unique ID:** `38a284b0c0607f06`
 
 #### Content:
 
 English
 |
-Italiano
-Anniversario dei Patti Lateranensi e della Revisione del Concordato
+Italian
+Anniversary of the Lateran Pacts and of the Revision of the Concordat
 17 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato all'Anniversario della firma dei Patti Lateranensi e dell'Accordo di Revisione del Concordato presso Palazzo Borromeo, Ambasciata d’Italia presso la Santa Sede.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Anniversario dei Patti Lateranensi e della Revisione del Concordato
+The Prime Minister, Giorgia Meloni, participated in the Anniversary of the signing of the Lateran Pacts and the Concordat Revision Agreement at Palazzo Borromeo, Italian Embassy to the Holy See.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Anniversary of the Lateran Pacts and of the Revision of the Concordat
 
 ---
 
-### “M’illumino di Meno”, Palazzo Chigi aderisce all'iniziativa sul risparmio energetico
+### “M'illumino di Meno”, Palazzo Chigi joins the energy saving initiative
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31138
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 77
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 16
 - **Unique ID:** `4c4d8e922f6a915a`
 
 #### Content:
 
-La Presidenza del  Consiglio dei Ministri aderisce a "M'Illumino di Meno". L'iniziativa, ideata dal programma Caterpillar di Rai Radio 2, giunta alla sua XXII Edizione, è nata come campagna di sensibilizzazione sui temi dell'efficienza energetica e della sostenibilità e prevede lo spegnimento delle luci di edifici, palazzi istituzionali e monumenti.
-Per l'occasione è stato pertanto disposto lo spegnimento simbolico della facciata esterna di Palazzo Chigi dalle ore 19:00 alle ore 20:00 di oggi, lunedì 16 febbraio 2026.
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ---
 
-### Il Presidente Meloni a Niscemi
+### President Meloni in Niscemi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31139
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 64
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 57
 - **Unique ID:** `85a1b5ec430d99c2`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, si è recata questa mattina a Niscemi dove ha incontrato il Sindaco Massimiliano Conti, le autorità locali e la cittadinanza. Il Presidente Meloni era accompagnata dal Capo Dipartimento della Protezione Civile, Fabio Ciciliano.
-Il punto stampa del Presidente Meloni a Niscemi
-L'incontro con il Comitato dei cittadini di Niscemi
-Il Presidente Meloni a Niscemi - Video di sintesi
+The Prime Minister, Giorgia Meloni, went to Niscemi this morning where she met the Mayor Massimiliano Conti, the local authorities and the citizens. President Meloni was accompanied by the Head of the Civil Protection Department, Fabio Ciciliano.
+President Meloni's press point in Niscemi
+The meeting with the Niscemi Citizens' Committee
+President Meloni in Niscemi - Summary video
 
 ---
 
-### Il Presidente Meloni a Niscemi
+### President Meloni in Niscemi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31140
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 86
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 81
 - **Unique ID:** `2e45f9c15900c452`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni a Niscemi
+Italian
+President Meloni in Niscemi
 16 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, si è recata questa mattina a Niscemi dove ha incontrato il Sindaco Massimiliano Conti, le autorità locali e la cittadinanza. Il Presidente Meloni era accompagnata dal Capo Dipartimento della Protezione Civile, Fabio Ciciliano.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Presidente Meloni a Niscemi
+The Prime Minister, Giorgia Meloni, went to Niscemi this morning where she met the Mayor Massimiliano Conti, the local authorities and the citizens. President Meloni was accompanied by the Head of the Civil Protection Department, Fabio Ciciliano.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+President Meloni in Niscemi
 
 ---
 
-### Il Presidente Meloni a Niscemi
+### President Meloni in Niscemi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31141
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 111
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 101
 - **Unique ID:** `247ac2c785d025a1`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni a Niscemi
+Italian
+President Meloni in Niscemi
 16 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, si è recata questa mattina a Niscemi dove ha incontrato il Sindaco Massimiliano Conti, le autorità locali e la cittadinanza. Il Presidente Meloni era accompagnata dal Capo Dipartimento della Protezione Civile, Fabio Ciciliano.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Il Punto stampa del Presidente Meloni a Niscemi
-L'incontro con il Comitato dei cittadini di Niscemi
-Il Presidente Meloni a Niscemi - Video di sintesi
-Articoli Correlati
-Il Presidente Meloni a Niscemi
+The Prime Minister, Giorgia Meloni, went to Niscemi this morning where she met the Mayor Massimiliano Conti, the local authorities and the citizens. President Meloni was accompanied by the Head of the Civil Protection Department, Fabio Ciciliano.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+President Meloni's press point in Niscemi
+The meeting with the Niscemi Citizens' Committee
+President Meloni in Niscemi - Summary video
+Related Articles
+President Meloni in Niscemi
 
 ---
 
-### Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+### President Meloni at the Assembly of Heads of State and Government of the African Union
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31125
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 36
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 38
 - **Unique ID:** `56710425dd22ef33`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ad Addis Abeba, ha tenuto un intervento alla riunione plenaria della 39esima sessione ordinaria dell'Assemblea dei Capi di Stato e di Governo dell'Unione Africana.
+The Prime Minister, Giorgia Meloni, in Addis Ababa, gave a speech at the plenary meeting of the 39th ordinary session of the Assembly of Heads of State and Government of the African Union.
 [
-L'intervento del Presidente Meloni
+President Meloni's speech
 ]
 
 ---
 
-### Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+### President Meloni at the Assembly of Heads of State and Government of the African Union
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31132
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 93
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 99
 - **Unique ID:** `0eef93d71a7eb12f`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+Italian
+President Meloni at the Assembly of Heads of State and Government of the African Union
 14 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ad Addis Abeba, ha tenuto un intervento alla riunione plenaria della 39esima sessione ordinaria dell'Assemblea dei Capi di Stato e di Governo dell'Unione Africana.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+The Prime Minister, Giorgia Meloni, in Addis Ababa, gave a speech at the plenary meeting of the 39th ordinary session of the Assembly of Heads of State and Government of the African Union.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+President Meloni at the Assembly of Heads of State and Government of the African Union
 
 ---
 
-### Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+### President Meloni at the Assembly of Heads of State and Government of the African Union
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31127
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 97
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 102
 - **Unique ID:** `77dff8c3f30b089f`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+Italian
+President Meloni at the Assembly of Heads of State and Government of the African Union
 14 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ad Addis Abeba, ha tenuto un intervento alla riunione plenaria della 39esima sessione ordinaria dell'Assemblea dei Capi di Stato e di Governo dell'Unione Africana.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'intervento del Presidente Meloni
-Articoli Correlati
-Il Presidente Meloni all'Assemblea dei Capi di Stato e di Governo dell'Unione Africana
+The Prime Minister, Giorgia Meloni, in Addis Ababa, gave a speech at the plenary meeting of the 39th ordinary session of the Assembly of Heads of State and Government of the African Union.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+President Meloni's speech
+Related Articles
+President Meloni at the Assembly of Heads of State and Government of the African Union
 
 ---
 
-### Secondo Vertice Italia-Africa
+### Second Italy-Africa Summit
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31117
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 160
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 167
 - **Unique ID:** `98a4a07813df592f`
 
 #### Content:
 
-Si è tenuta, presso il Convention Center di Addis Abeba, la seconda edizione del Vertice Italia-Africa a livello di Capi di Stato e di Governo, dopo quello di Roma di gennaio 2024, al fine di fare il punto sui risultati conseguiti in questi anni dal Piano Mattei per l’Africa.
-“Tuttavia l’obiettivo di questo Vertice non è celebrare quello che abbiamo fatto fin qui, ma è quello di ragionare insieme su cosa possiamo fare per rendere il Piano Mattei più efficace, più concreto, più aderente alle esigenze dei territori”, ha affermato il Presidente Meloni nel suo intervento di apertura, al quale è seguito quello del Primo Ministro d’Etiopia, Abiy Ahmed Ali.
-Al termine dei lavori, il Presidente Meloni ha rilasciato dichiarazioni alla stampa con il Presidente dell’Angola e Presidente di turno dell’Unione Africana, João Lourenço, e il Presidente della Commissione dell'Unione Africana, Mahmoud Ali Youssouf.
+The second edition of the Italy-Africa Summit at the level of Heads of State and Government was held at the Convention Center in Addis Ababa, after the one in Rome in January 2024, in order to take stock of the results achieved in recent years by the Mattei Plan for Africa.
+“However, the objective of this Summit is not to celebrate what we have done so far, but to think together about what we can do to make the Mattei Plan more effective, more concrete, more in line with the needs of the territories”, stated President Meloni in his opening speech, which was followed by that of the Prime Minister of Ethiopia, Abiy Ahmed Ali.
+At the end of the meeting, President Meloni made statements to the press with the President of Angola and rotating President of the African Union, João Lourenço, and the President of the African Union Commission, Mahmoud Ali Youssouf.
 [
-Interventi di apertura - traduzione simultanea
+Opening speeches - simultaneous translation
 ]
 [
-Dichiarazioni alla stampa - traduzione simultanea
+Press statements - simultaneous translation
 ]
 
 ---
 
-### Secondo Vertice Italia-Africa
+### Second Italy-Africa Summit
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31121
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 69
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 68
 - **Unique ID:** `af0a5dc68812f0f1`
 
 #### Content:
 
 English
 |
-Italiano
-Secondo Vertice Italia-Africa
+Italian
+Second Italy-Africa Summit
 13 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato ad Addis Abeba, alla seconda edizione del Vertice Italia-Africa a livello di Capi di Stato e di Governo.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Secondo Vertice Italia-Africa
+The Prime Minister, Giorgia Meloni, participated in Addis Ababa, in the second edition of the Italy-Africa Summit at the level of Heads of State and Government.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Second Italy-Africa Summit
 
 ---
 
-### Secondo Vertice Italia-Africa
+### Second Italy-Africa Summit
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31119
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 132
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 129
 - **Unique ID:** `a203f9f16aaf85b2`
 
 #### Content:
 
 English
 |
-Italiano
-Secondo Vertice Italia-Africa
+Italian
+Second Italy-Africa Summit
 13 February 2026
-Si è concluso ad Addis Abeba il secondo Vertice Italia-Africa che si è aperto con gli interventi del Presidente del Consiglio, Giorgia Meloni, e del Primo Ministro d’Etiopia, Abiy Ahmed Ali. Al termine dei lavori, il Presidente Meloni con il Presidente dell’Angola e Presidente di turno dell’Unione Africana, João Lourenço, e il Presidente della Commissione dell'Unione Africana, Mahmoud Ali Youssouf, hanno rilasciato dichiarazioni alla stampa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Gli interventi (Traduzione simultanea)
-Gli interventi (Audio originale)
-Dichiarazioni alla stampa (Audio originale)
-Dichiarazioni alla stampa (Traduzione simultanea)
-L'intervento di chiusura del Presidente Meloni
-Articoli Correlati
-Secondo Vertice Italia-Africa
+The second Italy-Africa Summit concluded in Addis Ababa and opened with speeches by the Prime Minister, Giorgia Meloni, and the Prime Minister of Ethiopia, Abiy Ahmed Ali. At the end of the meeting, President Meloni with the President of Angola and rotating President of the African Union, João Lourenço, and the President of the African Union Commission, Mahmoud Ali Youssouf, made statements to the press.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The interventions (Simultaneous translation)
+The speeches (Original audio)
+Press Statements (Original Audio)
+Statements to the press (Simultaneous translation)
+President Meloni's closing speech
+Related Articles
+Second Italy-Africa Summit
 
 ---
 
-### Terra dei Fuochi: riunione a Palazzo Chigi
+### Land of Fires: meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31115
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 457
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 469
 - **Unique ID:** `4df3532578696234`
 
 #### Content:
 
-Si è tenuta stamani, a Palazzo Chigi, l’ottava riunione della cabina di regia dedicata alle attività di contrasto alla gestione illecita dei rifiuti, bonifica e recupero dei territori inquinati nell’area della Terra dei Fuochi.
-Coordinata dal Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, vi hanno partecipato il Viceministro dell’Ambiente e della Sicurezza Energetica, Vannia Gava, il Viceministro della Giustizia, Francesco Paolo Sisto, il Sottosegretario al Ministero dell’Economia e delle Finanze, Lucia Albano, il Capo del Dipartimento della Protezione Civile, Fabio Ciciliano, il Capo della Polizia, Vittorio Pisani, i Prefetti di Napoli, Michele di Bari, e di Caserta, Lucia Volpe, il Commissario unico per le Bonifiche Giuseppe Vadalà, rappresentanti dei Ministeri dell’Ambiente e della Sicurezza Energetica, della Difesa, dell’Interno, della Salute, dell’Arma dei Carabinieri, della Guardia di Finanza, di Agea e di Ispra.
-Nel corso dell’incontro è stato innanzitutto fatto il punto sugli importanti risultati complessivi conseguiti nel 2025 dalle azioni interforze e dalle polizie locali e metropolitana, con particolare riferimento alle attività di controllo, contrasto agli illeciti sversamenti, monitoraggio ambientale e presidio di sicurezza.
-Si tratta di numeri che segnano una radicale inversione di tendenza rispetto al passato. Nel 2025 sono state controllate 1.080 attività economiche, 509 delle quali sono state colpite da sequestro o interdizione. I veicoli controllati sono stati 42.028, quelli sequestrati 1.077. Le persone denunciate 1.052, quelle arrestate 30. Sono state elevate sanzioni amministrative pecuniarie per oltre 9 milioni di euro.
-Sono stati inoltre definiti gli ulteriori interventi previsti nell’ambito del decreto legge n. 116 del 2025, che vedranno il coinvolgimento coordinato di tutti i ministeri e delle amministrazioni competenti, con l’obiettivo di incrementare ulteriormente la capacità di risposta dello Stato e degli enti territoriali rispetto agli illeciti sversamenti.
-Un Piano di azione che include tra l’altro l’identificazione dei siti e la sorveglianza; il supporto alle forze di polizia; la collaborazione con AGEA, al fine di fornire la mappa dei siti oggetto di recupero rifiuti e successiva bonifica; il censimento dei centri di raccolta presenti sul territorio, ai quali conferire i rifiuti speciali; il rafforzamento dei programmi di screening, con l’incremento dei percorsi diagnostico-terapeutico-assistenziali per le patologie oncologiche. Tutto questo anche in vista del confronto con la Corte europea per i diritti dell’uomo, già fissato per il prossimo mese di marzo, dopo la sentenza CEDU dello scorso anno.
-Tuttavia, a parte l’interlocuzione con la CEDU, che si è interessata della situazione per come era qualche anno fa, la Terra dei Fuochi rappresenta per il Governo un obiettivo strategico su cui si continuerà a lavorare secondo un’azione coordinata basata sulla pianificazione delle bonifiche, sul rafforzamento del quadro penale e su una cabina di regia operativa centrale che continuerà a riunirsi periodicamente, a palazzo Chigi o - come più volte già accaduto – sul territorio interessato.
+The eighth meeting of the control room dedicated to activities to combat the illicit management of waste, reclamation and recovery of polluted territories in the Tierra dei Fuochi area was held this morning at Palazzo Chigi.
+Coordinated by the Undersecretary to the Prime Minister, Alfredo Mantovano, it was attended by the Deputy Minister of the Environment and Energy Security, Vannia Gava, the Deputy Minister of Justice, Francesco Paolo Sisto, the Undersecretary of the Ministry of Economy and Finance, Lucia Albano, the Head of the Civil Protection Department, Fabio Ciciliano, the Chief of Police, Vittorio Pisani, the Prefects of Naples, Michele of Bari, and of Caserta, Lucia Volpe, the Sole Commissioner for Reclamation Giuseppe Vadalà, representatives of the Ministries of the Environment and Energy Security, of Defence, of the Interior, of Health, of the Carabinieri, of the Guardia di Finanza, of Agea and of Ispra.
+During the meeting, the important overall results achieved in 2025 by the inter-force actions and by the local and metropolitan police were first of all taken stock, with particular reference to control activities, combating illegal spills, environmental monitoring and safety supervision.
+These are numbers that mark a radical reversal of trend compared to the past. In 2025, 1,080 economic activities were checked, 509 of which were affected by seizure or interdiction. The vehicles checked were 42,028, those seized were 1,077. 1,052 people were reported and 30 were arrested. Administrative fines amounting to over 9 million euros were imposed.
+Furthermore, the further interventions envisaged under Legislative Decree no. have been defined. 116 of 2025, which will see the coordinated involvement of all the competent ministries and administrations, with the aim of further increasing the response capacity of the State and local authorities with respect to illicit spills.
+An Action Plan that includes, among other things, site identification and surveillance; support for the police forces; the collaboration with AGEA, in order to provide the map of the sites subject to waste recovery and subsequent remediation; the census of the collection centers present in the area, to which special waste should be delivered; the strengthening of screening programs, with the increase in diagnostic-therapeutic-care pathways for oncological pathologies. All this also in view of the confrontation with the European Court of Human Rights, already scheduled for next March, after last year's ECHR ruling.
+However, apart from the dialogue with the ECHR, which was interested in the situation as it was a few years ago, the Land of Fires represents a strategic objective for the Government on which it will continue to work according to a coordinated action based on the planning of reclamation, on the strengthening of the criminal framework and on a central operational control room which will continue to meet periodically, at Palazzo Chigi or - as has already happened several times - in the territory concerned.
 
 ---
 
-### Terra dei Fuochi, riunione della cabina di regia
+### Land of Fires, meeting of the control room
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31112
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 183
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 193
 - **Unique ID:** `4158123b8d3e607b`
 
 #### Content:
 
 English
 |
-Italiano
-Terra dei Fuochi, riunione della cabina di regia
+Italian
+Land of Fires, meeting of the control room
 12 February 2026
-Si è tenuta a Palazzo Chigi, l’ottava riunione della cabina di regia dedicata alle attività di contrasto alla gestione illecita dei rifiuti, bonifica e recupero dei territori inquinati nell’area della Terra dei Fuochi. Coordinata dal Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, vi hanno partecipato il Viceministro dell’Ambiente e della Sicurezza Energetica, Vannia Gava, il Viceministro della Giustizia, Francesco Paolo Sisto, il Sottosegretario al Ministero dell’Economia e delle Finanze, Lucia Albano, il Capo del Dipartimento della Protezione Civile, Fabio Ciciliano, il Capo della Polizia, Vittorio Pisani, i Prefetti di Napoli, Michele di Bari, e di Caserta, Lucia Volpe, il Commissario unico per le Bonifiche Giuseppe Vadalà, rappresentanti dei Ministeri dell’Ambiente e della Sicurezza Energetica, della Difesa, dell’Interno, della Salute, dell’Arma dei Carabinieri, della Guardia di Finanza, di Agea e di Ispra.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Terra dei Fuochi: riunione a Palazzo Chigi
+The eighth meeting of the control room dedicated to activities to combat the illicit management of waste, reclamation and recovery of polluted territories in the Tierra dei Fuochi area was held at Palazzo Chigi. Coordinated by the Undersecretary to the Prime Minister, Alfredo Mantovano, it was attended by the Deputy Minister of the Environment and Energy Security, Vannia Gava, the Deputy Minister of Justice, Francesco Paolo Sisto, the Undersecretary of the Ministry of Economy and Finance, Lucia Albano, the Head of the Civil Protection Department, Fabio Ciciliano, the Chief of Police, Vittorio Pisani, the Prefects of Naples, Michele of Bari, and of Caserta, Lucia Volpe, the Sole Commissioner for Reclamation Giuseppe Vadalà, representatives of the Ministries of the Environment and Energy Security, of Defence, of the Interior, of Health, of the Carabinieri, of the Guardia di Finanza, of Agea and of Ispra.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Land of Fires: meeting at Palazzo Chigi
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=9
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 885
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 875
 - **Unique ID:** `adfd29356f131abc`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -3073,43 +3060,45 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-L’Italia consegna all’Ucraina il primo lotto di forniture per fronteggiare l’emergenza energetica
+News
+Italy delivers the first batch of supplies to Ukraine to deal with the energy emergency
 28 January 2026
-L’Italia sta fornendo all’Ucraina un sostegno concreto, attraverso la consegna di caldaie industriali e generatori elettrici, per affrontare l’emergenza energetica causata dai deliberati attacchi russi alle infrastrutture civili che stanno creando una crisi umanitaria in diverse grandi città ucraine. Si tratta di un impegno assunto dal Presidente del Consiglio Giorgia Meloni con il Presidente Zelensky in occasione del loro incontro a margine del Consiglio europeo dello scorso ottobre 2025.
-Notizie
-PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+Italy is providing Ukraine with concrete support, through the delivery of industrial boilers and electric generators, to address the energy emergency caused by the deliberate Russian attacks on civil infrastructure which are creating a humanitarian crisis in several large Ukrainian cities. This is a commitment made by Prime Minister Giorgia Meloni with President Zelensky on the occasion of their meeting on the sidelines of the European Council last October 2025.
+News
+PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 28 January 2026
-Si è svolta oggi a Palazzo Chigi la Cabina di regia PNRR, presieduta dal Ministro per gli Affari europei, il PNRR e le Politiche di coesione, Tommaso Foti, con la partecipazione dei Ministri e dei Sottosegretari responsabili, oltre che del Presidente dell’ANCI e dei rappresentanti dell’UPI e dell’UNCEM, in merito alle attività conclusive connesse agli interventi che vedono, quali soggetti attuatori, i Comuni, le Città metropolitane, le Province e le Unioni di Comuni.
-Notizie
-Maltempo, sopralluogo del Presidente Meloni in Sicilia
+The PNRR control room was held today at Palazzo Chigi, chaired by the Minister for European Affairs, the PNRR and Cohesion Policies, Tommaso Foti, with the participation of the responsible Ministers and Undersecretaries, as well as the President of the ANCI and the representatives of the UPI and UNCEM, regarding the final activities connected to the interventions which see the Municipalities, Metropolitan Cities, Provinces and Unions of Municipalities as implementing entities.
+News
+Bad weather, inspection by President Meloni in Sicily
 28 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, si è recata questa mattina in Sicilia per sorvolare in elicottero i territori più colpiti dall’eccezionale ondata di maltempo che ha colpito nei giorni scorsi il territorio, in particolare per il passaggio del ciclone Harry.
-Il Presidente Meloni è arrivata a Niscemi, in provincia di Caltanissetta, dove una frana attiva di grandi dimensioni sta interessando il centro abitato e ha finora portato all’evacuazione di circa 1500 cittadini. A Niscemi, il Presidente Meloni ha incontrato il Sindaco Massimiliano Conti e ha presieduto presso la sede del Comune una riunione, alla quale hanno partecipato il Prefetto di Caltanissetta, il Capo Dipartimento della Protezione Civile Fabio Ciciliano e i tecnici della Protezione Civile. [...]
-Notizie
-PNRR, Cabina di regia per la verifica dello stato di attuazione degli interventi della Missione Salute in ambito territoriale
+The Prime Minister, Giorgia Meloni, went to Sicily this morning to fly by helicopter over the areas most affected by the exceptional wave of bad weather that hit the area in recent days, in particular due to the passage of Cyclone Harry.
+President Meloni arrived in Niscemi, in the province of Caltanissetta, where a large active landslide is affecting the town center and has so far led to the evacuation of around 1500 citizens. In Niscemi, President Meloni met the Mayor Massimiliano Conti and chaired a meeting at the Municipality headquarters, which was attended by the Prefect of Caltanissetta, the Head of the Civil Protection Department Fabio Ciciliano and the Civil Protection technicians. [...]
+News
+PNRR, Control room for verifying the state of implementation of the Health Mission's interventions in the local area
 27 January 2026
-Si è tenuta oggi a Palazzo Chigi la Cabina di regia PNRR dedicata alla Missione Salute, presieduta dal Ministro per gli affari europei, il PNRR e le politiche di coesione, Tommaso Foti, con la partecipazione del Ministro della Salute, Orazio Schillaci e dei presidenti delle Regioni e delle Province autonome, per dare impulso all’attuazione degli interventi, assicurare un presidio all’attività di monitoraggio e garantire il pieno conseguimento degli obiettivi concordati a livello europeo.
-Notizie
-Piano Mattei, l’Italia lancia il secondo Vertice Italia-Africa in Etiopia il 13 febbraio
+The PNRR control room dedicated to the Health Mission was held today at Palazzo Chigi, chaired by the Minister for European Affairs, the PNRR and cohesion policies, Tommaso Foti, with the participation of the Minister of Health, Orazio Schillaci and the presidents of the Regions and autonomous Provinces, to give impetus to the implementation of the interventions, ensure monitoring activities and guarantee the full achievement of the objectives agreed at European level.
+News
+Piano Mattei, Italy launches the second Italy-Africa Summit in Ethiopia on 13 February
 27 January 2026
-Nuova tappa dell’impegno italiano per rafforzare partenariati con il continente africano. L’Italia organizzerà il secondo Vertice Italia-Africa a livello di Capi di Stato e di Governo il 13 febbraio ad Addis Abeba, in Etiopia, come anticipato dal Presidente del Consiglio Giorgia Meloni nel corso della conferenza stampa di inizio anno. Si conferma così il rafforzamento delle relazioni strategiche con il continente africano e il consolidamento degli obiettivi del Piano Mattei per l’Africa, lanciato a Roma nel gennaio 2024.
-Notizie
-Dichiarazione del Presidente Meloni in occasione del Giorno della Memoria e dell'81° anniversario della liberazione di Auschwitz
+New stage in Italy's commitment to strengthening partnerships with the African continent. Italy will organize the second Italy-Africa Summit at the level of Heads of State and Government on 13 February in Addis Ababa, Ethiopia, as anticipated by Prime Minister Giorgia Meloni during the press conference at the beginning of the year. This confirms the strengthening of strategic relations with the African continent and the consolidation of the objectives of the Mattei Plan for Africa, launched in Rome in January 2024.
+News
+Statement by President Meloni on the occasion of Remembrance Day and the 81st anniversary of the liberation of Auschwitz
 27 January 2026
-Il 27 gennaio di ottantuno anni fa, con l’abbattimento dei cancelli di Auschwitz, il mondo ha visto con i suoi occhi l’abisso della Shoah. Da quel momento, tutto è cambiato. La più grande macchina di morte concepita nella storia dell'umanità mostrava a tutti la sua ferocia, la sua sistematicità, il suo disegno diabolico. Milioni di persone strappate dalle loro case e uccise nei campi di sterminio, solo perché di religione ebraica. Un piano congegnato e messo in atto per cancellare dall’Europa ogni traccia della presenza, millenaria e feconda, degli ebrei e delle comunità ebraiche. [...]
-Notizie
-Strage di Crans-Montana, il Presidente Meloni riceve l’Ambasciatore d’Italia in Svizzera Cornado
+On January 27, eighty-one years ago, with the demolition of the gates of Auschwitz, the world saw with its own eyes the abyss of the Shoah. From that moment, everything changed. The greatest death machine conceived in the history of humanity showed everyone its ferocity, its systematicity, its diabolical plan. Millions of people torn from their homes and killed in extermination camps, just because they were Jewish. A plan conceived and implemented to erase from Europe every trace of the thousand-year-old and fruitful presence of Jews and Jewish communities. [...]
+News
+Crans-Montana massacre, President Meloni receives the Italian Ambassador to Switzerland Cornado
 26 January 2026
-ll Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi l’Ambasciatore d’Italia in Svizzera, Gian Lorenzo Cornado, richiamato a Roma, d’intesa con il Ministro degli Esteri Antonio Tajani, alla luce della decisione del Tribunale delle Misure Coercitive di Sion di disporre la scarcerazione di Jacques Moretti. [...]
-Notizie
-Iniziative per il Giorno della Memoria 2026
+The Prime Minister, Giorgia Meloni, received the Italian Ambassador to Switzerland, Gian Lorenzo Cornado, today at Palazzo Chigi, recalling
+
+born in Rome, in agreement with the Foreign Minister Antonio Tajani, in light of the decision of the Court of Coercive Measures of Sion to order the release of Jacques Moretti. [...]
+News
+Initiatives for Remembrance Day 2026
 26 January 2026
-Il Ministro per lo Sport e i giovani Andrea Abodi, con delega in materia di anniversari nazionali, il Presidente dell'Unione delle Comunità Ebraiche Italiane (UCEI), Noemi Di Segni, e il Coordinatore nazionale per la lotta all'antisemitismo, Pasquale Angelosanto, hanno presentato a Palazzo Chigi le iniziative promosse per il Giorno della Memoria.
-Notizie
-Dichiarazione del Presidente Meloni
+The Minister for Sport and Youth Andrea Abodi, with responsibility for national anniversaries, the President of the Union of Italian Jewish Communities (UCEI), Noemi Di Segni, and the National Coordinator for the fight against anti-Semitism, Pasquale Angelosanto, presented the initiatives promoted for Remembrance Day at Palazzo Chigi.
+News
+Statement by President Meloni
 24 January 2026
-Il Governo italiano ha appreso con stupore le dichiarazioni del Presidente Trump secondo cui gli alleati della NATO sarebbero “rimasti indietro” durante le operazioni in Afghanistan. Dopo gli attacchi terroristici dell’11 settembre 2001, la NATO ha attivato l’Articolo 5 per la prima e unica volta nella sua storia: un atto di solidarietà straordinario nei confronti degli Stati Uniti. In quell’imponente operazione contro chi alimentava il terrorismo, l’Italia rispose immediatamente insieme agli alleati, dispiegando migliaia di militari e assumendo la piena responsabilità del Regional Command West, una delle aree operative più rilevanti dell’intera missione internazionale. [...]
+The Italian Government was shocked to hear President Trump's declarations that NATO allies had "been left behind" during operations in Afghanistan. After the terrorist attacks of September 11, 2001, NATO activated Article 5 for the first and only time in its history: an extraordinary act of solidarity towards the United States. In that massive operation against those who fueled terrorism, Italy responded immediately together with its allies, deploying thousands of soldiers and assuming full responsibility for Regional Command West, one of the most relevant operational areas of the entire international mission. [...]
 Pages
 « first
 ‹ previous
@@ -3129,31 +3118,31 @@ last »
 
 ---
 
-### Prima riunione del gruppo di lavoro informale sulla competitività europea
+### First meeting of the informal working group on European competitiveness
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31105
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 200
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 207
 - **Unique ID:** `7b2345a59150cd35`
 
 #### Content:
 
-A margine dell’incontro informale dei Capi di Stato e di Governo Ue di Alden Biesen, il Presidente del Consiglio dei Ministri Giorgia Meloni, insieme al Cancelliere federale tedesco Friedrich Merz e al Primo Ministro belga Bart De Wever, ha ospitato l’incontro inaugurale di un nuovo gruppo di lavoro informale dedicato ai temi della competitività europea.
-Insieme a Italia, Germania, Belgio e Commissione europea, hanno preso parte all’incontro Austria, Bulgaria, Cipro, Croazia, Danimarca, Finlandia, Francia, Grecia, Lussemburgo, Paesi Bassi, Polonia, Repubblica Ceca, Romania, Slovacchia, Svezia e Ungheria.
-La discussione dei Leader si è concentrata intorno alle tre priorità delineate nel documento orientativo predisposto da Italia, Germania e Belgio: completamento del Mercato Unico; semplificazione regolatoria e riduzione dei prezzi dell’energia; politica commerciale ambiziosa e pragmatica.
-Particolare attenzione è stata riservata alle iniziative necessarie al rilancio industriale dell’Europa, a partire da una rapida revisione dei meccanismi di tassazione delle emissioni (ETS e CBAM), così come sulla necessità di assicurare un rapido e fedele seguito alle priorità politiche indicate dal Consiglio europeo.
-I Leader hanno concordato di rivedersi già a margine del Consiglio europeo di marzo per mantenere alta l’attenzione sui temi della competitività e contribuire alle definizione di obiettivi concreti e scadenze precise.
+On the sidelines of Alden Biesen's informal meeting of EU Heads of State and Government, the President of the Council of Ministers Giorgia Meloni, together with the German Federal Chancellor Friedrich Merz and the Belgian Prime Minister Bart De Wever, hosted the inaugural meeting of a new informal working group dedicated to the issues of European competitiveness.
+Together with Italy, Germany, Belgium and the European Commission, Austria, Bulgaria, Cyprus, Croatia, Denmark, Finland, France, Greece, Luxembourg, the Netherlands, Poland, the Czech Republic, Romania, Slovakia, Sweden and Hungary took part in the meeting.
+The Leaders' discussion focused on the three priorities outlined in the orientation document prepared by Italy, Germany and Belgium: completion of the Single Market; regulatory simplification and reduction of energy prices; ambitious and pragmatic trade policy.
+Particular attention was paid to the initiatives necessary for the industrial relaunch of Europe, starting from a rapid review of the emissions taxation mechanisms (ETS and CBAM), as well as the need to ensure rapid and faithful follow-up to the political priorities indicated by the European Council.
+The Leaders agreed to meet again on the sidelines of the European Council in March to maintain high attention on competitiveness issues and contribute to the definition of concrete objectives and precise deadlines.
 
 ---
 
-### Prima riunione del gruppo di lavoro informale sulla competitività europea
+### First meeting of the informal working group on European competitiveness
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31106
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 110
 - **Unique ID:** `e86900a0cc5a8b90`
 
@@ -3161,479 +3150,463 @@ I Leader hanno concordato di rivedersi già a margine del Consiglio europeo di m
 
 English
 |
-Italiano
-Prima riunione del gruppo di lavoro informale sulla competitività europea
+Italian
+First meeting of the informal working group on European competitiveness
 12 February 2026
-A margine dell’incontro informale dei Capi di Stato e di Governo Ue di Alden Biesen, il Presidente del Consiglio, Giorgia Meloni, insieme al Cancelliere federale tedesco Friedrich Merz e al Primo Ministro belga Bart De Wever, ha ospitato l’incontro inaugurale di un nuovo gruppo di lavoro informale dedicato ai temi della competitività europea.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Prima riunione del gruppo di lavoro informale sulla competitività europea
+On the sidelines of Alden Biesen's informal meeting of the EU Heads of State and Government, the Prime Minister, Giorgia Meloni, together with the German Federal Chancellor Friedrich Merz and the Belgian Prime Minister Bart De Wever, hosted the inaugural meeting of a new informal working group dedicated to the issues of European competitiveness.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+First meeting of the informal working group on European competitiveness
 
 ---
 
-### Incontro informale dei Leader dell'Ue
+### Informal meeting of EU leaders
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31103
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 72
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 64
 - **Unique ID:** `b84dcde56a4e5e0e`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato in Belgio all’incontro informale dei Leader dell’Ue. Al suo arrivo presso il Castello di Alden Biesen ha tenuto un punto stampa.
-Precedentemente, il Presidente Meloni, insieme al Cancelliere federale tedesco Friedrich Merz e al Primo Ministro belga Bart De Wever, ha ospitato l’incontro inaugurale di un nuovo gruppo di lavoro informale dedicato ai temi della competitività europea.
+The Prime Minister, Giorgia Meloni, participated in the informal meeting of EU leaders in Belgium. Upon his arrival at Alden Castle Biesen held a press point.
+Previously, President Meloni, together with German Federal Chancellor Friedrich Merz and Belgian Prime Minister Bart De Wever, hosted the inaugural meeting of a new informal working group dedicated to European competitiveness issues.
 [
-Punto stampa del Presidente Meloni
+President Meloni's press point
 ]
 
 ---
 
-### Incontro informale dei Leader dell'Ue
+### Informal meeting of EU leaders
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31109
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 68
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 67
 - **Unique ID:** `1d1142e827b327c7`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro informale dei Leader dell'Ue
+Italian
+Informal meeting of EU leaders
 12 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, partecipa oggi all’incontro informale dei Leader dell’Ue presso il Castello di Alden Biesen in Belgio.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro informale dei Leader dell'Ue
+The Prime Minister, Giorgia Meloni, participates today in the informal meeting of EU Leaders at the Alden Biesen Castle in Belgium.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Informal meeting of EU leaders
 
 ---
 
-### Incontro informale dei Leader dell'Ue
+### Informal meeting of EU leaders
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31104
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 83
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 16
 - **Unique ID:** `e9abdaa1029cabc3`
 
 #### Content:
 
-English
-|
-Italiano
-Incontro informale dei Leader dell'Ue
-12 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, partecipa all’incontro informale dei Leader dell’Ue presso il Castello di Alden Biesen in Belgio. Al suo arrivo ha tenuto un punto stampa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Punto stampa del Presidente Meloni
-Video di sintesi
-Articoli Correlati
-Incontro informale dei Leader dell'Ue
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ---
 
-### Strage a Tumbler Ridge, il cordoglio del Presidente Meloni
+### Massacre at Tumbler Ridge, President Meloni's condolences
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31100
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 63
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 67
 - **Unique ID:** `00033135e343b14d`
 
 #### Content:
 
-Esprimo le più sentite condoglianze per la strage avvenuta in British Columbia. Nel manifestare la mia vicinanza alla comunità di Tumbler Ridge e un pensiero commosso per le famiglie spezzate dal dolore, desidero rivolgere la piena e più sentita solidarietà del Governo italiano e mia personale al Primo Ministro Mark Carney e a tutto il popolo canadese di fronte a questa terribile tragedia.
+I express my deepest condolences for the massacre that occurred in British Columbia. In expressing my closeness to the Tumbler Ridge community and a heartfelt thought for the families broken by grief, I would like to address the full and heartfelt solidarity of the Italian Government and my own to Prime Minister Mark Carney and to all the Canadian people in the face of this terrible tragedy.
 
 ---
 
-### Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+### Remembrance Day, Palazzo Chigi lights up with the Tricolore
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31022
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 67
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 73
 - **Unique ID:** `31a86fd267792bcd`
 
 #### Content:
 
-In occasione del Giorno del Ricordo, dalle ore 00.01 alle ore 23.59 di martedì 10 febbraio 2026, con interruzione nelle ore diurne, la Presidenza del Consiglio dei Ministri ha disposto l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, al centro della piazza della sede del Governo viene proiettata la frase “Io Ricordo”. La Presidenza ha inoltre disposto l’imbandieramento a mezz’asta su tutti gli uffici pubblici.
+On the occasion of Remembrance Day, from 00.01 to 23.59 on Tuesday 10 February 2026, with interruption during daylight hours, the Presidency of the Council of Ministers has ordered the illumination of the main facade of Palazzo Chigi with the Tricolore, in the center of the square of the Government headquarters the phrase "I Remember" is projected. The Presidency has also ordered the flag to be flown at half-mast in all public offices.
 
 ---
 
-### Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+### Remembrance Day, Palazzo Chigi lights up with the Tricolore
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31088
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 124
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 127
 - **Unique ID:** `9e3187128ef2aeb4`
 
 #### Content:
 
 English
 |
-Italiano
-Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+Italian
+Remembrance Day, Palazzo Chigi lights up with the Tricolore
 10 February 2026
-In occasione del Giorno del Ricordo, dalle ore 00.01 alle ore 23.59 di martedì 10 febbraio 2026, con interruzione nelle ore diurne, la Presidenza del Consiglio dei Ministri ha disposto l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, al centro della piazza della sede del Governo viene proiettata la frase “Io Ricordo”. La Presidenza ha inoltre disposto l’imbandieramento a mezz’asta su tutti gli uffici pubblici.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+On the occasion of Remembrance Day, from 00.01 to 23.59 on Tuesday 10 February 2026, with interruption during daylight hours, the Presidency of the Council of Ministers has ordered the illumination of the main facade of Palazzo Chigi with the Tricolore, in the center of the square of the Government headquarters the phrase "I Remember" is projected. The Presidency has also ordered the flag to be flown at half-mast in all public offices.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Remembrance Day, Palazzo Chigi lights up with the Tricolore
 
 ---
 
-### Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+### Remembrance Day, Palazzo Chigi lights up with the Tricolore
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31089
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 131
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 136
 - **Unique ID:** `df25111f288aab95`
 
 #### Content:
 
 English
 |
-Italiano
-Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+Italian
+Remembrance Day, Palazzo Chigi lights up with the Tricolore
 10 February 2026
-In occasione del Giorno del Ricordo, dalle ore 00.01 alle ore 23.59 di martedì 10 febbraio 2026, con interruzione nelle ore diurne, la Presidenza del Consiglio dei Ministri ha disposto l’illuminazione della facciata principale di Palazzo Chigi con il Tricolore, al centro della piazza della sede del Governo viene proiettata la frase “Io Ricordo”. La Presidenza ha inoltre disposto l’imbandieramento a mezz’asta su tutti gli uffici pubblici.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'illuminazione della facciata principale di Palazzo Chigi
-Articoli Correlati
-Giorno del Ricordo, Palazzo Chigi si illumina con il Tricolore
+On the occasion of Remembrance Day, from 00.01 to 23.59 on Tuesday 10 February 2026, with interruption during daylight hours, the Presidency of the Council of Ministers has ordered the illumination of the main facade of Palazzo Chigi with the Tricolore, in the center of the square of the Government headquarters the phrase "I Remember" is projected. The Presidency has also ordered the flag to be flown at half-mast in all public offices.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The lighting of the main facade of Palazzo Chigi
+Related Articles
+Remembrance Day, Palazzo Chigi lights up with the Tricolore
 
 ---
 
-### Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+### Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31087
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 135
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 139
 - **Unique ID:** `a21e3370909f047d`
 
 #### Content:
 
-Nell’ambito delle celebrazioni legate al Giorno del ricordo dei martiri delle foibe e della tragedia dell’esodo giuliano-dalmata, si è svolta oggi a Palazzo Chigi la cerimonia di consegna dei riconoscimenti, previsti dalla legge 30 marzo 2004 n. 92, ai congiunti degli infoibati e degli italiani scomparsi o uccisi ad opera delle autorità di polizia politica jugoslave, nei territori del confine orientale, durante e dopo la Seconda guerra mondiale.
-La cerimonia, presieduta dal Ministro per lo Sport e i Giovani Andrea Abodi, è stata aperta dal saluto introduttivo del Segretario Generale della Presidenza del Consiglio dei Ministri, Carlo Deodato.
-L’evento ha visto la partecipazione di Abdon Pamich, esule fiumano e campione olimpico ai Giochi di Roma 1960 e di Tokyo 1964, al quale il Ministro Abodi ha consegnato la Medaglia del Presidente del Consiglio dei Ministri.
+As part of the celebrations linked to the Day of Remembrance of the Martyrs of the Foibe and the tragedy of the Julian-Dalmatian exodus, the award ceremony, provided for by law no. 30 March 2004, took place today at Palazzo Chigi. 92, to the relatives of the Infoibati and the Italians who disappeared or were killed by the Yugoslav political police authorities, in the territories of the eastern border, during and after the Second World War.
+The ceremony, chaired by the Minister for Sport and Youth Andrea Abodi, was opened by the introductory greeting from the Secretary General of the Presidency of the Council of Ministers, Carlo Deodato.
+The event saw the participation of Abdon Pamich, exile from Rijeka and Olympic champion at the Rome 1960 and Tokyo 1964 Games, to whom Minister Abodi presented the Prime Minister's Medal.
 
 ---
 
-### Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+### Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31086
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 116
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 123
 - **Unique ID:** `3d311cbc4b53942d`
 
 #### Content:
 
-Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 10 February 2026
-Si è svolta oggi a Palazzo Chigi la cerimonia di consegna dei riconoscimenti ai congiunti delle vittime delle foibe, con gli interventi del Ministro per lo Sport e i Giovani, Andrea Abodi, del Segretario Generale della Presidenza del Consiglio dei Ministri, Carlo Deodato, e la testimonianza di Abdon Pamich, esule istriano e campione olimpico.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+The ceremony for the awarding of awards to the relatives of the victims of the foibe took place today at Palazzo Chigi, with speeches by the Minister for Sport and Youth, Andrea Abodi, by the General Secretary of the Presidency of the Council of Ministers, Carlo Deodato, and the testimony of Abdon Pamich, Istrian exile and Olympic champion.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 
 ---
 
-### Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+### Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31084
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 127
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 134
 - **Unique ID:** `f62b0df10bf5b833`
 
 #### Content:
 
-Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 10 February 2026
-Si è svolta oggi a Palazzo Chigi la cerimonia di consegna dei riconoscimenti ai congiunti delle vittime delle foibe, con gli interventi del Ministro per lo Sport e i Giovani, Andrea Abodi, del Segretario Generale della Presidenza del Consiglio dei Ministri, Carlo Deodato, e la testimonianza di Abdon Pamich, esule istriano e campione olimpico.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Cerimonia di consegna dei riconoscimenti ai congiunti delle vittime delle foibe
-Articoli Correlati
-Giorno del Ricordo 2026, la consegna dei riconoscimenti ai congiunti delle vittime delle foibe
+The ceremony for the awarding of awards to the relatives of the victims of the foibe took place today at Palazzo Chigi, with speeches by the Minister for Sport and Youth, Andrea Abodi, by the General Secretary of the Presidency of the Council of Ministers, Carlo Deodato, and the testimony of Abdon Pamich, Istrian exile and Olympic champion.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Award ceremony for the relatives of the victims of the foibe
+Related Articles
+Remembrance Day 2026, the delivery of awards to the relatives of the victims of the foibe
 
 ---
 
-### Memorandum d’Intesa con il Segretariato Generale del Governo della Repubblica di Macedonia del Nord
+### Memorandum of Understanding with the General Secretariat of the Government of the Republic of North Macedonia
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31085
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 162
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 171
 - **Unique ID:** `77173ec0c3222557`
 
 #### Content:
 
-La Presidenza del Consiglio dei Ministri ha stipulato un Memorandum d’Intesa con il Segretariato Generale del Governo della Repubblica di Macedonia del Nord sull’efficientamento dell’azione dell’Amministrazione dello Stato.
-L’intesa intende consolidare le relazioni bilaterali e approfondire la cooperazione in ambiti strategici - modernizzazione della P.A., rafforzamento delle capacità amministrative e della trasparenza, protezione civile - attraverso la condivisione di: esperienze, buone prassi e competenze di riforma amministrativa e gestione delle risorse umane; innovazione, in particolare su trasformazione digitale e pianificazione strategica; protezione civile, con un focus su risposta alle emergenze e resilienza territoriale.
-La cooperazione della PDC favorirà l’allineamento della Macedonia del Nord agli standard europei e ne potenzierà le capacità istituzionali necessarie per l’attuazione delle riforme, nel quadro del percorso di adesione all’Ue.
-L’iniziativa rappresenta un ulteriore contributo alla stabilità e all’integrazione dei Balcani Occidentali, confermando il ruolo dell’Italia di partner strategico nell’area. L’attuazione sarà garantita da una cooperazione operativa, con programmi di formazione e scambi di esperti e progetti pilota.
+The Presidency of the Council of Ministers has signed a Memorandum of Understanding with the General Secretariat of the Government of the Republic of North Macedonia on the efficiency of the action of the State Administration.
+The agreement intends to consolidate bilateral relations and deepen cooperation in strategic areas - modernization of the Public Administration, strengthening of administrative capacities and transparency, civil protection - through the sharing of: experiences, good practices and skills in administrative reform and human resources management; innovation, in particular on digital transformation and strategic planning; civil protection, with a focus on emergency response and territorial resilience.
+The PDC's cooperation will promote North Macedonia's alignment with European standards and strengthen its institutional capacities necessary for the implementation of reforms, as part of the EU accession process.
+The initiative represents a further contribution to the stability and integration of the Western Balkans, confirming Italy's role as a strategic partner in the area. Implementation will be ensured by operational cooperation, with training programs and exchanges of experts and pilot projects.
 
 ---
 
-### Giorno del Ricordo, il Presidente Meloni alla cerimonia celebrativa
+### Remembrance Day, President Meloni at the celebratory ceremony
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31081
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 21
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 20
 - **Unique ID:** `78a35e1bae34739d`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato questa mattina alla cerimonia celebrativa del "Giorno del Ricordo", presso l'Aula di Montecitorio.
+The Prime Minister, Giorgia Meloni, participated this morning in the ceremony celebrating the "Day of Remembrance" in the Montecitorio Chamber.
 
 ---
 
-### Giorno del Ricordo, il Presidente Meloni alla cerimonia celebrativa
+### Remembrance Day, President Meloni at the celebratory ceremony
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31083
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 84
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 83
 - **Unique ID:** `66dd24910f01e461`
 
 #### Content:
 
 English
 |
-Italiano
-Giorno del Ricordo, il Presidente Meloni alla cerimonia celebrativa
+Italian
+Remembrance Day, President Meloni at the celebratory ceremony
 10 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato questa mattina alla cerimonia celebrativa del "Giorno del Ricordo", presso l'Aula di Montecitorio, alla presenza del Presidente della Repubblica Sergio Mattarella.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Giorno del Ricordo, il Presidente Meloni alla cerimonia celebrativa
+The Prime Minister, Giorgia Meloni, participated this morning in the ceremony celebrating the "Day of Remembrance", in the Montecitorio Chamber, in the presence of the President of the Republic Sergio Mattarella.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Remembrance Day, President Meloni at the celebratory ceremony
 
 ---
 
-### Giorno del Ricordo, il calendario delle iniziative per il 2026
+### Remembrance Day, the calendar of initiatives for 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31076
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1052
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1129
 - **Unique ID:** `32ab7bcfcc63ad12`
 
 #### Content:
 
-È disponibile il calendario 2026 delle iniziative e degli eventi promossi in occasione del Giorno del Ricordo dei martiri delle foibe e dell’esodo giuliano-dalmata, predisposto dal Comitato di coordinamento per le celebrazioni istituito presso la Presidenza del Consiglio dei Ministri. Il programma, ampio e articolato, è frutto della sinergia tra le diverse Amministrazioni dello Stato e il mondo dell’associazionismo impegnato nella conservazione della memoria e nella promozione della conoscenza della tragedia delle foibe e dell’esodo.
-Dalle ore 00.01 alle ore 23.59 di martedì 10 febbraio 2026, con interruzione nelle ore diurne, la Presidenza del Consiglio ha disposto l’
-illuminazione della facciata principale di Palazzo Chigi con il Tricolore e la scritta “Io ricordo”
-. La Presidenza ha, inoltre, disposto l’imbandieramento a mezz’asta su tutti gli uffici pubblici.
-Il 10 febbraio, alle ore 10.00, nell’Aula di Montecitorio, il Presidente del Consiglio dei Ministri, Giorgia Meloni, parteciperà alla
-cerimonia celebrativa del Giorno del Ricordo
-, alla presenza del Presidente della Repubblica, Sergio Mattarella.
-Il 10 febbraio 2026, alle ore 15.30, si svolgerà a Palazzo Chigi la
-cerimonia di consegna delle onorificenze ai congiunti delle vittime delle foibe
-, con l’intervento del Ministro per lo Sport e i Giovani, Andrea Abodi, e la testimonianza di Abdon Pamich, esule istriano e campione olimpico.
-Dal 10 febbraio al 1° marzo, è in programma la
-terza edizione del “Treno del Ricordo”
-, la mostra multimediale itinerante allestita su un treno storico che ripercorre idealmente il viaggio compiuto dagli esuli istriani, fiumani e dalmati per raggiungere i vari campi profughi sul territorio nazionale, da Nord a Sud. L’edizione 2026 toccherà 11 tappe: Trieste, Pordenone, Bologna, Pescara, L’Aquila, Roma, Latina, Salerno, Reggio Calabria, Palermo e Siracusa. Nelle prime carrozze del treno, i visitatori potranno conoscere e approfondire la tragedia delle foibe e dell’esodo attraverso un percorso multimediale, nel quale si alternano pannelli informativi, immagini di repertorio e testi originali recitati da una voce narrante. La mostra è arricchita dall’esposizione di alcune delle masserizie degli esuli, custodite dall’Istituto Regionale per la Cultura Istriano-fiumano-dalmata nel Magazzino 18 di Trieste. La quinta carrozza, novità dell’edizione 2026, è dedicata alla trasmissione del ricordo alle giovani generazioni. È allestita in collaborazione con il Ministero dell’Istruzione e del Merito, che ha fornito una selezione degli elaborati degli studenti che hanno partecipato al concorso nazionale “Il Giorno del Ricordo”, e con l’Agenzia Italiana per la Gioventù, che ha realizzato “Il Viaggio del Ricordo” nei luoghi simbolo dell’esodo giuliano-dalmata.
-Le iniziative patrocinate dalla Presidenza del Consiglio
-L’elenco, in continuo aggiornamento, delle iniziative e delle celebrazioni organizzate dalle Associazioni, dagli Enti, dalle Fondazioni e dagli Istituti di ricerca che fanno parte del Comitato e per le quali è stato concesso il patrocinio della Presidenza del Consiglio dei Ministri.
-L’
-Associazione Fiumani Italiani nel Mondo – Libero Comune di Fiume in esilio
-promuoverà, il 14 marzo 2026, presso la sede della Comunità italiana di Fiume, un convegno e l’inaugurazione di una mostra dedicati ai sacerdoti fiumani in Toscana, a cui seguirà un concerto di musiche sacre eseguito dal Coro della Cappella del Duomo di Pisa, presso la Cattedrale di San Vito. Ha ricevuto, inoltre, il patrocinio il concerto celebrativo del Giorno del Ricordo, curato dal maestro Giovanni Bellucci in ricordo dello scrittore e poeta fiumano Paolo Santarcangeli, che si è svolto il 7 febbraio 2026 presso la Reggia di Venaria.
-L’
-Associazione Nazionale Dalmata
-ha promosso, per l’8 febbraio 2026, la presentazione del libro dal titolo “Edda Cattich. Una vita straordinaria” dedicato a Edda Cattich, esule e medaglia d’oro della Croce Rossa Italiana.
-L’
-Associazione Nazionale Venezia Giulia e Dalmazia
-presenta la mostra “Foibe ed Esodo. I sommersi della Storia”, presso l’ex Conservatorio di Sant’Anna di Lecce, visitabile dal 9 al 23 febbraio 2026. Dal 9 all’11 febbraio 2026, l’Associazione organizza gli itinerari della memoria “Le vie del Ricordo e della Frontiera adriatica a Roma”, visite guidate del Quartiere Giuliano-Dalmata di Roma. Cura, inoltre, la mostra “Da esuli a cittadini. La comunità giuliano-dalmata di Torino. Immagini quotidiane 1947-1980”, presso l’Archivio di Stato di Torino, dall’11 al 25 febbraio 2026.
-La
-Federazione delle Associazioni degli esuli Istriani, Fiumani e Dalmati
-organizza, martedì 10 febbraio, alle ore 11.00, una conferenza di presentazione della mostra “Tu lascerai ogni cosa diletta più caramente. L’esilio dei Giuliano-Dalmati alla fine del secondo conflitto mondiale”, in programma presso la Sala degli Arazzi di Palazzo Marino a Milano. La conferenza, preceduta dalla deposizione di una corona di alloro presso il monumento ai martiri delle foibe in piazza della Repubblica, alle ore 9.30, sarà seguita dalla proiezione del docufilm “Rotta 230º - Ritorno alla terra dei padri”, presso il Cinema Arlecchino di Milano, alle ore 17.00.
-La Federazione cura, inoltre, l’evento culturale “I 90 anni di Fertilia, città dell’inclusione e della rinascita degli Esuli giuliano dalmati”, programmato per le giornate di venerdì 29, sabato 30 e domenica 31 maggio 2026, dedicato alla memoria del coinvolgimento della località sarda di Fertilia con la storia del confine orientale italiano. Le celebrazioni organizzate dalla Federazione comprendo anche il convegno di studi “Vergarolla, la prima strage dell’Italia repubblicana”, presso la Fondazione culturale Ambrosianeum di Milano, lunedì 15 giugno 2026, alle ore 15.00.
-La
-Società di Studi Fiumani – Archivio Museo Storico di Fiume
-organizza, dal 29 gennaio al 15 febbraio 2026, presso l’Archivio Centrale dello Stato di Roma, la mostra di documenti e cimeli dal titolo “Fiume: la città del Ricordo. La storia dalle origini all’esodo attraverso i documenti dell’Archivio Museo storico di Fiume”.
-La Società cura, inoltre, l’incontro con lo scrittore Diego Zandel “L’esodo giuliano-dalmata e le sue memorie”, in programma presso l’Archivio Centrale dello Stato di Roma, lunedì 16 febbraio. La Società ha promosso, infine, il convegno “Il Giorno del Ricordo. L’esodo giuliano-dalmata: una storia a lungo dimenticata”, che si è svolto presso il Museo dell’Emigrazione nazionale di Genova il 3 febbraio 2026.
-La
-Società Istriana di Archeologia e Storia Patria
-presenterà, il 10 febbraio 2026, alle ore 17.00, la ristampa anastatica del volume di Giovanni Antonio Panthera “Monarchia del Nostro Sig. Giesu Christo”, edizione veneziana del 1956, all’evento “Un figlio di Parenzo: Giovanni Antonio Panthera”.
-Gli eventi e le celebrazioni curati dalle Amministrazioni dello Stato
-Ministero dell’Interno
-Ministero degli Affari esteri e della Cooperazione internazionale
-Ministero dell’Istruzione e del Merito
-Ministero dell'Università e della Ricerca
-Ministero della Cultura
-Ministro per lo Sport e i Giovani
-Agenzia Italiana per la Gioventù
+The 2026 calendar of initiatives and events promoted on the occasion of the Day of Remembrance of the martyrs of the Foibe and the Julian-Dalmatian exodus is available, prepared by the Coordination Committee for the celebrations established at the Presidency of the Council of Ministers. The program, broad and detailed, is the result of the synergy between the various State Administrations and the world of associations involved in preserving the memory and promoting knowledge of the tragedy of the foibe and the exodus.
+From 00.01 am to 11.59 pm on Tuesday 10 February 2026, with interruption during daytime hours, the Presidency of the Council has ordered the
+lighting of the main facade of Palazzo Chigi with the Tricolor and the writing "I remember"
+. The Presidency has also ordered the flag to be flown at half-mast in all public offices.
+On 10 February, at 10.00 am, in the Montecitorio Chamber, the President of the Council of Ministers, Giorgia Meloni, will participate in the
+Remembrance Day celebration ceremony
+, in the presence of the President of the Republic, Sergio Mattarella.
+On 10 February 2026, at 3.30 pm, the event will take place at Palazzo Chigi
+ceremony for the awarding of honors to the relatives of the victims of the Foibe
+, with the intervention of the Minister for Sport and Youth, Andrea Abodi, and the testimony of Abdon Pamich, Istrian exile and Olympic champion.
+From February 10th to March 1st, the
+third edition of the “Train of Remembrance”
+, the traveling multimedia exhibition set up on a historic train that ideally retraces the journey made by the Istrian, Fiume and Dalmatian exiles to reach the various refugee camps across the national territory, from North to South. The 2026 edition will touch on 11 stops: Trieste, Pordenone, Bologna, Pescara, L'Aquila, Rome, Latina, Salerno, Reggio Calabria, Palermo and Syracuse. In the first carriages of the train, visitors will be able to learn about and learn more about the tragedy of the foibe and the exodus through a multimedia journey, in which information panels, archive images and original texts recited by a narrator alternate. The exhibition is enriched by the display of some of the exiles' household goods, kept by the Regional Institute for Istrian-Fiume-Dalmatian Culture in Warehouse 18 in Trieste. The fifth carriage, new to the 2026 edition, is dedicated to transmitting memories to the younger generations. It is set up in collaboration with the Ministry of Education and Merit, which provided a selection of the works of the students who participated in the national competition "The Day of Remembrance", and with the Italian Youth Agency, which created "The Journey of Remembrance" in the symbolic places of the Julian-Dalmatian exodus.
+The initiatives sponsored by the Presidency of the Council
+The continuously updated list of initiatives and celebrations organized by the Associations, Bodies, Foundations and Research Institutes that are part of the Committee and for which the patronage of the Presidency of the Council of Ministers has been granted.
+The
+Association of Fiume Italians in the World – Free Municipality of Fiume in exile
+will promote, on 14 March 2026, at the headquarters of the Italian Community of Rijeka, a conference and the inauguration of an exhibition dedicated to Fiume priests in Tuscany, followed by a concert of sacred music performed by the Pisa Cathedral Chapel Choir, at the Cathedral of San Vito. Furthermore, the celebratory concert of the Day of Remembrance received patronage, curated by maestro Giovanni Bellucci in memory of the Rijeka writer and poet Paolo Santarcangeli, which took place on 7 February 2026 at the Reggia di Venaria.
+The
+National Dalmatian Association
+promoted, for 8 February 2026, the presentation of the book entitled "Edda Cattich. An extraordinary life" dedicated to Edda Cattich, exile and gold medal of the Italian Red Cross.
+The
+National Association of Venezia Giulia and Dalmatia
+presents the exhibition "Foibe and Exodus. The submerged people of History", at the former Conservatory of Sant'Anna in Lecce, which can be visited from 9 to 23 February 2026. From 9 to 11 February 2026, the Association organizes the itineraries of memory "The streets of Memory and the Adriatic Frontier in Rome", guided tours of the Giuliano-Dalmata neighborhood of Rome. He also curates the exhibition "From exiles to citizens. The Julian-Dalmatian community of Turin. Daily images 1947-1980", at the Archive of
+
+State of Turin, from 11 to 25 February 2026.
+The
+Federation of Associations of Istrian, Fiume and Dalmatian exiles
+organizes, on Tuesday 10 February, at 11.00 am, a conference to present the exhibition "You will leave everything loved more dearly. The exile of the Giuliano-Dalmatians at the end of the Second World War", scheduled at the Sala degli Arazzi of Palazzo Marino in Milan. The conference, preceded by the laying of a laurel wreath at the monument to the martyrs of the Foibe in Piazza della Repubblica, at 9.30 am, will be followed by the screening of the docufilm "Rotta 230º - Return to the land of the fathers", at the Cinema Arlecchino in Milan, at 5.00 pm.
+The Federation also takes care of the cultural event "The 90 years of Fertilia, city of inclusion and rebirth of the Julian Dalmatian Exiles", scheduled for Friday 29th, Saturday 30th and Sunday 31st May 2026, dedicated to the memory of the involvement of the Sardinian town of Fertilia with the history of the eastern Italian border. The celebrations organized by the Federation also include the study conference "Vergarolla, the first massacre of republican Italy", at the Ambrosianeum cultural foundation in Milan, Monday 15 June 2026, at 3.00 pm.
+The
+Society of Fiume Studies – Archive of the Historical Museum of Rijeka
+organizes, from 29 January to 15 February 2026, at the Central State Archives of Rome, the exhibition of documents and memorabilia entitled "Rijeka: the city of remembrance. The history from the origins to the exodus through the documents of the Historical Museum Archive of Rijeka".
+The Society also organizes the meeting with the writer Diego Zandel "The Julian-Dalmatian exodus and its memories", scheduled at the Central State Archives of Rome on Monday 16 February. Finally, the Society promoted the conference "The Day of Remembrance. The Julian-Dalmatian exodus: a long forgotten story", which took place at the National Emigration Museum in Genoa on 3 February 2026.
+The
+Istrian Society of Archeology and Homeland History
+will present, on 10 February 2026, at 5.00 pm, the anastatic reprint of Giovanni Antonio Panthera's volume "Monarchia del Nostro Signor Giesu Christo", Venetian edition of 1956, at the event "A son of Parenzo: Giovanni Antonio Panthera".
+The events and celebrations organized by the State Administrations
+Ministry of the Interior
+Ministry of Foreign Affairs and International Cooperation
+Ministry of Education and Merit
+Ministry of University and Research
+Ministry of Culture
+Minister for Sport and Youth
+Italian Youth Agency
 
 ---
 
-### Presentazione delle iniziative per il Giorno del Ricordo 2026
+### Presentation of the initiatives for Remembrance Day 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31079
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 104
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 96
 - **Unique ID:** `4ad3b2e51f926d65`
 
 #### Content:
 
-Presentazione delle iniziative per il Giorno del Ricordo 2026
+Presentation of the initiatives for Remembrance Day 2026
 9 February 2026
-Il Ministro per lo Sport e i Giovani, Andrea Abodi, delegato per la Struttura di missione per gli anniversari nazionali, ha presentato in conferenza stampa le iniziative patrocinate dalla Presidenza del Consiglio dei Ministri per il Giorno del Ricordo. Alla conferenza ha partecipato il Presidente del Gruppo FS Italiane, Tommaso Tanzilli.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Giorno del Ricordo, il calendario delle iniziative per il 2026
+The Minister for Sport and Youth, Andrea Abodi, delegate for the Mission Structure for national anniversaries, presented in a press conference the initiatives sponsored by the Presidency of the Council of Ministers for Remembrance Day. The President of the FS Italiane Group, Tommaso Tanzilli, attended the conference.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Remembrance Day, the calendar of initiatives for 2026
 
 ---
 
-### Presentazione delle iniziative per il Giorno del Ricordo 2026
+### Presentation of the initiatives for Remembrance Day 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31080
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 107
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 100
 - **Unique ID:** `cb388bfb597db5fd`
 
 #### Content:
 
-Presentazione delle iniziative per il Giorno del Ricordo 2026
+Presentation of the initiatives for Remembrance Day 2026
 9 February 2026
-Il Ministro per lo Sport e i Giovani, Andrea Abodi, delegato per la Struttura di missione per gli anniversari nazionali, ha presentato in conferenza stampa le iniziative patrocinate dalla Presidenza del Consiglio dei Ministri per il Giorno del Ricordo. Alla conferenza ha partecipato il Presidente del Gruppo FS Italiane, Tommaso Tanzilli.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-La conferenza stampa
-Articoli Correlati
-Giorno del Ricordo, il calendario delle iniziative per il 2026
+The Minister for Sport and Youth, Andrea Abodi, delegate for the Mission Structure for national anniversaries, presented in a press conference the initiatives sponsored by the Presidency of the Council of Ministers for Remembrance Day. The President of the FS Italiane Group, Tommaso Tanzilli, participated in the conference.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The press conference
+Related Articles
+Remembrance Day, the calendar of initiatives for 2026
 
 ---
 
-### Cerimonia di Apertura di Milano Cortina 2026
+### Opening Ceremony of Milano Cortina 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31064
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 20
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 19
 - **Unique ID:** `b8d130ea807c08b5`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di Apertura dei XXV Giochi Olimpici Invernali Milano Cortina 2026.
+The Prime Minister, Giorgia Meloni, participated in the Opening Ceremony of the XXV Milan Cortina 2026 Olympic Winter Games.
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=10
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 630
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 659
 - **Unique ID:** `eeb640de48a42f67`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -3646,42 +3619,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-L’Italia rappresenta la sua protesta alla magistratura svizzera. Richiamato l’Ambasciatore d’Italia a Berna
+News
+Italy represents its protest to the Swiss judiciary. The Italian Ambassador to Bern has been recalled
 24 January 2026
-Il Presidente del Consiglio Giorgia Meloni e il Ministro degli Esteri Antonio Tajani hanno dato istruzione all’Ambasciatore d’Italia in Svizzera Gian Lorenzo Cornado di prendere immediatamente contatto con la procuratrice generale del Canton Vallese Béatrice Pilloud per rappresentarle la viva indignazione del Governo e dell’Italia di fronte alla decisione del Tribunale delle Misure Coercitive di Sion di scarcerare Jacques Moretti, nonostante l’estrema gravità del reato di cui è sospettato, le pesanti responsabilità che incombono su di lui, il persistente pericolo di fuga e l’evidente rischio di ulteriore inquinamento delle prove a suo carico.
-Notizie
-Danni provocati dall'ondata di maltempo nel Sud Italia, Il Presidente Meloni presiede riunione alla Protezione Civile
+The Prime Minister Giorgia Meloni and the Foreign Minister Antonio Tajani have instructed the Italian Ambassador to Switzerland Gian Lorenzo Cornado to immediately contact the Attorney General of the Canton of Valais Béatrice Pilloud to represent to her the strong indignation of the Government and Italy towards the decision of the Court of Coercive Measures of Sion to release Jacques Moretti from prison, despite the extreme seriousness of the crime of which he is suspected, the heavy responsibilities that weigh on him him, the persistent danger of escape and the evident risk of further contamination of the evidence against him.
+News
+Damage caused by the wave of bad weather in Southern Italy, President Meloni chairs a meeting at the Civil Protection
 23 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha presieduto oggi pomeriggio, presso la sede della Protezione Civile a Roma, una riunione sui danni provocati dall’eccezionale ondata di maltempo che ha colpito il Sud Italia, in particolare per il passaggio del ciclone Harry. [...]
-Notizie
-Forum imprenditoriale Italia – Germania
+The Prime Minister, Giorgia Meloni, chaired a meeting this afternoon at the Civil Protection headquarters in Rome on the damage caused by the exceptional wave of bad weather that hit Southern Italy, in particular due to the passage of Cyclone Harry. [...]
+News
+Entrepreneurial Forum Italy – Germany
 23 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato, insieme al Cancelliere della Repubblica Federale di Germania, Friedrich Merz, al Forum imprenditoriale Italia-Germania.
-Notizie
-Vertice intergovernativo tra Italia e Germania
+The Prime Minister, Giorgia Meloni, participated, together with the Chancellor of the Federal Republic of Germany, Friedrich Merz, in the Italy-Germany business forum.
+News
+Intergovernmental summit between Italy and Germany
 23 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi al Vertice intergovernativo tra Italia e Germania, a Roma in Villa Doria Pamphilj. Al termine dei colloqui con il Cancelliere della Repubblica Federale di Germania, Friedrich Merz, si è tenuta la cerimonia di firma di accordi seguita dalle dichiarazioni congiunte alla stampa.
-Notizie
-Riunione informale dei Capi di Stato o di Governo del Consiglio europeo
+The Prime Minister, Giorgia Meloni, participated today in the intergovernmental summit between Italy and Germany, in Rome in Villa Doria Pamphilj. At the end of the talks with the Chancellor of the Federal Republic of Germany, Friedrich Merz, the agreement signing ceremony was held followed by joint statements to the press.
+News
+Informal meeting of the Heads of State or Government of the European Council
 22 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Bruxelles, alla riunione informale dei Capi di Stato o di Governo del Consiglio europeo.
-Notizie
-Incontro a Palazzo Chigi sulla legge 1/2026
+The President of the Council, Giorgia Meloni, participated in the informal meeting of the Heads of State or Government of the European Council in Brussels.
+News
+Meeting at Palazzo Chigi on law 1/2026
 22 January 2026
-In coincidenza con l'entrata in vigore della legge 7 gennaio 2026, n. 1, recante modifiche in materia di funzioni della Corte dei conti e di responsabilità amministrativa e per danno erariale, si è svolto questa mattina a Palazzo Chigi un incontro tra una rappresentanza istituzionale della Corte dei conti, guidata dal Presidente Guido Carlino, e il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, accompagnato dai vertici amministrativi della Presidenza del Consiglio. [...]
-Notizie
-Dichiarazione del Presidente Meloni
+Coinciding with the entry into force of law 7 January 2026, n. 1, containing changes regarding the functions of the Court of Auditors and administrative liability and for tax damage, a meeting took place this morning at Palazzo Chigi between an institutional representation of the Court of Auditors, led by President Guido Carlino, and the Undersecretary to the Presidency of the Council Alfredo Mantovano, accompanied by the administrative leaders of the Presidency of the Council. [...]
+News
+Statement by President Meloni
 21 January 2026
-Accolgo con favore l’annuncio del Presidente Trump di sospendere l’imposizione dei dazi prevista per il 1° febbraio nei confronti di alcuni Stati europei. Come l’Italia ha sempre sostenuto, è fondamentale continuare a favorire il dialogo tra Nazioni alleate.
-Notizie
-Maltempo in Calabria, Sardegna e Sicilia, nota di Palazzo Chigi
+I welcome President Trump's announcement to suspend the imposition of tariffs scheduled for 1 February against some European states. As Italy has always maintained, it is essential to continue to encourage dialogue between allied nations.
+News
+Bad weather in Calabria, Sardinia and Sicily, note from Palazzo Chigi
 21 January 2026
-Il Presidente del Consiglio dei Ministri, Giorgia Meloni, segue con attenzione, in costante contatto con il Ministro Nello Musumeci e con il Capo Dipartimento della Protezione Civile, Fabio Ciciliano, l’evoluzione dell’eccezionale ondata di maltempo che sta interessando la Calabria, la Sardegna e la Sicilia. Il Presidente Meloni è particolarmente vicina alle comunità colpite e raccomanda di seguire le indicazioni delle autorità locali, evitando ogni esposizione al rischio. [...]
-Notizie
-Incontro con il Presidente della Repubblica dell’Uzbekistan
+The President of the Council of Ministers, Giorgia Meloni, is carefully following, in constant contact with Minister Nello Musumeci and with the Head of the Civil Protection Department, Fabio Ciciliano, the evolution of the exceptional wave of bad weather which is affecting Calabria, Sardinia and Sicily. President Meloni is particularly close to the affected communities and recommends following the instructions of the local authorities, avoiding any exposure to risk. [...]
+News
+Meeting with the President of the Republic of Uzbekistan
 19 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha concluso il suo viaggio asiatico facendo tappa a Tashkent dove è stata ricevuta dal Presidente della Repubblica dell’Uzbekistan, Shavkat Mirziyoyev. L’incontro ha permesso di approfondire il dialogo avviato con l’adozione della Dichiarazione congiunta sul rafforzamento del partenariato strategico a maggio 2025, in occasione della visita del Presidente del Consiglio nella regione.
+The Prime Minister, Giorgia Meloni, concluded her Asian trip by stopping in Tashkent where she was received by the President of the Republic of Uzbekistan, Shavkat Mirziyoyev. The meeting made it possible to deepen the dialogue started with the adoption of the Joint Declaration on strengthening the strategic partnership in May 2025, on the occasion of the Prime Minister's visit to the region.
 Pages
 « first
 ‹ previous
@@ -3701,29 +3674,29 @@ last »
 
 ---
 
-### Incontro con il Presidente della Repubblica di Polonia
+### Meeting with the President of the Republic of Poland
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31056
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 118
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 115
 - **Unique ID:** `63ce70a5bba019ac`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Milano il Presidente della Repubblica di Polonia, Karol Nawrocki.
-Il colloquio ha confermato l’eccellente stato delle relazioni bilaterali e la solidità del partenariato tra Roma e Varsavia. Nel corso del confronto, è stata approfondita la cooperazione in ambito economico-commerciale e sono state esplorate le prospettive di un ulteriore rafforzamento della collaborazione nel settore dell’industria della difesa.
-Ampio spazio è stato dedicato ai principali dossier internazionali, con particolare riguardo al comune impegno a sostegno del percorso per una pace giusta e duratura per l’Ucraina. È stata inoltre ribadita l’importanza strategica del consolidamento del legame transatlantico, quale pilastro fondamentale per la stabilità e sicurezza nel contesto delle attuali sfide globali.
+The Prime Minister, Giorgia Meloni, met the President of the Republic of Poland, Karol Nawrocki, today in Milan.
+The meeting confirmed the excellent state of bilateral relations and the solidity of the partnership between Rome and Warsaw. During the discussion, cooperation in the economic-commercial field was explored and the prospects for further strengthening collaboration in the defense industry sector were explored.
+Ample space was dedicated to the main international dossiers, with particular attention to the common commitment to support the path towards a just and lasting peace for Ukraine. The strategic importance of consolidating the transatlantic bond was also reiterated, as a fundamental pillar for stability and security in the context of current global challenges.
 
 ---
 
-### Incontro con il Presidente della Repubblica di Polonia
+### Meeting with the President of the Republic of Poland
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31057
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 73
 - **Unique ID:** `186e57725f366e7f`
 
@@ -3731,208 +3704,206 @@ Ampio spazio è stato dedicato ai principali dossier internazionali, con partico
 
 English
 |
-Italiano
-Incontro con il Presidente della Repubblica di Polonia
+Italian
+Meeting with the President of the Republic of Poland
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato presso la Prefettura di Milano il Presidente della Repubblica polacca, Karol Nawrocki.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con il Presidente della Repubblica di Polonia
+The Prime Minister, Giorgia Meloni, met the President of the Polish Republic, Karol Nawrocki, at the Prefecture of Milan.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the President of the Republic of Poland
 
 ---
 
-### Incontro con il Presidente della Repubblica di Polonia
+### Meeting with the President of the Republic of Poland
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31058
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 81
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 82
 - **Unique ID:** `52ca8e17d024bd1e`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Presidente della Repubblica di Polonia
+Italian
+Meeting with the President of the Republic of Poland
 6 February 2026
-II Presidente del Consiglio, Giorgia Meloni, ha incontrato presso la Prefettura di Milano il Presidente della Repubblica polacca, Karol Nawrocki.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Incontro con il Presidente della Repubblica di Polonia
-Articoli Correlati
-Incontro con il Presidente della Repubblica di Polonia
+The Prime Minister, Giorgia Meloni, met the President of the Polish Republic, Karol Nawrocki, at the Prefecture of Milan.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Meeting with the President of the Republic of Poland
+Related Articles
+Meeting with the President of the Republic of Poland
 
 ---
 
-### Operazione Strade Sicure, dichiarazione del Presidente Meloni
+### Operation Safe Roads, statement by President Meloni
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31045
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 60
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 70
 - **Unique ID:** `3a1e69829a781284`
 
 #### Content:
 
-Nell’ambito del rafforzamento dell’operazione Strade Sicure, i carri leggeri dell’esercito Puma arrivano anche alla stazione Rogoredo di Milano.
-Allo stesso tempo, nel Decreto Sicurezza approvato ieri il Ministro Piantedosi ha inserito diverse norme per velocizzare l’assunzione di migliaia di nuovi agenti, e il Ministro Crosetto lavora per rafforzare il presidio su strada con circa 12mila carabinieri ausiliari.
-Non ci arrendiamo!
+As part of the strengthening of the Strade Sicure operation, the light tanks of the Puma army also arrive at the Rogoredo station in Milan.
+At the same time, in the Security Decree approved yesterday, Minister Piantedosi included various rules to speed up the hiring of thousands of new agents, and Minister Crosetto is working to strengthen the roadside patrol with around 12 thousand auxiliary carabinieri.
+We don't give up!
 
 ---
 
-### Strade Sicure, visita del Presidente Meloni alla stazione di Rogoredo
+### Safe Roads, visit of President Meloni to the Rogoredo station
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31043
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 83
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 81
 - **Unique ID:** `c5919818e227aa7a`
 
 #### Content:
 
 English
 |
-Italiano
-Strade Sicure, visita del Presidente Meloni alla stazione di Rogoredo
+Italian
+Safe Roads, visit of President Meloni to the Rogoredo station
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha fatto visita oggi ai carabinieri ed ai militari impegnati per la sicurezza alla stazione di Rogoredo nell’ambito del rafforzamento dell’operazione Strade Sicure.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Operazione Strade Sicure, dichiarazione del Presidente Meloni
+The Prime Minister, Giorgia Meloni, today visited the Carabinieri and soldiers involved in security at the Rogoredo station as part of the strengthening of the Safe Roads operation.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Operation Safe Roads, statement by President Meloni
 
 ---
 
-### Incontro con il Vice Presidente degli Stati Uniti d’America
+### Meeting with the Vice President of the United States of America
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31042
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 138
 - **Unique ID:** `2bb7e40c7fd64171`
 
 #### Content:
 
-Il Presidente del Consiglio dei Ministri, Giorgia Meloni, ha avuto oggi a Milano un colloquio con il Vice Presidente degli Stati Uniti, J.D. Vance. All’incontro hanno preso parte il Vice Presidente del Consiglio e Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, e il Segretario di Stato statunitense, Marco Rubio.
-Il colloquio ha confermato la solidità del rapporto strategico tra Italia e Stati Uniti, fondato su un partenariato storicamente radicato e articolato, e su profondi legami tra i due popoli, nonché su una comunanza di vedute sulle principali sfide globali, a partire dalla sicurezza energetica e dalla creazione di catene di approvvigionamento sicure e affidabili per i minerali critici.
-Il Presidente Meloni e il Vice Presidente Vance hanno inoltre approfondito i principali dossier di politica internazionale, con particolare riferimento agli ultimi sviluppi in Iran e Venezuela.
+The President of the Council of Ministers, Giorgia Meloni, had a conversation today in Milan with the Vice President of the United States, J.D. Vance. The meeting was attended by the Vice President of the Council and Minister of Foreign Affairs and International Cooperation, Antonio Tajani, and the US Secretary of State, Marco Rubio.
+The meeting confirmed the solidity of the strategic relationship between Italy and the United States, based on a historically rooted and articulated partnership, and on deep ties between the two peoples, as well as on a commonality of views on the main global challenges, starting from energy security and the creation of safe and reliable supply chains for critical minerals.
+President Meloni and Vice President Vance also explored the main international political dossiers, with particular reference to the latest developments in Iran and Venezuela.
 
 ---
 
-### Incontro con il Vice Presidente degli Stati Uniti d’America
+### Meeting with the Vice President of the United States of America
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31049
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 105
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 113
 - **Unique ID:** `1aba3b9d72bee3ef`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Vice Presidente degli Stati Uniti d’America
+Italian
+Meeting with the Vice President of the United States of America
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, incontra presso la Prefettura di Milano il Vice Presidente degli Stati Uniti d’America, J.D. Vance. All'incontro hanno partecipato il Vicepresidente del Consiglio e Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, e il Segretario di Stato degli Stati Uniti d'America, Marco Rubio.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con il Vice Presidente degli Stati Uniti d’America
+The Prime Minister, Giorgia Meloni, meets the Vice President of the United States of America, J.D., at the Prefecture of Milan. Vance. The meeting was attended by the Vice-President of the Council and Minister of Foreign Affairs and International Cooperation, Antonio Tajani, and the Secretary of State of the United States of America, Marco Rubio.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the Vice President of the United States of America
 
 ---
 
-### Incontro con il Vice Presidente degli Stati Uniti d’America
+### Meeting with the Vice President of the United States of America
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31047
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 91
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 96
 - **Unique ID:** `feaa450fc3f6ed61`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Vice Presidente degli Stati Uniti d’America
+Italian
+Meeting with the Vice President of the United States of America
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi, presso la Prefettura di Milano, il Vice Presidente degli Stati Uniti d’America, J.D. Vance.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Incontro Meloni - Vance
-Incontro Meloni - Vance, l'arrivo alla Prefettura di Milano
-Articoli Correlati
-Incontro con il Vice Presidente degli Stati Uniti d’America
+The Prime Minister, Giorgia Meloni, met today, at the Prefecture of Milan, with the Vice President of the United States of America, J.D. Vance.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Meloni - Vance meeting
+Meloni - Vance meeting, arrival at the Prefecture of Milan
+Related Articles
+Meeting with the Vice President of the United States of America
 
 ---
 
-### Incontro con l'Emiro del Qatar
+### Meeting with the Emir of Qatar
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31041
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 154
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 16
 - **Unique ID:** `b0568d69218c5985`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Milano l’Emiro del Qatar, Sheikh Tamim bin Hamad Al Thani.
-Il colloquio ha permesso un approfondito scambio di vedute sulla situazione in Medio Oriente. In particolare, i due Leader hanno discusso degli sforzi necessari per favorire il riavvio di un percorso negoziale tra Stati Uniti e Iran, oltre al comune impegno per la stabilizzazione e la futura ricostruzione della Striscia di Gaza. Il Presidente Meloni ha espresso profondo apprezzamento per l’efficace opera di mediazione svolta con determinazione da Doha in entrambi i contesti.
-L’incontro ha inoltre rappresentato l’occasione per un confronto sul dossier libico, nel quale è stato ribadito il pieno sostegno alla stabilità della Libia. In tale ambito, i due Leader hanno affrontato anche il tema della gestione del fenomeno migratorio, sottolineando l’importanza di un impegno comune nel contrasto ai flussi irregolari e al traffico di esseri umani lungo le direttrici del Mediterraneo.
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ---
 
-### Incontro con l'Emiro del Qatar
+### Meeting with the Emir of Qatar
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31048
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 69
 - **Unique ID:** `c69520226fe12e05`
 
@@ -3940,288 +3911,288 @@ L’incontro ha inoltre rappresentato l’occasione per un confronto sul dossier
 
 English
 |
-Italiano
-Incontro con l'Emiro del Qatar
+Italian
+Meeting with the Emir of Qatar
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato presso la Prefettura di Milano, l'Emiro del Qatar, Sceicco Tamim Bin Hamad Al Thani.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con l'Emiro del Qatar
+The Prime Minister, Giorgia Meloni, met the Emir of Qatar, Sheikh Tamim Bin Hamad Al Thani, at the Prefecture of Milan.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the Emir of Qatar
 
 ---
 
-### Incontro con l'Emiro del Qatar
+### Meeting with the Emir of Qatar
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31046
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 74
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 75
 - **Unique ID:** `4bd9e4c4cf4c4444`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con l'Emiro del Qatar
+Italian
+Meeting with the Emir of Qatar
 6 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato presso la Prefettura di Milano, l'Emiro del Qatar, Sceicco Tamim Bin Hamad Al Thani.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Incontro con l'Emiro del Qatar
-Articoli Correlati
-Incontro con l'Emiro del Qatar
+The Prime Minister, Giorgia Meloni, met the Emir of Qatar, Sheikh Tamim Bin Hamad Al Thani, at the Prefecture of Milan.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Meeting with the Emir of Qatar
+Related Articles
+Meeting with the Emir of Qatar
 
 ---
 
-### Incontro con il Presidente eletto della Repubblica del Cile
+### Meeting with the President-elect of the Republic of Chile
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31023
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 135
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 124
 - **Unique ID:** `51b0d8a2e3611121`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi il Presidente eletto della Repubblica del Cile, José Antonio Kast, al quale ha rinnovato le congratulazioni per l’esito delle recenti consultazioni elettorali, in vista del suo prossimo insediamento.
-Nel corso del colloquio, il Presidente eletto Kast ha illustrato le priorità del programma del futuro Governo cileno, con particolare riferimento alle misure per la crescita economica, all’attrazione degli investimenti, al rafforzamento del contrasto alla criminalità e alle politiche a sostegno della natalità.
-I due leader hanno condiviso l’obiettivo di ampliare la cooperazione bilaterale anche in questi ambiti e hanno sottolineato l’importanza di intensificare, in parallelo, il dialogo e la collaborazione con i partner dell’America Latina nei settori strategici, al fine di accrescere la resilienza delle catene di approvvigionamento energetico e di materie prime critiche.
+The Prime Minister, Giorgia Meloni, received today at Palazzo Chigi the President-elect of the Republic of Chile, José Antonio Kast, to whom she renewed her congratulations for the outcome of the recent electoral consultations, in view of his next inauguration.
+During the conversation, President-elect Kast illustrated the priorities of the program of the future Chilean Government, with particular reference to measures for economic growth, attracting investments, strengthening the fight against crime and policies to support the birth rate.
+The two leaders shared the objective of expanding bilateral cooperation also in these areas and underlined the importance of intensifying, in parallel, dialogue and collaboration with Latin American partners in strategic sectors, in order to increase the resilience of energy supply chains and critical raw materials.
 
 ---
 
-### Incontro con il Presidente eletto della Repubblica del Cile
+### Meeting with the President-elect of the Republic of Chile
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31033
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 76
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 74
 - **Unique ID:** `cd7ee7d248b5725c`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Presidente eletto della Repubblica del Cile
+Italian
+Meeting with the President-elect of the Republic of Chile
 5 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto a Palazzo Chigi il Presidente eletto della Repubblica del Cile, José Antonio Kast.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con il Presidente eletto della Repubblica del Cile
+The Prime Minister, Giorgia Meloni, received the elected President of the Republic of Chile, José Antonio Kast, at Palazzo Chigi.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the President-elect of the Republic of Chile
 
 ---
 
-### Incontro con il Presidente eletto della Repubblica del Cile
+### Meeting with the President-elect of the Republic of Chile
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31029
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 80
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 79
 - **Unique ID:** `84881fb24a2e8c4d`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Presidente eletto della Repubblica del Cile
+Italian
+Meeting with the President-elect of the Republic of Chile
 5 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto a Palazzo Chigi il Presidente eletto della Repubblica del Cile, José Antonio Kast.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'incontro a Palazzo Chigi
-Articoli Correlati
-Incontro con il Presidente eletto della Repubblica del Cile
+The Prime Minister, Giorgia Meloni, received the elected President of the Republic of Chile, José Antonio Kast, at Palazzo Chigi.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The meeting at Palazzo Chigi
+Related Articles
+Meeting with the President-elect of the Republic of Chile
 
 ---
 
-### Incontro con il Primo Ministro della Repubblica Ceca
+### Meeting with the Prime Minister of the Czech Republic
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31015
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 95
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 98
 - **Unique ID:** `e3e10be2aad09945`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi il Primo Ministro della Repubblica Ceca, Andrej Babiš.
-Il colloquio ha permesso di affrontare i principali dossier dell’agenda europea, a partire da quello della competitività, anche in vista del Leaders' Retreat del prossimo 12 febbraio.
-Sul piano bilaterale, i due Leader hanno approfondito le prospettive del partenariato tra le due Nazioni, concordando di lavorare congiuntamente per l'adozione di un Piano di Azione 2026-2030. Ciò con l’obiettivo di ottenere risultati concreti nei settori di reciproco interesse come l’energia, le infrastrutture e l’industria della difesa.
+The Prime Minister, Giorgia Meloni, received the Prime Minister of the Czech Republic, Andrej Babiš, today at Palazzo Chigi.
+The meeting made it possible to address the main dossiers of the European agenda, starting from that of competitiveness, also in view of the Leaders' Retreat on 12 February.
+On a bilateral level, the two Leaders explored the prospects of the partnership between the two Nations, agreeing to work jointly for the adoption of a 2026-2030 Action Plan. This with the aim of obtaining concrete results in sectors of mutual interest such as energy, infrastructure and the defense industry.
 
 ---
 
-### Incontro con il Primo Ministro della Repubblica Ceca
+### Meeting with the Prime Minister of the Czech Republic
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31018
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 75
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 77
 - **Unique ID:** `a8683c81da9168be`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Primo Ministro della Repubblica Ceca
+Italian
+Meeting with the Prime Minister of the Czech Republic
 4 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi il Primo Ministro del Governo della Repubblica Ceca, Andrej Babiš.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con il Primo Ministro della Repubblica Ceca
+The Prime Minister, Giorgia Meloni, met today at Palazzo Chigi with the Prime Minister of the Government of the Czech Republic, Andrej Babiš.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the Prime Minister of the Czech Republic
 
 ---
 
-### Incontro con il Primo Ministro della Repubblica Ceca
+### Meeting with the Prime Minister of the Czech Republic
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31017
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 79
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 82
 - **Unique ID:** `327072929ae30c46`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Primo Ministro della Repubblica Ceca
+Italian
+Meeting with the Prime Minister of the Czech Republic
 4 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi il Primo Ministro del Governo della Repubblica Ceca, Andrej Babiš.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'incontro a Palazzo Chigi
-Articoli Correlati
-Incontro con il Primo Ministro della Repubblica Ceca
+The Prime Minister, Giorgia Meloni, met today at Palazzo Chigi with the Prime Minister of the Government of the Czech Republic, Andrej Babiš.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The meeting at Palazzo Chigi
+Related Articles
+Meeting with the Prime Minister of the Czech Republic
 
 ---
 
-### Conversazione telefonica con il Presidente dell'Algeria
+### Telephone conversation with the President of Algeria
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31013
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 152
 - **Unique ID:** `4f77c4c8353a1a1b`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con il Presidente della Repubblica Algerina Democratica e Popolare, Abdelmadjid Tebboune.
-Richiamando i risultati del Quinto Vertice Italia-Algeria del luglio scorso, i due leader hanno fatto il punto sulle relazioni bilaterali, confermando l’impegno comune per rafforzare la cooperazione economica tra le due Nazioni. In particolare, il colloquio ha permesso di esaminare l’avanzamento delle iniziative comuni nel quadro del
-Piano Mattei
-, tra cui l’avvio dei lavori del Centro d’eccellenza italo algerino per la formazione, la ricerca e l’innovazione in campo agricolo Enrico Mattei a Sidi Bel Abbes e l’avanzamento del progetto di agricoltura desertica.
-Durante la conversazione, i due leader si sono soffermati anche sulla cooperazione in ambito migratorio, confermando il comune impegno al contrasto del traffico degli esseri umani.
-Nel corso della telefonata il Presidente algerino ha infine rivolto un invito a recarsi in Algeria accolto dal Presidente del Consiglio.
+The Prime Minister, Giorgia Meloni, had a telephone conversation with the President of the Democratic and Popular Algerian Republic, Abdelmadjid Tebboune.
+Recalling the results of the Fifth Italy-Algeria Summit last July, the two leaders took stock of bilateral relations, confirming the common commitment to strengthen economic cooperation between the two Nations. In particular, the meeting made it possible to examine the progress of common initiatives within the framework of the
+Mattei Plan
+, including the start of work on the Enrico Mattei Italian-Algerian Center of Excellence for training, research and innovation in the agricultural field in Sidi Bel Abbes and the advancement of the desert agriculture project.
+During the conversation, the two leaders also focused on cooperation in the field of migration, confirming their shared commitment to combating human trafficking.
+During the phone call, the Algerian President finally extended an invitation to go to Algeria, which was accepted by the Prime Minister.
 
 ---
 
-### Premio Giacomo Matteotti 2026, Bando di concorso - XXII edizione
+### Giacomo Matteotti Prize 2026, Competition announcement - XXII edition
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31011
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 120
 - **Unique ID:** `173a9b883091fd04`
 
 #### Content:
 
-Pubblicato nella
-Gazzetta Ufficiale n. 8 del 30 gennaio 2026
-il bando di concorso della XXII edizione del Premio Giacomo Matteotti.
-Il Premio viene assegnato ad opere che illustrano gli ideali che hanno ispirato la vita di Giacomo Matteotti, nonché la storia italiana ed europea compresa nel periodo tra la Prima guerra mondiale e la fine del fascismo.
-Il Premio è articolato nelle seguenti tre sezioni:
-Sezione “saggistica”
-Sezione “opere letterarie e teatrali”
-Sezione “tesi di laurea”
-La cerimonia di premiazione si svolgerà a Roma il giorno 23 ottobre 2026 presso la Presidenza del Consiglio dei Ministri. Le opere premiate  saranno acquisite in formato cartaceo ed in supporto informatico al patrimonio librario della Biblioteca Chigiana presso la sede del Governo.
+Published in
+Official Journal no. 8 of 30 January 2026
+the competition notice for the XXII edition of the Giacomo Matteotti Prize.
+The Prize is awarded to works that illustrate the ideals that inspired the life of Giacomo Matteotti, as well as Italian and European history between the First World War and the end of fascism.
+The Award is divided into the following three sections:
+“Non-fiction” section
+Section “literary and theatrical works”
+“Graduate thesis” section
+The awards ceremony will take place in Rome on 23 October 2026 at the Presidency of the Council of Ministers. The awarded works will be acquired in paper format and in IT support for the library heritage of the Chigiana Library at the Government headquarters.
 
 ---
 
-### Sicurezza dei cittadini e ordine pubblico, riunione a Palazzo Chigi
+### Citizen safety and public order, meeting at Palazzo Chigi
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31005
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 188
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 200
 - **Unique ID:** `87c934d219312ef2`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha presieduto questa mattina a Palazzo Chigi una riunione per fare il punto sui recenti gravi episodi di violenza contro le forze dell’ordine e sui provvedimenti da adottare a garanzia della sicurezza dei cittadini e dell’ordine pubblico.
-Al vertice hanno preso parte i vicepresidenti del Consiglio Antonio Tajani (in collegamento da Palermo) e Matteo Salvini, i ministri Matteo Piantedosi (Interno), Guido Crosetto (Difesa) e Carlo Nordio (Giustizia), i sottosegretari Alfredo Mantovano e Giovanbattista Fazzolari, nonché il capo della Polizia Vittorio Pisani, il comandante generale dell’Arma dei Carabinieri Salvatore Luongo e il comandante generale della Guardia di Finanza Andrea De Gennaro.
-Il Presidente Meloni e il Governo ribadiscono il pieno sostegno alle forze dell’ordine e, in questa delicata fase — anche alla luce delle dichiarazioni della segretaria del Partito Democratico, Elly Schlein — intendono rivolgere all’opposizione un appello a una stretta collaborazione istituzionale. Per questo, i capigruppo di maggioranza hanno ricevuto mandato di proporre a quelli di opposizione la presentazione di una risoluzione unitaria in tema di sicurezza, che potrebbe essere votata già questa settimana in occasione delle relazioni del ministro Matteo Piantedosi.
+The Prime Minister, Giorgia Meloni, chaired a meeting this morning at Palazzo Chigi to take stock of the recent serious episodes of violence against the police and the measures to be adopted to guarantee the safety of citizens and public order.
+The summit was attended by the vice-presidents of the Council Antonio Tajani (connecting from Palermo) and Matteo Salvini, the ministers Matteo Piantedosi (Interior), Guido Crosetto (Defence) and Carlo Nordio (Justice), the undersecretaries Alfredo Mantovano and Giovanbattista Fazzolari, as well as the head of the Police Vittorio Pisani, the general commander of the Carabinieri Salvatore Luongo and the general commander of the Guardia di Finanza Andrea De Gennaro.
+President Meloni and the Government reiterate their full support for the police and, in this delicate phase - also in light of the declarations of the secretary of the Democratic Party, Elly Schlein - they intend to appeal to the opposition for close institutional collaboration. For this reason, the majority group leaders have received a mandate to propose to those of the opposition the presentation of a unitary resolution on the subject of security, which could be voted on as early as this week during the reports of the minister Matteo Piantedosi.
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=11
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 581
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 600
 - **Unique ID:** `8e468a7c8aaedcc7`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -4234,42 +4205,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Visita del Presidente Meloni nella Repubblica di Corea
+News
+Visit of President Meloni to the Republic of Korea
 19 January 2026
-Questa mattina il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Seoul il Presidente della Repubblica di Corea, Lee Jae-Myung, con il quale ha rilasciato dichiarazioni alla stampa.
-Notizie
-Incidente ferroviario in Andalusia, la dichiarazione del Presidente Meloni
+This morning the Prime Minister, Giorgia Meloni, met the President of the Republic of Korea, Lee Jae-Myung, in Seoul, with whom she made statements to the press.
+News
+Train accident in Andalusia, President Meloni's statement
 19 January 2026
-Con grande tristezza apprendo dell'incidente ferroviario che è avvenuto in Andalusia, dove due treni ad alta velocità sono deragliati. L'Italia è vicina al dolore della Spagna per questa tragedia. I nostri pensieri vanno alle vittime, ai feriti e alle loro famiglie.
-Notizie
-Visita in Giappone del Presidente Meloni
+It is with great sadness that I learn of the train accident that occurred in Andalusia, where two high-speed trains derailed. Italy is close to Spain's pain over this tragedy. Our thoughts go to the victims, the injured and their families.
+News
+Visit to Japan by President Meloni
 17 January 2026
-Il Presidente Meloni ha incontrato ieri, a Tokyo, il Primo Ministro del Giappone Sanae Takaichi, con cui ha rilasciato delle dichiarazioni congiunte alla stampa. Questa mattina, prima dell'incontro con i vertici delle principali aziende multinazionali giapponesi, ha tenuto un punto stampa.
-Notizie
-Incontro del Presidente Meloni con i vertici delle principali aziende giapponesi
+President Meloni met yesterday in Tokyo with the Prime Minister of Japan Sanae Takaichi, with whom he issued joint statements to the press. This morning, before the meeting with the leaders of the main Japanese multinational companies, he held a press point.
+News
+Meeting of President Meloni with the top management of the main Japanese companies
 17 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato nella sede dell’Ambasciata d’Italia a Tokyo i vertici delle principali aziende giapponesi: 17 gruppi economici e industriali che, complessivamente, hanno un fatturato di oltre mille miliardi di euro e che sono attivi su scala globale e nei settori prioritari del Partneriato Strategico Speciale tra Italia e Giappone.
-Notizie
-Crans Montana, incontro con i familiari delle vittime a Palazzo Chigi
+The Prime Minister, Giorgia Meloni, met at the headquarters of the Italian Embassy in Tokyo with the top management of the main Japanese companies: 17 economic and industrial groups which, overall, have a turnover of over one thousand billion euros and which are active on a global scale and in the priority sectors of the Special Strategic Partnership between Italy and Japan.
+News
+Crans Montana, meeting with the victims' families at Palazzo Chigi
 15 January 2026
-Si è tenuto a Palazzo Chigi, l’incontro tra il Sottosegretario Mantovano, il Ministro della giustizia Nordio, l’Avvocato generale dello Stato Palmieri Sandulli, rappresentanti dei Ministeri degli esteri, dell’interno, degli affari europei e della Protezione Civile e i familiari delle vittime della tragedia di Crans Montana. Al termine dell'incontro si è tenuta una conferenza stampa.
-Notizie
-Dichiarazione congiunta in occasione della visita ufficiale del Presidente del Consiglio nel Sultanato dell'Oman
+The meeting between Undersecretary Mantovano, the Minister of Justice Nordio, the Attorney General of the State Palmieri Sandulli, representatives of the Ministries of Foreign Affairs, Interior, European Affairs and Civil Protection and the families of the victims of the Crans Montana tragedy was held at Palazzo Chigi. At the end of the meeting a press conference was held.
+News
+Joint statement on the occasion of the official visit of the Prime Minister to the Sultanate of Oman
 14 January 2026
-La dichiarazione congiunta in occasione della visita del Presidente del Consiglio, Giorgia Meloni, nel Sultanato dell'Oman e dell'incontro con Sua Maestà il Sultano Haitham bin Tarik.
-Notizie
-Bilancio di previsione 2026 della Presidenza del Consiglio dei Ministri
+The joint statement on the occasion of the visit of the Prime Minister, Giorgia Meloni, to the Sultanate of Oman and the meeting with His Majesty Sultan Haitham bin Tarik.
+News
+2026 budget forecast of the Presidency of the Council of Ministers
 13 January 2026
-È stato pubblicato sul sito del Governo il bilancio di previsione 2026 della Presidenza del Consiglio dei Ministri. Complessivamente, gli stanziamenti del bilancio di previsione ammontano a 5,7 miliardi di euro. Di questi, 101 milioni di euro saranno riversati allo Stato per rispettare gli obiettivi di revisione della spesa per il 2026.
-Notizie
-Situazione in Iran, nota di Palazzo Chigi
+The 2026 budget forecast of the Presidency of the Council of Ministers has been published on the Government website. Overall, the budget allocations amount to 5.7 billion euros. Of these, 101 million euros will be paid to the State to meet the spending review objectives for 2026.
+News
+Situation in Iran, note from Palazzo Chigi
 13 January 2026
-Il Governo italiano segue con forte preoccupazione la situazione di questi giorni in Iran e le notizie che stanno giungendo circa i numerosi morti tra i manifestanti. L’Italia chiede alle Autorità iraniane di assicurare il rispetto dei diritti del popolo, incluso quello di espressione e di pacifica assemblea, e l’incolumità di chi manifesta nelle piazze. Insieme ai partner europei e del G7, il Governo italiano continua a lavorare per una soluzione positiva della crisi, rispettosa delle aspirazioni di libertà e parità di diritti del popolo iraniano.
-Notizie
-L'arrivo in Italia di Trentini e Burlò
+The Italian Government is following with great concern the situation in Iran in recent days and the news that is arriving regarding the numerous deaths among the demonstrators. Italy asks the Iranian authorities to ensure respect for the rights of the people, including that of expression and peaceful assembly, and the safety of those demonstrating in the squares. Together with its European and G7 partners, the Italian Government continues to work for a positive solution to the crisis, respectful of the aspirations of freedom and equal rights of the Iranian people.
+News
+The arrival in Italy of Trentini and Burlò
 13 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, e il Vice Presidente e Ministro degli Affari esteri e della Cooperazione internazionale, Antonio Tajani, questa mattina hanno accolto in aeroporto Alberto Trentini e Mario Burlò.
+The Prime Minister, Giorgia Meloni, and the Vice President and Minister of Foreign Affairs and International Cooperation, Antonio Tajani, welcomed Alberto Trentini and Mario Burlò at the airport this morning.
 Pages
 « first
 ‹ previous
@@ -4289,436 +4260,442 @@ last »
 
 ---
 
-### Giornata nazionale delle vittime civili delle guerre e dei conflitti nel mondo
+### National day of civilian victims of wars and conflicts in the world
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31006
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 51
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 49
 - **Unique ID:** `4ad1156b11741c38`
 
 #### Content:
 
-La Presidenza del Consiglio dei Ministri ha aderito alla campagna di sensibilizzazione per la “Giornata Nazionale delle vittime civili delle guerre e dei conflitti nel mondo” illuminando la facciata principale di Palazzo Chigi di colore BLU dalle ore 00.01 alle ore 23.59 del 1° febbraio 2026, con interruzione nelle ore diurne.
+The Presidency of the Council of Ministers has joined the awareness campaign for the "National Day of Civilian Victims of Wars and Conflicts in the World" by lighting the main facade of Palazzo Chigi in BLUE from 00.01 to 23.59 on 1 February 2026, with interruption during daylight hours.
 
 ---
 
-### Askatasuna, dichiarazione del Presidente Meloni in occasione della visita ai due agenti ricoverati a Torino
+### Askatasuna, statement by President Meloni on the occasion of the visit to the two officers hospitalized in Turin
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31003
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 250
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 265
 - **Unique ID:** `c56fc30ce863f648`
 
 #### Content:
 
-Questa mattina sono stata all’ospedale Le Molinette di Torino per portare, a nome dell’Italia, la solidarietà a due degli agenti rimasti feriti negli scontri di ieri e, attraverso loro, a tutti i militari e gli appartenenti alle Forze dell’ordine coinvolti.
-Alessandro ha 29 anni, Lorenzo ne ha 28. Contro di loro martelli, molotov, bombe carta ripiene di chiodi, pietre lanciate con le catapulte, oggetti contundenti di ogni genere e jammer per impedire alla polizia di comunicare. “Erano lì per farci fuori”, ha detto un agente.
-Ora sarò chiara. Questi non sono manifestanti. Questi sono criminali organizzati. Quando si colpisce qualcuno a martellate, lo si fa sapendo che le conseguenze possono essere molto, molto gravi.
-Non è una protesta, non sono scontri. Si chiama tentato omicidio.
-Mi aspetto che la magistratura valuti questi episodi per quello che sono, senza esitazioni, applicando le norme che già ci sono e consentono di rispondere in modo fermo, perché non si ripeta che alla denuncia dei responsabili non segua nulla, come purtroppo è accaduto troppe volte.
-Se i poliziotti avessero reagito agli aggressori sarebbero già iscritti nel registro degli indagati, e probabilmente ci sarebbe qualche misura cautelare a loro carico. Ma se non riusciamo a difendere chi ci difende, non esiste lo Stato di diritto.
-Per quanto riguarda il Governo, ho convocato una riunione per domattina per parlare delle minacce all’ordine pubblico di questi giorni e per valutare le nuove norme del decreto sicurezza. Faremo quello che serve per ripristinare le regole in questa Nazione.
+This morning I was at Le Molinette hospital in Turin to show solidarity, on behalf of Italy, to two of the officers injured in yesterday's clashes and, through them, to all the military and law enforcement personnel involved.
+Alessandro is 29 years old, Lorenzo is 28. Against them hammers, Molotov cocktails, paper bombs filled with nails, stones thrown with catapults, blunt objects of all kinds and jammers to prevent the police from communicating. “They were there to take us out,” one officer said.
+Now I'll be clear. These are not protesters. These are organized criminals. When you hit someone with a hammer, you do it knowing that the consequences can be very, very serious.
+It's not a protest, it's not clashes. It's called attempted murder.
+I expect the judiciary to evaluate these episodes for what they are, without hesitation, applying the rules that already exist and allow for a firm response, so that it does not happen again that nothing follows from the denunciation of those responsible, as unfortunately has happened too many times.
+If the police had reacted to the attackers they would already be registered in the register of suspects, and there would probably be some precautionary measures against them. But if we fail to defend those who defend us, the rule of law does not exist.
+As for the Government, I have called a meeting for tomorrow morning to talk about the threats to public order in recent days and to evaluate the new rules of the security decree. We will do what it takes to restore the rules in this nation.
 
 ---
 
-### Askatasuna, il Presidente Meloni visita i due agenti ricoverati in ospedale a Torino
+### Askatasuna, President Meloni visits the two agents hospitalized in Turin
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31004
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 105
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 102
 - **Unique ID:** `fafce241e5883fd2`
 
 #### Content:
 
 English
 |
-Italiano
-Askatasuna, il Presidente Meloni visita i due agenti ricoverati in ospedale a Torino
+Italian
+Askatasuna, President Meloni visits the two agents hospitalized in Turin
 1 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, questa mattina ha fatto visita ai due agenti delle forze dell'ordine, ancora ricoverati all'ospedale Le Molinette di Torino, in seguito agli scontri avvenuti durante la manifestazione degli antagonisti contro lo sgombero dello stabile Askatasuna.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Askatasuna, dichiarazione del Presidente Meloni in occasione della visita ai due agenti ricoverati a Torino
+The Prime Minister, Giorgia Meloni, this morning visited the two police officers, still hospitalized at Le Molinette hospital in Turin, following the clashes that occurred during the demonstration of the antagonists against the eviction of the Askatasuna building.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Askatasuna, statement by President Meloni on the occasion of the visit to the two officers hospitalized in Turin
 
 ---
 
-### Askatasuna, il Presidente Meloni visita i due agenti ricoverati in ospedale a Torino
+### Askatasuna, President Meloni visits the two agents hospitalized in Turin
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31002
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 113
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 109
 - **Unique ID:** `50af249ea67dbf3e`
 
 #### Content:
 
 English
 |
-Italiano
-Askatasuna, il Presidente Meloni visita i due agenti ricoverati in ospedale a Torino
+Italian
+Askatasuna, President Meloni visits the two agents hospitalized in Turin
 1 February 2026
-Il Presidente del Consiglio, Giorgia Meloni, questa mattina ha fatto visita ai due agenti delle forze dell'ordine, ancora ricoverati all'ospedale Le Molinette di Torino, in seguito agli scontri avvenuti durante la manifestazione degli antagonisti contro lo sgombero dello stabile Askatasuna.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-La visita del Presidente Meloni all'ospedale Le Molinette
-Articoli Correlati
-Askatasuna, dichiarazione del Presidente Meloni in occasione della visita ai due agenti ricoverati a Torino
+The Prime Minister, Giorgia Meloni, this morning visited the two police officers, still hospitalized at Le Molinette hospital in Turin, following the clashes that occurred during the demonstration of the antagonists against the eviction of the Askatasuna building.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+President Meloni's visit to Le Molinette hospital
+Related Articles
+Askatasuna, statement by President Meloni on the occasion of the visit to the two officers hospitalized in Turin
 
 ---
 
-### Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+### Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30998
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1577
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1755
 - **Unique ID:** `ca8b4435f84e249b`
 
 #### Content:
 
-L'Intervento del Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, alla cerimonia di inaugurazione dell’Anno Giudiziario 2026 nel Distretto della Corte d’Appello di Napoli.
+The speech of the Undersecretary to the Presidency of the Council, Alfredo Mantovano, at the inauguration ceremony of the Judicial Year 2026 in the District of the Court of Appeal of Naples.
 ***
-Sig. Presidente, Sig. Procuratore generale, Signori Avvocati, Autorità tutte,
-è per me un onore e un piacere essere in quest'Aula e in questo contesto, che danno ragione di quello che Napoli è stata nella storia, nel diritto, nell'arte, nell'architettura, e di quello che è ancora adesso, non soltanto in Italia, non entrerò, perché non mi compete, nel merito dell’andamento della giustizia nella corte di appello di Napoli: se non per manifestare, a nome del Governo, gratitudine per l’attività svolta in tutti gli uffici giudiziari del distretto, in ogni loro articolazione, inclusi gli avvocati e il personale delle cancellerie.
-È, come i numeri, ma anche i fatti illustrati nella relazione introduttiva dimostrano, uno dei territori più complessi d’Italia, non soltanto per la quantità, ma anche per la qualità del lavoro che vi viene richiesto quotidianamente.
-Come Governo, abbiamo avuto e abbiamo modo di perseguire in questo distretto un’azione comune, ciascuno per la parte di competenza, in aree particolarmente difficili, nelle quali la penetrazione criminale fa leva su un radicato disagio sociale. Non posso non ricordare la proficua collaborazione con le procure e con i tribunali che a vario titolo hanno giurisdizione su Caivano: non soltanto per l’avvenuto coordinamento di interventi impegnativi, ma anche perché quando abbiamo iniziato ad affrontare quella emergenza, alla fine di agosto 2023, all’indomani di un terribile delitto, i magistrati che abbiamo incontrato in loco – in primis quelli minorili - ci hanno segnalato lacune normative e difficoltà organizzative, e vi abbiamo dato seguito in larga parte, con decreti legge e con interventi ad hoc.
-Dovremmo continuare a interrogarci, con un esame serio di quanto accade qui, su come fronteggiare una minaccia criminale che utilizza in misura crescente i minori, anche infraquattordicenni, per attività efferate, strumentalizzando la loro età. Spero che non manchino le occasioni. Sottolineo in proposito quanto siano stati positivi gli scambi di valutazioni intercorsi più di recente con le Procure interessate nella Terra dei fuochi: da tali interlocuzioni, come per Caivano, sono venute fuori norme nuove e più incisive, e una più efficace programmazione operativa.
-Ho colto quanto il lavoro in atto ravvivi la speranza delle popolazioni, e di chi ne interpreta le ansie e le preoccupazioni, facendole proprie, a cominciare dai non pochi sacerdoti che da questi territori finora non si sono stancati di scuotere le nostre coscienze, di chiedere il nostro intervento, di sottrarre i più giovani alla morsa della camorra.
-Non credo che questo operare insieme rappresenti qualcosa di straordinario: si pone in coerenza con quel principio di leale collaborazione che attraversa la nostra Costituzione, pur nella diversità dei compiti e delle funzioni che la Carta fondamentale assegna a ciascuna istituzione. Ci si dovrebbe sorprendere quando non si realizza, o peggio quando si ergono ostacoli a che ciò avvenga.
-Poiché non intendo dilungarmi, vengo al punto che in questo momento è centrale nel dibattito sulla giustizia in Italia; ed è quello della riforma costituzionale sulla quale, dopo il doppio esame del Parlamento, fra meno di due mesi gli italiani saranno chiamati al voto: per esprimere il rammarico che quel costruttivo confronto fra le istituzioni che qui a Napoli, come in altri distretti in Italia, si attiva e conduce a risultati positivi, invece su di essa abbia conosciuto e conosca una sorta di black out, e in queste settimane si stia traducendo in uno scontro acceso.
-Non entro nel merito della riforma, la cui attenta conoscenza in questa sede do per scontata. Accenno al metodo, che cade sotto la voce “confronto”. È ovvio che ci siano differenti posizioni sui tre punti qualificanti della riforma: il completamento della separazione delle carriere fra giudici e p.m. con la costituzione dei due Csm; il sorteggio, quale modalità per comporre questi ultimi; il conferimento dell’esercizio della giustizia disciplinare a un’Alta corte.
-Mi chiedo però se la diversità di opinione su ciascuno di questi tre punti debba spingersi al punto da demonizzare chi sostiene tesi opposte alle proprie, con slogan che perfino i social network – non sospettabili di vicinanza al Governo - qualificano come fake, e in qualche caso sono arrivati a rimuovere.
-Nel suo primo articolo la Costituzione conferisce la sovranità al popolo italiano: perché non dovremmo tenerlo in considerazione quando, in occasione delle ultime elezioni politiche, il popolo italiano ha dato fiducia a un programma elettorale che conteneva questa riforma? Non mi pare che la Costituzione dica che se assumo un impegno con gli elettori, e ne ricevo il consenso, poi devo disattendere l’impegno assunto.
-In una dinamica di dialettica civile, agli argomenti a favore della riforma dovrebbero opporsi quelli contrari: non slogan secondo cui con la riforma i giudici “dipenderanno dalla politica”, la giustizia sarà “controllata dal governo”, il “governo pretende l’impunità”. Perché sappiamo che non c’è un solo rigo nel testo sottoposto a referendum che va in tali direzioni. Rilanciare questi slogan è poi, a mio avviso, particolarmente grave se a farlo è chi nella vita quotidiana rende giustizia nel caso concreto.
-Vi chiedo se l’asprezza della contesa debba far scadere il dibattito al punto da evocare il rischio che, una volta approvata la riforma, anche in Italia ci saranno innocenti uccisi dalle forze di polizia come accade a Minneapolis. O da lanciare allarmi su presunte attività di spionaggio in danno dei magistrati italiani per un programma, risalente a sette anni fa, che ha sistemi di aggiornamento automatici, e fa adoperare la videocamera solo su impulso dell’interessato, come avviene per ogni collegamento web. O, per stare all'ultima perla, da sostenere, in modo incommentabile, che la riforma compromette il contrasto alla criminalità mafiosa. Di questa deriva è sempre più consapevole una parte significativa della magistratura, che - in modo crescente e pubblico – se ne sta dissociando, nonostante gli ostracismi e le interdizioni.
-La proposta che mi permetto di avanzare è la seguente: oggi è il 31 gennaio. Proiettiamoci per un momento al 24 marzo. Qualunque sarà l’esito del voto referendario, parlamento, Governo e Magistratura dovranno riprendere o proseguire il lavoro di leale collaborazione fra istituzioni, ciascuna per la sua parte, in questo territorio come in tutta Italia.
-Se prevalesse il Sì, si prospetta una complessa messa a terra, che avrà un peso quanto meno pari al contenuto della riforma: la legge attuativa dovrà regolamentare un organismo nuovo, quale la Corte di giustizia disciplinare, un organo che si rinnoverà sdoppiandosi, come il CSM, le modalità di accesso all’una e agli altri, i concorsi per l’ammissione alle funzioni requirente e giudicante, la scuola di formazione, i consigli giudiziari, e tanto altro ancora. Il governo non ha la pretesa di proporre al Parlamento le norme attuative senza un confronto tecnico e di merito con la magistratura e con l’avvocatura, come ieri in Cassazione ha sottolineato il ministro della Giustizia. Ovviamente, dandoci dei tempi che permettano di costituire i nuovi Csm con le nuove regole.
-Come onoriamo gli impegni assunti con gli elettori, abbiamo la ferma intenzione di mantenere quelli assunti con chi abbiamo avuto - se pure occasionalmente - come interlocutori. Che cosa voglio dire? che la disponibilità al confronto sulla complessa normativa di attuazione della riforma noi l’abbiamo dichiarata all’Anm, come agli organismi rappresentativi dell’avvocatura, negli incontri svolti a Palazzo Chigi poco meno di un anno fa; non ho difficoltà a confermarla.
-Né ho difficoltà ad allontanare ogni paventata prospettiva di deriva antidemocratica; per intenderci con un esempio concreto, fra i tanti che potrei fare, è ovvio che per la composizione della lista dalla quale sorteggiare i componenti laici dei nuovi CSM si dovrà tenere conto delle opposizioni, come è avvenuto finora: non farlo sarebbe contrario alla Costituzione. Basterà nella legge attuativa immaginare una maggioranza qualificata ai fini del voto sulla lista, esattamente come è stato finora.
-Spero che valga per analogia un’esperienza che è in corso. Circa un mese fa il Parlamento ha approvato la riforma della Corte dei conti: con legge ordinaria invece che costituzionale, ma con analogo corollario di slogan polemici, dalla pretesa di impunità alla fuga dalla responsabilità, e così via, fino a evocare la morte della giurisdizione contabile. Non entro ovviamente nel merito delle nuove disposizioni: se non per segnalare che da decenni esse erano attese, e richieste, dai pubblici amministratori di ogni orientamento politico, e che una parte importante della magistratura contabile le ha condivise nella prospettiva di maggiori chiarezza ed efficienza. Abbassato il clamore delle polemiche, e preso atto che la Corte dei conti non è stata assassinata, coi vertici della magistratura contabile – in un clima assolutamente positivo - abbiamo attivato a Palazzo Chigi un tavolo di lavoro congiunto per dare attuazione alla delega contenuta in una parte della nuova legge. Confido che giungeremo a un risultato condiviso.
-Sig. Presidente, Autorità tutte, alla luce di questa esperienza, auspico che, in vista del voto referendario, la demonizzazione lasci il posto al confronto civile, proprio di una vera democrazia. La S. Scrittura ammonisce a stare vigili perché non conosciamo “né il giorno né l’ora”; dunque, non vi è alcuna certezza che il 24 di marzo dell’Anno Domini 2026 non si scateni l’Apocalisse. Quello di cui sono certo è che se ciò si dovesse verificare, non sarà a causa della conferma referendaria della riforma della giustizia.
-Il verdetto delle urne, qualunque sarà, andrà da tutti accolto con rispetto, e soprattutto con serenità. Perché verrà da quel popolo italiano, in nome del quale in queste aule tutti voi assicurate la giustizia. Grazie per l’attenzione!
+Mr. President, Mr. Attorney General, Lawyers, All Authorities,
+It is an honor and a pleasure for me to be in this Chamber and in this context, which give an account of what Naples has been in history, in law, in art, in architecture, and what it still is today, not only in Italy. I will not enter, because it is not my responsibility, into the merits of the progress of justice in the Court of Appeal of Naples: if not to express, on behalf of the Government, gratitude for the activity carried out in all the judicial offices of the district, in all their branches, including the lawyers and chancery staff.
+It is, as the numbers, but also the facts illustrated in the introductory report demonstrate, one of the most complex territories in Italy, not only for the quantity, but also for the quality of the work that is required there on a daily basis.
+As a Government, we have had and have the opportunity to pursue common action in this district, each for the part of its competence, in particularly difficult areas, in which criminal penetration leverages a deep-rooted social malaise. I cannot fail to mention the fruitful collaboration with the prosecutor's offices and with the courts which in various capacities have jurisdiction over Caivano: not only for the coordination of demanding interventions, but also because when we began to face that emergency, at the end of August 2023, in the aftermath of a terrible crime, the magistrates we met on site - primarily the juvenile ones - reported regulatory gaps and organizational difficulties to us, and we followed up on them to a large extent, with law decrees and with ad hoc interventions.
+We should continue to ask ourselves, with a serious examination of what is happening here, on how to deal with a criminal threat that increasingly uses minors, even those under the age of fourteen, for brutal activities, exploiting their age. I hope there is no shortage of opportunities. In this regard, I would like to underline how positive the exchanges of evaluations which have taken place more recently with the Prosecutor's Offices involved in the Land of Fires have been: from these discussions, as for Caivano, new and more incisive regulations have emerged, as well as more effective operational planning.
+I have understood how much the work underway revives the hope of the populations, and of those who interpret their anxieties and concerns, making them their own, starting with the many priests who have so far never tired of shaking our consciences, of asking for our intervention, of saving the youngest from the grip of the Camorra.
+I do not believe that this working together represents anything extraordinary: it is consistent with the principle of loyal collaboration that runs through our Constitution, despite the diversity of tasks and functions that the Fundamental Charter assigns to each institution. We should be surprised when it doesn't happen, or worse when obstacles arise to make it happen.
+Since I don't intend to dwell, I'll get to the point which is central in the debate on justice in Italy at the moment; and it is that of the constitutional reform on which, after the double examination by Parliament, in less than two months the Italians will be called to vote: to express regret that the constructive comparison between the institutions which here in Naples, as in other districts in Italy, is activated and leads to positive results, has instead experienced and continues to experience a sort of blackout on it, and in recent weeks is translating into a heated clash.
+I will not go into the merits of the reform, the careful knowledge of which I take for granted here. I mention the method, which falls under the heading "comparison". It is obvious that there are different positions on the three qualifying points of the reform: the completion of the separation of careers between judges and prosecutors with the establishment of the two CSMs; the draw, as a way to compose the latter; the conferral of the exercise of disciplinary justice on a High Court.
+However, I wonder whether the diversity of opinion on each of these three points should go to the point of demonizing those who support theses opposite to their own, with slogans that even the social networks - not suspecting closeness to the Government - qualify as fake, and in some cases
+
+and case they came to remove.
+In its first article, the Constitution confers sovereignty on the Italian people: why shouldn't we take this into consideration when, on the occasion of the last political elections, the Italian people placed their trust in an electoral program that contained this reform? I don't think the Constitution says that if I make a commitment to the voters, and receive their consent, then I must disregard the commitment made.
+In a dynamic of civil dialectics, the arguments in favor of the reform should be opposed by those against it: not slogans according to which with the reform the judges "will depend on politics", justice will be "controlled by the government", the "government demands impunity". Because we know that there is not a single line in the text submitted to the referendum that goes in these directions. Relaunching these slogans is, in my opinion, particularly serious if it is done by those who do justice in their daily lives in a specific case.
+I ask you whether the bitterness of the dispute should cause the debate to expire to the point of evoking the risk that, once the reform is approved, in Italy too there will be innocent people killed by the police forces as happens in Minneapolis. Or to raise alarms about alleged espionage activities against Italian magistrates for a program, dating back to seven years ago, which has automatic update systems, and uses the video camera only at the request of the interested party, as happens for every web connection. Or, to stick to the last pearl, to maintain, in an uncommentable way, that the reform compromises the fight against mafia crime. A significant part of the judiciary is increasingly aware of this drift and is increasingly and publicly dissociating itself from it, despite the ostracisms and bans.
+The proposal that I would like to put forward is the following: today is January 31st. Let's project ourselves for a moment to March 24th. Whatever the outcome of the referendum vote, parliament, the Government and the Judiciary will have to resume or continue the work of loyal collaboration between institutions, each for its own part, in this territory as in all of Italy.
+If the Yes vote prevails, a complex grounding is expected, which will have a weight at least equal to the content of the reform: the implementing law will have to regulate a new body, such as the Disciplinary Court of Justice, a body that will be renewed by splitting itself, like the CSM, the methods of access to one and the other, the competitions for admission to the prosecuting and adjudicating functions, the training school, the judicial councils, and much more. The government does not claim to propose the implementing rules to Parliament without a technical and substantive discussion with the judiciary and lawyers, as the Minister of Justice underlined yesterday in the Supreme Court. Obviously, giving us time that allows us to establish the new CSMs with the new rules.
+Just as we honor the commitments made with the voters, we have the firm intention of maintaining those made with those we have had - even occasionally - as interlocutors. What do I mean? that we declared our willingness to discuss the complex legislation implementing the reform to the ANM, as well as to the representative bodies of the legal profession, in the meetings held at Palazzo Chigi just under a year ago; I have no difficulty confirming it.
+Nor do I have any difficulty in dismissing any feared prospect of anti-democratic drift; to be clear with a concrete example, among the many that I could give, it is obvious that for the composition of the list from which to draw the lay members of the new CSM the opposition will have to be taken into account, as has happened so far: not doing so would be contrary to the Constitution. In the implementing law it will be enough to imagine a qualified majority for the purposes of voting on the list, exactly as has been the case up to now.
+I hope that an ongoing experience is valid as an analogy. About a month ago, Parliament approved the reform of the Court of Auditors: with ordinary rather than constitutional law, but with a similar corollary of polemical slogans, from the claim of impunity to the escape from responsibility, and so on, until evoking the death of the accounting jurisdiction. Obviously I will not go into the merits of the new provisions: except to point out that for decades they were expected and requested by public administrators of all political orientations, and that an important part of the accounting judiciary
+
+ile shared them with a view to greater clarity and efficiency. Having lowered the clamor of controversy, and having acknowledged that the Court of Auditors has not been murdered, with the heads of the accounting judiciary - in an absolutely positive climate - we activated a joint working table at Palazzo Chigi to implement the delegation contained in a part of the new law. I trust that we will reach a shared result.
+Mr President, all authorities, in light of this experience, I hope that, in view of the referendum vote, demonization will give way to civil confrontation, typical of a true democracy. Holy Scripture warns us to be vigilant because we know "neither the day nor the hour"; therefore, there is no certainty that the Apocalypse will not be unleashed on March 24 of Anno Domini 2026. What I am certain of is that if this were to occur, it will not be due to the referendum confirmation of the justice reform.
+The verdict of the polls, whatever it may be, will be welcomed by everyone with respect, and above all with serenity. Because it will come from that Italian people, in whose name you all ensure justice in these halls. Thanks for your attention!
 
 ---
 
-### Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+### Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/31000
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 88
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 104
 - **Unique ID:** `37b0eeabb671ffdf`
 
 #### Content:
 
-Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 31 January 2026
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, ha tenuto un intervento in occasione della cerimonia di inaugurazione dell’Anno Giudiziario 2026 nel Distretto della Corte d’Appello di Napoli.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, gave a speech on the occasion of the inauguration ceremony of the Judicial Year 2026 in the District of the Court of Appeal of Naples.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 
 ---
 
-### Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+### Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30999
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 92
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 109
 - **Unique ID:** `422b65f4d063d10e`
 
 #### Content:
 
-Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 31 January 2026
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, ha tenuto un intervento in occasione della cerimonia di inaugurazione dell’Anno Giudiziario 2026 nel Distretto della Corte d’Appello di Napoli.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'intervento del Sottosegretario Mantovano
-Articoli Correlati
-Inaugurazione dell’Anno Giudiziario 2026 della Corte d’Appello di Napoli, l'intervento del Sottosegretario Mantovano
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, gave a speech on the occasion of the inauguration ceremony of the Judicial Year 2026 in the District of the Court of Appeal of Naples.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The intervention of Undersecretary Mantovano
+Related Articles
+Inauguration of the Judicial Year 2026 of the Court of Appeal of Naples, the intervention of Undersecretary Mantovano
 
 ---
 
-### Il Sottosegretario Mantovano alla cerimonia di inaugurazione dell'Anno Giudiziario
+### Undersecretary Mantovano at the inauguration ceremony of the Judicial Year
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30993
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 27
 - **Unique ID:** `9d08b2796d7a89db`
 
 #### Content:
 
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, ha partecipato alla cerimonia di inaugurazione dell'Anno Giudiziario 2026 a Roma, presso il Palazzo di Giustizia.
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, participated in the inauguration ceremony of the Judicial Year 2026 in Rome, at the Palace of Justice.
 
 ---
 
-### Il Sottosegretario Mantovano alla cerimonia di inaugurazione dell'Anno Giudiziario
+### Undersecretary Mantovano at the inauguration ceremony of the Judicial Year
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30992
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 76
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 80
 - **Unique ID:** `6fe8e530b0dc6303`
 
 #### Content:
 
-Il Sottosegretario Mantovano alla cerimonia di inaugurazione dell'Anno Giudiziario
+Undersecretary Mantovano at the inauguration ceremony of the Judicial Year
 30 January 2026
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, ha partecipato alla cerimonia di inaugurazione dell'Anno Giudiziario 2026 a Roma, presso il Palazzo di Giustizia.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Sottosegretario Mantovano alla cerimonia di inaugurazione dell'Anno Giudiziario
+The Undersecretary to the Presidency of the Council, Alfredo Mantovano, participated in the inauguration ceremony of the Judicial Year 2026 in Rome, at the Palace of Justice.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Undersecretary Mantovano at the inauguration ceremony of the Judicial Year
 
 ---
 
-### Il Sottosegretario Mantovano all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona"
+### Undersecretary Mantovano at the event "Addictions as an injury to the freedom and dignity of the individual"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30964
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 106
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 92
 - **Unique ID:** `a1b2d0412c85d281`
 
 #### Content:
 
-Giovedì 29 gennaio, alle 20.30, il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano è intervenuto all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona".
-L'incontro, che si è tenuto a Roma nell'Auditorium San Pio X - Angelo Brizi (piazza della Balduina 67), si è aperto con il saluto di Sua Eminenza il Cardinale Baldo Reina. Oltre al Sottosegretario Mantovano, sono intervenuti il prof. Giulio Maira, neurochirurgo, fondatore e Presidente della Fondazione Atena Onlus, e il dott. Giampaolo Nicolasi, Capo struttura e Direttore della Comunità Incontro Onlus di Amelia.
-​L'iniziativa è stata promossa nell'ambito del "Progetto Persona" dalla Parrocchia San Pio X di Roma.
+Thursday 29 January, at 8.30 pm, the Undersecretary to the Presidency of the Council Alfredo Mantovano spoke at the event "Addictions as an injury to the freedom and dignity of the Person".
+The meeting, which was held in Rome in the San Pio In addition to Undersecretary Mantovano, prof. Giulio Maira, neurosurgeon, founder and President of the Atena Onlus Foundation, and Dr. Giampaolo Nicolasi, Head of structure and Director of the Comunità Incontro Onlus of Amelia.
+The initiative was promoted as part of the "Person Project" by the Parish of Saint Pius
 
 ---
 
-### Il Sottosegretario Mantovano all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona"
+### Undersecretary Mantovano at the event "Addictions as an injury to the freedom and dignity of the individual"
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30991
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 151
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 159
 - **Unique ID:** `d10a89030c8aae97`
 
 #### Content:
 
-Il Sottosegretario Mantovano all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona"
+Undersecretary Mantovano at the event "Addictions as an injury to the freedom and dignity of the individual"
 29 January 2026
-Il Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano è intervenuto all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona". L'incontro, tenuto a Roma nell'Auditorium San Pio X, si è aperto con il saluto di Sua Eminenza il Cardinale Baldo Reina. Sono intervenuti il prof. Giulio Maira, neurochirurgo, fondatore e Presidente della Fondazione Atena Onlus, e il dott. Giampaolo Nicolasi, Capo struttura e Direttore della Comunità Incontro Onlus di Amelia. ​L'iniziativa è stata promossa nell'ambito del "Progetto Persona" dalla Parrocchia San Pio X di Roma.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Il Sottosegretario Mantovano all'evento "Le dipendenze come lesione alla libertà e alla dignità della Persona"
+The Undersecretary to the Presidency of the Council Alfredo Mantovano spoke at the event "Addictions as an injury to the freedom and dignity of the Person". The meeting, held in Rome in the San Pio X Auditorium, opened with a greeting from His Eminence Cardinal Baldo Reina. Prof. spoke. Giulio Maira, neurosurgeon, founder and President of the Atena Onlus Foundation, and Dr. Giampaolo Nicolasi, Head of structure and Director of the Comunità Incontro Onlus of Amelia. The initiative was promoted as part of the "Person Project" by the Parish of Saint Pius
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Undersecretary Mantovano at the event "Addictions as an injury to the freedom and dignity of the individual"
 
 ---
 
-### Riunione del Comitato Nazionale per la Bioetica
+### Meeting of the National Committee for Bioethics
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30984
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 283
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 280
 - **Unique ID:** `25b6ab14266a0736`
 
 #### Content:
 
-Si tiene oggi presso la Presidenza del Consiglio dei ministri la seduta plenaria del Comitato Nazionale per la Bioetica (CNB), presieduto dal professor Angelo Luigi Vescovi. Ad aprire l’incontro, l'intervento del Sottosegretario alla Presidenza Alfredo Mantovano, che ha sottolineato l’importanza del riconoscimento per legge del CNB e del Comitato Nazionale per la Biosicurezza, le Biotecnologie e le Scienze della Vita (CNBBSV), avvenuto con la Legge 30 dicembre 2025, n. 199 (Bilancio di previsione dello Stato per l'anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028), ai commi 271/272.
-“Il Comitato Nazionale per la Bioetica e il Comitato Nazionale per la Biosicurezza, le Biotecnologie e le Scienze della Vita svolgono un ruolo rilevante, hanno un’incidenza e godono di una considerazione che non potevano essere lasciati all’occasionalità sul piano amministrativo. Il Governo ha doverosamente colmato questo vuoto normativo”, ha commentato il Sottosegretario Mantovano: “Per dare pieno seguito sostanziale a questo riconoscimento, a breve verrà approvato un Decreto attuativo della Presidenza del consiglio dei ministri, relativo agli aspetti operativi dell’attività dei due Comitati”.
-Il Comitato Nazionale per la Bioetica è un organismo consultivo del Governo, il Comitato Nazionale per la Biosicurezza, le Biotecnologie e le Scienze della Vita, presieduto dal prof. Andrea Lenzi, è un organismo consultivo tecnico-scientifico di supporto al Governo: entrambi sono istituiti presso la Presidenza del Consiglio dei ministri. I membri di CNB e CNBBSV sono nominati con decreto del Presidente del Consiglio per quattro anni, rispettivamente nel numero di 36 e 20, inclusi i presidenti. Sempre con Decreto del PDCM sono stabilite finalità, compiti, funzionamento e composizione dei due Comitati; del CNB fanno parte, senza diritto di voto, i presidenti di enti di ricerca e di altri organismi ed enti pubblici.
+The plenary session of the National Committee for Bioethics (CNB), chaired by Professor Angelo Luigi Vescovi, is held today at the Presidency of the Council of Ministers. The meeting was opened by the speech of the Undersecretary to the Presidency Alfredo Mantovano, who underlined the importance of the legal recognition of the NBC and the National Committee for Biosafety, Biotechnology and Life Sciences (CNBBSV), which occurred with Law 30 December 2025, n. 199 (State budget forecast for the financial year 2026 and multi-year budget for the three-year period 2026-2028), in paragraphs 271/272.
+"The National Committee for Bioethics and the National Committee for Biosafety, Biotechnology and Life Sciences play an important role, have an impact and enjoy a consideration that could not be left to occasionalism on an administrative level. The Government has dutifully filled this regulatory gap", commented Undersecretary Mantovano: "To give full substantial follow-up to this recognition, an implementing Decree of the Presidency of the Council of Ministers will be approved shortly, relating to the operational aspects of the activity of the two Committees".
+The National Committee for Bioethics is a consultative body of the Government, the National Committee for Biosafety, Biotechnology and Life Sciences, chaired by prof. Andrea Lenzi, is a technical-scientific consultative body supporting the Government: both are established at the Presidency of the Council of Ministers. The members of CNB and CNBBSV are appointed by decree of the Prime Minister for four years, respectively 36 and 20, including the presidents. Again with the PDCM Decree, the purposes, tasks, functioning and composition of the two Committees are established; The CNB includes, without the right to vote, the presidents of research institutions and other public organizations and bodies.
 
 ---
 
-### Riunione del CIPESS del 29 gennaio 2026
+### CIPESS meeting of 29 January 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30980
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 741
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 766
 - **Unique ID:** `c956123a529d41bb`
 
 #### Content:
 
-Nella seduta odierna, il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alessandro Morelli, ha approvato alcuni importanti provvedimenti in materia di salute, di politiche di coesione e altri temi rilevanti.
-Il Comitato:
-ha deliberato il riparto del contributo di 20 mln di euro, relativo al 2024, per l’attività degli IRCCS in favore di cittadini residenti in regioni diverse da quelle di appartenenza;
-ha approvato, per l’annualità 2024, il riparto tra le Regioni dell’importo di 4 mln di euro per il finanziamento del mancato introito subito dai servizi sanitari regionali a causa della sopravvenuta esenzione, degli sconti obbligatori a carico delle farmacie che hanno un fatturato annuo in regime di Servizio sanitario nazionale inferiore a 150.000 euro;
-ha deliberato il conguaglio pari a oltre 111 mln di euro, da effettuare sui saldi del FSN 2017 per il differente importo complessivo dell’IRAP e dell’addizionale regionale all’IRPEF effettivamente introitato dalla Regione Siciliana rispetto a quanto stimato e assegnato;
-ha deliberato il riparto fra le Regioni e le Province Autonome delle disponibilità finanziarie per il Servizio Sanitario Nazionale (SSN) nell’anno 2025 ammontanti a oltre 135 mld di euro;
-ha ripartito ed assegnato alle regioni a statuto ordinario e alla Regione Siciliana il finanziamento di specifici progetti per il perseguimento degli obiettivi di carattere prioritario e di rilievo nazionale relativi all’anno 2025 ed indicati nel vigente Piano sanitario nazionale per oltre 878 mln di euro;
-ha approvato, per l’anno 2025, il riparto tra le regioni a statuto ordinario e la Regione Siciliana, del finanziamento complessivo di 25,3 mln di euro destinato alla sperimentazione per la remunerazione delle prestazioni e delle funzioni assistenziali erogate dalle farmacie con oneri a carico del SSN.
-Ambiente
-Il Comitato ha approvato la ripartizione dei contributi per l’anno 2024 (importo complessivo di 15 mln di euro) a titolo di compensazioni in favore dei territori che ospitano siti di centrali nucleari e impianti del ciclo del combustibile nucleare. Tale importo spetta nella misura del 50% ai Comuni sede di impianto, del 25% alla relativa Provincia e del 25% ai Comuni confinanti con quello nel cui territorio è ubicato l’impianto.
-Programma statistico nazionale
-Il Comitato ha approvato il Programma statistico nazionale (PSN) 2023-2025 – Aggiornamento 2025, la cui attuazione ha un costo stimato in circa 303,13 mln di euro.
-Sisma Abruzzo 2009
-Il Comitato ha deliberato:
-il finanziamento, per un importo pari a circa 3,7 mln di euro, dell’intervento denominato “Santa Maria in Panthanis” attraverso la riprogrammazione di risorse già assegnate al Ministero della cultura e oggetto di contestuale definanziamento;
-l’assegnazione di un importo pari a 1,3 mln di euro per l’intervento di “Assistenza Tecnica” relativo al Programma di Sviluppo RESTART 2.
-Politiche di coesione
-Il Comitato ha deliberato quanto segue:
-con riferimento alle programmazioni FSC 2014-2020 e precedenti, il definanziamento dei Piani di sviluppo e coesione (PSC) delle Regioni Lazio, Marche, Piemonte, Veneto e delle Province autonome di Bolzano e di Trento, per un importo complessivo pari a oltre 403 mln di euro; con riferimento alla programmazione FSC 2021-2027, l’incremento dell’imputazione programmatica in favore delle medesime Amministrazioni, per l’importo rispettivamente definanziato.
-con riferimento alla programmazione FSC 2021-2027, il definanziamento di risorse assegnate in anticipazione al Ministero delle Infrastrutture e dei Trasporti, per un importo complessivo di circa 21,1 mln di euro, e la contestuale assegnazione al medesimo Ministero di risorse pari a circa 169,1 mln di euro per il rifinanziamento di n. 24 interventi già oggetto di definanziamento.
-con riferimento alla programmazione FSC 2021-2027, il definanziamento di n. 60 interventi a valere sulle risorse assegnate in anticipazione alle Regioni Abruzzo, Basilicata, Calabria, Campania, Lazio, Puglia, Sardegna, Toscana, Regione Siciliana e Provincia autonoma di Trento, per un importo complessivo pari a circa 98,7 mln di euro, e il contestuale rifinanziamento di n. 16 dei predetti interventi con riassegnazione alle rispettive Amministrazioni titolari di oltre 26,7 mln di euro, ai fini della prosecuzione degli stessi.
-Il Comitato ha infine udito le seguenti informative che non comportano l’adozione di delibera:
-Piano Nazionale per la Ricerca (PNR) per il periodo 2021-2027 – Informativa sullo stato di attuazione;
-Relazione sullo stato dell'industria aeronautica - Anno 2024;
-Relazione sullo stato di utilizzo delle misure di compensazione territoriale a favore dei siti che ospitano centrali nucleari e impianti del ciclo del combustibile nucleare per l’annualità 2022.
+In today's session, the Interministerial Committee for Economic Planning and Sustainable Development (CIPESS), chaired by the Minister of Economy and Finance and Vice President of CIPESS, Giancarlo Giorgetti, and with the presence of the Secretary of CIPESS, Undersecretary of State at the Presidency of the Council of Ministers, Alessandro Morelli, approved some important measures regarding health, cohesion policies and other relevant topics.
+The Committee:
+resolved the distribution of the contribution of 20 million euros, relating to 2024, for the activity of the IRCCS in favor of citizens residing in regions other than their own;
+approved, for the year 2024, the distribution between the Regions of the amount of 4 million euros for the financing of the loss of income suffered by the regional health services due to the subsequent exemption, of the mandatory discounts paid by pharmacies that have an annual turnover under the National Health Service regime of less than 150,000 euros;
+resolved the adjustment equal to over 111 million euros, to be made on the 2017 FSN balances for the different overall amount of IRAP and the regional additional income tax actually received by the Sicilian Region compared to what was estimated and assigned;
+resolved the distribution between the Regions and the Autonomous Provinces of the financial availability for the National Health Service (NHS) in the year 2025 amounting to over 135 billion euros;
+has distributed and assigned to the regions with ordinary statute and to the Sicilian Region the financing of specific projects for the pursuit of the objectives of a priority nature and of national importance relating to the year 2025 and indicated in the current National Health Plan for over 878 million euros;
+approved, for the year 2025, the distribution between the regions with ordinary statute and the Sicilian Region, of the overall financing of 25.3 million euros intended for the experimentation for the remuneration of the services and care functions provided by pharmacies with costs borne by the NHS.
+Environment
+The Committee approved the distribution of contributions for the year 2024 (total amount of 15 million euros) as compensation in favor of the territories hosting nuclear power plant sites and nuclear fuel cycle plants. This amount is due in the amount of 50% to the Municipalities where the plant is located, 25% to the relevant Province and 25% to the Municipalities bordering the one in whose territory the plant is located.
+National statistical program
+The Committee approved the National Statistical Program (PSN) 2023-2025 - 2025 Update, the implementation of which has an estimated cost of approximately 303.13 million euros.
+2009 Abruzzo earthquake
+The Committee resolved:
+the financing, for an amount equal to approximately 3.7 million euros, of the intervention called "Santa Maria in Panthanis" through the reprogramming of resources already assigned to the Ministry of Culture and subject to simultaneous defunding;
+the assignment of an amount equal to 1.3 million euros for the "Technical Assistance" intervention relating to the RESTART 2 Development Programme.
+Cohesion policies
+The Committee resolved as follows:
+with reference to the 2014-2020 and previous FSC programmes, the defunding of the Development and Cohesion Plans (PSC) of the Regions of Lazio, Marche, Piedmont, Veneto and the autonomous Provinces of Bolzano and Trento, for a total amount of over 403 million euros; with reference to the 2021-2027 FSC programming, the increase in the programmatic allocation in favor of the same Administrations, for the respectively defunded amount.
+with reference to the 2021-2027 FSC programming, the defunding of resources assigned in advance to the Ministry of Infrastructure and Transport, for a total amount of approximately 21.1 million euros, and the simultaneous assignment to the same Ministry of resources equal to approximately 169.1 million euros for the refinancing of n. 24 interventions have already been defunded.
+with reference to the FSC programming 2021-2027, the defunding of n. 60 interventions based on the resources assigned in advance to the Regions of Abruzzo, Basilicata, Calabria, Campania, Lazio, Puglia, Sardinia, Tuscany, the Sicilian Region and the Autonomous Province of Trento, for a total amount of approximately 98.7 million euros, and the simultaneous refinancing of n. 16 of the aforementioned interventions with reassignment to the respective Ammi
+
+nistrations holding over 26.7 million euros, for the purposes of their continuation.
+Finally, the Committee heard the following information which does not require the adoption of a resolution:
+National Research Plan (PNR) for the period 2021-2027 - Information on the state of implementation;
+State of the Aviation Industry Report - Year 2024;
+Report on the state of use of territorial compensation measures in favor of sites hosting nuclear power plants and nuclear fuel cycle plants for the year 2022.
 
 ---
 
-### Riunione del CIPESS del 29 gennaio 2026
+### CIPESS meeting of 29 January 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30975
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 93
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 96
 - **Unique ID:** `a4a01bc2184828d6`
 
 #### Content:
 
-Riunione del CIPESS del 29 gennaio 2026
+CIPESS meeting of 29 January 2026
 29 January 2026
-Riunione a Palazzo Chigi del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti,alla presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alessandro Morelli.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Riunione del CIPESS del 29 gennaio 2026
+Meeting at Palazzo Chigi of the Interministerial Committee for Economic Planning and Sustainable Development (CIPESS), chaired by the Minister of Economy and Finance and Vice President of CIPESS, Giancarlo Giorgetti, in the presence of the Secretary of CIPESS, Undersecretary of State at the Presidency of the Council of Ministers, Alessandro Morelli.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+CIPESS meeting of 29 January 2026
 
 ---
 
-### CIPESS, conferenza stampa sugli esiti della riunione del 29 Gennaio 2026
+### CIPESS, press conference on the outcomes of the meeting of 29 January 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30974
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 108
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 111
 - **Unique ID:** `97ffb2d6fea951de`
 
 #### Content:
 
-CIPESS, conferenza stampa sugli esiti della riunione del 29 Gennaio 2026
+CIPESS, press conference on the outcomes of the meeting of 29 January 2026
 29 January 2026
-La conferenza stampa al termine della riunione del CIPESS (Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile). Ad illustrare i provvedimenti approvati nella riunione, il Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio, Alessandro Morelli, ed il Sottosegretario di Stato al Ministero della salute, Marcello Gemmato.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-La conferenza stampa a Palazzo Chigi
-Articoli Correlati
-Riunione del CIPESS del 29 gennaio 2026
+The press conference at the end of the CIPESS (Interministerial Committee for Economic Planning and Sustainable Development) meeting. Illustrating the measures approved at the meeting were the Secretary of CIPESS, Undersecretary of State at the Presidency of the Council, Alessandro Morelli, and the Undersecretary of State at the Ministry of Health, Marcello Gemmato.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The press conference at Palazzo Chigi
+Related Articles
+CIPESS meeting of 29 January 2026
 
 ---
 
-### Otto per mille dell’IRPEF 2026, individuazione dei parametri di valutazione
+### Eight per thousand of the 2026 IRPEF, identification of the evaluation parameters
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30976
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 61
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 66
 - **Unique ID:** `94268b7e5efeabb7`
 
 #### Content:
 
-Pubblicato il Decreto del Segretario generale della Presidenza del Consiglio dei ministri del 26 gennaio 2026 relativo ai requisiti e ai NUOVI parametri di valutazione delle domande di accesso alla quota dell’otto per mille dell’IRPEF a diretta gestione statale.
-Le domande possono essere presentate a partire dal 1° febbraio 2026 e devono pervenire entro e non oltre il 30 settembre 2026.
+The Decree of the General Secretary of the Presidency of the Council of Ministers of 26 January 2026 relating to the requirements and NEW parameters for evaluating applications for access to the eight per thousand quota of the IRPEF directly managed by the state has been published.
+Applications can be submitted starting from February 1, 2026 and must be received no later than September 30, 2026.
 
 ---
 
-### Incontro con il Presidente del Parlamento europeo
+### Meeting with the President of the European Parliament
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30973
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 18
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 17
 - **Unique ID:** `5a7c43a0b9186208`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi Roberta Metsola, Presidente del Parlamento europeo.
+The Prime Minister, Giorgia Meloni, met Roberta Metsola, President of the European Parliament, today at Palazzo Chigi.
 
 ---
 
-### Incontro con il Presidente del Parlamento europeo
+### Meeting with the President of the European Parliament
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30983
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 68
 - **Unique ID:** `3429e0602ae616c4`
 
@@ -4726,68 +4703,68 @@ Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi
 
 English
 |
-Italiano
-Incontro con il Presidente del Parlamento europeo
+Italian
+Meeting with the President of the European Parliament
 29 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato a Palazzo Chigi Roberta Metsola, Presidente del Parlamento europeo.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Incontro con il Presidente del Parlamento europeo
+The Prime Minister, Giorgia Meloni, met Roberta Metsola, President of the European Parliament, at Palazzo Chigi.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Meeting with the President of the European Parliament
 
 ---
 
-### Incontro con il Presidente del Parlamento europeo
+### Meeting with the President of the European Parliament
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30985
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 73
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 74
 - **Unique ID:** `0e56e87f6a83e957`
 
 #### Content:
 
 English
 |
-Italiano
-Incontro con il Presidente del Parlamento europeo
+Italian
+Meeting with the President of the European Parliament
 29 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi Roberta Metsola, Presidente del Parlamento europeo.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'arrivo a Palazzo Chigi
-Articoli Correlati
-Incontro con il Presidente del Parlamento europeo
+The Prime Minister, Giorgia Meloni, met Roberta Metsola, President of the European Parliament, today at Palazzo Chigi.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+The arrival at Palazzo Chigi
+Related Articles
+Meeting with the President of the European Parliament
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=12
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 673
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 719
 - **Unique ID:** `719645ddba74cd72`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -4800,42 +4777,42 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Incidente sul lavoro ex Ilva di Taranto, il cordoglio del Sottosegretario Mantovano
+News
+Accident at the former Ilva factory in Taranto, the condolences of Undersecretary Mantovano
 12 January 2026
-Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, esprime a nome del Governo profondo cordoglio e vicinanza ai familiari e ai colleghi di Claudio Salamida, che oggi ha perso la vita nel tragico incidente sul lavoro all’interno dello stabilimento ex Ilva di Taranto, durante un controllo tecnico sugli impianti. Insieme coi ministri che fanno parte del Tavolo interministeriale sull’ex Ilva, riunitisi a margine del Consiglio dei Ministri, Mantovano ha ribadito l’impegno del Governo per rafforzare la sicurezza sul lavoro, in linea col recente decreto legge, affinché condizioni di piena tutela siano sempre prioritariamente garantite.
-Notizie
-Liberazione dei connazionali Alberto Trentini e Mario Burlò, dichiarazione del Presidente Meloni
+The Undersecretary to the Prime Minister, Alfredo Mantovano, expresses on behalf of the Government deep condolences and closeness to the family and colleagues of Claudio Salamida, who today lost his life in the tragic accident at work inside the former Ilva factory in Taranto, during a technical check on the systems. Together with the ministers who are part of the inter-ministerial table on the former Ilva, meeting on the sidelines of the Council of Ministers, Mantovano reiterated the Government's commitment to strengthening workplace safety, in line with the recent law decree, so that conditions of full protection are always guaranteed as a priority.
+News
+Liberation of compatriots Alberto Trentini and Mario Burlò, declaration by President Meloni
 12 January 2026
-Accolgo con gioia e soddisfazione la liberazione dei connazionali Alberto Trentini e Mario Burlò, che si trovano ora in sicurezza presso l’Ambasciata d’Italia a Caracas. Ho parlato con loro, e un aereo è già partito da Roma per riportarli a casa. Desidero esprimere,  a nome del governo italiano, un sentito ringraziamento alle Autorità di Caracas, a partire dal presidente Rodriguez, per la costruttiva collaborazione dimostrata in questi ultimi giorni e a tutte le istituzioni e alle persone che, in Italia, hanno operato con impegno e discrezione per il raggiungimento di questo importante risultato.
-Notizie
-Udienza particolare di ringraziamento al termine del Giubileo ordinario 2025
+I welcome with joy and satisfaction the release of my compatriots Alberto Trentini and Mario Burlò, who are now in safety at the Italian Embassy in Caracas. I spoke to them, and a plane has already left Rome to bring them home. I would like to express, on behalf of the Italian government, heartfelt thanks to the Caracas authorities, starting with President Rodriguez, for the constructive collaboration demonstrated in these last few days and to all the institutions and people who, in Italy, have worked with commitment and discretion to achieve this important result.
+News
+Special thanksgiving audience at the end of the ordinary Jubilee 2025
 10 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato questa mattina, presso l'Aula Paolo VI in Vaticano, all’Udienza particolare di ringraziamento al termine del Giubileo ordinario 2025, con il Sommo Pontefice Leone XIV.
-Notizie
-Incendio di Crans-Montana, Santa Messa in memoria delle vittime
+The Prime Minister, Giorgia Meloni, participated this morning, in the Paul VI Hall in the Vatican, in the special thanksgiving audience at the end of the ordinary Jubilee 2025, with the Supreme Pontiff Leo XIV.
+News
+Crans-Montana fire, Holy Mass in memory of the victims
 9 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Santa Messa in memoria delle vittime dell'incendio di Crans-Montana, nella Basilica dei Santi Ambrogio e Carlo al Corso a Roma.
-Notizie
-Venezuela, dichiarazione del Presidente Meloni
+The Prime Minister, Giorgia Meloni, participated in the Holy Mass in memory of the victims of the Crans-Montana fire, in the Basilica of Santi Ambrogio e Carlo al Corso in Rome.
+News
+Venezuela, statement by President Meloni
 9 January 2026
-Seguo con attenzione la situazione in Venezuela e auspico che con la presidente Delcy Rodríguez si apra una nuova stagione di relazioni costruttive fra Roma e Caracas. In tal senso esprimo gratitudine per la scelta di avviare la liberazione di detenuti politici, fra i quali anche italiani, e spero vivamente che questo percorso prosegua con ulteriori passi nella medesima direzione.
-Notizie
-Conferenza stampa di inizio anno del Presidente Meloni
+I am carefully following the situation in Venezuela and I hope that with President Delcy Rodríguez a new season of constructive relations will open between Rome and Caracas. In this sense, I express gratitude for the choice to initiate the release of political prisoners, including Italians, and I sincerely hope that this path continues with further steps in the same direction.
+News
+President Meloni's press conference at the beginning of the year
 9 January 2026
-Si è tenuta, presso l'Aula dei Gruppi Parlamentari della Camera dei Deputati, la conferenza stampa di inizio anno del Presidente del Consiglio Giorgia Meloni, organizzata dal Consiglio nazionale dell’Ordine dei giornalisti in collaborazione con l’Associazione Stampa Parlamentare.
-Notizie
-Modifica della proposta del nuovo quadro finanziario pluriennale, la dichiarazione del Presidente Meloni
+The press conference at the beginning of the year by Prime Minister Giorgia Meloni was held in the Hall of Parliamentary Groups of the Chamber of Deputies, organized by the National Council of the Order of Journalists in collaboration with the Parliamentary Press Association.
+News
+Amendment of the proposal for the new multiannual financial framework, the statement by President Meloni
 6 January 2026
-Accolgo con soddisfazione la decisione della Commissione Europea di modificare, come richiesto dall’Italia, la proposta di nuovo quadro finanziario pluriennale per rendere disponibili, già dal 2028, ulteriori 45 miliardi di euro per la Politica Agricola Comune [...].
-Notizie
-Anniversario dell'omicidio di Piersanti Mattarella, la dichiarazione del Presidente Meloni
+I welcome with satisfaction the European Commission's decision to modify, as requested by Italy, the proposal for a new multiannual financial framework to make available, as early as 2028, a further 45 billion euros for the Common Agricultural Policy [...].
+News
+Anniversary of the murder of Piersanti Mattarella, the declaration of President Meloni
 6 January 2026
-Sono trascorsi quarantasei anni dal sacrificio di Piersanti Mattarella, ucciso dalla mafia il 6 gennaio 1980. La forza del suo esempio, il coraggio delle sue idee e il suo amore per il bene comune rimangono un punto di riferimento per ogni cittadino e per chi sceglie di mettersi al servizio delle Istituzioni.
-Notizie
-Riunione della Coalizione dei Volenterosi a livello Leader
+Forty-six years have passed since the sacrifice of Piersanti Mattarella, killed by the mafia on 6 January 1980. The strength of his example, the courage of his ideas and his love for the common good remain a point of reference for every citizen and for those who choose to put themselves at the service of the institutions.
+News
+Meeting of the Coalition of the Willing at Leader level
 6 January 2026
-Il Presidente Meloni ha partecipato oggi a Parigi a una riunione della Coalizione dei Volenterosi, nel quadro delle iniziative negoziali per una pace giusta e duratura in Ucraina. L’incontro, costruttivo e concreto, che ha permesso di confermare un alto livello di convergenza tra Ucraina, Stati Uniti, Europa e altri partner, è stato dedicato all’affinamento delle garanzie di sicurezza ispirate all’articolo 5 dell’Alleanza Atlantica, come da tempo suggerito dall’Italia. [...]
+President Meloni participated today in Paris in a meeting of the Coalition of the Willing, as part of the negotiating initiatives for a just and lasting peace in Ukraine. The constructive and concrete meeting, which allowed us to confirm a high level of convergence between Ukraine, the United States, Europe and other partners, was dedicated to refining the security guarantees inspired by Article 5 of the Atlantic Alliance, as long suggested by Italy. [...]
 Pages
 « first
 ‹ previous
@@ -4847,6 +4824,7 @@ Pages
 13
 14
 15
+
 16
 17
 …
@@ -4855,343 +4833,343 @@ last »
 
 ---
 
-### L’Italia consegna all’Ucraina il primo lotto di forniture per fronteggiare l’emergenza energetica
+### Italy delivers the first batch of supplies to Ukraine to deal with the energy emergency
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30962
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 189
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 194
 - **Unique ID:** `efd709e205541dcf`
 
 #### Content:
 
-L’Italia sta fornendo all’Ucraina un sostegno concreto, attraverso la consegna di caldaie industriali e generatori elettrici, per affrontare l’emergenza energetica causata dai deliberati attacchi russi alle infrastrutture civili che stanno creando una crisi umanitaria in diverse grandi città ucraine.
-Si tratta di un impegno assunto dal Presidente del Consiglio Giorgia Meloni con il Presidente Zelensky in occasione del loro incontro a margine del Consiglio europeo dello scorso ottobre 2025.
-Oggi si completa la consegna del primo lotto di 78 caldaie industriali e ulteriori 300 saranno consegnate nelle prossime settimane, per una capacità totale di circa 900 MW termici. Le caldaie sono destinate a reti urbane danneggiate, ospedali e servizi essenziali. Questa iniziativa umanitaria del Governo italiano permetterà di rendere disponibile una capacità termica complessiva sufficiente a circa 90.000 abitazioni o un centro urbano di circa 250.000 abitanti.
-Nello stesso periodo l’Italia ha avviato un programma di invio di generatori elettrici di media e grande potenza. I generatori supporteranno ospedali, impianti idrici e infrastrutture critiche in caso di blackout.
-Queste iniziative del Governo si sommano alle lodevoli iniziative private alle quali si sta assistendo per l’invio di generatori in Ucraina.
+Italy is providing Ukraine with concrete support, through the delivery of industrial boilers and electric generators, to address the energy emergency caused by the deliberate Russian attacks on civil infrastructure which are creating a humanitarian crisis in several large Ukrainian cities.
+This is a commitment made by Prime Minister Giorgia Meloni with President Zelensky on the occasion of their meeting on the sidelines of the European Council last October 2025.
+Today the delivery of the first batch of 78 industrial boilers is completed and a further 300 will be delivered in the coming weeks, for a total thermal capacity of approximately 900 MW. The boilers are intended for damaged urban networks, hospitals and essential services. This humanitarian initiative of the Italian Government will make it possible to make available a total thermal capacity sufficient for approximately 90,000 homes or an urban center of approximately 250,000 inhabitants.
+In the same period, Italy started a program to send medium and large power electric generators. The generators will support hospitals, water systems and critical infrastructure in the event of a blackout.
+These Government initiatives add to the laudable private initiatives being witnessed to send generators to Ukraine.
 
 ---
 
-### PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+### PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30959
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
 - **Word Count:** 317
 - **Unique ID:** `cdd58f43034bb4d6`
 
 #### Content:
 
-Si è svolta oggi a Palazzo Chigi la Cabina di regia PNRR, presieduta dal Ministro per gli Affari europei, il PNRR e le Politiche di coesione, Tommaso Foti, con la partecipazione dei Ministri e dei Sottosegretari responsabili, oltre che del Presidente dell’ANCI e dei rappresentanti dell’UPI e dell’UNCEM, in merito alle attività conclusive connesse agli interventi che vedono, quali soggetti attuatori, i Comuni, le Città metropolitane, le Province e le Unioni di Comuni.
-I soggetti attuatori rivestono un ruolo fondamentale nell’attuazione dei circa 85.000 progetti PNRR, per un importo complessivo di circa 30 miliardi di euro e la Cabina di oggi è stata convocata per un confronto costruttivo in merito ai termini previsti per la conclusione degli interventi, alla scadenza delle attività di rendicontazione, alla definizione della documentazione idonea a certificare l’effettivo conseguimento degli obiettivi.
-“Per assicurare il pieno raggiungimento degli obiettivi concordati con la Commissione europea sono state istituite, a partire dal 2024, le Cabine di coordinamento su tutto il territorio nazionale presso le Prefetture. La sinergia tra le diverse amministrazioni centrali e locali rende possibile supportare gli enti territoriali, fornendo agli stessi indicazioni, modalità operative e soluzioni condivise. In via complementare, per le tematiche di natura trasversale che coinvolgono più enti locali, la Cabina di regia ha deliberato oggi l’attivazione di un tavolo permanente, coordinato dalla stessa Struttura di missione, con la partecipazione dei rappresentanti dell’Unità di missione delle Amministrazioni titolari degli interventi, del MEF, di ANCI e di UPI, al fine di assicurare soluzioni pratiche in quest’ultimo miglio del Piano”, dichiara il Ministro Foti.
-“Nei prossimi mesi, tutte le Amministrazioni titolari saranno chiamate a chiudere, in collaborazione con i soggetti attuatori, le attività di rendicontazione e a collaborare con la Struttura di missione PNRR per le successive verifiche in sede europea. Siamo davanti ad una sfida molto importante e delicata per la quale serve chiarezza, trasparenza e, soprattutto, leale collaborazione”, conclude il Ministro Foti.
+The PNRR control room was held today at Palazzo Chigi, chaired by the Minister for European Affairs, the PNRR and Cohesion Policies, Tommaso Foti, with the participation of the responsible Ministers and Undersecretaries, as well as the President of the ANCI and the representatives of the UPI and UNCEM, regarding the final activities connected to the interventions which see the Municipalities, Metropolitan Cities, Provinces and Unions of Municipalities as implementing entities.
+The implementing bodies play a fundamental role in the implementation of approximately 85,000 PNRR projects, for a total amount of approximately 30 billion euros and today's meeting was called for a constructive discussion regarding the deadlines foreseen for the conclusion of the interventions, the expiry of the reporting activities, the definition of the documentation suitable for certifying the actual achievement of the objectives.
+"To ensure the full achievement of the objectives agreed with the European Commission, coordination cabins have been established throughout the national territory at the Prefectures starting from 2024. The synergy between the various central and local administrations makes it possible to support local authorities, providing them with indications, operating methods and shared solutions. In addition, for issues of a transversal nature involving multiple local authorities, the control room today decided to activate a permanent, coordinated table by the same Mission Structure, with the participation of representatives of the Mission Unit of the Administrations in charge of the interventions, of the MEF, of ANCI and of UPI, in order to ensure practical solutions in this last mile of the Plan", declares Minister Foti.
+"In the coming months, all the relevant Administrations will be called to close, in collaboration with the implementing bodies, the reporting activities and to collaborate with the PNRR mission structure for the subsequent checks at European level. We are faced with a very important and delicate challenge for which clarity, transparency and, above all, loyal collaboration is needed", concludes Minister Foti.
 
 ---
 
-### PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+### PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30958
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 132
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 129
 - **Unique ID:** `5a8751ba720f0fce`
 
 #### Content:
 
 English
 |
-Italiano
-PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+Italian
+PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 28 January 2026
-Si è svolta oggi a Palazzo Chigi la Cabina di regia PNRR, presieduta dal Ministro per gli Affari europei, il PNRR e le Politiche di coesione, Tommaso Foti, con la partecipazione dei Ministri e dei Sottosegretari responsabili, oltre che del Presidente dell’ANCI e dei rappresentanti dell’UPI e dell’UNCEM, in merito alle attività conclusive connesse agli interventi che vedono, quali soggetti attuatori, i Comuni, le Città metropolitane, le Province e le Unioni di Comuni.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+The PNRR control room was held today at Palazzo Chigi, chaired by the Minister for European Affairs, the PNRR and Cohesion Policies, Tommaso Foti, with the participation of the responsible Ministers and Undersecretaries, as well as the President of the ANCI and the representatives of the UPI and UNCEM, regarding the final activities connected to the interventions which see the Municipalities, Metropolitan Cities, Provinces and Unions of Municipalities as implementing entities.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 
 ---
 
-### PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+### PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30963
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 135
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 131
 - **Unique ID:** `426d6ff36bfdcf8c`
 
 #### Content:
 
 English
 |
-Italiano
-PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+Italian
+PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 28 January 2026
-Si è svolta oggi a Palazzo Chigi la Cabina di regia PNRR, presieduta dal Ministro per gli Affari europei, il PNRR e le politiche di coesione, Tommaso Foti, con la partecipazione dei Ministri e dei Sottosegretari responsabili, oltre che del Presidente dell’ANCI e dei rappresentanti dell’UPI e dell’UNCEM, in merito alle attività conclusive connesse agli interventi che vedono, quali soggetti attuatori, i Comuni, le Città metropolitane, le Province e le Unioni di Comuni.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Cabina di regia
-Articoli Correlati
-PNRR, Cabina di regia su interventi Comuni, Città metropolitane e Province
+The PNRR control room was held today at Palazzo Chigi, chaired by the Minister for European Affairs, the PNRR and cohesion policies, Tommaso Foti, with the participation of the responsible Ministers and Undersecretaries, as well as the President of the ANCI and the representatives of the UPI and UNCEM, regarding the final activities connected to the interventions which see the Municipalities, Metropolitan Cities, Provinces and Unions of Municipalities as implementing entities.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Control room
+Related Articles
+PNRR, Control room for interventions in Municipalities, Metropolitan Cities and Provinces
 
 ---
 
-### Maltempo, sopralluogo del Presidente Meloni in Sicilia
+### Bad weather, inspection by President Meloni in Sicily
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30957
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 457
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 447
 - **Unique ID:** `9937100e13f118f8`
 
 #### Content:
 
-Il Presidente del Consiglio, Giorgia Meloni, si è recata questa mattina in Sicilia per sorvolare in elicottero i territori più colpiti dall’eccezionale ondata di maltempo che ha colpito nei giorni scorsi il territorio, in particolare per il passaggio del ciclone Harry.
-Il Presidente Meloni è arrivata a Niscemi, in provincia di Caltanissetta, dove una frana attiva di grandi dimensioni sta interessando il centro abitato e ha finora portato all’evacuazione di circa 1500 cittadini. A Niscemi, il Presidente Meloni ha incontrato il Sindaco Massimiliano Conti e ha presieduto presso la sede del Comune una riunione, alla quale hanno partecipato il Prefetto di Caltanissetta, il Capo Dipartimento della Protezione Civile Fabio Ciciliano e i tecnici della Protezione Civile.
-Nel corso dell’incontro è stato fatto il punto sull’emergenza ed è stato confermato il massimo impegno del Governo e delle Istituzioni competenti per assistere gli sfollati, a favore dei quali è stato già previsto il contributo di autonoma sistemazione, per ripristinare la viabilità, la ripresa dell’attività scolastica e la funzionalità della rete di forniture di gas ed energia elettrica. A rendere complesso il quadro è l’impossibilità, finché la frana rimarrà attiva, di identificare con esattezza l'area su cui intervenire e stabilire di conseguenza le modalità di intervento.
-Il Presidente Meloni ha garantito al Sindaco Conti che il Governo farà tutto ciò che è possibile per scongiurare che si ripeta quanto accaduto con la frana del 1997, in particolare per ciò che riguarda i ritardi negli indennizzi. Il Governo agirà velocemente in questa direzione, e il Presidente Meloni si è impegnata a fissare un nuovo incontro tra circa due settimane per prendere decisioni più dettagliate, alla luce delle necessarie informazioni. Il Presidente Meloni ha colto l’occasione per ringraziare l’on. Angelo Bonelli, presente a Niscemi, con cui ha avuto occasione di confrontarsi sulla grave emergenza.
-Infine, il Presidente del Consiglio si è recata nella sede della Capitaneria di Porto di Catania per presiedere un vertice al quale hanno partecipato, tra gli altri: il Ministro per la Protezione Civile Nello Musumeci; il Presidente della Regione Siciliana, Renato Schifani; il Capo Dipartimento della Protezione Civile, Fabio Ciciliano; il sindaco di Catania, Enrico Trantino; il sindaco di Messina Federico Basile; il sindaco di Siracusa, Francesco Italia; oltre che i Prefetti di Catania, Messina e Siracusa. Nel corso del vertice, è stata ribadita la massima attenzione del Governo per l’emergenza in corso che colpisce Sicilia, Sardegna e Calabria ed è stato ricordato che la dichiarazione di stato d’emergenza deliberata dal Consiglio dei ministri, con l’iniziale stanziamento di 100 milioni di euro, rappresenta solo la prima risposta ai territori colpiti, in attesa di un quadro più definito della situazione e una esatta quantificazione dei danni. Il Governo sta lavorando alla definizione del decreto-legge di assegnazione delle risorse necessarie.
+The Prime Minister, Giorgia Meloni, went to Sicily this morning to fly by helicopter over the areas most affected by the exceptional wave of bad weather that hit the area in recent days, in particular due to the passage of Cyclone Harry.
+President Meloni arrived in Niscemi, in the province of Caltanissetta, where a large active landslide is affecting the town center and has so far led to the evacuation of around 1500 citizens. In Niscemi, President Meloni met the Mayor Massimiliano Conti and chaired a meeting at the Municipality headquarters, which was attended by the Prefect of Caltanissetta, the Head of the Civil Protection Department Fabio Ciciliano and the Civil Protection technicians.
+During the meeting, the emergency was taken stock of and the maximum commitment of the Government and the competent institutions to assist the displaced people, for whom the independent accommodation contribution has already been provided, was confirmed, to restore traffic, the resumption of school activities and the functionality of the gas and electricity supply network. What makes the picture complex is the impossibility, as long as the landslide remains active, to precisely identify the area on which to intervene and consequently establish the intervention methods.
+President Meloni guaranteed Mayor Conti that the Government will do everything possible to avoid a repeat of what happened with the 1997 landslide, in particular with regard to delays in compensation. The Government will act quickly in this direction, and President Meloni has undertaken to schedule a new meeting in approximately two weeks to make more detailed decisions, in light of the necessary information. President Meloni took the opportunity to thank the Hon. Angelo Bonelli, present in Niscemi, with whom he had the opportunity to discuss the serious emergency.
+Finally, the Prime Minister went to the headquarters of the Port Authority of Catania to preside over a summit attended by, among others: the Minister for Civil Protection Nello Musumeci; the President of the Sicilian Region, Renato Schifani; the Head of the Civil Protection Department, Fabio Ciciliano; the mayor of Catania, Enrico Trantino; the mayor of Messina Federico Basile; the mayor of Syracuse, Francesco Italia; as well as the Prefects of Catania, Messina and Syracuse. During the summit, the Government's utmost attention was reiterated for the ongoing emergency affecting Sicily, Sardinia and Calabria and it was recalled that the declaration of state of emergency approved by the Council of Ministers, with the initial allocation of 100 million euros, represents only the first response to the affected territories, awaiting a more defined picture of the situation and an exact quantification of the damage. The Government is working on the definition of the legislative decree for the allocation of the necessary resources.
 
 ---
 
-### Maltempo, sopralluogo del Presidente Meloni in Sicilia
+### Bad weather, inspection by President Meloni in Sicily
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30956
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 212
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 205
 - **Unique ID:** `380007034e1e439d`
 
 #### Content:
 
 English
 |
-Italiano
-Maltempo, sopralluogo del Presidente Meloni in Sicilia
+Italian
+Bad weather, inspection by President Meloni in Sicily
 28 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, si è recata in Sicilia per sorvolare in elicottero i territori più colpiti dall’eccezionale ondata di maltempo che ha colpito nei giorni scorsi il territorio, in particolare per il passaggio del ciclone Harry.
-A Niscemi, il Presidente Meloni ha incontrato il Sindaco Massimiliano Conti ed ha partecipato, presso la sede del Comune, ad una riunione alla quale hanno partecipato il Prefetto di Caltanissetta, Licia Donatella Messina, il Capo Dipartimento della Protezione Civile, Fabio Ciciliano, ed i tecnici della Protezione Civile.
-A seguire, il Presidente Meloni ha presieduto, presso la sede della Capitaneria di Porto di Catania, un vertice al quale hanno partecipato, tra gli altri: il Ministro per la Protezione Civile Nello Musumeci; il Presidente della Regione Siciliana, Renato Schifani; il Capo Dipartimento della Protezione Civile, Fabio Ciciliano; il Sindaco di Catania, Enrico Trantino; il Sindaco di Messina Federico Basile; il Sindaco di Siracusa, Francesco Italia; oltre che i Prefetti di Catania, Messina e Siracusa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Maltempo, sopralluogo del Presidente Meloni in Sicilia
+The Prime Minister, Giorgia Meloni, went to Sicily to fly by helicopter over the territories most affected by the exceptional wave of bad weather that hit the territory in recent days, in particular due to the passage of Cyclone Harry.
+In Niscemi, President Meloni met the Mayor Massimiliano Conti and participated, at the Municipality headquarters, in a meeting in which the Prefect of Caltanissetta, Licia Donatella Messina, the Head of the Civil Protection Department, Fabio Ciciliano, and the Civil Protection technicians participated.
+Subsequently, President Meloni presided, at the headquarters of the Port Authority of Catania, a summit attended by, among others: the Minister for Civil Protection Nello Musumeci; the President of the Sicilian Region, Renato Schifani; the Head of the Civil Protection Department, Fabio Ciciliano; the Mayor of Catania, Enrico Trantino; the Mayor of Messina Federico Basile; the Mayor of Syracuse, Francesco Italia; as well as the Prefects of Catania, Messina and Syracuse.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Bad weather, inspection by President Meloni in Sicily
 
 ---
 
-### Maltempo in Sicilia, l'intervento del Presidente Meloni alla Capitaneria di Porto di Catania
+### Bad weather in Sicily, President Meloni's speech at the Port Authority of Catania
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30961
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 159
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 158
 - **Unique ID:** `3e11e54193e85c38`
 
 #### Content:
 
 English
 |
-Italiano
-Maltempo in Sicilia, l'intervento del Presidente Meloni alla Capitaneria di Porto di Catania
+Italian
+Bad weather in Sicily, President Meloni's speech at the Port Authority of Catania
 28 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, dopo aver sorvolato in elicottero i territori più colpiti dall’eccezionale ondata di maltempo, si è recata nella sede della Capitaneria di Porto di Catania per presiedere un vertice al quale hanno partecipato, tra gli altri: il Ministro per la Protezione Civile Nello Musumeci; il Presidente della Regione Siciliana, Renato Schifani; il Capo Dipartimento della Protezione Civile, Fabio Ciciliano; il Sindaco di Catania, Enrico Trantino; il Sindaco di Messina Federico Basile; il Sindaco di Siracusa, Francesco Italia; oltre che i Prefetti di Catania, Messina e Siracusa.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-L'intervento del Presidente Meloni
-Il sopralluogo del Presidente Meloni in Sicilia
-Articoli Correlati
-Maltempo, sopralluogo del Presidente Meloni in Sicilia
+The Prime Minister, Giorgia Meloni, after having flown by helicopter over the territories most affected by the exceptional wave of bad weather, went to the headquarters of the Port Authority of Catania to preside over a summit attended by, among others: the Minister for Civil Protection Nello Musumeci; the President of the Sicilian Region, Renato Schifani; the Head of the Civil Protection Department, Fabio Ciciliano; the Mayor of Catania, Enrico Trantino; the Mayor of Messina Federico Basile; the Mayor of Syracuse, Francesco Italia; as well as the Prefects of Catania, Messina and Syracuse.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+President Meloni's speech
+President Meloni's inspection in Sicily
+Related Articles
+Bad weather, inspection by President Meloni in Sicily
 
 ---
 
-### PNRR, Cabina di regia per la verifica dello stato di attuazione degli interventi della Missione Salute in ambito territoriale
+### PNRR, Control room for verifying the state of implementation of the Health Mission's interventions in the local area
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30955
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 335
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 344
 - **Unique ID:** `36eba3c2172afbb8`
 
 #### Content:
 
-Si è tenuta oggi a Palazzo Chigi la Cabina di regia PNRR dedicata alla Missione Salute, presieduta dal Ministro per gli affari europei, il PNRR e le politiche di coesione, Tommaso Foti, con la partecipazione del Ministro della Salute, Orazio Schillaci e dei presidenti delle Regioni e delle Province autonome, per dare impulso all’attuazione degli interventi, assicurare un presidio all’attività di monitoraggio e garantire il pieno conseguimento degli obiettivi concordati a livello europeo.
-Nella seduta di oggi, la Cabina di regia ha verificato lo stato dell’arte di interventi localizzati sull’intero territorio nazionale per la realizzazione di opere strategiche per il Governo, quali le Case e gli Ospedali di comunità, la sicurezza sismica degli edifici, la riqualificazione delle strutture ospedaliere e l’ammodernamento del relativo parco tecnologico e digitale.
-“Si tratta di misure che rivestono una significativa importanza per il potenziamento dell’intero sistema sanitario nazionale e per il miglioramento della qualità della vita dei cittadini. In quest’ultimo miglio del Piano è necessario confrontarci costantemente con le Regioni, quali soggetti attuatori degli interventi. Per questo abbiamo deciso di attivare un tavolo tecnico permanente per un monitoraggio rafforzato degli investimenti della Missione Salute”, dichiara il Ministro Tommaso Foti.
-“Gli investimenti della Missione Salute sono fondamentali per rafforzare la sanità di prossimità e dare risposte sempre più efficaci ai bisogni di salute dei cittadini. Sono stati già raggiunti obiettivi importanti, come quello sulle nuove apparecchiature che garantiscono ai pazienti esami più sicuri e di qualità. Ora occorre accelerare gli altri interventi, in particolare per rafforzare l’assistenza territoriale e le cure primarie, e su questo il confronto con le Regioni sarà ancora più serrato e sistematico con il comune obiettivo di potenziare i servizi a garanzia del diritto alla salute”, dichiara il Ministro Orazio Schillaci.
-Proprio al fine di assicurare un sistematico confronto tra Governo e Regioni, la Cabina di regia ha deliberato l’attivazione di un tavolo tecnico permanente, coordinato dalla Struttura di missione PNRR, con il compito di assicurare un monitoraggio rafforzato degli interventi inseriti nella Missione Salute del Piano.
+The PNRR control room dedicated to the Health Mission was held today at Palazzo Chigi, chaired by the Minister for European Affairs, the PNRR and cohesion policies, Tommaso Foti, with the participation of the Minister of Health, Orazio Schillaci and the presidents of the Regions and autonomous Provinces, to give impetus to the implementation of the interventions, ensure monitoring activities and guarantee the full achievement of the objectives agreed at European level.
+In today's session, the Control Room verified the state of the art of interventions located throughout the national territory for the creation of strategic works for the Government, such as community homes and hospitals, the seismic safety of buildings, the redevelopment of hospital structures and the modernization of the related technological and digital park.
+"These are measures that are of significant importance for the strengthening of the entire national health system and for improving the quality of life of citizens. In this last mile of the Plan it is necessary to constantly compare ourselves with the Regions, as implementers of the interventions. For this reason we have decided to activate a permanent technical table for strengthened monitoring of the investments of the Health Mission", declares Minister Tommaso Foti.
+"The investments of the Health Mission are fundamental for strengthening local healthcare and providing increasingly effective responses to the health needs of citizens. Important objectives have already been achieved, such as the one on new equipment that guarantees safer and quality tests for patients. Now it is necessary to accelerate the other interventions, in particular to strengthen local assistance and primary care, and on this the discussion with the Regions will be even closer and more systematic with the common objective of strengthening the services to guarantee the right to health", declares Minister Orazio Schillaci.
+Precisely in order to ensure a systematic comparison between the Government and the Regions, the Control Room has decided to activate a permanent technical table, coordinated by the PNRR mission structure, with the task of ensuring strengthened monitoring of the interventions included in the Health Mission of the Plan.
 
 ---
 
-### Piano Mattei, l’Italia lancia il secondo Vertice Italia-Africa in Etiopia il 13 febbraio
+### Piano Mattei, Italy launches the second Italy-Africa Summit in Ethiopia on 13 February
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30948
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 274
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 289
 - **Unique ID:** `14de8248f11d01fb`
 
 #### Content:
 
-Nuova tappa dell’impegno italiano per rafforzare partenariati con il continente africano
-L’Italia organizzerà il secondo Vertice Italia-Africa a livello di Capi di Stato e di Governo il 13 febbraio ad Addis Abeba, in Etiopia, come anticipato dal Presidente del Consiglio Giorgia Meloni nel corso della conferenza stampa di inizio anno. Si conferma così il rafforzamento delle relazioni strategiche con il continente africano e il consolidamento degli obiettivi del Piano Mattei per l’Africa, lanciato a Roma nel gennaio 2024.
-Il vertice, a cadenza biennale, sarà ospitato in Africa per la prima volta e si svolgerà in concomitanza con il Vertice dell’Unione Africana, alla vigilia dell’Assemblea dei Capi di Stato e di Governo dell’Unione Africana. Nel quadro dei lavori, il Presidente Meloni interverrà, in qualità di ospite d’onore, nella sessione plenaria di apertura dell’Assemblea prevista la mattina di sabato 14 febbraio.
-L’iniziativa, a due anni dalla presentazione ufficiale, rappresenta una nuova tappa dell’impegno italiano volto a promuovere un partenariato politico ed economico strutturato con le Nazioni africane, potenziando la cooperazione su sviluppo sostenibile, infrastrutture, energia, istruzione e formazione, sanità e agricoltura, secondo gli assi strategici del Piano Mattei.
-Il vertice sarà anche l’occasione per una valutazione dei progressi compiuti dal Piano, volto a rafforzare la presenza italiana nel continente attraverso missioni di sistema, dialogo politico e progetti congiunti, e per individuare insieme le priorità operative per i prossimi anni.
-Addis Abeba, 27/07/2025 - Incontro del Presidente Giorgia Meloni con il Presidente della Commissione dell'Unione Africana, Mahmoud Ali Youssouf, a margine del Vertice delle Nazioni Unite sui Sistemi Alimentari.
-Roma, 29/01/2024 - La foto di famiglia dei partecipanti al primo Vertice "Italia-Africa. Un ponte per una crescita".
+New stage in Italy's commitment to strengthening partnerships with the African continent
+Italy will organize the second Italy-Africa Summit at the level of Heads of State and Government on 13 February in Addis Ababa, Ethiopia, as anticipated by Prime Minister Giorgia Meloni during the press conference at the beginning of the year. This confirms the strengthening of strategic relations with the African continent and the consolidation of the objectives of the Mattei Plan for Africa, launched in Rome in January 2024.
+The biennial summit will be hosted in Africa for the first time and will take place in conjunction with the African Union Summit, on the eve of the Assembly of Heads of State and Government of the African Union. As part of the proceedings, President Meloni will speak, as guest of honour, in the opening plenary session of the Assembly scheduled for the morning of Saturday 14 February.
+The initiative, two years after its official presentation, represents a new stage in Italy's commitment to promoting a structured political and economic partnership with African nations, strengthening cooperation on sustainable development, infrastructure, energy, education and training, healthcare and agriculture, according to the strategic axes of the Mattei Plan.
+The summit will also be an opportunity to evaluate the progress made by the Plan, aimed at strengthening the Italian presence on the continent through system missions, political dialogue and joint projects, and to identify together the operational priorities for the coming years.
+Addis Ababa, 07/27/2025 - Meeting of President Giorgia Meloni with the President of the African Union Commission, Mahmoud Ali Youssouf, on the sidelines of the United Nations Summit on Food Systems.
+Rome, 01/29/2024 - The family photo of the participants in the first "Italy-Africa Summit. A bridge for growth".
 
 ---
 
-### Dichiarazione del Presidente Meloni in occasione del Giorno della Memoria e dell'81° anniversario della liberazione di Auschwitz
+### Statement by President Meloni on the occasion of Remembrance Day and the 81st anniversary of the liberation of Auschwitz
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30945
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 245
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 243
 - **Unique ID:** `02db85d28b266490`
 
 #### Content:
 
-Il 27 gennaio di ottantuno anni fa, con l’abbattimento dei cancelli di Auschwitz, il mondo ha visto con i suoi occhi l’abisso della Shoah.
-Da quel momento, tutto è cambiato. La più grande macchina di morte concepita nella storia dell'umanità mostrava a tutti la sua ferocia, la sua sistematicità, il suo disegno diabolico. Milioni di persone strappate dalle loro case e uccise nei campi di sterminio, solo perché di religione ebraica. Un piano congegnato e messo in atto per cancellare dall’Europa ogni traccia della presenza, millenaria e feconda, degli ebrei e delle comunità ebraiche.
-Nel Giorno della Memoria ricordiamo i nomi e i cognomi delle vittime e rinnoviamo la memoria di ciò che è successo, anche attraverso la preziosa testimonianza dei sopravvissuti e dei loro discendenti. Oggi celebriamo i Giusti di ogni Nazione, che non esitarono a mettere a rischio la loro vita per opporsi al disegno nazista e salvare vite innocenti. In questa giornata torniamo a condannare la complicità del regime fascista nelle persecuzioni, nei rastrellamenti, nelle deportazioni. Una pagina buia della storia italiana, sigillata dall’ignominia delle leggi razziali del 1938.
-Purtroppo, a distanza di molti anni, l’antisemitismo non è stato ancora definitivamente sconfitto. È un morbo che è tornato a diffondersi, con forme nuove e virulente. Oggi ribadiamo il nostro impegno per prevenire e combattere ogni declinazione di questa piaga, che avvelena le nostre società e ha l’obiettivo di demolire i principi di libertà e rispetto che sono alla base della coesione sociale.
+On January 27, eighty-one years ago, with the demolition of the gates of Auschwitz, the world saw with its own eyes the abyss of the Shoah.
+From that moment, everything changed. The greatest death machine conceived in the history of humanity showed everyone its ferocity, its systematicity, its diabolical plan. Millions of people torn from their homes and killed in extermination camps, just because they were Jewish. A plan conceived and implemented to erase from Europe every trace of the thousand-year-old and fruitful presence of Jews and Jewish communities.
+On Remembrance Day we remember the names and surnames of the victims and renew the memory of what happened, also through the precious testimony of the survivors and their descendants. Today we celebrate the Righteous of every nation, who did not hesitate to put their lives at risk to oppose the Nazi plan and save innocent lives. On this day we return to condemn the complicity of the fascist regime in persecutions, roundups and deportations. A dark page in Italian history, sealed by the ignominy of the racial laws of 1938.
+Unfortunately, many years later, anti-Semitism has not yet been definitively defeated. It is a disease that has started to spread again, with new and virulent forms. Today we reiterate our commitment to prevent and fight every variation of this plague, which poisons our societies and has the aim of demolishing the principles of freedom and respect which are the basis of social cohesion.
 
 ---
 
-### Il Presidente Meloni alla Celebrazione del “Giorno della memoria”
+### President Meloni at the “Remembrance Day” celebration
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30949
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 81
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 78
 - **Unique ID:** `b6c74251e3625703`
 
 #### Content:
 
 English
 |
-Italiano
-Il Presidente Meloni alla Celebrazione del “Giorno della memoria”
+Italian
+President Meloni at the “Remembrance Day” celebration
 27 January 2026
-Il Presidente del Consiglio, Giorgia Meloni,  ha partecipato alla Celebrazione del “Giorno della memoria” al Palazzo del Quirinale.
-Immagini messe a disposizione con
-licenza CC-BY-NC-SA 3.0 IT
-Condividi su Facebook
-Condividi su Twitter
-Condividi su Linkedin
-Condividi su Whatsapp
-Condividi su Telegram
-Condividi
-Condividi sui social network
-Articoli Correlati
-Dichiarazione del Presidente Meloni in occasione del Giorno della Memoria e dell'81° anniversario della liberazione di Auschwitz
+The Prime Minister, Giorgia Meloni, took part in the "Remembrance Day" celebration at the Quirinale Palace.
+Images made available with
+CC-BY-NC-SA 3.0 IT license
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share on Whatsapp
+Share on Telegram
+Share
+Share on social networks
+Related Articles
+Statement by President Meloni on the occasion of Remembrance Day and the 81st anniversary of the liberation of Auschwitz
 
 ---
 
-### Strage di Crans-Montana, il Presidente Meloni riceve l’Ambasciatore d’Italia in Svizzera Cornado
+### Crans-Montana massacre, President Meloni receives the Italian Ambassador to Switzerland Cornado
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30940
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 112
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 123
 - **Unique ID:** `4a010fc00307f0ce`
 
 #### Content:
 
-ll Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi l’Ambasciatore d’Italia in Svizzera, Gian Lorenzo Cornado, richiamato a Roma, d’intesa con il Ministro degli Esteri Antonio Tajani, alla luce della decisione del Tribunale delle Misure Coercitive di Sion di disporre la scarcerazione di Jacques Moretti.
-All’incontro, cui hanno anche partecipato il Sottosegretario di Stato Alfredo Mantovano e l’Avvocato Generale dello Stato Gabriella Palmieri Sandulli, è stato deciso di subordinare il rientro in Svizzera dell’Ambasciatore all’avvio di un’effettiva collaborazione tra le Autorità giudiziarie dei due Stati e all’immediata costituzione di una squadra investigativa comune affinché vengano accertate, senza ulteriori ritardi, le responsabilità della strage di Crans-Montana del 1° gennaio 2026.
+The Prime Minister, Giorgia Meloni, received today at Palazzo Chigi the Italian Ambassador to Switzerland, Gian Lorenzo Cornado, recalled to Rome, in agreement with the Foreign Minister Antonio Tajani, in light of the decision of the Court of Coercive Measures of Sion to order the release of Jacques Moretti.
+At the meeting, which was also attended by the Undersecretary of State Alfredo Mantovano and the State Attorney General Gabriella Palmieri Sandulli, it was decided to make the Ambassador's return to Switzerland conditional on the start of effective collaboration between the judicial authorities of the two States and the immediate establishment of a joint investigation team so that the responsibilities for the Crans-Montana massacre on 1 January can be ascertained without further delay 2026.
 
 ---
 
-### Iniziative per il Giorno della Memoria 2026
+### Initiatives for Remembrance Day 2026
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30939
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 51
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 47
 - **Unique ID:** `3df1e1ad5f51a42e`
 
 #### Content:
 
-Il Ministro per lo Sport e i giovani Andrea Abodi, con delega in materia di anniversari nazionali, il Presidente dell'Unione delle Comunità Ebraiche Italiane (UCEI), Noemi Di Segni, e il Coordinatore nazionale per la lotta all'antisemitismo, Pasquale Angelosanto, hanno presentato a Palazzo Chigi le iniziative promosse per il Giorno della Memoria.
+The Minister for Sport and Youth Andrea Abodi, with responsibility for national anniversaries, the President of the Union of Italian Jewish Communities (UCEI), Noemi Di Segni, and the National Coordinator for the fight against anti-Semitism, Pasquale Angelosanto, presented the initiatives promoted for Remembrance Day at Palazzo Chigi.
 
 ---
 
-### Dichiarazione del Presidente Meloni
+### Statement by President Meloni
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/node/30927
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 209
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 204
 - **Unique ID:** `1b12514089ad93db`
 
 #### Content:
 
-Il Governo italiano ha appreso con stupore le dichiarazioni del Presidente Trump secondo cui gli alleati della NATO sarebbero “rimasti indietro” durante le operazioni in Afghanistan.
-Dopo gli attacchi terroristici dell’11 settembre 2001, la NATO ha attivato l’Articolo 5 per la prima e unica volta nella sua storia: un atto di solidarietà straordinario nei confronti degli Stati Uniti.
-In quell’imponente operazione contro chi alimentava il terrorismo, l’Italia rispose immediatamente insieme agli alleati, dispiegando migliaia di militari e assumendo la piena responsabilità del Regional Command West, una delle aree operative più rilevanti dell’intera missione internazionale.
-Nel corso di quasi vent’anni di impegno, la nostra Nazione ha sostenuto un costo che non si può mettere in dubbio: 53 soldati italiani caduti e oltre 700 feriti mentre erano impegnati in operazioni di combattimento, missioni di sicurezza e programmi di addestramento delle forze afghane.
-Per questo motivo, non sono accettabili affermazioni che minimizzano il contributo dei Paesi NATO in Afghanistan, soprattutto se provengono da una nazione alleata.
-Italia e Stati Uniti sono legati da una solida amicizia, fondata sulla comunanza di valori e sulla collaborazione storica, ancora più necessaria di fronte alle molte sfide in atto. Ma l'amicizia necessita di rispetto, condizione fondamentale per continuare a garantire la solidarietà alla base dell’Alleanza Atlantica.
+The Italian Government was shocked to hear President Trump's declarations that NATO allies had "been left behind" during operations in Afghanistan.
+After the terrorist attacks of September 11, 2001, NATO activated Article 5 for the first and only time in its history: an extraordinary act of solidarity towards the United States.
+In that massive operation against those who fueled terrorism, Italy responded immediately together with its allies, deploying thousands of soldiers and assuming full responsibility for Regional Command West, one of the most relevant operational areas of the entire international mission.
+Over the course of almost twenty years of commitment, our Nation has incurred a cost that cannot be questioned: 53 Italian soldiers killed and over 700 wounded while engaged in combat operations, security missions and training programs of the Afghan forces.
+For this reason, statements that minimize the contribution of NATO countries in Afghanistan are not acceptable, especially if they come from an allied nation.
+Italy and the United States are linked by a solid friendship, founded on shared values ​​and historical collaboration, even more necessary in the face of the many ongoing challenges. But friendship requires respect, a fundamental condition for continuing to guarantee solidarity at the base of the Atlantic Alliance.
 
 ---
 
-### Notizie
+### News
 
 - **Source:** Governo Italiano
 - **URL:** https://www.governo.it/en/news?page=13
 - **Published Date:** 
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 777
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 779
 - **Unique ID:** `a05a46ea0356bdfb`
 
 #### Content:
 
-Notizie
+News
 Search by date
 Start date:
 End date:
@@ -5204,42 +5182,44 @@ Last month
 Current year
 Last year
 (View from the most recent)
-Notizie
-Dichiarazione congiunta sulla Groenlandia
+News
+Joint Declaration on Greenland
 6 January 2026
-Dichiarazione sulla Groenlandia del Presidente del Consiglio Meloni, del Presidente della Repubblica Francese Macron, del Cancelliere della Repubblica Federale di Germania Merz, del Primo Ministro della Repubblica di Polonia Tusk, del Presidente del Governo del Regno di Spagna Sánchez, del Primo Ministro del Regno Unito Starmer e del Primo Ministro del Regno di Danimarca Frederiksen.
-Notizie
-Il Sottosegretario Mantovano alla conferenza stampa di bilancio del Giubileo 2025
+Statement on Greenland by Prime Minister Meloni, President of the French Republic Macron, Chancellor of the Federal Republic of Germany Merz, Prime Minister of the Republic of Poland Tusk, President of the Government of the Kingdom of Spain Sánchez, Prime Minister of the United Kingdom Starmer and Prime Minister of the Kingdom of Denmark Frederiksen.
+News
+Undersecretary Mantovano at the 2025 Jubilee budget press conference
 5 January 2026
-Il Sottosegretario Mantovano ha partecipato alla conferenza stampa di bilancio dell’evento giubilare, che si è tenuta presso la Sala Stampa della Santa Sede.
-Notizie
-Venezuela, conversazione telefonica del Presidente Meloni con Maria Corina Machado
+Undersecretary Mantovano participated in the press conference on the balance sheet of the jubilee event, which was held in the Press Room of the Holy See.
+News
+Venezuela, telephone conversation between President Meloni and Maria Corina Machado
 4 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con Maria Corina Machado sulle prospettive di una transizione pacifica e democratica in Venezuela. Nel corso della telefonata è stato condiviso come l’uscita di scena di Maduro apra una nuova pagina di speranza per la popolazione del Venezuela, che potrà tornare a godere dei principi base della democrazia e dello Stato di diritto.
-Notizie
-Sviluppi sulla situazione in Venezuela, nota di Palazzo Chigi
+The Prime Minister, Giorgia Meloni, had a telephone conversation with Maria Corina Machado on the prospects of a peaceful and democratic transition in Venezuela. During the phone call, it was shared that Maduro's exit opens a new page of hope for the population of Venezuela, who will be able to once again enjoy the basic principles of democracy and the rule of law.
+News
+Developments on the situation in Venezuela, note from Palazzo Chigi
 3 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, ha seguito gli sviluppi in Venezuela fin dalle loro primissime evoluzioni. L’Italia ha sempre sostenuto l’aspirazione del popolo venezuelano a una transizione democratica nel Venezuela, condannando gli atti di repressione del regime di Maduro, la cui auto-proclamata vittoria elettorale l’Italia, assieme ai principali partner internazionali, non ha mai riconosciuto. [...]
-Notizie
-Venezuela, la nota di Palazzo Chigi
+The Prime Minister, Giorgia Meloni, has followed developments in Venezuela since their very first evolutions. Italy has always supported the aspiration of the Venezuelan people for a democratic transition in Venezuela, condemning the acts of repression of the Maduro regime, whose self-proclaimed electoral victory Italy, together with its main international partners, has never recognised. [...]
+News
+Venezuela, the note from Palazzo Chigi
 3 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, segue con attenzione la situazione in Venezuela, tenendosi in costante contatto con il Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, anche al fine di assumere informazioni sui nostri connazionali.
-Notizie
-Tragedia in Svizzera, il Presidente Meloni in costante contatto con il Ministro Tajani e con il Capo della Protezione Civile Ciciliano
+The Prime Minister, Giorgia Meloni, is carefully following the situation in Venezuela, keeping in constant contact with the Minister of Foreign Affairs and International Cooperation, Antonio Tajani, also in order to obtain information on our compatriots.
+News
+Tragedy in Switzerland, President Meloni in constant contact with Minister Tajani and the Head of Civil Protection Ciciliano
 2 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, rinnova il suo più profondo cordoglio personale e quello del Governo tutto per la tragedia occorsa in Svizzera e continua a tenersi in costante contatto con il Ministro degli Affari Esteri, Antonio Tajani, presente sul luogo dell’incidente, con il Capo del Dipartimento della Protezione Civile, Fabio Ciciliano, e con i soccorritori italiani. Al momento risultano 13 cittadini italiani feriti, per i quali si stanno organizzando i trasferimenti, al fine di assicurare le più adeguate cure. Risultano, al momento, sei dispersi. Non sono ancora noti i dati sui deceduti. [...]
-Notizie
-Incendio verificatosi in Svizzera, a Crans-Montana, nota di Palazzo Chigi
+The Prime Minister, Giorgia Meloni, renews her deepest personal condolences and that of the entire Government for the tragedy that occurred in Switzerland and continues to keep in constant contact with the Minister of Foreign Affairs, Antonio Tajani, present at the site of the accident, with the Head of the Civil Protection Department, Fabio Ciciliano, and with the Italian rescuers. At the moment there are 13 injured Italian citizens, for whom transfers are being organised, in order to ensure the most adequate care. At the moment, six are missing. Data on deaths is not yet known. [...]
+News
+Fire occurred in Switzerland, in Crans-Montana, note from Palazzo Chigi
 1 January 2026
-Il Presidente del Consiglio, Giorgia Meloni, esprime, a titolo personale e a nome del Governo, le più sentite condoglianze per il drammatico incendio verificatosi in Svizzera, a Crans-Montana. Il Presidente Meloni segue con attenzione l’evolversi della situazione, mantenendosi in stretto contatto con il Vicepresidente del Consiglio, Antonio Tajani, al fine di assumere tutte le informazioni sull'accaduto e sul possibile coinvolgimento dí connazionali. Ringrazia le risorse della Protezione civile già operative ed esprime la propria vicinanza ai familiari delle vittime, ai feriti, alle istituzioni e al popolo elvetici.
-Notizie
-Messaggio di fine anno del Presidente della Repubblica Mattarella, la nota di Palazzo Chigi
+The Prime Minister, Giorgia Meloni, expresses, personally and on behalf of the Government, her deepest condolences for the dramatic fire that occurred in Crans-Montana, Switzerland. President Meloni is carefully following the evolution of the situation, keeping in close contact with the Vice President of the Council, Antonio Tajani, in order to obtain all the information on the incident and the possible involvement of compatriots. He thanks the Civil Protection resources already operational and expresses his closeness to the families of the victims, the injured, the Swiss institutions and people.
+News
+End of the year message from the President of the Republic Mattarella, the note from Palazzo Chigi
 31 December 2025
-Il Presidente del Consiglio, Giorgia Meloni, ha telefonato al Presidente della Repubblica, Sergio Mattarella, per esprimere al Capo dello Stato l’apprezzamento del Governo per il discorso di fine anno rivolto agli italiani. Nel corso del colloquio, il Presidente Meloni ha ringraziato il Presidente Mattarella per aver posto l’accento sul significato profondo incarnato dall’ottantesimo anniversario della nascita della Repubblica, che ci si appresta a celebrare nel 2026. [...]
-Notizie
-PNRR, pagamento ottava rata e richiesta nona
+The Prime Minister, Giorgia Meloni, telephoned the President of the Republic, Sergio Mattarella, to express to the Head of State the Government's appreciation for the end-of-year speech addressed to Italians. During the conversation, President Meloni thanked President Mattarella for having emphasized the profound meaning embodied by the eightieth anniversary of the birth of the Republic, which we are preparing to celebrate in 2026. [...]
+News
+PNRR, payment of the eighth installment and request for the ninth
 30 December 2025
-Oggi l’Italia ha ricevuto dalla Commissione europea il pagamento dell’ottava rata del PNRR, pari a 12,8 miliardi di euro, a seguito della valutazione positiva del 1° dicembre scorso sul raggiungimento di 32 obiettivi, di cui 16 target e 16 milestone. Nella stessa giornata, l’Italia ha trasmesso alla Commissione anche la richiesta di pagamento della nona e penultima rata del Piano Nazionale di Ripresa e Resilienza, anch’essa pari a 12,8 miliardi di euro. La richiesta segue i lavori della Cabina di regia PNRR del 22 dicembre, durante i quali è stato verificato il conseguimento di 50 obiettivi, suddivisi in 34 target e 16 milestone, comprendenti riforme e investimenti strategici per sostenere la crescita economica e sociale dell’Italia. [...]
+Today Italy received from the European Commission the payment of the eighth installment of the PNRR, equal
+
+to 12.8 billion euros, following the positive assessment of 1 December last on the achievement of 32 objectives, of which 16 targets and 16 milestones. On the same day, Italy also sent the Commission the request for payment of the ninth and penultimate installment of the National Recovery and Resilience Plan, also equal to 12.8 billion euros. The request follows the work of the PNRR control room on 22 December, during which the achievement of 50 objectives was verified, divided into 34 targets and 16 milestones, including reforms and strategic investments to support Italy's economic and social growth. [...]
 Pages
 « first
 ‹ previous

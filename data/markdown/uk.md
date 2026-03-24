@@ -1,1212 +1,2012 @@
 # Country: United Kingdom
 
-*Last updated: 2026-03-23 14:47 UTC*
+*Last updated: 2026-03-24 02:09 UTC*
 
 ---
 
-### Joint statement from Tallinn Mechanism member states: 10 March 2026
+### Time to Pay Up: Government unveils toughest crackdown on late payments in over 25 years
 
 - **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/joint-statement-from-tallinn-mechanism-member-states-10-march-2026
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 567
-- **Unique ID:** `01e649ac679bfca0`
+- **URL:** https://www.gov.uk/government/news/time-to-pay-up-government-unveils-toughest-crackdown-on-late-payments-in-over-25-years
+- **Published Date:** 2026-03-24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1216
+- **Unique ID:** `23e8c008c7c93ff4`
 
 #### Content:
 
-The Tallinn Mechanism members and observers, and representatives of the Government of Ukraine, gathered at the Foreign, Commonwealth & Development Office in London on 9 and 10 March 2026.
-Tallinn Mechanism members have once again laid down a commitment to deliver civilian cyber security needs and projects to Ukraine, to support national resilience in the face of persistent state cyber attacks from Russia. €302.6 million has been committed since December 2023 via the Tallinn Mechanism with members to commit additional funds throughout 2026.
-As the full-scale war has just entered its fifth year, this marks continued growth in efforts to counter Russia’s ongoing and illegal war of aggression against Ukraine. Hybrid activities continue to intensify in both scale and sophistication. As we enter springtime, Ukraine has endured one of the coldest winters on record during which Russia has ruthlessly attacked Critical National Infrastructure, including essential energy and sanitation services,  in order to worsen the ongoing humanitarian crises, destroy the morale of the Ukrainian people and undermine confidence in the democratically elected government in Kyiv.
-The scale of the conflict continues to be extreme, with Russia attacking Ukraine at an industrial scale. In 2025 alone, 55,000 drones and ballistic missiles were fired at Ukraine. Cyber aggression against civilian entities have long been a tactic to help Russia gain a strategic advantage in the war, employing both espionage and destructive cyber activity to complement the kinetic assaults. Still these attacks are intensifying. Helping protect Ukraine’s civilian cyberspace remains an integral part of support to Ukraine as it defends itself from an illegal war of aggression and readies its institutions for Euro-Atlantic integration. Tallinn Mechanism members and observers stand with Ukraine in these steps, securing democratic institutions and rebuilding and reconstructing the destruction wrought by Russia on civilian infrastructure. We also call on Russia to immediately end its illegal war against Ukraine and to enter serious negotiations towards a lasting peace.
-Launched in 2023, the Tallinn Mechanism has become the leading international platform for coordinating civilian cyber support to Ukraine and now comprises 14 member states. Czechia joined the London meeting as the Mechanism’s newest members as of January, with Republic of Korea joining as observer. The Tallinn Mechanism continues to unite governments and international organisations to deliver timely, targeted assistance aligned with Ukraine’s most urgent cyber capability needs, including bilateral agreements to enabling delivery at pace via partner countries.
-The Tallinn Mechanism has also recently begun to engage with Cyber Agencies, initially led by the UK’s National Cyber Security Centre (NCSC), who support Ukraine’s cyber capabilities through technical advice benefitting Ukraine’s cyber ecosystem by enhancing Tallinn Mechanism project delivery. The Cyber Agencies will be meeting again in the United Kingdom in April 2026 to this end.
-In 2026, the Tallinn Mechanism opened to private sector partners to promote cooperation between industry and donor states. Tallinn Mechanism Platform enables private sector partners to deliver work in Ukraine for Tallinn Mechanism Donors, collaborate with the Ukraine Private sector and offer value for money.
-As the world faces a new era of hybrid threats, the Tallinn Mechanism stands with Ukraine as a symbol of unity, resilience, and shared security. By defending Ukraine’s digital space, we are also defending the integrity of democratic systems and the safety of citizens across the globe.
-The United Kingdom presently hold the rotating lead of the Tallinn Mechanism. In July 2026 this shall be passed to Italy.
+UK is backing small businesses with the toughest laws on late payments in the G7
+Sweeping new powers for the Small Business Commissioner, including multi-million-pound fines to hold big businesses and persistent offenders to account
+Measures will help tackle cost of living for entrepreneurs and SME owners by ensuring they are paid on time and prevent the abuse of retention payments in construction
+Small businesses will be paid on time – that’s the clear message from government today [24 March] as it cracks down on late payments, with the largest set of reforms in over a generation.
+The Small Business Commissioner will be given sweeping new powers to investigate poor payment practices, adjudicate payment disputes, and fine the worst offenders – with fines worth tens of millions for firms that persistently pay late or fail to comply with the new laws.
+The measures will tackle a problem costing the UK economy £11 billion every year and ease the cost of living for entrepreneurs and SME owners who are often forced to wait months – or even years – to receive money they have already earned and having to chase endlessly to receive it.
+Some 38 businesses shut their doors every single day because they are not paid on time – the equivalent of 266 a week, and well over a thousand in any given month.
+Every small business owner, including tradespeople, freelancers, family firms and the self-employed, have to waste time and money chasing unpaid invoices when they could be growing their business.
+These measures, which will be the toughest in the G7, build upon and strengthen legislation on late payments, first laid out in the 1998 Late Payment of Commercial Debt Act, over 25 years ago. They go further than any previous government and will boost our economy and give small businesses better cashflow.
+The changes will include a new 60-day cap on payment terms on all large firms when paying smaller suppliers. New mandatory interest on late payments will also be introduced, with a requirement for all commercial contracts to include statutory interest set at 8% above the Bank of England base rate.
+For example, if a small business is owed £10,000 by one of its customers and is paid 60 days later than the agreed payment date, they will be owed £10,293.15 including mandatory interest (£10,000 plus £193.15 interest plus £100 compensation).
+We also propose to ban the withholding of retention payments under the terms of construction contracts, consulting on its implementation. This will prevent small firms losing retentions to insolvency or non-payment.
+Business Secretary Peter Kyle said:
+Far too many businesses are forced to shut down because they have not been paid – that is simply unacceptable.
+We are unveiling the strongest, most robust changes to payment laws in over a generation – laws that will transform the fortunes of small businesses for years to come and make their day to day lives much easier.
+After working closely with the Federation of Small Businesses, boards or audit committees of persistently late-paying large companies will be required to publish explanations for poor payment performance and the actions they are taking to address it.
+FSB Policy Chair Tina McKenzie said:
+Late payments are a blight on our economy, so FSB is pleased to have worked in partnership with the Government to deliver the toughest legislation in the G7.  The new laws will finally bring a stop to big businesses using their small suppliers as sources of free credit.
+For the first time, audit committees and boards will question and challenge poor payment performance, publish it in annual reports for all to see, and put it right.  Paying in 60 days is not prompt - but strengthening that as the absolute maximum cap after years of dithering is a good step towards encouraging payments in 30 days across all supply chains.  Improving the Small Business Commissioner’s powers will also help, mandating CEO’s of Britain’s poor payers to take the phone call.
+This is real progress, and we’ll keep working with the Government to make sure new laws are brought in as soon as possible.
+Minister for Small Business and Economic Transformation, Blair McDougall said:
+I know first-hand how difficult late payments can be, forcing you to decide if you can afford to keep a business running, pay employees or even buy Christmas presents for your children.
+That is why I’m proud to be leading the charge on tackling a problem that has been left untouched for far too long.
+These are genuinely game changing measures that will ensure no business, no employer, no family has to endure the immense strain of being left strapped for cash they have already earnt.
+Emma Jones CBE, Small Business Commissioner said:
+We are on a mission to make life easier for small firms by getting money moving faster through the economy by tackling late payments.
+The measures the Government has announced today will strengthen the role of my office in taking on the worst payers alongside ensuring small businesses have a stronger voice on payment terms and late payment interest.
+These reforms will reduce the hours spent chasing debt allowing small businesses to focus on more productive and enjoyable growth.
+Right now, some small businesses have more cash in the bank because the Small Business Commissioner recovered three times more overdue invoices in 2025 than in 2024. We will bring this benefit to the whole economy.
+Today’s measures follow the launch of the Small Business Plan by the Prime Minister last year, which in addition to laying out late payments plans, also launched the Business Growth Service, which is already transforming the government support offer for small firms, and increased access to finance for SMEs and entrepreneurs with a massive £4 billion finance boost.
+This is a more interventionist government, backing the British business community with landmark reforms that will also help to control inflation and make our economy more resilient from global shocks.
+Debbie Williams, co-founder of John Williams Heating Services, said:
+As a family-run business that has served our community for more than 20 years, we see first-hand the strain that late payments place on small companies. Cashflow pressures don’t just affect the balance sheet — they impact our ability to take on apprentices, invest in training and continue providing reliable service to local families.
+We welcome the Government’s focus on tackling late payments, as timely and fair payment practices are essential for the stability and growth of businesses like ours.
+NOTES TO EDITORS
+Late payments research:
+Late payments research: impact on the UK economy - GOV.UK
+This government is backing small businesses across the board. We are:
+Halving childcare costs for small business owners and employees.
+Putting more money in customers’ pockets by taking £150 off energy bills, and freezing rail fares and prescription charges.
+Offering new incentives of £2,000 for SMEs who hire foundation apprentices aged 16-21, on top of a complete NICs exemption for employees under 21 and apprentices under 25.
+Raising the rate when small businesses start to pay national insurance.
+Slashing electricity prices for thousands of manufacturing businesses.
+Making training for under-25 apprenticeships free for small businesses.
+Doubling eligibility for enterprise tax incentives to help fast-growing firms attract investment and talent.
+Slashing red tape to boost our pubs, bars and cultural venues
 
 ---
 
-### Advice accepted on autumn 2026 COVID-19 vaccination programme
+### Government to make “plug-in solar” available within months
 
 - **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/advice-accepted-on-autumn-2026-covid-19-vaccination-programme
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 244
-- **Unique ID:** `ae81f879e314856a`
+- **URL:** https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months
+- **Published Date:** 2026-03-24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 3415
+- **Unique ID:** `d64aaf25f4166829`
 
 #### Content:
 
-The government has accepted advice from the Joint Committee on Vaccination and Immunisation (JCVI) on eligibility for the autumn 2026 COVID-19 vaccination programme.
-JCVI, the independent expert committee advising UK ministers on vaccination, published advice on COVID-19 vaccination for autumn 2026 on 16 July 2025. In line with this advice, a vaccination will be offered to those at higher risk of serious outcomes from COVID-19.
-Eligible groups:
-On 23 March 2026, the government decided, in line with JCVI advice, that the cohorts eligible for vaccination in England in autumn 2026 are:
-adults aged 75 years and over
-residents in care homes for older adults
-individuals aged 6 months and over who are immunosuppressed, as defined in the
-COVID-19 chapter of the Green Book
-, the UK Health Security Agency’s information on immunisation against infectious disease
-Eligibility in autumn 2026 is the same as in the spring 2025, autumn 2025 and spring 2026 campaigns.
-Public Health Minister, Sharon Hodgson said:
-Older adults and individuals who are immunosuppressed continue to be at the highest risk of serious disease from COVID-19. Following the expert advice of the JCVI, we will once again offer vaccinations to the groups most likely to benefit in autumn 2026.
-This decision ensures that vulnerable people remain protected and gives the NHS the certainty it needs to prepare and deliver the programme efficiently. I encourage everyone who is invited to take up the offer of vaccination to protect themselves and those around them.
-
----
-
-### King scallop dredge fishery temporary closure decision
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/king-scallop-dredge-fishery-temporary-closure-decision
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 167
-- **Unique ID:** `a2008b8a66807517`
-
-#### Content:
-
-The decision, designed to protect stocks during spawning, is based on extensive analysis of the latest scientific and economic evidence, responses to a consultation last year and wider engagement with stakeholders.
-The closure area has been extended this year to include all English waters of 7e in response to evidence of scallop stocks being in decline. This decision is precautionary and will extend protection for the marine environment while also conserving commercially important stocks for sustainable fishing in future.
-A three-month closure will apply in both areas, 7d and 7e, from 1 July to 30 September 2026:
-The closure in ICES division 7d applies to all vessels over 10 metres in length.
-The closure in ICES division 7e applies to all vessels over 12 metres in length.
-The closures will apply to both EU and UK scallop dredge vessels and will be enacted through a licence variation.
-Stakeholders can send questions to MMO’s Fisheries Management Team at
-sustainablefisheries@marinemanagement.org.uk
-For further information on the decision read
-here
-.
-
----
-
-### HM Land Registry Chair’s letter 2026/27
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/publications/hm-land-registry-chairs-letter-202627
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 56
-- **Unique ID:** `f5238f9b09a7ecd3`
-
-#### Content:
-
-Correspondence from Baroness Taylor to Neil Sachdev, Chair of the Board of HM Land Registry. This letter sets out our expectations for HM Land Registry for the next year, and the role for the Board in holding HM Land Registry to account on performance, leadership and policy delivery. It forms part of our annual governance arrangements.
-
----
-
-### Charity Commission responds to attacks in North London
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/charity-commission-responds-to-attacks-in-north-london
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 243
-- **Unique ID:** `33e93ba9dc47f3a4`
-
-#### Content:
-
-Chief executive of the Charity Commission, David Holdsworth, said:
-Our thoughts are with those affected by the horrendous attacks in North London.
-Such cowardly violence committed against those serving their community represents an attack on all of us: on the very meaning of charity, and on the respect, tolerance and community that are the hallmarks of the best of British society.
-The Commission stands with the Jewish community and the organisations that work to keep Jewish people in this country safe.
-When charities representing different parts of our society are increasingly victims of vilification and violence, it is for all of us to speak out and stand with those being attacked.
-Charities always have been and are our greatest assets in tackling hatred, building stronger communities and a better society.
-We have offered support and assistance to the leaders of Hatzola Northwest Trust, the charity which runs the ambulance service, and will do what we can to support them in continuing the charity’s life-saving work.
-ENDS
-Notes for editors:
-The Charity Commission is the independent, non-ministerial government department that registers and regulates charities in England and Wales. Its ambition is to be an expert regulator that is fair, balanced, and independent so that charity can thrive. This ambition will help to create and sustain an environment where charities further build public trust and ultimately fulfil their essential role in enhancing lives and strengthening society. Read
-further information about what the Commission does
-.
-
----
-
-### New apprenticeship unit to supercharge battery manufacturing
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/new-apprenticeship-unit-to-supercharge-battery-manufacturing
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 759
-- **Unique ID:** `6a0c5ce9dc6cb1b0`
-
-#### Content:
-
-Skills England has developed a new battery manufacturing apprenticeship unit, following rapid consultation with employers and sector experts
-this will help meet the skills needs of Agratas’ new gigafactory under construction in Somerset and the UK’s growing battery sector
-the gigafactory is expected to deliver around 4,000 jobs and contribute over £700 million in annual economic value to the South West region
-the new unit is the latest short course made available through the Growth and Skills Levy, giving employers greater flexibility to invest in the targeted, high-quality training their industries need to thrive
-it’s an example of Skills England’s new fast track approach to delivering apprenticeship updates and new apprenticeship units that are critical to major projects in just three months
-An innovative new apprenticeship unit has been unveiled for battery manufacturing, expected to unblock skills barriers, creating jobs in the South West and beyond.
-This was developed rapidly by Skills England’s new Investment and Infrastructure Skills Service – following consultation with global battery business Agratas, wider sector employers, and other experts.
-Agratas is currently building a major gigafactory
-near Bridgwater, in Somerset, which they estimate will generate over £700 million in annual economic value to the South West and 4,000 jobs once fully operational.
-Batteries are increasingly vital across the economy, powering everything from our phones and cars to the national grid, trains, and defence. Having the skills to manufacture batteries in the UK directly supports our national resilience and provides access to jobs in a growing sector.
-Phil Smith, chair of Skills England, said:
-This new gigafactory will create thousands of jobs and apprenticeships in the South West and beyond. I’m proud of Skills England’s work at pace with sector experts to find a skills solution that works for them.
-The new battery manufacturing apprenticeship unit will be a valuable addition to the Growth and Skills Levy offer. By working together, we are building the jobs of the future, keeping skills training at the cutting edge.
-Skills England listened to industry feedback that the existing battery manufacturing operative apprenticeship was too long and broad in scope for the imminent skills needs of the gigafactory.
-A special design workshop was held in early February with the Electrification Skills Network, and representatives from the North East and West Midlands battery clusters, followed up by further consultation with Agratas, wider employers and academic experts.
-A new shorter course, grounded in existing employer-designed occupational standards, was developed into the apprenticeship unit being launched today (23 March).
-The collaboration with Agratas comes at a crucial time as the UK seeks to enhance its manufacturing capabilities in response to the growing demand for renewable energy solutions.
-The new gigafactory will produce sustainable lithium-ion batteries, accelerating the UK’s transition to net zero by powering electric vehicles (EVs).
-Bhavik Mistry, Head of Learning and Development for Agratas, said:
-We’re delighted to welcome the launch of the Level 2 battery manufacturing apprenticeship unit and this step forward in building the skilled workforce our industry needs.
-By prioritising practical skills, the unit ensures learning is closely aligned to the realities of modern battery manufacturing, making sure it is high quality and closely matched to daily life in battery production.
-This initiative is a major boost for the sector, opening up new opportunities for career progression and helping to future‑proof the UK’s battery manufacturing industry.
-UCS College Group signed a memorandum of understanding with Agratas today (23 March) which will see it lead with delivery of training for the new gigafactory.
-Andy Berry CBE, CEO UCS College Group, said:
-This represents a pivotal moment for the battery manufacturing sector in the UK. 
-I am glad this unit has been prioritised; it reflects the culmination of a collaborative approach between industry and education, demonstrating the role colleges play in delivering skills for the UK.
-Apprenticeship units such as this will lay the foundation for a resilient and skilled workforce that is essential for the UK battery manufacturing sector.
-This is the latest apprenticeship unit to be made available to employers through the
-Growth and Skills Levy
-– after the
-first seven were unveiled last week
-for:
-AI Leadership – developing AI strategy
-Electric vehicle charging point installation and maintenance
-Electrical fitting and assembly
-Mechanical fitting and assembly
-Permanent modular building assembly
-Solar PV installation and maintenance
-Welding (mechanised)
-These shorter courses range between 30 and 140 hours and can be delivered over 1 to 16 weeks.
-They have been developed in response to calls from employers for more flexibility around training funded through the Growth and Skills Levy.
-
----
-
-### Slough Borough Council: Letter to Will Tuckley extending his appointment as Managing Director Commissioner
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/publications/slough-borough-council-letter-to-will-tuckley-extending-his-appointment-as-managing-director-commissioner
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 44
-- **Unique ID:** `558ce83d942f110a`
-
-#### Content:
-
-Copy of the letter from James Blythe, Deputy Director, Local Government Stewardship and Interventions at the Ministry of Housing, Communities and Local Government to Will Tuckley confirming the Secretary of State’s decision to extend his appointment as Managing Director Commissioner at Slough Borough Council.
-
----
-
-### Full-time undergraduate student finance applications now open for 2026 to 2027!
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/full-time-undergraduate-student-finance-applications-now-open-for-2026-to-2027
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 494
-- **Unique ID:** `62ff89aa34c90561`
-
-#### Content:
-
-Student Finance England
-Full-time undergraduate students from England whose course starts between 31 August and 31 December 2026 can now apply for student finance.
-SLC is encouraging students to apply before the deadline of Friday 15 May 2026 to ensure their funding is in place for the start of their course. Students can apply even if they don’t yet have a confirmed university place, they can select the course they are most likely to study and update their application later if their plans change.
-Applications can take up to six to eight weeks to process. Students do not need to contact SLC to check their application status, they can track progress through their online account and will be notified if any further information is needed.
-Tips for applying:
-Apply now even without a confirmed university place, you can update your course details at any time.
-Have your National Insurance number, passport and bank details to hand before you start.
-Submit any supporting evidence requested through your online account.
-Helpful resources are available on the SFE campaign page, including
-a student guide
-covering everything you need to know about Student Finance England,
-advice on preparing your application
-, and
-self-service support for common questions
-.
-Courses starting on or after 1 January 2027
-Students from England whose course starts from January 2027 onwards will apply for funding through the Lifelong Learning Entitlement (LLE).
-Applications for the LLE are expected to be available from September 2026.
-Find out more about the LLE on GOV.UK.
-Tuition Fee only students
-Full-time undergraduate students applying for a Tuition Fee loan only can also apply now for 2026 to 2027.
-More information is available on GOV.UK.
-Student Finance Wales
-Full-time undergraduate applications for 2026 to 2027 are now open for students from Wales. SLC is encouraging students to apply before the deadline of Friday 29 May 2026 to ensure their funding is ready for the start of their course.
-Students in Wales can apply for a Tuition Fee Loan to cover fees and a Maintenance Loan to help with living costs. A Welsh Government Learning Grant, which does not need to be repaid, may also be available.
-Visit the Discover Student Finance page
-for guidance on how to apply, what to expect throughout your student finance journey, and details of the funding available.
-Student Finance Northern Ireland
-Full-time undergraduate applications for 2026 to 2027 are now open for students from Northern Ireland. SLC is encouraging students to apply before the deadline of Thursday 30 April 2026 to ensure their funding is in place for the start of their course.
-A range of financial support is available to students from Northern Ireland.
-Visit the Student Finance NI guidance page
-to find out what you may be eligible for.
-Stay up to date
-Students can follow SLC on social media for the latest news and updates on student finance.
-Student Finance England:
-Facebook
-X
-Instagram
-YouTube
-Student Finance Wales:
-Facebook
-X
-YouTube
-
----
-
-### SLC opens application service for 26/27 academic year
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/slc-opens-application-service-for-2627-academic-year
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 955
-- **Unique ID:** `aa3246b8a163d1d7`
-
-#### Content:
-
-Full-time undergraduate students in England who are planning on going to university in 26/27 can
-apply now
-for student finance, as the Student Loans Company (SLC) open its application service .
-In the 24/25 academic year, SLC paid a total of £24bn in student finance, including maintenance loans and grants to 1.5m students, as well as tuition fees payments to education providers.
-And as students start to prepare for the upcoming academic year, student finance applications are now being accepted.
-Students don’t need to have a confirmed place on a course at university or college to make their application, as their course details can be updated at a later date in their online account.
-Steven Darling, SLC’s Director of Customer Experience, said “If you’re planning on attending university or college in the 26/27 academic year, and are applying for student finance, my key advice is to submit your application as early as you can.
-“Once you’ve applied, you’ll be able to track your progress easily online, so you’ll always know what’s happening without needing to get in touch.
-“And if you ever need some extra help, we’ve got lots of clear, simple resources available from step‑by‑step video guides, our student finance calculator, to estimate the amount you could get, and answers to the most common questions students ask. We’re here to make the process as straightforward as possible, so you can focus on preparing for your studies with confidence.”
-Students in England will apply for a Plan 5 student loan and can include Tuition Fee Loans, of up to £9,790 to cover their fees, as well as Maintenance Loans, to help with living costs – more information can be found
-here
-. During the application process, students will also be provided with information on their repayment terms and conditions, and more information about the current Plan 5 repayment obligations can be found
-here.
-Important information to know before applying
-There are a number of resources available for students to find out more on how to apply and about the financial support that might be available.
-Full information, including guides on how to apply, what funding is available and videos to help students through the application process are available at:
-https://studentfinance.campaign.gov.uk/
-Students can also access more information and guidance on
-Gov.UK
-,
-The Student Room
-and by following Student Finance England at
-facebook.com/SFEngland
-,
-twitter.com/SF_England
-or
-youtube/SFEFILM
-Have important documents to hand:
-Students who are applying for student finance based on their household income should have their parent’s email address to hand before starting the application. This is because their parents will be sent an email to provide income details to support the application.
-Students should have their National Insurance Number and passport details to hand before starting the application.
-Students will also be asked for bank details when applying, including the 8-digit account number and 6-digit sort code.  If the bank details change after applying, it’s quick and easy to log into their online account and update them. Students are reminded to double check the details they enter are accurate.
-Track the progress of the application:
-Applications can take four weeks to process, and students and can track the status of their application via their online accounts and will be notified if there are any outstanding actions they need to take.  Students can also make changes to their personal information in their online accounts.
-Students can find information on how to track the progress of their application and estimated review dates at:
-https://www.gov.uk/government/news/checking-a-payment-or-application-status
-Get answers to common questions:
-Students can use their online account to get their questions answered without needing to pick up the phone.
-The account feature ‘Common questions’ is in the menu section of their online account, with a library of over 50 articles to answer questions students, parents and partners ask SFE.
-SLC also has Live Chat with SLC advisors able to answer questions or address any concerns.
-Students can find information on how to use their online account to answer their questions at:
-https://www.gov.uk/guidance/student-finance-england-how-to-guide
-If a student studied before
-If a student has studied before it could affect their eligibility – even if the previous course was self-funded. Students should submit their application early so entitlement can be confirmed.
-If returning to study after a break, students should use the online account they originally had, rather than create a new one. The online search function can be used to locate it.
-If estranged from parents:
-If a student has no contact with their parents for over a year, they may be able to apply as an estranged student. Applications from estranged students are dealt with by a dedicated team of specially trained, customer advisors to ensure that the process is sensitive to their circumstances. The evidence requirements are different too.
-Read this guide to find out more.
-Depending on circumstances students might be entitled to further support:
-There may be circumstances where a student is able to access some extra money, for example if they have additional needs, have children, or are studying for a medical, social work or teaching course. More information about what is available can be found here -
-https://www.gov.uk/student-finance/extra-help
-When do student’s start to repay their student finance?
-When a customer applies for student finance they sign up to the Repayment terms and conditions. Information is available during the application process, and more guidance can be found in their online account and also
-Repaying your student loan: Which repayment plan you’re on - GOV.UK
-Students usually go into Repayment the April after they finish their course, but no payments are taken until they earn over the pay period threshold.
-The application window for part time undergraduate and postgraduate student finance will open later in the spring.
-
----
-
-### Drivers’ Hours: A Traffic Commissioner’s Perspective on Safety, Compliance, and Responsibility
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/drivers-hours-a-traffic-commissioners-perspective-on-safety-compliance-and-responsibility
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1971
-- **Unique ID:** `a1a692842f47647c`
-
-#### Content:
-
-As Traffic Commissioners for Great Britain, our statutory role is to ensure that operators and drivers uphold the highest standards of safety, compliance, and professionalism. Drivers’ hours rules are essential safeguards against fatigue, unfair competition, and risk to life. However, there is no research to support that 4 ½ hours is a safe period to drive. The rules aim to prevent operators competing on the basis of driving for longer but actual driving and rest periods need to be based on an analysis of risk taking account of factors such as the type of driving, time of day and the driver’s health and personal situation.
-This blog explores how drivers and operators might approach the drivers’ hours framework, the expectations we place on operators and transport managers, and the consequences of non-compliance. It is written to help operators understand our perspective and to promote a culture of proactive compliance.
-Why do we have them?
-The drivers’ hours rules exist to:
-Protect road safety by preventing fatigue-related accidents.
-Safeguard driver welfare, ensuring adequate rest and working conditions.
-Ensure fair competition by preventing operators from gaining advantage through unlawful practices.
-Maintain public confidence in the HGV and PCV industries.
-Fatigue is a silent killer on our roads. Studies show that tiredness can impair driving ability as severely as alcohol. The rules are designed to mitigate this risk by enforcing structured rest and break periods.
-Where do the rules come from?
-There are several sets of rules that drivers must follow. The domestic drivers’ hours rules in Great Britain (GB), working time rules, Assimilated rules (previously called EU rules) and The European Agreement Concerning the Work of Crews of Vehicles Engaged in International Road Transport (AETR) rules on drivers’ hours, breaks and rest.
-Or
-Most driving falls under what are known as the EU Rules – now called the Assimilated Rules. If vehicles travel internationally, then AETR regulations apply - and these are almost identical to the EU rules. If your work is exempt EU, then domestic rules apply. There are separate limits on working time.
-Find the basics at
-Drivers’ hours: HGV driver basics
-and
-Drivers’ hours: Bus and coach driver basics
-.
-DVSA has a longer guide to them
-here
-.
-Where does the Traffic Commissioner fit in?
-As Traffic Commissioners, we are responsible for:
-Granting and regulating operator licences
-Assessing transport manager competence
-Conducting public inquiries into non-compliance
-Taking regulatory actions where necessary
-We take a proactive approach to regulating the industry, focusing on education, prevention, and proportionate response. Our decisions are guided by statutory documents and case law, and by our commitment to public safety.
-What common compliance failures do we see?
-Despite guidance, we frequently encounter breaches of drivers’ hours rules. These include:
-Failure to Take Breaks
-Drivers miscalculate or split breaks incorrectly. For example, taking 20 + 25 minutes instead of the required 15 + 30 minutes.
-Exceeding Driving Limits
-Poor route planning or pressure to meet delivery deadlines can lead to breaches of daily or fortnightly limits.
-Tachograph Misuse
-Not downloading data frequently enough
-Removing cards mid-shift
-Using vehicles without inserting the driver card
-Recordkeeping Failures
-Missing manual entries – especially for occasional drivers
-Lost or damaged printouts
-Failure to reconcile discrepancies
-Lack of Oversight
-Transport managers failing to monitor infringements or take corrective action.
-When drivers’ hours breaches are brought up in a public inquiry, it often seems like operators and drivers view these rules as something to try to only pay lip service to in a hope to ‘get ahead’, whereas, fundamentally, they are for protecting everyone.
-What do we expect from operators?
-We expect a high level of understanding of the rules.
-Robust Systems
-Operators must have written procedures for managing drivers’ hours, including:
-Break and rest scheduling
-Manual record keeping
-Tachograph use
-Data downloads
-Infringement handling
-Regular Monitoring
-Operators should review tachograph data regularly, carrying out risk-assessments then adopting policies that suit their business and investigating any anomalies. Reports must be signed and retained.
-Training and Refresher Courses
-Drivers must be trained on the rules and receive regular updates. Transport managers should also be competent in interpreting data and managing compliance.
-Disciplinary Procedures
-Operators must have a clear process for dealing with repeated breaches, including verbal warnings, retraining, and dismissal if necessary.
-What happens when it goes wrong, and infringements are noticed?
-Regulatory Actions
-When breaches occur, we have a range of options:
-Formal warnings
-Undertakings and conditions
-Public inquiries
-Licence revocation or suspension
-Disqualification of transport managers or directors
-Suspension and revocation of the drivers HGV or PCV entitlement
-We do not take action lightly. Our decisions are based on evidence, proportionality, and the likelihood of future compliance.
-Our advice
-For drivers –
-Based on what we see, we would suggest trying the following –
-Know which rules apply to your journey - this will differ for HGV and PSV drivers.
-For Goods –
-You can find the guide at -
-Drivers’ hours and tachographs: goods vehicles - Guidance - GOV.UK
-For PSV –
-Check your route type before each shift. If it’s under 50km and a regular service then domestic rules apply; otherwise, EU/assimilated or AETR rules are relevant.
-Use the
-GOV.UK drivers’ hours guide
-to confirm which rules apply.
-Keep a quick-reference chart (insert link) in your cab or depot to help identify the correct rule set.
-If you mix EU and domestic, for example a school run then a private hire in the evening, be really really careful, It is very easy to get it wrong.
-A simplified guide for both can be found
-here.
-You can use this as a start point.
-Use Your Tachograph Properly
-Insert your driver card before starting your shift and check it’s recording correctly.
-Make manual entries for any off-vehicle rest, ferry travel, or other work. Specific guidelines on manual record keeping can be found here -
-Drivers’ hours: recording of other work - GOV.UK
-One
-case
-saw drivers repeatedly fail to record the mandatory breaks, instead continuing journeys without rest. This led to fatigue-related risks and was flagged during a DVSA roadside check.
-Another operator got into a great deal of trouble over tachograph records
-here.
-Use Your Tachograph Effectively
-Check regularly: At the start and end of each shift, review your tachograph entries to ensure they’re accurate and complete.
-Log delays or exceptions: If you’re delayed due to traffic, loading issues, or breakdowns, use the manual input function to record the reason. This helps protect you from potential infringements.
-Use apps: Try apps to track your driving time, breaks, and rest periods. These tools can alert you before you reach your limits.
-One
-operator
-instructed drivers to remove tachograph cards mid-shift to avoid recording excess hours. This deliberate falsification resulted in licence revocation and disqualification of the transport manager.
-Remember your tachograph is a great tool for you as a driver if you can keep it accurate!
-Plan Your Route with Breaks in Mind
-Use route planning tools: Apps can help you find rest stops with toilets, food, and secure parking.
-Build in buffer time: When planning your journey, allow extra time for traffic, loading delays, and unexpected events so you don’t have to skip or shorten breaks.
-Build breaks into your route plan - don’t wait until the last minute.
-Coordinate with your scheduler to ensure your timetable allows for legal breaks.
-Understand Split Breaks and Rest Periods
-Split breaks: If you can’t take a full 45-minute break, take a 15-minute break, followed by a 30-minute break later in your shift. Make sure the second break is taken before you reach 4.5 hours of driving.
-Split daily rest: If needed, take a 3-hour rest, then a 9-hour rest later. Both must be completed within a 24-hour period. Use your tachograph to record both periods clearly.
-Prioritise Your Wellbeing
-Stay hydrated: Keep a water bottle in your cab and drink regularly, especially on long drives.
-Eat well: Pack healthy snacks and meals to avoid relying on fast food at service stations.
-Take mental breaks: Use rest periods to stretch, walk, or listen to music. If you feel fatigued, speak to your manager - your safety comes first.
-There is at least one operator that has installed fridges in lorries- see what your company can do for you.
-Keep Records Clean
-Store your data: Keep your tachograph printouts or digital records for at least 28 days (or 56 days for international journeys). Use folders or apps to stay organised.
-Ask for audits: Encourage your employer to review your records regularly and provide feedback. This helps catch errors early and shows you’re committed to compliance.
-Drivers who are engaged in the process rather than trying to ignore it have fewer problems and are an asset to the business.
-This
-operator
-was found not downloading tachograph data within the required 28-day period, leaving compliance checks incomplete. This systemic failure led to formal warnings and undertakings at inquiry.
-Watch Out for Rule Changes
-Stay informed via DVSA updates (insert link), union newsletters, or transport forums.
-Attend refresher training when rules change - especially around assimilated EU regulations.
-Keep a copy of the latest guidance in your cab or depot for reference.
-For Operators, transport managers and fleet managers –
-Provide regular training
-Schedule quarterly refresher sessions covering drivers’ hours, tachograph use, and Working Time Directive rules.
-Include hands-on tachograph workshops where drivers practice inserting cards, making manual entries, and interpreting data.
-Use actual case studies from your own fleet to highlight real-world mistakes and how they were resolved.
-Provide training materials in multiple formats - videos, handouts, and online modules which will suit different learning styles and include interactive elements like quizzes or scenario-based discussions to reinforce learning.
-Promote a culture that values safety
-Create an open-door policy where drivers can report fatigue or scheduling concerns without fear of penalty.
-Include wellbeing check-ins during shift briefings or one-to-one meetings.
-Avoid scheduling practices that encourage rule-bending, such as tight turnaround times or excessive overtime.
-Celebrate compliance milestones and recognise drivers who consistently prioritise safety and legal adherence.
-Schedule smartly
-Use route planning tools that factor in traffic and rest stop availability and legal break requirements.
-Avoid back-to-back long-haul assignments - rotate routes to give drivers variety and recovery time.
-Build buffer time into schedules to allow for unexpected delays without compromising compliance.
-Use fleet management software
-Choose platforms that offer real-time tracking and compliance alerts. There are systems specific to both goods and PSV industries which can integrate with your tachographs.
-Set up automated notifications for approaching driving limits, missed breaks, or rest period violations.
-Use dashboards to review trends and identify drivers who may need additional support or training.
-Ensure drivers have access to mobile apps that show their remaining driving time and break requirements in real time.
-Audit tachograph data
-Conduct weekly or monthly audits of tachograph data to catch issues early.
-Use audit findings to create driver performance reports, highlighting both strengths and areas for improvement.
-Implement a feedback loop where drivers can discuss audit results and receive coaching or support.
-Keep a compliance log to track recurring issues and document corrective actions taken.
-Use audit findings to inform training content and adjust operational procedures where needed.
-An alarming number of operators don’t look at the data they have recorded. If you’ve got it, use it!
-Final Thoughts
-Drivers’ hours regulations aren’t just a legal requirement – they are a shared responsibility between drivers and fleet managers. By combining knowledge, planning, and communication, we can create safer roads and healthier working conditions for everyone in the transport industry.
-Toolbox Talks on Drivers’ Hours
-Drivers' Hours Toolbox Talk without audio
-(
-MS PowerPoint Presentation
-,
-4.33 MB
-)
-Drivers' Hours Toolbox Talk with audio
-(
-MS PowerPoint Presentation
-,
-22 MB
-)
-Toolbox Talk Script
-(
-PDF
-,
-138 KB
-,
-5 pages
-)
-
----
-
-### Sports stars say ‘Enough’ to violence against women and girls
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/sports-stars-say-enough-to-violence-against-women-and-girls
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 811
-- **Unique ID:** `452618a6837d7a12`
-
-#### Content:
-
-Some of the country’s highest profile sports stars have joined forces with the government’s Enough campaign to tackle violence against women and girls.
-To raise awareness of abusive behaviour, stars including Arsenal footballer Chloe Kelly, Newcastle United’s Dan Burn and boxing star Conor Benn are featured in a brand-new social content series produced with Sky Media and planned and activated by MG OMD (part of Omnicom Media). This series aims to help the public recognise behaviours that are abusive and cross the line.
-Major UK brands including TSB and the Night Time Industries Association will be helping to bring the message into homes, workplaces and high streets that women and girls should be free to live without fear of violence or abuse. This news comes as the government drives forward on its unprecedented mission to halve these crimes in a decade following the publication of its landmark
-Violence Against Women and Girls Strategy
-in December.
-With a shocking 5.1 million victims of domestic abuse, stalking or sexual assault last year and more than 200,000 sexual offences and over 800,000 domestic abuse related offences recorded by the police in 2025, it is vital to do more to raise awareness of abuse and to ensure those who cause harm are encouraged to recognise, question, and change their behaviour.
-That’s why the Enough campaign aims to reach audiences across social media, workplaces, and public transport to increase public recognition of abusive behaviours and encourage self‑reflection among perpetrators. By combining powerful creative content with partnerships across sport, business and community organisations, the campaign looks to drive real world action to change behaviours and to make a genuine difference in the lives of women and girls.
-Minister for Safeguarding and Violence Against Women and Girls, Jess Phillips MP, said:
-This government is on a mission to halve violence against women and girls in a decade. To succeed, we must drive change in every arena of our society, including sport.
-That’s why, through the Enough campaign, we are working with some of the biggest names in sport to change the conversation in homes, schools, and communities across the country. To end the cycle of violence that’s become normal in the lives of so many.
-But we will not stop there. We will deploy the full power of the state to make this country safe for women and girls.
-Claudia Hellier, Partnerships Manager at MG OMD, said:
-This campaign is about meeting people where they are, and sport is one of the few spaces that cuts across age, background, and geography.
-By partnering with Sky Media and working with athletes who carry real credibility with our young male audience, we were able to give the ‘Enough’ message the scale, resonance and visibility it deserves.
-It’s been an important collaboration between Sky Media, Home Office and MG OMD teams and is the kind of work that reminds you why media strategy, done with intention, can make a real difference.
-Kate Osiadacz, Head of Responsible Business, TSB, said:
-Domestic and economic abuse continues to devastate lives across the country – so the government’s campaign to raise awareness of this crime is entirely welcome.
-Businesses have a key role to play too – and we’ve seen first-hand the life-changing impact support such as flee funds and safe spaces provide to victim-survivors in moments of crisis.
-Michael Kill, CEO of Night Time Industries Association, said:
-Violence against women and girls has no place in our society, and the Night Time Industries Association strongly welcomes the Home Office’s campaign addressing this critical issue. The night-time economy should be a space for culture, connection and enjoyment, and this campaign sends a clear message to perpetrators: abusive behaviour will not be tolerated.
-Across our sector, venues are already investing in staff training, bystander intervention, reporting processes and strong partnerships with police and local authorities. This campaign helps amplify those efforts, reinforces shared responsibility, and encourages safe, respectful behaviour in public spaces.
-Tackling
-VAWG
-requires sustained commitment, cultural change and collaboration. Campaigns like this empower individuals to intervene safely, challenge harmful attitudes, and make it clear that perpetrators, not victims, are accountable.
-The government is making progress on tackling violence against women and girls through a series of policies that strengthen protection, pursue dangerous offenders, and support victims. Our cross‑government Violence Against Women and Girls Strategy deploys the full power of the state to safeguard women and girls.
-This includes strengthening victims’ rights, introducing independent legal advisers for rape victims, embedding domestic abuse specialists in 999 control rooms under Raneem’s Law, rolling out domestic abuse protection orders, and enhancing measures to target and monitor stalking perpetrators. The government is also investing £53 million in the Drive Project to disrupt the behaviour of high‑harm domestic abuse offenders.
-This all forms a key part of the government’s mission to halve violence against women and girls in 10 years.
-
----
-
-### Chevening British Library Fellowship 2026/27: Applications Open
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/chevening-british-library-fellowship-202627-applications-open
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 442
-- **Unique ID:** `434e9b2c229ae232`
-
-#### Content:
-
-Applications are now open for the 2026–27 Chevening Southeast Europe British Library Fellowship, delivered by the British Library and the UK Foreign, Commonwealth and Development Office (FCDO).
-Applications close on 15 May 2026 at 12:00 (UTC).
-About the Fellowship
-The Chevening Southeast Europe British Library Fellowship offers a midcareer professional from the Balkans and Türkiye the opportunity to undertake a 12-month research fellowship at the British Library.
-The Fellow will work with the Lead Curator for Southeast European Collections, contributing to cataloguing, digital research, metadata enhancement, and collection interpretation. The aim is to make Southeast Europe’s intellectual and cultural heritage more visible and accessible to global audiences.
-Eligibility Criteria
-Applicants must meet Chevening’s standard eligibility criteria and must also:
-Be a citizen and resident of Albania, Bosnia and Herzegovina, Kosovo, Moldova, Montenegro, North Macedonia, Serbia, or Türkiye at the time of application
-Have advanced proficiency in at least two Southeast European languages, such as Albanian, Bosnian, Bulgarian, Croatian, Macedonian, Romanian, Serbian, or Slovenian
-Hold a postgraduate qualification (or equivalent professional experience/training)
-Have at least five years of significant professional and/or academic research experience
-Be currently employed or a currently enrolled PhD candidate
-(PhD enrolment must NOT be at a UK, EU, or USA institution)
-Have experience working with large datasets and/or computational methods in a library or information-science context
-Have experience working with 18th–20th century printed books
-Demonstrate a strong interest in the history and culture of the Balkan region
-Possess excellent humanities research skills in a collections/records environment
-(Desirable) Be familiar with library metadata standards, including MARC21, RDA, and LCSH within an integrated library system
-About the Programme
-The Fellow will carry out a research project using rare and historic primary sources. Outputs will include data analysis, enhanced catalogue records, blog posts, and a collection guide.
-The Fellow will:
-Improve and enrich catalogue records for Southeast European materials
-Analyse large bibliographic datasets to identify trends and gaps
-Produce research outputs, including blog posts and a collection guide
-Support efforts to make historic collections more accessible to researchers worldwide
-Funding and Benefits
-The Fellowship provides:
-A 12month project-based placement at the British Library
-Living expenses for the duration of the programme
-Return economy airfare
-An allowance package for fellowship-related activities
-Up to £1,000 for approved project-related costs
-Duration
-Start: January 2027
-End: December 2027 / January 2028
-How to Apply
-Applications are accepted until 12:00 (UTC) on 15 May 2026.
-For more detailed information about the eligibility criteria for the Chevening Southeast Europe British Library Fellowship, you can
-visit the guidance page
-or contact
-Chevening.InTurkey@fcdo.gov.uk
-.
-Apply today
-at this link
-to help uncover and promote Southeast Europe’s cultural and intellectual heritage.
-
----
-
-### Independent Assurance Reviewer sought to examine DWP’s activities relating to Post Office staff prosecutions
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/independent-assurance-reviewer-sought-to-examine-dwps-activities-relating-to-post-office-staff-prosecutions
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 390
-- **Unique ID:** `2f5707acb768f79c`
-
-#### Content:
-
-The Government is recruiting an independent Reviewer to examine historical
-DWP
-prosecutions of Post Office staff for welfare related fraud.
-The review will cover the period from 23 September 1996 to 31 March 2012.
-Applications close at 10:00 on 13 April 2026.
-An independent Reviewer will assess the steps taken by the Department for Work and Pensions (
-DWP
-) regarding its prosecutions of Post Office staff during the Horizon period.
-To ensure full independence, the Reviewer will be appointed through an open external recruitment process, overseen by a panel with an independent Chair. Once appointed, the Reviewer will produce a report for the Permanent Secretary, setting out any findings and recommendations.
-During the Horizon period,
-DWP
-prosecuted around 100 Post Office staff for welfare-related fraud, such as theft of benefit books. Horizon data did not play an essential role in any of its prosecutions and instead it relied on direct evidence, including surveillance, stolen benefit books recovered from Post Office premises, handwriting analysis, and witness statements from claimants.
-Since 2022,
-DWP
-has searched its archives, reviewed thousands of files, and written to courts to recover relevant material. That work also found no evidence that Horizon data played an essential role in any of its prosecutions.
-To provide an additional layer of assurance, the independent Reviewer will assess whether the department’s approach has been thorough and robust. Following discussion with the Horizon Compensation Advisory Board, individuals and organisations will also have the opportunity to submit information directly to the Reviewer.
-To apply visit:
-Independent Assurance Reviewer - Civil Service Jobs
-by 10:00 on 13 April 2026.
-Additional information:
-The period covered by the Post Office (Horizon System) Offences Act 2024 runs from 23 September 1996 to 31 December 2018. The Crown Prosecution Service took over
-DWP
-’s prosecution function in 2012, which is why the review period ends on 31 March 2012.
-DWP
-does not have the power to review criminal convictions. The appropriate route is through the courts or by applying to the Criminal Cases Review Commission (
-CCRC
-), which has the power to refer a case to the Court of Appeal.
-Anyone who believes they have been wrongly convicted is strongly advised to consider applying to the
-CCRC
-as soon as possible.
-The review is expected to conclude within six months of the Independent Reviewer’s formal appointment.
-
----
-
-### UK Packaging PRO appointed to deliver Extended Producer Responsibility for packaging scheme
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/uk-packaging-proappointed-to-deliver-extended-producer-responsibilityfor-packagingscheme
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 541
-- **Unique ID:** `700e5049d3a6dd6a`
-
-#### Content:
-
-UK Packaging PRO has been appointed as the Producer Responsibility Organisation (PRO) for the UK’s packaging Extended Producer Responsibility (pEPR) scheme, PackUK has announced today (Monday 23 March 2026).
-UK Packaging PRO is a producer-led organisation created to help deliver one of the most significant environmental programmes in a generation. pEPR will help drive the shift to more recyclable materials and reduce waste from going into the nation’s landfills.
-UK Packaging PRO has brought together more than 100 of the UK’s largest brands, retailers and trade bodies, supported by the Food and Drink Federation (FDF) and the Industry Council for Packaging and the Environment (INCPEN), amongst others.
-A truly collaborative model, an industry-led PRO represents a unique opportunity for stakeholders across the value chain to shape the future delivery of the pEPR scheme. It strengthens the partnership between government and industry, harnessing the insights and expertise of producers to deliver against pEPR obligations and achieve shared goals, to increase recycling rates and drive circularity.
-Jeremy Blake, Chief Executive Officer of PackUK, said:
-I’m delighted to welcome UK Packaging PRO as the new Producer Responsibility Organisation.
-This announcement follows a rigorous selection process, as PackUK was committed to choosing the best candidate possible to represent the diverse interests of the packaging industry.
-The appointment of the PRO will further enhance the scheme by unlocking the benefits that an industry-led organisation can bring.
-Circular Economy Minister, Mary Creagh, said:
-This government will accelerate the circular economy transition.
-Our packaging Extended Producer Responsibility (pEPR) scheme will incentivise businesses towards more sustainable packaging choices and improve recycling services in every region.
-The launch of UK Packaging PRO, led by businesses and working closely with PackUK, is a major step forward – putting industry expertise at the centre of how pEPR is delivered.
-Karen Graley, Head of UK Packaging PRO, said:
-We’re very proud to have been appointed to play such a vital role in the Packaging EPR scheme. UK Packaging PRO was created to give producers a genuine seat at the table.
-With strong governance in place, a clear mobilisation plan, and broad support from across the sector, we are ready to get to work – in close partnership with PackUK, governments, local authorities and organisations across the value chain to deliver a packaging system that works better for everyone.
-The pEPR scheme provides funding to local authorities, to drive improvements in recycling, with £1.4 billion invested in Year 1 of the scheme. This helps to improve packaging waste collection and recycling, whilst incentivising producers to reduce their material footprint.
-The formal appointment for UK Packaging PRO will commence on 1 April 2026, with responsibilities introduced gradually. PackUK will maintain oversight of the PRO and ensure its accountability to the governments of the UK’s four nations.
-Core administrative powers, such as final decisions on local authority payments and producer fees, will remain with PackUK.
-Today’s announcement follows an extensive selective process and draws on well-established international best practice. Similar schemes already operate successfully in more than 30 countries, including in Belgium, France and Germany, where they have helped to drive higher recycling rates, greater system efficiency and lower costs.
-PackUK will build on proven approaches while tailoring the model to the UK’s four nation approach.
-
----
-
-### Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 328
-- **Unique ID:** `40194d392fd28725`
-
-#### Content:
-
-We condemn in the strongest terms recent attacks by Iran on unarmed commercial vessels in the Gulf, attacks on civilian infrastructure including oil and gas installations, and the de facto closure of the Strait of Hormuz by Iranian forces.
-We express our deep concern about the escalating conflict. We call on Iran to cease immediately its threats, laying of mines, drone and missile attacks and other attempts to block the Strait to commercial shipping, and to comply with UN Security Council Resolution 2817.
-Freedom of navigation is a fundamental principle of international law, including under the United Nations Convention on the Law of the Sea.
-The effects of Iran’s actions will be felt by people in all parts of the world, especially the most vulnerable.
-Consistent with UNSC Resolution 2817, we emphasise that such interference with international shipping and the disruption of global energy supply chains constitute a threat to international peace and security. In this regard, we call for an immediate comprehensive moratorium on attacks on civilian infrastructure, including oil and gas installations.
-We express our readiness to contribute to appropriate efforts to ensure safe passage through the Strait. We welcome the commitment of nations who are engaging in preparatory planning.
-We welcome the International Energy Agency decision to authorise a coordinated release of strategic petroleum reserves. We will take other steps to stabilise energy markets, including working with certain producing nations to increase output.
-We will also work to provide support for the most affected nations, including through the United Nations and the IFIs.
-Maritime security and freedom of navigation benefit all countries. We call on all states to respect international law and uphold the fundamental principles of international prosperity and security.
-Following publication, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain, Lithuania, Australia, United Arab Emirates, Portugal, Trinidad & Tobago, Dominican Republic,  Croatia, Bulgaria, Kosovo, Panama and North Macedonia confirmed they also joined this joint leaders’ statement.
-
----
-
-### DBS expands Faith in Safeguarding campaign nationally
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/dbs-expands-faith-in-safeguarding-campaign-nationally
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 415
-- **Unique ID:** `b65b4b03ccc08dbc`
-
-#### Content:
-
-Following a successful pilot in the South East of England in autumn 2025, the Disclosure and Barring Service (DBS) is expanding its Faith in Safeguarding campaign nationally. The campaign raises awareness of the legal duty to refer - the process organisations must follow by law when there are safeguarding concerns about individuals in regulated activity.
-Faith organisations are currently among the lower-referring sectors for barring referrals to DBS, despite the thousands of people working and volunteering in regulated activity roles across churches, mosques, gurdwaras, mandirs, synagogues, and faith charities. This suggests many organisations may be unaware of their legal obligations under the Safeguarding Vulnerable Groups Act 2006.
-This campaign aims to close that gap by increasing understanding of when referrals must be made, how the process works, and why it matters.
-Pop-up clinics
-DBS will be hosting free, in-person pop-up clinics across England this spring, offering practical guidance tailored to faith settings. Each session will include:
-an introduction to DBS and eligibility for DBS checks
-what the legal duty to refer means for your organisation
-practical scenarios applying the legal duty in faith settings
-a walkthrough of the Barring Referral Service
-Q&A and networking
-Where and when?
-Greater London, Wednesday 25 March 2026, 9:30am–1:00pm, The Chesterfield Mayfair, 35 Charles Street, Mayfair, London, W1J 5EB
-Liverpool, Wednesday 15 April 2026, 9:30am–1:00pm, Hilton Liverpool City Centre
-Leeds, Wednesday 22 April 2026, 9:30am–1:00pm, Radisson Blu Hotel
-Birmingham, Tuesday 28 April 2026, 9:30am–1:00pm, Clayton Hotel
-Bristol, Wednesday 6 May 2026, 9:30am–1:00pm, Holiday Inn City Centre
-Newcastle, Tuesday 12 May 2026, 9:30am–1:00pm, Leonardo Hotel
-Peterborough, Tuesday 19 May 2026, 9:30am–1:00pm, Park Inn by Radisson
-Further sessions in Wales and Northern Ireland will be confirmed at a later date.
-All sessions are free to attend. To register, visit the
-DBS Eventbrite page
-to secure your place.
-Who should attend?
-These sessions are open to anyone with safeguarding responsibilities in a faith setting, including:
-clergy, imams, granthis, pandits, and rabbis
-trustees and organisational leaders
-safeguarding leads and HR professionals
-volunteers and youth group leaders
-Learn more
-To support organisations, DBS has published a range of materials on GOV.UK, including:
-guidance on
-the legal duty to refer to DBS
-leaflets such as Barring Referrals -
-How and when to make one
-a step-by-step
-flowchart explaining the referral process
-Need help?
-For any questions, or if you require more information, contact your
-DBS Regional Outreach Adviser
-.
-Follow the campaign on DBS social media and use the hashtags: 
-#FaithInSafeguarding #DutyToRefer
-Twitter/X
-LinkedIn
-Facebook
-YouTube
-
----
-
-### Cases of invasive meningococcal disease notified in Kent
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/cases-of-invasive-meningococcal-disease-confirmed-in-kent
-- **Published Date:** 2026-03-23
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 4211
-- **Unique ID:** `f00151c4578169d1`
-
-#### Content:
-
-Update 23 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent.
-No new cases have been confirmed since yesterday’s update.
-Notified cases numbers are published on a daily basis
-.
-As of 12.30pm on 22 March, 20 laboratory cases are confirmed and 9 notifications remain under investigation, bringing the total to 29.
-Background
-For information on current vaccination eligibility and clinic locations, see the
-Kent and Medway ICS page
-.
-Further information about the vaccination programme can be found in the recent
-UKHSA
-blog
-Meningitis B outbreak: what you need to know
-.
-This genome has
-UKHSA
-identifier (1926231), it will be on pubMLST.org identifier (190637).
-The number of confirmed and probable cases can change when:
-a case is laboratory confirmed
-clinical assessment changes, including when new laboratory results are available
-further epidemiological information is available
-Reclassification of confirmed cases can occur particularly when more sophisticated laboratory tests are undertaken. These tests often take longer than initial testing carried out in local laboratories. In England the Meningococcal Reference Unit (MRU) in Manchester provides confirmatory laboratory reference services for meningococcal disease.
-If you have returned home outside of the UK, vaccination can be provided when you return to the University.
-Meningococcal disease (meningitis and sepsis) is an uncommon but serious disease caused by meningococcal bacteria. Very occasionally, the meningococcal bacteria can cause serious illness, (inflammation of the lining of the brain) and sepsis (blood poisoning).
-The onset of illness is often sudden and early diagnosis and treatment with antibiotics are vital. Early symptoms, which may not always be present, include:
-a rash that doesn’t fade when pressed with a glass
-sudden onset of high fever
-severe and worsening headache
-stiff neck
-vomiting and diarrhoea
-joint and muscle pain
-dislike of bright lights
-very cold hands and feet
-seizures
-confusion/delirium
-extreme sleepiness/difficulty waking
-Young people going to university or college for the first time are particularly at risk of meningitis because they mix with so many other students, some of whom are unknowingly carrying the bacteria at the back of their nose and throat.
-There are numerous strains of the meningococcal infection. The MenACWY vaccination gives good protection against MenA, MenC, MenW, and MenY and is routinely offered to teenagers in school Years 9 and 10. However, this vaccine does not protect against all forms of meningococcal infection. Other strains such as MenB can circulate in young adults, which is why it’s important to know how to spot the symptoms of
-meningitis
-and
-sepsis
-as early detection and treatment can save lives.
-Further information on meningococcal disease
-Meningitis - NHS
-The Meningitis Research Foundation
-Monday to Friday, 9am to 5pm
-UK: 080 8800 3344
-Republic of Ireland: 1800 41 33 44
-Meningitis Now
-0808 80 10 388
-(9am to 4pm Monday to Thursday and 9am to 1pm Friday)
-Update 22 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent.
-As of 12:30pm on 21 March, 20 laboratory cases are confirmed and 9 notifications remain under investigation, bringing the total to 29. This means that the number of confirmed cases has decreased by 3 since yesterday’s update. Some cases initially classified as confirmed cases have been reclassified following further laboratory results and clinical investigation. As further laboratory assessments are completed, we expect some further probable cases to be downgraded in the coming days. Sadly, 2 people are known to have died, with no further deaths since the last update.
-Notified cases numbers are published on a daily basis
-.
-UKHSA
-would like to thank partners including the NHS and the University of Kent, for their rapid support in ensuring that antibiotics and vaccination are offered to those who need it.
-Eligible University of Kent students who have returned home can now access both the MenB vaccination and preventative antibiotic treatment from their local GP practice. For any eligible students who have returned, or will return to Scotland, please contact your local
-NHS Board’s Health Protection Team (HPT)
-in the first instance.
-While the MenB vaccination offers the best longer-term protection for those affected by this outbreak, taking preventative antibiotics is the most important immediate action in response to the current outbreak.
-Dr Sherine Thomas, Infectious Diseases Consultant at
-UKHSA
-, said:
-We continue to remain vigilant for new cases and work closely with NHS England and local authorities across the country, to ensure that any new cases identified are responded to as quickly as possible.
-It’s reassuring to have seen so many eligible young people come forward for antibiotics and vaccination and we’d like to thank everyone involved in this effort so far.
-Although the risk to the wider population remains low, it is still really important that people know the symptoms of invasive meningococcal disease and seek immediate medical attention if they or anyone they know develops them.
-UKHSA
-continues to work with partners to identify contacts and offer necessary treatment.
-Update 21 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent.
-As of 5pm on 20 March, 23 laboratory cases are confirmed and 11 notifications remain under investigation, bringing the total to 34. Sadly, 2 people are known to have died, with no further deaths since the last update.
-Notified cases numbers are published on a daily basis
-.
-Yesterday (Friday 20 March)
-UKHSA
-provided an update on initial genetic analysis of a the meningococcal strain isolated during this outbreak and details on the expansion of the vaccination offer to Kent students.
-UKHSA
-would like to thank partners including the NHS and the University of Kent, for their rapid support in ensuring that antibiotics and vaccination are offered to those who need it. As of 5pm on Friday 20 March,
-4,500 vaccinations have been given and over 10,500 doses of antibiotics
-have been administered.
-Dr Ben Rush, Consultant in Communicable Disease Control  at
-UKHSA
-said:
-We continue to remain vigilant for new cases and work closely with NHS England and local authorities across the country to ensure enhanced surveillance is in place. Any new cases will be identified quickly and responded to.
-It’s reassuring to have seen so many eligible young people come forward for antibiotics and vaccination and we’d like to thank everyone involved in this effort so far.
-It’s vital that people are aware of the signs and symptoms of invasive meningococcal disease and seek immediate medical attention if they or anyone they know develops symptoms. The risk to the wider population remains low and
-UKHSA
-continues to work with partners to identify contacts and offer necessary treatment.
-Update 20 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent.
-As of 5pm on 19 March, 18 laboratory cases are confirmed and 11 notifications remain under investigation, bringing the total to 29. Sadly, 2 people are known to have died, with no further deaths since the last update.
-Notified cases are released on a daily basis
-.
-As part of investigations,
-UKHSA
-laboratories have completed an initial genetic analysis of a meningococcal strain isolated during this outbreak. Results have confirmed that the Bexsero vaccine currently being offered in Kent should provide protection against the strain identified.
-The strain belongs to a group of bacteria known as group B meningococci, sequence type 485 belonging to the larger clonal complex ST-41/44
-.
-Similar strains have been circulating in the UK for around 5 years but detailed analysis of the outbreak pathogen is required.
-UKHSA
-is publishing the available data so that national and international partners can also carry out further scientific research.
-UKHSA
-would like to thank partners including the NHS and the University of Kent, for their rapid support in ensuring that antibiotics and vaccination are offered to those who need it. As of 5pm on Thursday 19 March,
-2,360 vaccinations have been given and over 9,000 doses of antibiotics
-have been administered.
-For further details on the current vaccination rollout and details on clinics,
-see our statement from yesterday
-.
-Notification on expansion of Meningitis B vaccination offer to Kent students
-has also been published.
-Meera Chand, Strategic Response Director, said:
-The latest laboratory analysis by
-UKHSA
-confirms that the vaccine being offered to students and other eligible groups should cover this circulating strain of MenB, with further analysis ongoing to understand more about the strain.
-It’s vital that people are aware of the signs and symptoms of invasive meningococcal disease and seek immediate medical attention if they or anyone they know develops symptoms. The risk to the wider population remains low and
-UKHSA
-continues to work with partners to identify contacts and offer necessary treatment.
-Further information about the vaccination programme can be found in the recent
-UKHSA
-blog
-.
-Update 19 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent.
-As of 5pm on 18 March, 15 laboratory cases are confirmed and 12 notifications remain under investigation, bringing the total to 27. Sadly, 2 people have died, with no further deaths since the last update.
-Notified cases are released on a daily basis
-.
-Preventative antibiotic treatment continues to be given to University of Kent students, and to anyone who visited Club Chemistry in Canterbury between 5 and 7 March, as well as to close contacts of those who are confirmed or suspected to have meningococcal disease.
-To ensure that these can be easily accessed by anyone who has since travelled home or away from Kent, antibiotics are available from GPs across the country to anyone who has been asked to seek preventative treatment.
-Currently, cases have been confirmed in students at 4 schools in Kent, as well as one student at a higher education institution in London (who is confirmed to be directly linked to the outbreak).
-While preventative antibiotic treatment remains the most important measure in controlling the outbreak, a targeted MenB vaccination programme is also being introduced for longer term protection. A vaccination programme has started for students and staff who live in or work in the halls at the University of Kent Canterbury Campus - approximately 5,000 students.
-The vaccination programme will be expanded as required as
-UKHSA
-continues to assess any ongoing risk to other population groups.
-While 2 doses of the MenB vaccine helps protect individuals from getting ill with the disease, it does not prevent people from carrying and spreading the bacteria in the community. This programme is therefore being targeted towards those identified as potentially being at ongoing increased risk of exposure.
-Trish Mannes,
-UKHSA
-Regional Deputy Director for the South East, said:
-Two doses of the MenB vaccine helps protect individuals against meningococcal B disease. It is important to know that the MenB vaccine does not protect against all strains of meningococcal disease, nor against all infections that can cause meningitis. It also does not prevent the bacteria from being carried and spread in the community.
-It is therefore still hugely important that people are aware of the signs and symptoms of invasive meningococcal disease, and that they seek immediate medical attention if they or anyone they know develops these signs and symptoms.
-If you have been offered preventative antibiotics, it is strongly recommended that you take them promptly. If you are a student at the University of Kent who is eligible but has since returned home, contact your local GP, who will be able to provide advice and prescribe the appropriate treatment.
-The risk to the wider population remains low.
-UKHSA
-continues to actively trace and offer preventative antibiotics to those in close contact with cases.
-Further information about the vaccination programme can be found in the recent
-UKHSA
-blog
-.
-Update 18 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent. As of 5pm on 17 March, 9 laboratory cases are confirmed and 11 notifications remain under investigation, bringing the total to 20. Six of the confirmed cases are confirmed to be group B meningococcal disease.
-Sadly 2 people have died, with no further deaths since the last update.
-One individual who had resided in Kent presented to a London hospital with no community contacts in London. All those affected who are currently linked to the outbreak are young adults.
-UKHSA
-is aware of a baby with confirmed Meningococcal group B infection who is not currently linked to the outbreak but
-UKHSA
-will continue to investigate this case.
-This is a rapidly evolving situation and there may be further cases as those with symptoms are encouraged to seek medical advice.
-Antibiotics remain the most effective treatment to limit the spread of invasive meningococcal disease. So far, over 2,500 doses have been given to students, close contacts and others including some of those who attended Club Chemistry between 5 and 7 March.
-GPs across the country will today be advised to prescribe antibiotics to anyone who visited Club Chemistry between 5 and 7 March and to University of Kent students, if they have been asked to seek preventative treatment. This is so that anyone who has travelled home, or away from Kent, can easily access this important preventative treatment close to them.
-Given the severity of the outbreak, and as an additional precautionary measure, a targeted vaccination programme will begin, starting with students that are residents of the Canterbury Campus Halls of Residence at the University of Kent who will be contacted directly. Initially, it’s expected that up to 5,000 students will be contacted and offered the vaccine.
-UKHSA
-will continue to assess ongoing risk to other populations and the programme may be extended.
-UKHSA
-also continues to advise anyone who visited Club Chemistry on 5, 6 or 7 March to come forward for preventative antibiotic treatment as a precautionary measure. This can be collected from the following sites, which remain open whilst people are still coming forward for the preventative treatment:
-Gate Clinic, Kent and Canterbury Hospital, Ethelbert Road, Canterbury, CT1 3NG - open from 8.30am to 7.30pm.
-Westgate Hall, Westgate Hall Road, Canterbury, Kent, CT1 2BT- open from 8.30am to 7.30pm.
-Carey Building, Thanet Hub, Margate Northwood Rd, Westwood, Broadstairs, CT10 2WA - open from 8.30am to 7.30pm.
-Senate Building at University of Kent, CT2 7NZ – open from 9am to 8pm.
-Meningococcal disease can progress rapidly. Signs and symptoms of meningococcal meningitis and septicaemia can include a fever, headache, rapid breathing, drowsiness, shivering, vomiting and cold hands and feet. Septicaemia can also cause a characteristic rash that does not fade when pressed with a glass.
-Early symptoms can often be confused with other illnesses such as a cold, flu or hangover and students are particularly at risk of missing the early warning signs. If you or anyone you know develops any of these symptoms, seek medical help immediately by contacting a GP, calling NHS 111 or dialling 999 in an emergency. Knowing the signs and taking early treatment can be lifesaving.
-Trish Mannes,
-UKHSA
-Regional Deputy Director for the South East, said:
-Around 2,500 doses of antibiotics have now been administered across sites in Kent and we continue to encourage close contacts to come forward for the treatment. This includes those offered at the University of Kent and anyone who visited Club Chemistry between 5 and 7 March.  This is the main intervention that will help protect people and halt the spread of the outbreak.
-As a further precaution and together with the NHS, we are beginning to roll out a targeted MenB vaccination programme. This will initially be offered to 5,000 university of Kent students resident at the Canterbury campus, with the possibility that it may be extended, as it is kept under continual review.
-If you think you may have symptoms of meningitis, don’t hesitate to seek medical help by contacting your GP or calling NHS 111. Seeking early treatment can save lives.
-UKHSA
-is coordinating a national response to the outbreak. This does not mean a national NHS incident has been declared. A national incident is a formal operational status used when the health service is under significant system-wide pressure, which is not the case with this outbreak. NHS services continue to operate as normal.
-Update 17 March
-The UK Health Security Agency is continuing to investigate an outbreak of meningococcal disease in Kent. As of 5pm on 16 March,
-4 laboratory cases are confirmed and 11 notifications remain under investigation, bringing the total to 15
-. Sadly, this includes 2 people who are known to have died. This is a rapidly evolving situation and there may be further cases as those with symptoms are encouraged to seek medical advice.
-Investigations have confirmed that some of the cases are group B meningococcal disease. From 2015, the MenB vaccine has been available on the NHS as part of routine childhood immunisations and so those aged over 10 have not received it as part of the routine schedule.
-Given the severity of the situation, a small targeted vaccination programme will begin starting with students resident at Canterbury Campus Halls of Residence at the University of Kent in the coming days. The vaccination programme may be expanded further as
-UKHSA
-continues to assess any ongoing risk to other populations. For now, the priority remains for those offered antibiotics to come forward as this is highly effective at preventing the disease and transmission.
-Some of the cases visited Club Chemistry in Canterbury between 5 and 7 March prior to becoming unwell.
-UKHSA
-’s health protection team is working closely with the nightclub and partners including the University of Kent to limit the spread. Students needing antibiotics have been offered them through the university.
-The
-UKHSA
-is advising anyone who visited Club Chemistry on 5 March, 6 March or 7 March to come forward for preventative antibiotic treatment as a precautionary measure. This can be collected from the following sites:
-Gate Clinic, Kent and Canterbury Hospital, Ethelbert Road, Canterbury, CT1 3NG - open from 8.30am to 7.30pm on Tuesday 17 March.
-Westgate Hall, Westgate Hall Road, Canterbury, Kent, CT1 2BT. Planned to be open from 8.30am to 7.30pm on Tuesday 17 March.
-Carey Building, Thanet Hub, Margate Northwood Rd, Westwood, Broadstairs, CT10 2WA. Planned to be open from 8.30am to 7.30pm on Tuesday 17 March.
-Senate Building at University of Kent, CT2 7NZ – open from 9am to 8pm on Tuesday 17 March.
-Meningococcal disease can progress rapidly. Signs and symptoms of meningococcal meningitis and septicaemia can include a fever, headache, rapid breathing, drowsiness, shivering, vomiting and cold hands and feet. Septicaemia can also cause a characteristic rash that does not fade when pressed with a glass.
-Early symptoms can often be confused with other illnesses such as a cold, flu or hangover and students are particularly at risk of missing the early warning signs. If you or anyone you know develops any of these symptoms, seek medical help immediately by contacting a GP, calling NHS 111 or dialling 999 in an emergency. Knowing the signs and taking early treatment can be lifesaving.
-Trish Mannes,
-UKHSA
-Regional Deputy Director for the South East, said:
-People who need antibiotic treatment are responding to our calls to come forward and we are working closely with the NHS to ensure these are offered at the various sites throughout today.
-Once again we remind anyone who visited Club Chemistry between 5 and 7 March to come forward for preventative antibiotic treatment as a precaution, as well as those offered antibiotics at the university.
-Investigations have now confirmed that some of the cases are Men B. It is important to be aware that the MenACWY vaccine routinely offered to teenagers does not protect against Men B, which is why knowing the symptoms and seeking early treatment is so important.
-If you think you may have symptoms of meningitis, do not hesitate to seek medical help by contacting your GP or calling NHS 111.
-As part of the incident response,
-UKHSA
-has written to schools in Kent providing guidance and advice, and continues to work with schools where cases have been identified.
-Update 16 March
-The UK Health Security Agency (
-UKHSA
-) is continuing to investigate an outbreak of meningococcal disease in Kent with 13 cases notified since 13 March. Sadly, this includes 2 people who are known to have died.
-Investigations have confirmed some of the cases visited Club Chemistry in Canterbury between 5 to 7 March prior to becoming unwell.
-UKHSA
-’s health protection team is working closely with the nightclub and partners including the University of Kent to limit the spread.
-UKHSA
-is now advising anyone who visited Club Chemistry on 5 March, 6 March or 7 March to come forward for preventative antibiotic treatment as a precautionary measure. This can be collected from the following sites:
-Senate Building at University of Kent, CT2 7NZ – open until 8pm on Monday 16 March (queue closes 7.15pm) and from 9am to 8pm on Tuesday 17 March.
-Gate Clinic, Kent and Canterbury Hospital, Ethelbert Road, Canterbury, CT1 3NG - open until 8pm on Monday 16 March and planned to open from 8.30am to 7.30pm on Tuesday 17 March.
-Westgate Hall, Westgate Hall Road, Canterbury, Kent, CT1 2BT. Planned to be open from 8.30am to 7.30pm on Tuesday 17 March.
-Carey Building, Thanet Hub, Margate Northwood Rd, Westwood, Broadstairs, CT10 2WA. Planned to be open from 8.30am to 7.30 pm on Tuesday 17 March.
-Advice has been issued to 16,000 staff and students at the University of Kent, where antibiotics are also being offered to those who need them.
-Meningococcal disease can progress rapidly. Signs and symptoms of meningococcal meningitis and septicaemia can include a fever, headache, rapid breathing, drowsiness, shivering, vomiting, and cold hands and feet. Septicaemia can also cause a characteristic rash that does not fade when pressed with a glass.
-Early symptoms can often be confused with other illnesses such as a cold, flu or hangover, and students are particularly at risk of missing the early warning signs. If you or anyone you know develops any of these symptoms, seek medical help immediately by contacting a GP, calling NHS 111 or dialling 999 in an emergency. Knowing the signs and taking early treatment can be lifesaving.
-Trish Mannes,
-UKHSA
-Regional Deputy Director for the South East, said:
-Our thoughts remain with the friends and family involved and we understand that many people in the university and wider community will be affected by this sad news.
-Our investigations have identified that some cases visited Club Chemistry in Canterbury and it is important that anyone who visited the club between 5 and 7 March now comes forward for preventative antibiotic treatment as a precaution, as well as those offered antibiotics at the university – these students are being contacted directly through the university.
-If you think you may have symptoms of meningitis, do not hesitate to seek medical help by contacting your GP or calling NHS 111.
-Statement issued by the UK Health Security Agency on 15 March 2026.
-The UK Health Security Agency (
-UKHSA
-) and NHS are arranging antibiotics for some students in the Canterbury area of Kent following a number of cases of invasive meningococcal disease. The specific strain has not been identified at the present time.
-From 13 to 15 March 2026, 13 cases were notified with signs and symptoms of meningitis and septicaemia to
-UKHSA
-. Sadly, 2 people are known to have died.
-UKHSA
-and the University of Kent are issuing advice to staff and students. Specialists at
-UKHSA
-are interviewing affected individuals and their families to help identify all close contacts and arrange antibiotics to limit spread.
-Anyone who becomes unwell with symptoms of meningitis and septicaemia should seek medical help urgently at the closest Accident and Emergency Department or by dialling 999. Early treatment can be lifesaving.
-Trish Mannes,
-UKHSA
-Regional Deputy Director for the South East, said:
-We understand that many people at the university and in the wider community will be affected by this sad news and we would like to offer our condolences to the friends and family involved.
-Students and staff will understandably be feeling worried about the risk of further cases; however, we would like to reassure them that close contacts of cases have been given antibiotics as a precautionary measure. Advice and support is being offered to the wider student community, and to local hospitals and NHS 111, and we’re monitoring the situation closely.
-Meningococcal disease can progress rapidly, so it’s essential that students and staff are alert to the signs and symptoms of meningococcal meningitis and septicaemia, which can include a fever, headache, rapid breathing, drowsiness, shivering, vomiting and cold hands and feet. Septicaemia can also cause a characteristic rash that does not fade when pressed against a glass.
-Students are particularly at risk of missing the early warning signs of meningitis because they can be easily confused with other illnesses such as a bad cold, flu or even a hangover. That’s why it’s vital that, if a friend goes to bed unwell, you check on them regularly and don’t hesitate to seek medical help by contacting their GP or calling NHS 111 if they have these symptoms or you’re concerned about them. This could save their life.
-
----
-
-### Seven new towns proposed to kickstart housebuilding push
-
-- **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/seven-new-towns-proposed-to-kickstart-housebuilding-push
-- **Published Date:** 2026-03-22
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 2334
-- **Unique ID:** `1ec9c9dea77bca2e`
-
-#### Content:
-
-The locations of seven new towns have been named for consideration as part of the most ambitious housebuilding programme in more than half a century.
-Built for the future from the ground up, the next generation of new towns will create well-connected new communities with homes, jobs, schools, green space and transport links planned from the start.
-Each proposed location is expected to deliver at least 10,000 homes, with several delivering 40,000 or more in the decades to come.
-The proposed locations are:
-Tempsford, Bedfordshire
-— up to 40,000 homes built around a new East West Rail station, linking residents to Cambridge, Oxford, London and Milton Keynes
-Crews Hill and Chase Park, Enfield
-— up to 21,000 homes helping to meet London’s acute housing need
-Leeds South Bank, West Yorkshire
-— up to 20,000 homes capitalising on the city’s economic momentum and the government’s £2.1 billion local transport investment
-Manchester Victoria North, Greater Manchester
-— at least 15,000 homes regenerating the heart of Greater Manchester, with a new Metrolink stop connecting residents to jobs across the city
-Thamesmead, Greenwich
-— up to 15,000 homes unlocking inaccessible riverside land in London, enabled by the planned Docklands Light Railway extension
-Brabazon and the West Innovation Arc, South Gloucestershire
-— up to 40,000 homes at the heart of a world-class research and advanced engineering economy
-Milton Keynes, Buckinghamshire
-— building on its history as one of the original new towns, to take forward the ‘renewed town’ vision to expand the city by around 40,000 homes and reinvigorate the centre with a new local transport system, boosting connectivity in the Oxford-Cambridge Growth Corridor
-Furthermore, as part of the government’s drive to instil pride in our communities, these towns will be designed for modern, everyday life – with neighbourhoods that people can easily get around without a car, shared green spaces and vibrant high streets.
+“Plug-in” solar panels to be in shops within months, offering households chance to significantly cut energy bills
+Move comes as Government steps up drive for clean homegrown power to get the UK off dependency on fossil fuel markets in response to Iran war
+New rules introduced today to ensure majority of new homes in England will come with solar panels fitted as standard
+Innovative new approach of discounted power on windy days in areas where wind farms are paid to switch off to avoid “wasted wind”, predominantly benefiting Scotland and the East of England
+More households will be helped to save money on bills through plug-in solar panels as the Government vows to go further and faster on clean energy in response to conflict in the Middle East.
+The current conflict is yet another reminder that the only route to energy security and sovereignty for the UK is to end dependence on fossil fuel markets and accelerate the drive for clean, homegrown power, as well as new renewables and nuclear.
+Already the Government has taken significant steps in speeding up the move to clean energy in response to the conflict. Last week, the Government’s annual renewables auction was brought forward to July. The most recent auction was the biggest ever and alongside the previous auction, enough clean energy to power 23 million homes has been confirmed.
+Today, the Government is driving forward with the rollout of “plug-in” solar panels (low-cost panels that families can put on their balconies or outdoor space) to be available in shops within months and save people money on their bills.
+Retailers like Lidl and Amazon, alongside manufacturers such as EcoFlow, are working with Government to enable them to be brought to the UK market.
+Plug-in solar is already widely used by households across Europe, with Germany seeing around half a million new devices plugged in per year.
+The free solar power can be used directly through a mains socket like any other device, without an installation cost, thereby reducing the amount of electricity taken from the grid and cutting energy bills.
+The easy-to-install technology could save many households significant amounts on their energy bills and help make the UK less reliant on global fossil fuel markets.
+The Government has taken decisive action in response to the conflict in the Middle East to fight for consumers and businesses on the cost of living, and is speeding up plans for more clean, homegrown energy that the UK controls to ensure energy sovereignty and security.
+This is alongside new rules coming into force today implementing the Future Homes Standard, which includes common-sense measures to ensure the majority of new homes are built cheaper to run, with solar panels and clean heating as standard.
+These measures on new homes could save families up to £830 a year on their energy bills, compared to a standard home with an EPC rating of C. This will ensure they are more comfortable and affordable – and create at least 75% less carbon emissions than those built to the 2013 standards.
+Energy Secretary Ed Miliband said:
+The government is determined to fight people’s corner in this crisis, which is why we have acted to prevent unfair practices like price gouging and provided immediate help for the most vulnerable facing spiralling heating oil prices.
+The Iran War has once again shown our drive for clean power is essential for our energy security so we can escape the grip of fossil fuel markets we don’t control.
+Whether through solar panels fitted as standard on new homes or making it possible for people to purchase plug-in solar in shops, we are determined to roll out clean power so we can give our country energy sovereignty.”
 Housing Secretary Steve Reed said:
-People want real change – homes they can afford, local infrastructure that works, and good jobs in thriving communities.
-Our next generation of new towns marks a turning point in how we build for the future.
-From the ground up, we’re planning whole communities with homes, jobs, transport links, and green spaces designed together — so we can give families the security and opportunities they deserve.
-To drive forward delivery, four interim advisers have been appointed to support the New Towns Unit:
-Lyn Garner, former Chief Executive of the London Legacy Development Corporation;
-Ian Piper, former Chief Executive of the Ebbsfleet Development Corporation;
-Emma Cariaga, Chief Operating Officer of British Land;
-David Rudlin, Founding Principal of Rudlin & Co and principal author of the UK Government’s National Model Design Code
-Building on the success seen in Stratford through the London Legacy Development Corporation and elsewhere, some new development corporations will also be stood up to support the delivery of these new towns.
-As set out in the proposed placemaking principles, these new towns will create affordable and balanced communities with the schools, health facilities and community infrastructure neighbourhoods need, supported by high quality public transport and walking and cycling infrastructure.
-To ensure that new towns are built in a holistic way, that meets communities’ growing needs, government is taking a cross-government approach to ensure the utilities, health, education, and digital infrastructure to underpin new towns from the outset.
-Alongside the new towns consultation, the government has also confirmed today that the National Housing Bank will launch on 1 April. It will be backed with up to £16bn of financial capacity and will aim to deliver over 500,000 new homes.
-The government has also confirmed additional support worth up to £400 million over the next decade for subsidised products. This will enable both the National Housing Bank and regional Mayors to issue loans and investments at lower interest rates and unlock housebuilding across the country.
-Confirmed today that the Bank will be chaired by Peter Vernon, with Simon Century as its Chief Executive, the Bank will respond flexibly to market needs, unlock over £53 billion of private investment, and provide developers with more financial stability and certainty to support the delivery of over half a million new homes. Century and Vernon both have comprehensive experience in property, financial services, regeneration, and management consultancy.
-Chancellor of the Exchequer Rachel Reeves said:
-For decades this country’s planning system has been a direct obstacle to building new homes, ramping up costs and pricing young people out of the housing market.
-Two years ago, I promised that we would grasp the nettle of planning reform. Now we’re planning to build a new generation of new towns, opening up the expansion of our most dynamic cities and raise up new communities.
-Our economic plan is the right one. Through stability, investment and reform we are building a stronger and more secure economy.
-Simon Century, National Housing Bank Chief Executive, said:
-From day one, we’ll use deep expertise to back innovative, large-scale delivery — accelerating the supply of high-quality affordable homes and thriving places people want to live.
-The Government also assessed six further New Town locations — Adlington, Heyford Park, Marlcombe (East Devon), Plymouth, South Barking and Wychavon Town — which will not be taken forward as New Towns at this stage but are deemed to be credible development opportunities and may continue to be supported through existing housing programmes. In Plymouth, for example, there is a unique opportunity to bolster the UK’s defence and security sector, and will have its own bespoke support package to unlock its potential as a centre of excellence in naval technology, and to ensure that lack of good quality homes does not act as a barrier to growth.
-Furthermore, an additional £234 million grant fund will support Mayoral Combined Authorities (MCAs) to unlock 8,000 new homes on derelict brownfield land. Areas benefitting from the funding include Cambridgeshire and Peterborough, the East Midlands, Greater Lincolnshire, Hull & East Yorkshire, Tees Valley, West of England and York & North Yorkshire.
-Together, these measures form part of the government’s commitment to ease the housing crisis, supporting first-time buyers, and creating thousands of jobs across construction and related industries.
-Further information:
-The New Towns Taskforce published its report in September 2025, recommending 12 potential locations. The government responded on 28 September 2025.
-A public consultation on proposed locations and draft planning policy is open until Monday 18 May and will be published shortly.
-Final locations will be confirmed later this year after the consultation and Strategic Environmental Assessment and any further required environmental assessment.
-No decisions have been made on the names of New Towns.
-The National Housing Bank is operational from 1 April, with up to £16bn of long-term flexible capital deployable, sitting alongside the new Cities Investment Fund, with up to £1.5 billion available for direct devolution to Mayors.
-Full adviser biographies: Lyn Garner — Chair of London Stadium LLP, former CEO of the London Legacy Development Corporation and New Towns Taskforce member. Ian Piper — CEO of Ebbsfleet Development Corporation since 2017. Emma Cariaga — COO of British Land, previously co-led the Canada Water development. David Rudlin — Founding Principal of Rudlin & Co, visiting professor of urbanism at Manchester School of Architecture and principal author of the National Model Design Code.
-The Brownfield Housing Fund (BHF) is a grant fund to unlock housing supply on brownfield land. This funding is part of our wider National Housing Delivery Fund (NHDF) which will launch in April to deliver funding to support housing delivery across the country. It is directly allocated to Mayoral Combined Authorities (MCAs) to ease the viability issues that brownfield projects face and therefore unlock homes on brownfield land. We have previously announced devolved housing funding for the most established MSAs through their Integrated Settlements. Today a further £234 million has been allocated for Mayoral Strategic Authorities in Cambridgeshire and Peterborough, the East Midlands, Greater Lincolnshire, Hull & East Yorkshire, Tees Valley, West of England and York & North Yorkshire, to unlock 8,000 new homes.
-BIOGRAPHIES
-Simon Century
-Simon Century joined Homes England in 2025 as Chief Investment Officer. He is responsible for leading the agency’s investment strategy and partnerships to accelerate housing delivery nationwide.
-Prior to this, Simon spent nine years at Legal & General as managing director, where he built and grew multiple housing businesses across social and affordable housing, build to rent, senior living, and build to sale, as well as pioneering platforms for modern methods of construction.
-Simon began his career at investment and advisory firm TradeRisks and later joined the affordable housing provider bpha, leading corporate strategy and finance.
-He is a full member of the Association of Corporate Treasurers, holds a certificate in investment management from the Chartered Institute for Securities & Investment, and has a psychology degree from the University of Liverpool.
-Peter Vernon
-Peter Vernon has an extensive senior career in property, regeneration, and management consultancy. He joined the Homes England Board in May 2024 and is Deputy Chair, in addition to chairing Homes England’s Investment Committee.
-Peter is also Chair of Grosvenor Hart Homes. Prior to this he was Group Executive Director of Grosvenor until 2021, having previously served as Chief Executive of Grosvenor Property UK between 2008 to 2017. Prior to Grosvenor he was a Partner with PwC Consulting. He has held Non-Executive Director roles for organisations including The Berkeley Group plc and BusinessLDN. He served as a Trustee of Peabody and a Senior Advisor to Places for London.
-Peter was a member of the Policy Committee of the British Property Federation, the Montague Review of institutional investment in the UK build to rent sector, a commissioner of the City Growth Commission, a member of the Government Estates Regeneration Panel and vice chair of the West End Partnership.
-Additional stakeholder quotes:
-Sir Michael Lyons, Chair of English Cities Fund and SQW Group, and previous Chair of the New Towns Taskforce, said:
-I warmly welcome the government’s decision to progress seven of the locations recommended by the New Towns Taskforce and to continue discussions in the remaining areas.
-The consultation provides an opportunity to reflect on lessons from the past and inform a new generation of new towns that can support sustainable growth and create places of lasting value. This is just the ambitious response we hoped for.
-Tracy Brabin, Mayor of West Yorkshire, said:
-The Leeds South Bank New Town is a once in a generation opportunity to deliver up to 13,000 new homes in one of the UK’s fastest growing cities.
-The development will be supported by the West Yorkshire Mass Transit System and vital investment in Leeds Station, to unlock jobs and opportunity in the heart of the North.
-Alongside our partner Leeds City Council, we will deliver the new, high quality homes and communities that local people need and deserve.
-Helen Godwin, Mayor of the West of England, said:
-The country’s fastest growing regional economy here in the West of England is the perfect place for a new town: Brabazon and the West Innovation Arc. As we continue to create jobs and growth, we need to build the right homes in the right places - with the services and infrastructure that people need.
-Just on Friday, we officially named Bristol Brabazon, the new railway station that will open this autumn to serve this regional Growth Zone. The Housing Secretary also saw the West’s brilliance up close at NCC on Thursday, where we were proud to host the Mayoral Council for the first time.
-In a huge week for devolution, real momentum is building for our region as we work with government and partners across the West of England to deliver change that people can see and feel.
-Mayor of Greater Manchester Andy Burnham said:
-We are glad to see Victoria North getting this backing from the Government. It is one of the UK’s most ambitious regeneration projects right at the heart of its fastest-growing city-region.
-Victoria North will see the building of 15,000 new homes, including many for social rent, alongside high-quality green spaces close to our city centre.
-We believe it is the model of what a new town should be, with modern homes linked to high-quality public transport. Only this week we agreed to invest £60m in a new tram connection for Victoria North from our ground-breaking Good Growth Fund.
-Greater Manchester is ready to deliver a decade of good growth, giving people quality jobs and truly affordable homes, and Victoria North is a crucial part of that.
-Elliot Shaw, Chief Customer and Strategy Officer for National Highways, said:
-We are working with government and other organisations to make sure new towns are well connected from day one.
-Our motorways and major A roads are essential because they link people to jobs, services and opportunities and are vital to thriving communities.
-Peter Vernon, National Housing Bank Chair, said:
-As a Public Finance Institution, the Bank can move quickly and develop solutions that work for communities. We’ll work with partners across the sector to drive delivery at pace.
-Pat Ritchie, Chair of Homes England, said:
-On behalf of the Homes England Board, I am delighted to welcome Peter as Chair and Simon as Chief Executive of the National Housing Bank.
-As part of the Homes England group, the Bank will enhance how we support partners across the country. With Peter’s leadership and Simon’s deep delivery expertise, the Bank is well placed to drive investment and accelerate the homes and places communities rely on.
-Charlie Nunn, Group Chief Executive at Lloyds Banking Group, said:
-Housing is fundamental to economic prosperity, growth and healthy communities. At Lloyds, we play a leading role in financing the housing ecosystem, including supporting the social housing sector with more than £22bn of new finance since 2018, through commercial lending and deal facilitation.
-Building the homes the country needs requires strong public and private sector collaboration, and we look forward to working with the new National Housing Bank to help accelerate the delivery of good quality, genuinely affordable homes across the UK.
+Building 1.5 million new homes also means building high-quality homes that are cheaper to run and warmer to live in.
+As we make the switch to clean, homegrown energy, today’s standard is what the future of housing can and should look like. Not only will these changes protect hardworking families from shocks abroad but will also slash hundreds of pounds off their energy bills every year.
+The Government is also announcing and innovative new approach, predominantly benefiting Scotland and East of England, and launching in time for this winter, enabling energy companies to offer discounted energy bills to customers on windy days, rather than continuing the previous default practice of paying wind turbines to turn off.
+Historic underinvestment in Britain’s electricity grid means wind farms in these areas are being paid to switch off on windy days when the network cannot carry all the clean power they produce. Government will look to bring forward new legislation to ensure more homegrown, clean energy can be passed on as discounted electricity to consumers during these periods.
+Future Homes Standard:
+The Future Homes Standard turns the page on over a decade of failure by previous governments. More than a million homes were built with higher bills following the cancellation of the Zero Carbon Homes standard in 2015 - leaving families exposed to the energy price spike after Russia’s invasion of Ukraine.
+Today we are laying the regulations for the Standard and publishing its details.
+It will put energy in the hands of the British people and help cut bills for good, protecting against fossil fuel price spikes like those triggered by the conflict in Iran.
+“Discounted energy”
+At the moment, wind farms are often paid to switch off on windy days, because the system can’t use all the power being generated, due to historic underinvestment in the grid required to match this supply with demand across the country.
+To tackle these so-called “constraint payments”, we are launching a new, innovative trial, which would mean that using the generated power would become a more cost-effective option compared to turning turbines off.
+This will enable suppliers and flexibility service providers to offer households and businesses in areas with constrained renewable generation discounted power during these periods, so that more of the extra electricity can be used rather than wasted. It will predominantly apply to areas in Scotland and the East of England.
+And it comes ahead of households across the country seeing a significant cut to their energy bills next week, with a £117 reduction coming into effect on 1 April, which will be in place until the end of June, saving families money for years to come, whatever the international situation.
+Georgina Hall, Corporate Affairs Director at Lidl GB said:
+At Lidl GB, we are committed to making sustainable living affordable for everyone and we welcome the Government’s move to modernise regulations in the UK. Updating the regulatory landscape for this ‘plug-and-play’ technology is a positive step towards empowering British households to manage their energy costs and support the nation’s net-zero ambitions.
+Greg Jackson, Founder and CEO of Octopus Energy, said:
+People want to be free of these fossil fuel crises - since the conflict in the Middle East began, interest in solar has shot up 50%, heat pump and electric cars are also seeing surges.
+Every solar panel, heat pump and battery cuts bills and boosts Britain’s energy independence. And the government’s latest steps can help cut the costs of electrification.
+With solar, many homes can produce and use their own electricity, and cut their bills further by selling the excess back to us. With heat pumps and electric cars, their own electricity can slash heating and driving bills - stuff you simply can’t do with gas and petrol.
+And it’s great that the government want to give homes and businesses cheap electricity on windy days instead of paying wind farms to switch off. Once this is permanent, companies and families will be able to invest confidently in electric vehicles, batteries and heat pumps - knowing they’ll be cheap to run.
+Chris Norbury, Chief Executive of E.ON UK said:
+Cutting red tape on plug-in solar is an encouraging move and we will help ensure it works alongside, or as part of, whole-home solutions that genuinely empower people to take control of their energy use and cut bills.
+At E.ON Next, we’re already seeing how powerful that shift can be. Whether it’s giving customers more control through innovative time of use tariffs or helping people get income from generating and storing energy at home via steerable assets, the direction is clear: simplicity, transparency and providing real financial rewards for doing the right thing.
+Pair that with future homes built to a genuinely modern standard that prioritise affordable living and you start to build a system that works with and for people, not around them. The opportunity now is scale and simplicity. If we get that right, this isn’t just policy, it’s progress. It’s how we make new energy work - for everyone.
+Chris O’Shea, CEO, Centrica, said:
+As the UK’s biggest installer of low‑carbon heating, we welcome today’s announcements, including the Future Homes Standard. It’s a chance to ensure new homes come ready for the full benefits of modern energy systems — where low‑carbon heating, solar and smart technology are designed to work together from the start and reduce energy consumption. Our army of engineers stand ready to continue to keep Britain’s homes warm.
+Josh Buckland, Strategy & Policy Director, EDF, said:
+Electrification is fundamental to future proofing the country with homegrown electricity putting Britain back in charge of its destiny and helping keeping bills low for all in the long term. This is why we welcome the Government’s Future Homes Standard and the decision that all new homes will have clean heating as standard. We are also pleased to see the focus on unlocking further investment in solar, offering customers a practical way to reduce both their bills and their impact on the environment.
+Dhara Vyas, Energy UK’s chief executive, said:
+The Future Homes Standard is a landmark moment for clean energy in Britain. New homes built under this standard will benefit from clean heating solutions and solar, protecting households from volatile gas prices and putting energy security within the home itself.
+Combined with higher fabric efficiency standards, these homes will be warmer and cheaper to run – offering real and tangible change in people’s homes.
+Critically, plans for rooftop solar with the possibility for households to export excess energy back to the grid mark a genuine shift in how people can engage with the energy transition, easily allowing them to save money from an increasingly flexible energy system.
+The Future Homes Standard gives businesses the long-term certainty they need to invest in manufacturing, scale up supply chains, and build the skilled workforce that will make the targets set in the Warm Homes Plan a reality.
+Chris Hewett, Chief Executive, Solar Energy UK, said:
+Expanding solar energy and battery storage is a rapid and inexpensive solution to the looming energy crisis – for cutting bills, for the economy and for our nation’s energy security. From the largest installations to the smallest domestic systems, every battery and panel counts towards weaning us off reliance on imported and polluting fossil fuels. That’s why ensuring that new homes and other buildings are built with solar and boosting retrofits is so vital, and so welcome.”
+Charlotte Lee, Chief Executive, HPA UK, said:
+We are delighted to get confirmation that following a transition period, all new homes and buildings will benefit from low carbon heating such as heat pumps and heat networks. Coupled with solar PV, heat pumps and connections to heat networks provide a future proofed solution which will strengthen the UK’s energy security.
+Whilst the sector has been scaling up, with over a quarter of new homes built in the UK in 2025 having a heat pump, this clarity will unlock further investment into the supply chain, supporting thousands of highly skilled jobs, and contribute to the UK’s wider economic growth.
+Dave Sowden, Chief Executive, Sustainable Energy Association (SEA), said:
+We are delighted to see the publication of the Future Homes and Buildings Standard, which will provide much needed clarity for the low carbon heating and energy efficiency sectors. Today’s news will mean that the UK’s future building stock will provide residents with warm, comfortable, efficient, and cost-effective homes for decades to come.
+Additionally, it is encouraging to see the Government recognise exciting low carbon innovations such as plug-in solar. The technology will be welcomed by consumers and businesses as we navigate the uncertain long-term impact on fuel bills due to a range of geopolitical factors.
+Madeleine Gabriel, director of sustainable future at Nesta, said:
+Many households are understandably concerned about paying for rising energy costs in the future because of the volatility of fossil fuel prices. With the government now making it even easier to switch to electricity to heat and power your home, there has never been a better time for people to consider installing solar panels, storage batteries and heat pumps.
+These home upgrades could save a typical household hundreds of pounds on its annual energy bill under current and projected energy prices and allow households to have some relief from the fossil fuel rollercoaster. Ensuring new homes have heat pumps from 2028 will also lock in that protection for future buyers.
+Friends of the Earth’s head of policy, Mike Childs, said:
+For too long households across the UK have been hit by soaring energy bills driven by our dependence on volatile gas and oil markets.
+Making it easier to install plug-in solar panels and ensuring new homes come with heat pumps and solar power is a welcome step that will help protect families from future price shocks.
+But we must go further to end our reliance on fossil fuels, strengthen energy security and cut the carbon pollution driving the climate crisis. That means rapidly expanding the UK’s huge renewable energy potential and helping more people switch to electric heating and vehicles.”
+Aldersgate Group’s Executive Director, Rachel Solomon Williams, said:
+The built environment is one of the most challenging sectors to decarbonise. Including indirect emissions, buildings still account for 23% of the UK’s total carbon emissions. Measures that require homes and commercial buildings to include low-carbon heating and energy efficiency would play an important role in driving the transition.
+To ensure that these measures also contribute to reduced bills for households and businesses, it will be vital to continue work on addressing the rising cost of electricity.”
+Garry Felgate, CEO of The MCS Foundation, said:
+The confirmation that the majority of all new homes in England will have solar panels and low carbon heating systems such as heat pumps is very good news – for energy security, for the UK’s progress toward a carbon-free future, and for the countless households that will benefit as a result.
+What matters now is implementation, and ensuring households have confidence in the technologies their new home will come with. So, it’s vital that housebuilders consider quality and consumer protection, by ensuring every installation is delivered by an MCS certified installer, to MCS standards.”
+Janine Michael, Chief executive at the Centre for Sustainable Energy said:
+The Future Homes Standard is a significant step forward in futureproofing our homes and our energy system. Building solar and low carbon heating into new builds as standard will create jobs, strengthen energy security and cut household bills, accelerating the green transition.
+We also welcome plans to improve access to a wider range of smart tariffs for households generating their own electricity. But the benefits must reach everyone. In particular, it must be easier for lower income and vulnerable households who have had solar panels installed through government-backed schemes to earn income as generators.”
+Elli Moody, Director of Policy and Advocacy at the Campaign to Protect Rural England, said:
+This announcement shows that the government is serious about harnessing the enormous potential of the UK’s rooftops to generate clean, sustainable energy. Mandating solar panels on new homes and making solar more accessible to renters as well as homeowners will deliver meaningful climate action without placing further pressure on iconic landscapes and productive farmland.
+Ed Lockhart, Chief Executive of the Future Homes Hub, said:
+The publication of the Future Homes Standard isn’t just about a change in regulation - it’s a promise to consumers that new homes will be more comfortable, more efficient, and more secure against the volatility of unstable fossil fuel markets.
+Today’s announcement sets the timeline for all new homes to meet these higher standards from 2028. The Future Homes Hub is facilitating partnership across the whole housing ecosystem including sharing solutions between homebuilders, housing associations and developers of all sizes to ensure residents feel the full benefits, starting with the Future Homes Standard Ready campaign.
+Dr Tom Dollard, Chair, Good Homes Alliance said:
+The Good Homes Alliance welcomes the launch of the Future Homes and Building Standard as a positive step towards net zero and low energy homes.  This is a clear improvement for Part L of the building regulations that set targets to ensure all new homes and buildings are built fit for a net zero future, with low carbon heating and solar panels.
+Our industry-leading membership will continue delivering these homes that are more comfortable and cheaper to run.  We welcome the proposed used of HEM as a replacement for SAP after a period of dual running and look forward to working with industry to ensure these new low energy homes are delivered as comfortable, healthy homes.
+We are confident that these standards, especially if used in combination with enhanced ventilation commissioning and low-cost, post-completion testing, such as short duration whole-house heat loss tests, will ensure delivery of both high-quality, energy-efficient homes and the housing supply needed to meet demand.
+Lorna Wallace-Smith, Head of UK Communications for EcoFlow, said:
+Allowing plug-and-play solar is a very positive step for expanding access to renewable energy in the UK. Seeing these systems available in stores by summer would be a major win for households, enabling people to take advantage of the longer, brighter days and start generating their own clean electricity straight away.
+For many households - particularly those living in flats or rented homes - solar has not always been straightforward. Plug-and-play systems remove that barrier, making it far easier to get started.
+Across Europe, similar technologies are already widely used, helping households reduce energy bills while supporting a more resilient, decentralised energy system. Solutions such as EcoFlow STREAM show how people can generate solar power from small outdoor spaces like balconies, gardens or terraces, without complex installation. With clear standards and the right regulatory framework, the UK now has a real opportunity to bring accessible solar to millions more homes - just in time for summer.
+Notes to Editors:
+The Future Homes Standard will introduce a functional requirement to the Building Regulations that new homes, with some exceptions (including high-rise buildings), are built with on-site renewable electricity generation. We anticipate the majority of this will be solar panels.
+The Future Homes Standard will also see homes built with low carbon heating such as heat pumps and heat networks.
+We are also confirming the technical details of the Home Energy Model (HEM), the government’s new, independently quality‑assured methodology that will be, in due course, one of the approved calculation methodologies to demonstrate compliance with the Future Homes Standard, by publishing the HEM:FHS consultation’s Government Response. This will support innovation in new‑build products, best‑practice heat‑pump installation, and recognise smart, zero‑bills technologies.
+The government has also launched a call for evidence on the next steps for the £5 billion Warm Homes Fund, as part of the roll out of the £15 billion
+Warm Homes Plan
+. The fund includes £1.7 billion already allocated to consumer loans for clean energy technology, supported by £300 million capital investment. As set out in the Warm Homes Plan, the remaining £3.3 billion will be available as innovative finance for investments and loans in the building upgrade and retrofit sector, including £600m to be allocated to support low-income homes. The government is engaging with the industry on the options for this investment and further details will be published later this year.
+The government will work with the Energy Networks Association, DNOs and Ofgem to update the G98 distribution code and wiring regulations BS 7671 to allow UK households to connect <800W plug-in solar panels to domestic mains sockets, without the need for an electrician and with tailored safety standards.
+Bundesverband Steckersolar analysis of Germany’s national network regulator (Bundesnetzagentur) data suggests 426,269 registrations of balcony solar systems in Germany in 2025:
+https://bundesverband-steckersolar.de/wp-content/uploads/2026/01/MaStR-2025.pdf
+. Registrations are likely to undercount sales.
 
 ---
 
-### New school nurseries to help cut childcare costs in poorest areas
+### The UK will not cease in our support for Ukraine and its people: UK statement at the UN Security Council
 
 - **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/new-school-nurseries-to-help-cut-childcare-costs-in-poorest-areas
-- **Published Date:** 2026-03-22
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 1001
-- **Unique ID:** `adaa2ce1f49e5619`
+- **URL:** https://www.gov.uk/government/speeches/the-uk-will-not-cease-in-our-support-for-ukraine-and-its-people-uk-statement-at-the-un-security-council
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 318
+- **Unique ID:** `1236fec09df6b60d`
 
 #### Content:
 
-In the latest drive by the government to bear down on the cost of living, thousands more parents will save on childcare costs as the government expands childcare to over 300 more schools from September.
-School-based nurseries are already providing a lifeline for families. Combined with the government’s 30 hours of funded childcare,
-they are cutting childcare costs in half for working families
-, making the school run simpler with fewer drop offs during busy mornings, and helping parents return to work.
-A further 331 schools across the country have been
-successful in applying for a share of £45 million funding to build or expand nurseries on their site
-. The new nurseries will add to the vibrant childcare market and create over 6,000 more childcare places for children from St Ives to Gateshead, on top of the up to 6,000 already being delivered from the first phase of the programme.
-New figures published today show almost a million parents now use the government’s funded childcare offer. But the data also reveals lower take-up in poorer communities, highlighting the need to target new places where families face the biggest barriers to accessing childcare.
-School-based nurseries already play a major role in filling those gaps,
-making up around 35% of childcare provision in the most deprived areas, compared with 16% in the least deprived
+It is over four years since Russia launched its illegal, full-scale invasion of Ukraine, in direct violation of the UN Charter.
+It is a war that demands this Council’s sustained attention.
+In February, Russia fired 280 missiles at Ukraine, the highest monthly total of the entire war.
+And since 28 February, Russia has fired over 3,200 drones at Ukraine.
+This is roughly as many as Iran, who supplied so many of these drones to Russia, has fired at all its neighbours combined in the same period.
+Russia is now firing over 5,000 drones per month at Ukraine, five times higher than in 2024.
+The burden on Ukrainian civilians is immense.
+There have been over 50,000 Ukrainian civilian casualties, and over 15,000 killed since Russia started its war.
+Waves of attacks on its electricity and heating infrastructure in the depths of winter.
+Russia has also sought to systematically erase Ukrainian identity, including through the forcible deportation and indoctrination of thousands of Ukrainian children, acts that earlier this month, the Independent Commission of Inquiry concluded constitute crimes against humanity.
+Russia could end this war today.
+We repeat this because it remains true.
+Ukraine agreed in principle to a full, immediate, and unconditional ceasefire 12 months ago.
+If Russia is serious about peace, we call upon it to agree the same and to engage in meaningful negotiations towards a just and lasting peace.
+Ukraine remains committed to US-led diplomatic efforts to achieve a just and lasting peace, in line with the UN Charter.
+But in return, Russia has only dragged out talks, issued ultra-maximalist demands, and intensified its assault.
+Mr President, the UK fully supports the diplomatic efforts of our US colleagues to secure a peace that guarantees Ukraine’s long-term security, sovereignty, and prosperity.
+We call on Russia to end its war of choice, immediately and without pre-conditions.
+The UK will not cease in our support for Ukraine and its people.
+
+---
+
+### Readout: COBR(M)  – Iran economic and domestic impacts: 23 March 2026
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/readout-cobrm-iran-economic-and-domestic-impacts-23-march-2026
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 392
+- **Unique ID:** `00f2636daec9a69c`
+
+#### Content:
+
+The Prime Minister chaired a COBR(M) meeting today, focussing on the domestic economic impact of the ongoing situation in the Middle East.
+The Chancellor, the Governor of the Bank of England, the Energy Secretary and others updated on the situation – all making clear that the best thing we can do for the economy is to de-escalate and bring the conflict to an end.
+This is the priority for the Prime Minister, who told the Liaison Committee earlier today:
+“We need to deescalate and bring an end to the conflict as quickly as possible…
+“I welcome the talks reported between the US and Iran.
+“We the UK were aware that was happening and the immediate priority has to be a swift resolution of the conflict and delivering a negotiated agreement which puts tough conditions on Iran, particularly on nuclear weapons.
+“We are holding COBR this afternoon on the economic impact.”
+The Chancellor set out the steps she will take tomorrow – in a statement to Parliament – that will help protect working people from unfair price rises.
+She spoke about a plan to detect and crack down on companies if they exploit the crisis in the Middle East.
+This will take the form of a new anti-profiteering framework which will help regulators like the CMA to root out price gouging.
+This comes after the Prime Minister announced he is looking at giving the Competition and Markets Authority “further teeth” so it can better protect customers from being ripped off.
+Speaking at the Liaison Committee, Keir Starmer said the government would: “look at what further teeth we can give the CMA to deal with this”.
+He told MPs:
+“We are looking at measures to deal with profiteering, I’ve already asked the CMA to look at this…
+“On price gouging or profiteering, we absolutely need to bear down on it, so we are actively considering whether the CMA should have additional powers to deal specifically with that.
+“But at the moment, we are making sure they are focused on anti-profiteering steps they can take now.”
+As part of that, the government will not hesitate to introduce new time-limited, targeted powers for the CMA and other key regulators if that is needed.
+The exact powers are being worked through at pace with the Treasury, Department for Business and Trade, and key regulators including the CMA.
+
+---
+
+### Government outlines reforms of Industry Training Boards to boost construction and engineering skills
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/government-outlines-reforms-of-industry-training-boards-to-boost-construction-and-engineering-skills
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 415
+- **Unique ID:** `72eb088ff7cf9f7f`
+
+#### Content:
+
+Plans to establish a single Industry Training Board by merging construction and engineering boards in latest move to simplify the skills system and strengthen industry leadership.
+Reforms designed to improve workforce planning, productivity and better meet employers’ skills needs.
+12-week consultation, launched today, seeks views from employers, training providers and stakeholders across England, Scotland and Wales.
+Industry voices and stakeholders are being asked to shape the future of skills training as a new consultation proposes the merger of construction and engineering training boards.
+This consultation is the latest step in the Government’s drive to future-proof the skills of the workforce and unlock the economic growth the country needs.
+The plans will create a single Industry Training Board (
+ITB
+), uniting the Engineering Construction Industry Training Board (ECITB) and the Construction Industry Training Board (CITB). This will simplify the skills system, strengthen industry leadership and give employers a clearer, stronger voice in shaping the workforce they need.
+Bringing the two boards together will mean more training, better use of funding and clearer routes into skilled work. Employers will find it easier to get the workers they need, and more people will have the opportunity to build a career in construction and engineering.
+Work and Pensions Secretary Pat McFadden said:
+“Construction and engineering are the backbone of this country. Their workforces build our homes, power our communities and lay the foundations for growth.
+“We are committed to giving the next generation the high-quality, employer-led training that leads to real jobs and real careers.
+“That’s why we are working hand in hand with the sector, ensuring employers get the skilled workforce they need to drive productivity, deliver infrastructure and power our clean energy future.”
+These changes will ensure the UK can deliver on its priorities including building 1.5 million homes, upgrading existing housing to make it warmer and more affordable to heat, and delivering the clean energy infrastructure needed to power economic growth. This will strengthen how industry and government work together to plan and deliver skills, helping employers recruit and retain the talent they need.
+Construction and engineering employers are already responding to rising demand and rapid change. A single
+ITB
+will support this effort by improving coordination, aligning training more closely with labour market needs and driving productivity across the sector.
+The government is inviting views from employers, training providers and stakeholders across England, Scotland and Wales with the consultation closing on Sunday 14 June 2026.
+Further details and how to respond are available
+here
+
+---
+
+### Security Minister statement: Hatzola ambulance attack
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/speeches/security-minister-statement-hatzola-ambulance-attack
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1105
+- **Unique ID:** `894398062db0cb07`
+
+#### Content:
+
+With your permission, Madam Deputy Speaker I will make a statement on the abhorrent arson attack in Golders Green, north London.
+I will begin with the facts as they are currently known.
+At around 01:45hrs this morning the Metropolitan Police and the London Fire Brigade were called to reports of a fire on Highfield Road, Golders Green.
+Officers attended the scene, where four ambulances from Hatzola –  a volunteer-led ambulance service run by members of the Jewish community – were on fire.
+The attack occurred in the car park of a local synagogue, where Hatzola’s vehicles for this area are based.
+Now Madam Deputy Speaker I can tell the House, the vital work of this organisation will continue uninterrupted, with its highly trained volunteers responding to calls as steadfastly as ever.
+The government is determined to deliver justice for this cowardly attack. Of course, we fully support the police in bringing the perpetrators to account and we are equally committed to ensuring that Hatzola suffers no lasting impact as a consequence.
+As the Secretary of State for Health has confirmed, four replacement ambulances will be in place by tomorrow morning, and government will fund permanent replacements to ensure this essential service remains strong and fully equipped.
+Nearby houses were evacuated as a precaution, with residents allowed to return quickly to their homes.
+Thankfully, no injuries occurred.
+Now Madam Deputy Speaker, the House will be aware that police are treating this arson attack as an antisemitic hate crime.
+The investigation is now being led by Counter Terrorism Policing, although I should emphasise that this has not been declared a terrorist incident at this stage.
+No arrests have been made. I take this opportunity to urge anyone with information about the incident to contact the police.
+Officers are aware of an online claim from a group taking responsibility for this attack, and establishing the accuracy of the claim is a priority for the investigation team.
+As the Home Secretary has already told the House, support for the Jewish community in London is being stepped up.
+The police have the unshakeable backing of this government, and I am sure the whole House, in their effort to find the perpetrators of this awful crime, who should be in no doubt whatsoever that they will be pursued, and made to face the consequences.
+I also wish to echo the Home Secretary’s words of thanks to the police and fire services for the speed and professionalism of their response, which was vital in averting an even worse outcome.
+Shocking though it was to wake to this morning’s developments, I know that for many this outrage will not have come as a surprise  – occurring as it has at a time of profound distress and vulnerability within our Jewish communities.
+Now given the vicious torrent of antisemitism that was unleashed following the October 7 attacks a dreadful manifestation of which we saw, to our horror, in Manchester last year, when Heaton Park Hebrew Congregation Synagogue was the subject of a sickening act of terrorism on Yom Kippur.
+Today, as at that profoundly difficult moment, and as in the aftermath of the subsequent atrocity on Bondi Beach in Sydney, we declare once more that we stand with our Jewish friends, colleagues and neighbours. And with the oldest hatred on the rise, we assert our unwavering commitment to defeat it.
+The Prime Minister has been clear that his government will lead the way – including through a relentless national security effort – which is being mounted around the clock by MI5 and the police, who have our full backing in their work to detect and disrupt plots against the Jewish community in our country.
+While those activities must necessarily take place away from view, our willingness to take strong and decisive action when threats present themselves has been underscored again in recent weeks – with three men jailed over a foiled terrorist plot targeting the Jewish community in Greater Manchester.
+And a separate investigation into suspected surveillance of locations and individuals linked to the Jewish community in the London area, which resulted in 2 men being charged last week under the National Security Act.
+While the state’s national security and law enforcement apparatus retains a relentless focus on this threat, such is its perseverance and potency, that we have a responsibility to do more.
+It is a terrible indictment that we should need to do this. But we must and we are.
+In fact, the demand for extra measures and precautions – such as those provided so expertly by the Community Security Trust – is only intensifying.
+That is why, in the wake of the Manchester attack, we increased funding available via the Jewish Community Protective Security Grant to a record £28 million – a level we are maintaining in the next financial year.
+We are also strengthening police powers for dealing with repeat protests, which have been a source of concern for many within the Jewish community.
+And the Home Secretary has commissioned Lord Macdonald KC of River Glaven to undertake a review to consider how public order laws can be improved to keep hate and intimidation off our streets.
+But we can only prevent the manifestations of this evil if we address the cause, by tackling the very existence of antisemitism in this country.
+That means adopting and enforcing a posture of zero tolerance in every part of society.
+The Online Safety Act will compel tech platforms to protect UK users from illegal antisemitic material. Meanwhile, we are acting to drive antisemitism out of the NHS – with stronger mandatory training and an urgent review led by Lord Mann.
+In recognition of the critical importance of education in preventing young minds from being polluted, we have committed £7 million to combat antisemitism in schools, colleges and universities – and launched a review led by Sir David Bell into antisemitism in schools and colleges, which is expected to conclude this autumn.
+We do all of this, and more, Mr Speaker, because it is right.
+Because it is our responsibility.
+And because, as the Home Secretary has repeatedly made clear, no one should have to live a smaller Jewish life in this country.
+I will finish, Madam Deputy Speaker, by addressing our Jewish community directly.
+Whether you live here in London or in any other part of the United Kingdom, please know that we stand with you.
+We are here for you, and we will do everything in our power to keep you and your family safe.
+Not just today, after this appalling incident, but every day.
+I commend this statement to the House.
+
+---
+
+### Summoning of the Iranian Ambassador to the United Kingdom: FCDO statement
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/summoning-of-the-iranian-ambassador-to-the-united-kingdom-fcdo-statement--3
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 125
+- **Unique ID:** `ff9f61f363ca47fe`
+
+#### Content:
+
+An FCDO spokesperson said:
+Today, upon instruction from the Foreign Secretary, the Ambassador of the Islamic Republic of Iran to the United Kingdom was summoned to the Foreign, Commonwealth & Development Office. His Excellency Seyed Ali Mousavi was summoned by the Minister for the Middle East, Hamish Falconer.
+The summons follows the recent charging of two individuals, one Iranian national and one British-Iranian dual national, under the National Security Act, on suspicion of providing assistance to a foreign intelligence service.
+National security remains our top priority, and we take threats posed by Iran and those who do its bidding extremely seriously. This government will take all measures necessary to protect the British people, including exposing Iran’s reckless and destabilising actions at home and abroad.
+[CONTACT:3939]
+
+---
+
+### Sir Robert Buckland KC appointed to review the death of Sir David Amess
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/sir-robert-buckland-kc-appointed-to-review-the-death-of-sir-david-amess
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 362
+- **Unique ID:** `52b830103700f578`
+
+#### Content:
+
+Sir Robert Buckland KC has been appointed to lead an independent review to explore any missed opportunities that could have prevented the murder of Sir David Amess.
+The Home Secretary has appointed Sir Robert Buckland KC, who was previously Lord Chancellor and Secretary of State for Justice and Solicitor General for England and Wales, as well as having a distinguished legal career as a barrister.
+Sir Robert will now seek to meet with the Amess family in order to establish the terms of reference for the review.
+Home Secretary, Shabana Mahmood, said:
+Sir David Amess was a hugely respected parliamentarian, who served his constituents and country with distinction. His tragic murder casts a long shadow over all of us who serve as MPs.
+I have met with the Amess family and admire their resilience amid such tragic circumstances. I have appointed Sir Robert Buckland KC, an eminent legal mind, to carry out an independent review and help the family seek the answers they need.
+Sir Robert Buckland KC said:
+The horrific murder of Sir David Amess in October 2021 shook the entire nation. As someone who, like Sir David, held regular open surgeries in my constituency, and who had known and worked with him in Parliament for over a decade, it made a deep and profound personal impact that lives with me to this day.
+I have accepted an invitation to conduct this independent review because I want to ensure that everything possible is done to fully identify the facts and circumstances that led up to this outrage, as Sir David’s family and all of us who care deeply about our parliamentary democracy rightly demand.
+While this will be subject to agreement, it is expected that the terms of reference will seek to address any unanswered questions the Amess family have regarding the murder of Sir David Amess.
+The reviewer will engage relevant experts and draw upon extant material from the trial of Sir David’s murderer and from reviews which have previously taken place, including the initial Prevent learning review and the Independent Prevent Commissioner’s review published in July 2025.
+More details on the terms of reference will be published once established.
+
+---
+
+### England recovered from drought as weather whiplash sees floods
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/england-recovered-from-drought-as-weather-whiplash-sees-floods
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1327
+- **Unique ID:** `ac4a99772764a986`
+
+#### Content:
+
+Four months of above average rainfall mean England’s water levels have now largely recovered from last year’s drought, the National Drought Group heard today.
+East Anglia today (Monday 23rd March) became the final area to move out of recovery, with all regions in England now classed at normal status.
+The expert group noted that while this is positive for water supplies, exceptional levels of rain have caused devastating flooding in many communities.
+Our changing climate means we will likely experience more rapid swings between drought and flooding – sometimes referred to as weather whiplash.
+The risk of drought in 2026 is currently low but there remains the possibility of a flash drought – brought about by a sudden combination of very low rainfall and hot temperatures, like we experienced in 2022.
+National Drought Group chair and Director of Water at the Environment Agency, Helen Wakeham, said:
+Last year’s drought was challenging for everyone, affecting our farmers, our wildlife, and our public water supplies.
+The winter rainfall has helped our depleted reservoirs and rivers to recover and, while we welcome the improved picture, we are mindful of the problems that flooding brings too.
+We enter spring in a favourable position, but we can never be complacent. We expect water companies to carry on quickly fixing burst pipes and to be ready to enact their drought plans in a timely manner, if needed.
+The National Drought Group includes the Met Office, government, regulators, water companies, the National Farmers’ Union, Canal & River Trust, anglers, hydrologists, and conservation experts.
+Each share their current water situation, ongoing research and innovation, areas of concern, and preparations for future drought – so all can work together to protect our precious and finite resources.
+The meeting heard that water companies are finalising their statutory drought plans, which are produced every five years and detail how public supplies and the environment will be protected during dry weather.
+Alongside this, the Government recently gave additional guidance to water companies for beefing up their contingency plans should a region enter severe drought – last experienced in England half a century ago in 1976. Measures could include daily limits, reduced water pressure, or business restrictions to ensure the taps remain on.
+After attending the National Drought Group meeting,  Water Minister Emma Hardy said:
+Despite our recent wet weather, we must still talk about drought. Our climate is changing, droughts are becoming increasingly common, and we need to be prepared.
+We expect water companies to update their draft statutory drought plans by the end of March and plan for more extreme dry weather – in the hope it never comes.
+In the longer-term, the Government is taking decisive action to secure supplies, including nine new reservoirs, multiple water transfer schemes, and eight desalination projects.
+CURRENT WATER SITUATION:
+February received 170% of the long-term average (LTA) rainfall. March to date rainfall is 53% of the long-term average for the month
+Reservoir storage for England is now 95% which is slightly above average for this time of year.
+Abberton and Hanningfield reservoirs in Essex, Grafham reservoir in Cambridgeshire and the Dove Group in Derbyshire are still below average for this time of year.
+Soils are now fully replenished across the country, with no deficits remaining.
+Groundwater and river flows are now normal or above across England. See more here:
+Water situation reports for England - GOV.UK
+All areas are out of drought and there are no water company restrictions in place.
+It is a mixed picture across England, however. The south-west recorded the second highest December to February winter rainfall since records began in 1871, which has caused widespread flooding.
+In contrast, despite a wet start to the year, East Anglia’s river flows and groundwater levels have been slower to recover from last year’s drought. This meant delays for some farmers in refilling their on-site reservoirs ahead of the irrigation season.
+To ensure resilience to more extreme weather, the Government announced last week more than 600 projects that will be funded as part of a £10.5billion flood defence programme.
+The Floods Resilience Taskforce also recently met in Manchester to assess the impact of recent winter storms and to accelerate action to protect communities.
+Meanwhile, National Drought Group members also spent the winter preparing for the spring and summer ahead.
+ACTIONS TAKEN:
+Water companies continue to drive down leaks to meet a commitment to halve the amount lost by 2050.
+Farmers have been saving winter rainwater, where possible, in reservoir storage.
+The Government continues to progress mandatory water efficiency labelling in white goods, such as washing machines to help consumers reduce their water use.
+The Canal & River Trust has been undertaking vital maintenance work on its network, including replacing lock gates.
+The Environment Agency has continued to monitor recovery and reviewed the overall response to 2025 to improve preparedness for future droughts.
+The Environment Agency’s Chief Scientist’s Group continues its work with The Alan Turing Institute on river flow modelling.
+As we now enter spring, the weather is forecast to be mostly dry for the rest of March. The Met Office forecast indicates that conditions will be drier than average for the rest of March albeit with the usual regional variations.
+Head of Environment and Energy at the Met Office, Sarah Davies, said:
+High pressure is expected to dominate across the UK through to the end of March, keeping conditions mostly fine and dry with limited rainfall, and temperatures near or slightly above average.
+As we head into early April, there are some early signs the weather could become more changeable, however, there is still no strong indication at this time of a shift towards significantly wetter conditions.
+We continue to work closely with the Environment Agency and other partners to monitor conditions and support preparedness efforts as we move through spring.
+The 50‑year anniversary of the 1976 drought will also be marked this summer through sector‑wide events reflecting on lessons learned and future resilience.
+NOTE TO EDITORS:
+DROUGHT, FLOOD AND WATER RESOURCES:
+See more on the 2025 drought here:
+2025 drought: how it developed in England - GOV.UK
+See more on the latest flood investment:
+£1.4bn flood investment unleashed to protect homes and businesses - GOV.UK
+England faces water shortages of five billion litres a day by 2055. Read more here:
+National Framework for Water Resources 2025: water for growth, nature and a resilient future - GOV.UK
+2025 AND 2026 LONG-TERM AVERAGE RAINFALL STATISTICS:
+2025:
+Jan                             112%
+Feb                             79%
+Mar                             25%
+Apr                              50%
+May                             57%
+Jun                              80%
+Jul                               89%
+Aug                             42%
+Sep                             149%
+Oct                              90%
+Nov                             149%
+Dec                             114%
+2026:
+Jan                              150%
+Feb                              170%
+WATER SAVING TIPS:
+Whatever the weather, we always need to use water wisely to protect current and future supplies. We can:
+Opt for a low-flow shower head: These use around 6 litres per minute, compared to a standard shower head, which uses 10-15 litres per minute. Over a 10-minute shower, that’s a saving of up to 90 litres of water.
+If you don’t have a dual flush, get a Cistern Displacement Device (CDD) from your water company: This simple tool can reduce each toilet flush by at least 1 litre and is often available for free from water companies. Find out more on your water company’s website
+In the kitchen avoid pre-rinsing dishes – scrape them instead, as modern detergents are designed to work effectively without extra rinsing and use a washing-up bowl to catch excess water -this can reduce wastage by up to 50%
+Fill your washing machine to its recommended load size for the most efficient use of water.
+Know your house plants and how much water they really need during cooler winter months – try not to over water.
+Install a rain butt to collect rainwater to use in the garden to use when the warmer weather returns.
+Turn off the taps when brushing teeth or shaving.
+Take shorter showers.
+Fix a leaking toilet – leaky loos can waste 200-400 litres a day.
+
+---
+
+### YJB Board Member becomes Victims’ Commissioner Chief Executive
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/yjb-board-member-becomes-victims-commissioner-chief-executive
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 513
+- **Unique ID:** `cccb25038cac1d90`
+
+#### Content:
+
+Susannah brings a wealth of leadership experience and expertise across youth justice, emergency services and victims’ services. She has previously served as Chief Executive of the National Fire Chiefs Council and the Association of Police and Crime Commissioners, working closely with partners across emergency services, criminal justice and victim-focused organisations to drive public service transformation.
+Susannah previously held the role of Head of London at the YJB before moving to the charity Victim Support as Assistant Chief Executive. There, she led national work on partnerships, performance and strategy, working closely with local and national victims’ service organisations.
+Susannah Hancock, YJB Board member, said:
+My new role as Chief Executive of the Office of the Victim’s Commissioner compliments the lead responsibility I hold for Victims in Youth Justice as a YJB board member - a role I am pleased to be continuing.
+Through my work with the YJB, I see first-hand it is crucially important both to respond to children in the justice system in a way that recognises their needs and potential and never to lose sight of the voice and needs of victims and the harm caused to them. Strengthening the evidence base, improving practice and building confidence in how we respond to harm are priorities that cut across both roles. Ultimately if we can prevent and reduce offending by children, there will be fewer victims, which is a key outcome across the youth justice system.
+Many children who enter the justice system are themselves victims. Understanding this can help to bridge perspectives. By working together across youth justice and victims’ services partners, we can better support children, better support victims of crime and ultimately create safer communities.
+Stephanie Roberts-Bibby, Chief Executive of the YJB, said:
+I am very pleased to see Susannah take up such an important role in the Office of Victims Commissioner. Susannah has brought a strong and thoughtful focus to victims’ issues through her work with the YJB, and her continued role as our board lead for victims will ensure these perspectives remain central to our work.
+At a time when the youth justice system is evolving, maintaining strong partnerships and a clear focus on evidence and outcomes for children, victims and communities is more important than ever.
+Susannah’s insight across both roles will help strengthen that connection and better support our collective ambition to deliver a system that responds effectively to the needs of victims while continuing to improve outcomes for children.
+Phil Bowen, Interim Chair of the YJB board, said:
+I congratulate Susannah on her new appointment. Her deep commitment to ensuring that victims’ voices are heard and understood has been evident throughout her work with the YJB.
+We are pleased Susannah will continue to serve on the YJB Board with lead responsibility for victims as her perspective remains an important part of our work as we continue to support the sector to navigate the period of change that is in front of us. Consistency of leadership and shared purpose across the system will be vital as we build on what works to create safer communities.
+
+---
+
+### Precautionary recall of Hibiwash due to microbial contamination
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/precautionary-recall-of-hibiwash-due-to-microbial-contamination
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 416
+- **Unique ID:** `eea38271d4bd1ffc`
+
+#### Content:
+
+As a precautionary measure, Mölnlycke Health Care is recalling three batches of Hibiwash, an antimicrobial wash, due to microbial contamination at the manufacturing facility.
+Contamination with Burkholderia cepacia was identified during routine weekly monitoring, but there have been no reports of patient harm.
+The risk from Burkholderia cepacia is very low for most people, but some patient groups are at a higher risk and may be more vulnerable to infection. This includes patients who have cystic fibrosis or are awaiting lung transplant. There have currently been no confirmed cases of Burkholderia cepacia infection in patients from the affected batches.
+Healthcare professionals and retailers should stop supplying Hibiwash with batch numbers 5156042, 5156043, and 5156093 and return all remaining stock to suppliers. Patients should check for the batch number on the bottle and those who have an impacted batch of Hibiwash should stop using it. Patients with cystic fibrosis or who are awaiting lung transplant who have been supplied with Hibiwash since 10 February 2026  will be contacted directly to check if they have an impacted batch. If you have not been contacted directly, then contact the team responsible for your care. .
+Alternative chlorhexidine gluconate 4% washes are available and are not impacted by this recall.
+Shareen Doak, Deputy Director, Benefit-Risk Evaluation, at the Medicines and Healthcare products Regulatory Agency (MHRA) said:
+“If you have Hibiwash, check the packaging for batch numbers 5156042, 5156043 or 5156093 and stop using it. These batches could be contaminated with Burkholderia cepacia and should be taken to a pharmacy for safe disposal.
+“Please be reassured that there have been no reports of patient harm associated with this microbial contamination, and this recall is being carried out as a precaution.
+“If you have used the product and are concerned that you may be vulnerable to infection or have experienced an adverse reaction, please seek medical advice.
+“Any suspected adverse reactions can be reported to the MHRA through the MHRA’s
+Yellow Card Scheme
+scheme.”
+Notes to editors
+Please see
+MHRA’s Class 2 recall
+for further information.
+This recall impacts around 50,000 units of Hibiwash
+The MHRA is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.
+The MHRA is an executive agency of the Department of Health and Social Care.
+For media enquiries, please contact the
+newscentre@mhra.gov.uk
+, or call on 020 3080 7651.
+
+---
+
+### UK Government commits up to £9m to support Mossmorran's future
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/uk-government-commits-up-to-9-million-to-support-mossmorrans-future
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 308
+- **Unique ID:** `8e8e97199c9163a2`
+
+#### Content:
+
+The UK Government has pledged up to £9 million to support the future of the Mossmorran site and help protect Fife’s wider economy following the ethylene plant’s closure.
+The investment, announced by Scottish Secretary Douglas Alexander, is designed to help secure a successful future for the site and support the local economy and communities affected by the closure. Funding is contingent on suitable investment proposals being brought forward and approved, and appropriate commercial partners being identified.
+The announcement was made as the Fife Council-led taskforce met today [23 March 2026], bringing together local elected representatives, employers, Fife Council and the Scottish Government to support the plant’s workforce into well-paid future employment.
+The UK Government has already taken a number of steps to support Mossmorran workers, including:
+Actively marketing the site to potential investors. With its industrial heritage, skilled local workforce, and proximity to other large energy and defence companies, we believe Mossmorran can be an attractive site for future investment.
+Guaranteeing all Mossmorran workers a job interview at the Grangemouth plant (which is supported by a £120 million UK Government investment).
+Today’s commitment builds on this work and signals the UK Government’s determination to go further in supporting workers, families and communities across Fife.  Last year we supported the acquisition of Harland & Wolff by Navantia, securing the future of its Fife yard, and last year committed £340 million to Rosyth Dockyard.
+Scottish Secretary Douglas Alexander said:
+The UK Government stands ready to invest up to £9 million in Mossmorran’s future. We know this has been an incredibly difficult time for the plant’s workers and their families, which is why the UK Government is stepping in.
+We are determined to do all we can to look after the plant’s workers,  ensure a successful future for the site itself, and so mitigate the impact on the wider Fife community.
+
+---
+
+### Welsh steel industry backed with new trade measure and strategy
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1080
+- **Unique ID:** `49769130ff7efe8d`
+
+#### Content:
+
+Landmark new Steel Strategy shows that UK Government is standing up for Welsh steelmaking and will do whatever it takes to boost domestic steel production and protect the thousands of steelmaking jobs in Welsh communities.
+UK Government will introduce tough new trade measures to protect and promote domestic steelmaking and reduce our reliance on overseas suppliers with Welsh producers like Tata Steel and 7Steel to benefit.
+New target for 50% of steel used in Britain to be made in Britain, boosting production from 30% and Welsh steel expected to account for half of future UK steelmaking.
+UK Government allocating an additional £5.8bn to the National Wealth Fund to invest in its priority sectors, including Welsh steel which builds on the over £600m invested in Port Talbot by this government, protecting 5,000 skilled jobs.
+UK steel producers and thousands of steel workers in Wales will benefit from a new landmark Steel Strategy as the UK Government takes bold action to protect domestic steelmaking and the wider supply chain for critical national infrastructure and defence.
+On a visit to Tata Steel Port Talbot to meet steelworkers and launch the Strategy, the Business and Trade Secretary Peter Kyle announced the Government’s ambition to boost domestic production so that it can meet up to 50% of our domestic demand for steel, and secure the industry’s role in supporting vital UK sectors like infrastructure, defence and clean energy.
+Building on the direct financial support the government has made so far, the National Wealth Fund will be the government’s main mechanism for providing up to £2.5 billion of financing for investment in the steel sector this Parliament. The Steel Strategy forms a vital part of the Government’s activist and strategic approach to British industry, taking decisive action to give businesses the certainty and support they need in uncertain times and bolstering the UK’s resilience.
+Today, the UK also announces that from 1 July 2026, overall quota levels for steel imports will be significantly reduced by 60% compared to current arrangements, and steel coming into the UK above these levels will be subject to a 50% tariff.
+The robust new measure is a vital step to protect Welsh steel production in the face of global steel overcapacity. It will apply to imported steel products that can be made in Britain. Welsh steelmaking is expected to account for half of future UK steelmaking, via producers including Tata Steel in Port Talbot, Shotton, Llanelli and Newport and 7Steel in Cardiff.
+The Government will also introduce a target to boost domestic production so that it can meet 50% of our domestic demand for steel and secure the industry’s role in supporting vital UK sectors like infrastructure, defence and clean energy.
+The UK Government will allocate an additional £5.8bn to the National Wealth Fund to invest in steel and related, priority sectors.
+Welsh Secretary Jo Stevens is to convene new initiative with the NWF and the private sector to unlock new investments into Welsh steel and related Welsh industries. This builds on the over £600m already allocated to Port Talbot by this Government.
+This vital intervention by UK Government comes alongside critical support for Welsh steel producers’ energy costs through the British Industrial Competitive Scheme and the British Industry Supercharger. The £122m funding from UK Government and Tata through the Port Talbot Transition Board has helped thousands of workers and hundreds of businesses with the transition to EAF-steelmaking.
+Business and Trade Secretary Peter Kyle said:
+Making steel in the UK is vital for national security, critical infrastructure and the wider economy. Steel-making is a cornerstone of our modern industrial policy that deliberately focuses support for key industries, technologies, and strategically important sectors.
+With this strategy we are closing the decades-long chapter of destructive de-industrialisation and committing instead to strengthening and sustaining Britain as a steel-making nation.”
+Secretary of State for Wales Jo Stevens said:
+The UK Government is standing up for Welsh steelmaking and showing that we will do whatever it takes to boost domestic steel production and protect the thousands of steelmaking jobs in our communities.
+Welsh steel is expected to account for half of future UK steelmaking. It is not only a vital part of the South Wales economy, but also a crucial part of the UK’s industrial strategy, infrastructure capabilities and national security.
+We said we would back our steelworkers and steel communities and we are delivering on that promise - Welsh steelmaking now has a secure and bright future.
+The new Steel Strategy also commits to:
+Confirm electric arc furnaces (EAF), like that being built in Port Talbot, as the future of British steelmaking, continuing the shift from blast furnaces to cleaner, EAF-based production using recycled scrap to support net zero.
+Enable offshore wind developers to include steel manufacturers in the next round of Clean Industry Bonus applications (launching this year) to maximise UK steel use in renewables.
+Launch a cross-government working group to secure a sustainable supply of scrap metal for UK steelmakers.
+Task the Steel Council with action on workforce needs and practical research and innovation to boost productivity and competitiveness.
+Alongside the new trade measure being announced today, the Government will also be raising the UK’s maximum Most Favoured Nation (MFN) steel tariffs at the WTO to 50% to protect domestic industry in the long run from the impacts of global overcapacity.
+This approach reflects feedback from government’s recent Call for Evidence, aligns with the UK’s Industrial Strategy and Trade Strategy, and follows months of engagement with UK steel producers and downstream industries.
+In tandem, the Government will explore the possibility of introducing requirements to identify where steel imports are melted and poured, in order to better understand our supply chains and ensure the UK steel industry is better protected from global overcapacity.
+The new measure is not about stopping steel trade: steel imports are necessary for industry and will continue. Quota allocations have been carefully designed through engagement with industry to help maintain security of supply and minimise impacts on the wider economy, such as for automotive manufacturing and construction.
+The UK remains committed to working with international partners to tackle global steel challenges, including through the Global Forum on Steel Excess Capacity and efforts to advance WTO reform.
+Further good news for the UK’s steel sector will be unveiled later today during the Nigerian State Visit, with a record-breaking new deal backed by UK Export Finance worth £70 million, for British Steel to supply the redevelopment of two of Nigeria’s trading ports.
+
+---
+
+### Transport Secretary tasks HS2 with reducing construction time and cost to taxpayers
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/transport-secretary-tasks-hs2-with-reducing-construction-time-and-cost-to-taxpayers
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 755
+- **Unique ID:** `c0152c0df1b1f127`
+
+#### Content:
+
+government tells
+HS2
+Ltd
+to consider options that could save billions and bring the railway into service sooner
+the ongoing review will consider how to get passengers on trains sooner and deliver some of the fastest high-speed trains in Europe
+scheme supports national renewal – with delivery focusing on increased capacity, reliable trains with increased frequency whilst supporting thousands of jobs and adding billions to the economy
+The Transport Secretary has today (23 March 2026) tasked
+HS2
+Ltd
+to explore options to remove complexity that could cut billions in costs and reduce delays for the project.
+The move comes as part of the government’s reset of the high-speed rail line to ensure more trains and faster journeys are delivered as quickly and efficiently as possible, following years of mismanagement.
+As part of his comprehensive reset of the project,
+HS2
+Ltd
+CEO
+, Mark Wild, will explore other high-speed options for the railway, which could save taxpayers billions and reduce construction time.
+HS2
+was originally commissioned to run at 360km/h, which would have made them the fastest conventional high-speed trains anywhere in the world. However, no railway in the UK, or globally, is currently engineered for 360km/h.
+This means that
+HS2
+would have to wait for
+HS2
+tracks to be built before testing any trains – an approach which could increase costs and delay the completion of the project.
+These options would have negligible impact on projected journey times and get passengers onto trains sooner. The move would bring
+HS2
+in line with proven high-speed models such as
+HS1
+, Japan’s bullet trains, and France’s
+TGV
+network which all run at 300-320km/h.
+Transport Secretary, Heidi Alexander, said:
+This government is determined to deliver
+HS2
+as effectively and efficiently as possible. In doing so, I will look at every opportunity to claw back construction time, save taxpayers money and ensure the project delivers for the country.
+I share the public’s anger about the waste and mess of the past which is why this government is pulling
+HS2
+out of its sclerosis and setting it on a more sensible course. We’re getting a grip, controlling costs, and getting on with delivering the transport infrastructure this country needs.
+After investigating further opportunities to bring down costs and delivery timelines, Mark Wild will report back to the Transport Secretary in the summer, alongside a progress update. Together, this work will ensure that the updated costs and schedule estimates are robust.
+Under Mark Wild’s leadership,
+HS2
+is working. Right now, around 30,000 workers and thousands of UK businesses are supporting
+HS2
+’s delivery, and in West London and the West Midlands,
+HS2
+is estimated to add £20 billion to the economy and unlock 63,000 new homes over the next 10 years.
+Mark Wild has delivered six construction milestones ahead of schedule over the last year, including:
+completion of excavation of the 3.5-mile Bromford Tunnel in the West Midlands – marking the end of excavation for all 23 miles of deep tunnels on the opening stage of the railway
+sliding a 14,500-tonne box structure – the heaviest of its kind in Europe – under the A46
+completion of the assembly of the second of two tunnel boring machines at Old Oak Common, allowing the first machine to begin excavating the Euston Tunnel under London in January this year, with the second having started last week
+Northolt Tunnel – last of four tunnel boring machines lifted out of the ground at Green Park Way in West London after excavating an 8.4-mile long tunnel between West Ruislip and Old Oak Common, three months ahead of schedule
+Station Road – installation of beams to carry Station Road in central Buckinghamshire over
+HS2
+and national rail overbridges (Calvert)
+Greatworth Tunnel – completion of fifth of nine 400-metre sections of what will become
+HS2
+’s longest green tunnel at 2.7km
+Mark Wild, Chief Executive of
+HS2
+Ltd
+, said:
+I made a commitment to the Transport Secretary that I would regain control of
+HS2
+and bring an end to the project’s cost increases and delays.
+With performance moving in the right direction, driven by the hard work of 30,000 people on the ground, we are rightly exploring options to create further efficiencies.
+Speed has never been the primary objective. This railway will deliver better journeys, more capacity on the network, and economic growth – all of which are vital to the country’s future prosperity.
+HS2
+6-monthly report to Parliament: March 2026
 .
-Now, the government is going further. From May, the programme will move to a
-locally led model, with councils, rather than schools, invited to propose plans for new places in communities with the greatest need.
-For the first time,
-Best Start Family Hubs
-, soon to be opening in every local area, will also be able to host school-based nurseries. This will bring childcare together with family support, health visiting and early identification of special educational needs and disabilities under one roof – meaning more joined up support, for more families.
-It comes as ten local areas will soon benefit from an additional Early Years Pupil Premium funding boost of £363 per child – on top of the unprecedented 45% uplift in 2025 and further 15% this year – for early years providers to improve the quality of education, raise attainment, and support development of children from more deprived backgrounds.
-Alongside new nursery places, the government’s cost-of-living measures mean that families are also saving up to £450 a year due to free breakfast clubs, with further support from a cap on branded school uniform costs and expansion of free school meals to those on Universal Credit.
-Prime Minister Keir Starmer said:
-As a parent, I know how hard it can be to juggle work and family life, especially in those early days where time is precious and sleep is short.
-School-based nurseries are already driving a seismic shift in how childcare supports families. Now we’re going even further to build on what works with over 300 new nurseries – cutting childcare costs, simplifying the school run, and helping parents at a time when household budgets are under real pressure.
-This is about targeting support where it’s needed most, easing the cost of living and giving every child the best start in life.
-Education Secretary Bridget Phillipson said:
-Our school-based nurseries are already helping fill the gaps in communities where childcare is hardest to find, giving children the strong start they deserve and helping parents access childcare close to home.
-By expanding these nurseries further and targeting them at the areas that need them most, we are making sure more families can benefit from quality early education while putting practical support in place to help with the cost of living.
-For too long, where a child grows up has shaped what they go on to achieve. This government was elected to change that – starting with giving every child the best start in life and making sure every family can access the childcare they need, wherever they live.
-Sitting alongside the brilliant childcare offered by childminders and private, voluntary and independent settings, new polling shows parents strongly value the convenience of school-based nurseries.
-More than a third (37%) say being able to drop multiple children at the same location is a key benefit, and nearly six in ten (59%) say they help prepare for the school transition.
-Children growing up in the most deprived communities are more than 20 percentage points less likely to reach a good level of development by age five.
-By targeting the next phase of the programme in areas where need is the highest, the government is determined to improve children’s development and school readiness across the board and give every child the best start in life.
-Headteacher at Hillsborough Primary in Sheffield, Nicola Wileman, said:
-We are absolutely thrilled to have been chosen for this grant - it’s such a great thing for our school and our whole community.
-Our area has faced real challenges over recent years, with higher levels of deprivation and a drop in nursery provision since Covid, meaning too many children were starting school without having accessed early childcare.
-This expansion will help us ensure every local family has access to a quality, trusted nursery, giving children the best possible start in life and helping parents get back into work and back into the community.
-From September, providers in Brighton and Hove, Durham, Islington, Leeds, Luton, Nottinghamshire, Rochdale, Rotherham, Torbay and Sandwell will all be able to access the additional EYPP funding, through the new test and learn programme designed to make sure the government’s unprecedented uplifts are delivering for children and families on the ground.
-The programme, running in another ten local areas to be announced next year, will assess the different ways providers are making the most of the increased funding through staff training, resources or activities and experiences to improve awareness, take-up and effective use of the funding.
-This rollout forms part of the government’s wider programme to support families with the cost of living.
-DfE media enquiries
-Central newsdesk - for journalists 020 7783 8300
+HS2 and major projects media enquiries
+Media enquiries 0300 7777 878
+Switchboard 0300 330 3000
 
 ---
 
-### PM call with President Trump of the United States: 22 March 2026
+### HS2 6-monthly report to Parliament: March 2026
 
 - **Source:** GOV.UK
-- **URL:** https://www.gov.uk/government/news/pm-call-with-president-trump-of-the-united-states-22-march-2026
-- **Published Date:** 2026-03-22
-- **Scraped Date:** 2026-03-23
-- **Word Count:** 64
-- **Unique ID:** `b5fdd2e3025fc02b`
+- **URL:** https://www.gov.uk/government/speeches/hs2-6-monthly-report-to-parliament-march-2026
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2622
+- **Unique ID:** `b947bc0a111294ff`
 
 #### Content:
 
-The Prime Minister spoke to the President of the United States, Donald Trump, this evening.
-The leaders discussed the current situation in the Middle East, and in particular, the need to reopen the Strait of Hormuz to resume global shipping.
-They agreed that reopening the Strait of Hormuz was essential to ensure stability in the global energy market.
-They agreed to speak again soon.
+Reset update
+Today, I am publishing this government’s latest report to Parliament on High Speed Two (
+HS2
+).
+When I was appointed Secretary of State, I was clear that significant change was needed to bring
+HS2
+under control. The history of the programme has been characterised by spiralling costs and ever-shifting timelines, in significant part due to past mismanagement.
+As I set out in
+my statement to Parliament
+in June last year, I gave the new
+CEO
+of
+HS2
+Ltd, Mark Wild, a clear task: to reset
+HS2
+, bring an end to constant cost increases and delays, and deliver the remainder of the programme safely and at the lowest reasonable cost.
+Since then, the scale of the challenge in resetting this programme has become even clearer. Mark Wild’s work on the reset has shown that
+HS2
+Ltd did not have an accurate assessment of how much work had been delivered, or of how much was left to do. It is now clear that previous plans significantly underestimated the work required.
+Mark Wild and
+HS2
+Ltd have been working closely with my department and other partners in government over the past year to assess the remaining scope of work, and to estimate thoroughly how long it will take and how much it will cost to complete the project.
+I am determined to explore every opportunity to remove the over-specification and complexity from this project to bring down costs and delivery timelines. This will ensure the updated cost and schedule estimates are robust, rather than rush the process and risk publishing figures that we do not trust. As such, today I am publishing an interim report, with a more detailed update on the progress of the
+HS2
+reset to follow shortly.
+I have commissioned Mark Wild to assess how much money and time could be saved by adopting a specification for
+HS2
+that is more in line with the high-speed railways successfully delivered by the rest of the world. This could involve relying on proven technology and reducing the top operating speed of the railway in line with
+HS1
+and other European counterparts.
+On current specification,
+HS2
+trains will run at 360 kilometres per hour (kph), which would make them the fastest conventional high-speed trains anywhere in the world.
+The definition of high-speed covers trains running at least 250 kph. China and Spain have the highest design speeds of 350 kph. The maximum commercial passenger speed on the
+UK
+conventional rail network is 200 kph, and
+HS1
+runs at 300 kph.
+However, no railway in the
+UK
+, or globally, is currently engineered for 360 kph. This means that the project would have to wait for
+HS2
+tracks to be built before testing any trains – an approach which could increase costs and delay the completion of the project. The alternative would have been to send trains abroad to test on an existing track running at that speed.
+Mark Wild’s initial and provisional estimate is that a specification at reduced speeds could save in the low billions and bring the railway into service sooner, by reducing risk in the delivery of the programme and its testing. However, in learning the lessons of the past, I am eager not to make this decision prematurely; I have asked Mark Wild to report back to me before the summer recess, and I will be considering his advice carefully.
+The government will reflect on the early outcomes of this work, alongside progress on engagement with
+HS2
+Ltd’s main suppliers, ahead of publishing the new cost and schedule estimates once they have been fully assured and approved. It is clear that this review of specification and the wider reset are not going to undo the failures that have led to this point, but they will set a realistic and controlled path to completing the remaining work.
+At the same time, I am pleased to report early signs of improvement following a productive year of delivery. Civils works are now at maximum effort and collective action is helping to drive up productivity and safety. The excavation of the
+HS2
+tunnel to Euston has now started following the launch of the final two tunnel boring machines on the programme. Following his appointment as new Chair of
+HS2
+Ltd last summer, Mike Brown has made rapid progress in reshaping the organisation’s Board, bringing in new skills, expertise and capability.
+Looking ahead, our focus remains on finalising the updated cost and schedule estimates and progressing the reset to address the difficult position that we inherited. This includes reshaping
+HS2
+Ltd and continuing to engage with suppliers to review contracts, implement the recommendations of
+James Stewart’s independent review
+and deliver the railway safely and at the lowest reasonable cost.
+Delivery control and expenditure
+Whilst the reset progresses, the department will continue to manage
+HS2
+Ltd through strengthened in-year controls and a yearly performance management plan that includes challenging construction targets and performance metrics to deliver within annual budgets. This plan has worked well, with productivity up in almost all sectors of construction.
+These strengthened controls will remain as long as needed, determined by the improved performance and capability of
+HS2
+Ltd and the adoption of a new cost and schedule baseline. When
+HS2
+Ltd achieves sufficient capability to consistently deliver to the new baseline, the Department will be able to transition to a more permissive and flexible sponsorship model.
+This year,
+HS2
+Ltd has rescheduled some work with the aim of focusing construction efforts on delivering the opening stage of the railway, between Old Oak Common and Birmingham Curzon Street.
+To the end of February 2026, £43.6 billion (nominal prices) had been spent on the
+HS2
+programme. This is provided in more detail in the financial annex, based on data provided by
+HS2
+Ltd.
+Spend to date information covers the period up to the end of February 2026. Unless stated otherwise, all figures are presented in nominal prices.
+Delivery progress
+Delivery progress has historically been poor on some key areas of civils construction. Performance has started improving and the past six months have seen good progress in the delivery of
+HS2
+’s civil engineering works. Notably, the Align joint venture, responsible for delivering civil infrastructure on one of the central sections of the
+HS2
+route, is nearing the completion of their major assets.
+HS2
+Ltd will continue working with the main works civils contractors to improve delivery so that the programme can progress to the next stage.
+August 2025 saw the completion of construction on the Chiltern tunnel. Boring of the tunnel was completed in 2024, and since then work had been underway on the porous portals, cross passages, emergency walkways, and finishing works. As well as being complex, at 10 miles, it is the longest tunnel on
+HS2
+’s route.
+All major deep-bore tunnelling between Old Oak Common in London and Birmingham Curzon Street was completed in October 2025, when the breakthrough of tunnel boring machine Elizabeth concluded the excavation of the Bromford Tunnel. This marks a significant milestone in the construction of the railway.
+In January and March, the final two tunnel boring machines of the programme, Madeleine and Karen, were launched to excavate the twin-bore tunnel between Old Oak Common and Euston in London. Progress on this section of the route makes good on the government’s commitment to bringing
+HS2
+into central London.
+Six major milestones on tunnels and roads have been completed ahead of in-year schedule, including the sliding of a road bridge for the A46 over the
+HS2
+route in April 2025, the installation of precast beams and overbridges over Station Road near Calvert in August 2025, and the second breakthrough on the Bromford tunnel in Birmingham in October 2025. The north portal structure at the Chiltern tunnel was completed in 12 months, several months faster than the south portal, thanks to lessons learned and innovative construction methods. The excavation of the 8.4-mile Northolt tunnel, the second longest on
+HS2
+, was completed on schedule in June 2025 despite complex ground conditions.
+Since July 2025, major progress has been made on earthworks. As at February 2026, over 108 million cubic metres of earthworks has been completed across
+HS2
+’s civils construction, representing around 70% of the total planned quantities. In August, more than 1.7 million cubic metres of spoil was excavated, filled and processed in our Greatworth to Southam sites alone.
+In August 2025, a 112-metre bridge was moved over Lawley Middleway in Birmingham. To minimise disruption to road users, the 1,631-tonne bridge was constructed on land over the span of two years, before being rotated 90 degrees and carefully lifted over the road.
+In September 2025, a key construction milestone was achieved as the Colne Valley Viaduct, the longest rail bridge in the
+UK
+, became structurally complete following the placement of the final deck segment.
+Safety remains our top priority in the construction of
+HS2
+. In October 2025, following an incident on site, all works across the London tunnels section of the route were brought to a safe stop to allow for a comprehensive safety review to be conducted. While no one was harmed in the incident,
+HS2
+Ltd remains committed to the health and safety of everyone working on its sites. By mid-November all sites were able to reopen, with enhanced procedures and protocols implemented to ensure that all works resumed safely.
+Ground investigation works at Interchange Station are complete, in advance of detailed design commencing early this year. In order to formulate and advance plans for commercial development at Arden Cross, the area around the new station, engagement with local stakeholders and landowners continues.
+Initial utility diversions are continuing for the Automated People Mover along the route with the first completed in October 2025. Once complete, the Mover will enable passengers to travel seamlessly from Interchange Station to Birmingham Airport.
+At Birmingham Curzon Street Station, the last of the 2,011 concrete piles, which form a key part of the foundation for the station, were completed in March. Work on the infrastructure required for the Midland Metro Alliance to deliver the Birmingham Eastside tram extension is progressing well, ahead of the first phased handover of the site to Transport for West Midlands in September 2026.
+HS2
+Ltd and the Midland Metro Alliance are leading workshops over the future operation of the live tram through the Curzon Street site to maintain a collaborative approach and ensure lessons continue to be learnt as delivery progresses.
+Work progresses on the six high-speed platforms at Old Oak Common, alongside work on six of the eight surface-level platforms that will serve the Great Western Main Line, Elizabeth Line, and Heathrow Express. Meanwhile, work continues on a complex sequence of critical utility works to the west of the station site. Key utility diversions are expected to complete this year.
+Rail systems contracts for track, signalling, communications and power supplies commenced in February 2025. We have amended the schedule of work to support the wider reset which has slowed initial mobilisation; however, this will then be followed by a period of design, and development of an integrated schedule for the deployment of railway systems. Work will not start on site until civil works have been completed. This is learning from the premature start of main civil works on
+HS2
+as well as from previous projects such as Crossrail, where systems installation started before civils had finished.
+Procurement of the Washwood Heath Depot continues.
+As
+HS2
+Ltd has further developed the operational design of the railway, it has become clear that platform-edge doors, which are screens along platform edges to safely separate passengers and trains, are no longer technically viable. Therefore, the procurement was abandoned via a contract notice in July 2025. The tender for the train dispatch system, which is the system to ensure the safe departure of trains from stations, has also been amended to remove the interface with the platform-edge doors.
+Fraud investigation
+In my previous report, I referred to allegations of fraud made in relation to a
+HS2
+labour supplier. Upon completion of an investigation by the main contractor Balfour Beatty Vinci (
+BBV
+), the contract of this labour supplier was terminated in July 2025.
+HS2
+Ltd formally referred the matter to
+HMRC
+and has since concluded its own wider investigation of all labour-only subcontractors. I have been clear that such allegations need to be investigated rapidly and rigorously and I am glad to see that swift action was taken.
+Community impacts, land and property
+HS2
+Ltd continues to inform and involve communities who are impacted by construction. Between April and December 2025, over 15,000 residents were engaged at over 1,700 meetings and events. A further 22,000 enquiries were received via the
+HS2
+Ltd Helpdesk, which operates 24 hours a day.
+During the same period,
+HS2
+Ltd received 1,067 complaints, the vast majority of which continue to relate to the impacts of construction, including concerns about traffic and transport disruption and noise and vibration impacts.
+HS2
+Ltd is committed to resolving complaints promptly. Of the 1,067 complaints received,
+HS2
+Ltd resolved 100% of urgent complaints within 2 working days and resolved 98% of all other complaints within 20 working days or less.
+Successful deployment of the £40 million Community and Environment Fund and the Business and Local Economy Fund has now passed the halfway point. This is a significant milestone and means as at February 2026, over £21.1 million has been invested in communities and businesses that have been demonstrably disrupted by the construction of
+HS2
+, delivering over 379 projects that will leave an enduring legacy.
+We understand the continuing impact that
+HS2
+is having on those who live or have businesses on or near the route. In previous reports we have recognised the need for
+HS2
+Ltd to make faster progress in settling claims and resolving other issues affecting people whose land has been acquired or possessed for the project. While
+HS2
+Ltd has increased the rate at which claims on Phase 1 are being settled, we have made clear to the company that further improvement is needed. On the former Phase 2a route, we recognise the concerns that have been expressed regarding the quality of communication from
+HS2
+Ltd and a lack of progress in resolving land issues. We have made it clear to
+HS2
+Ltd’s leadership that performance in this respect needs to improve, and we will be scrutinising the measures taken by the company to address these concerns.
+Financial annex
+Historic and forecast expenditure
+The information on
+HS2
+’s overall spend to date and budget is now being provided in nominal (cash) terms following a commitment made by the department to the Public Accounts Committee to express the costs of the programme in a more up-to-date price base and better capture the inflation incurred since 2019. The government provided further details of the 2025 to 2026 position in cash terms as part of the standard Supplementary Estimates report to Parliament.
+This is expressed in nominal prices, including land and property.
+Overall spend to date (£ billion)
+2025 to 2026 budget (£ billion)
+2025 to 2026 forecast (£ billion)
+2025 to 2026 variance (£ billion)
+HS2
+Programme Total
+43.6
+7.1
+7.0
+0.2
+Civils
+30.7
+5.5
+5.4
+0.0
+Stations
+2.9
+0.6
+0.6
+0.0
+Systems
+2.1
+0.3
+0.2
+0.1
+Indirects
+4.1
+0.4
+0.3
+0.0
+Land and Property
+3.7
+0.2
+0.2
+0.0
+Former Phase 2
+2.6
+0.1
+0.1
+0.1
+Overall Total
+46.2
+7.3
+7.1
+0.2
+Notes for the table
+[1] The figures set out in the table have been rounded to the nearest £100 million to aid legibility. Due to this, they do not always tally.
+[2] Spend to date includes a £0.5 billion liability (provision) representing the department’s obligation to purchase land and property.
+
+---
+
+### Current inspections
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/current-inspections
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 198
+- **Unique ID:** `50e8e00e7ffb07ae`
+
+#### Content:
+
+Completed inspections awaiting publication
+An inspection of Home Office management of contact with migrants who are without leave to enter or remain (12 May 2025)
+An inspection of administrative reviews (17 October 2025)
+An inspection of overstayers (21 October 2025)
+An inspection of asylum casework (5 March 2026)
+Inspection report on Home Office country of origin information on Afghanistan and Colombia (5 March 2026)
+Live inspections
+An inspection of refusals and cancellations of permission to enter the UK
+An inspection of the UK-France Agreement on the Prevention of Dangerous Journeys
+Published Reports and Government Responses
+2025 ICIBI Reports
+2025 Government Responses
+2024 ICIBI Reports
+2024 Government Responses
+2023 ICIBI Reports
+2023 Government Responses
+2022 ICIBI Reports
+2022 Government Responses
+2021 ICIBI Reports
+2021 Government Responses
+2020 ICIBI Reports
+2020 Government Responses
+2019 ICIBI Reports
+2019 Government Responses
+2018 ICIBI Reports
+2018 Government Responses
+2017 ICIBI Reports
+2017 Government Responses
+2016 ICIBI Reports
+2016 Government Responses
+2015 ICIBI Reports
+2015 Government Responses
+2014 ICIBI Reports
+2014 Government Responses
+2013 ICIBI Reports
+2013 Government Responses
+2012 ICIBI Reports
+2012 Government Responses
+2011 ICIBI Reports
+2011 Government Responses
+2010 ICIBI Reports
+2010 Government Responses
+2009 ICIBI Reports
+No Government Responses published
+
+---
+
+### Call for evidence: An inspection of the UK-France Agreement on the Prevention of Dangerous Journeys
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/call-for-evidence-an-inspection-of-the-uk-france-agreement-on-the-prevention-of-dangerous-journeys--2
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 303
+- **Unique ID:** `f21ca14827ddcae8`
+
+#### Content:
+
+In line with their 2026-27 inspection plan, the Independent Chief Inspector of Borders and Immigration has commenced an inspection of the UK-France Agreement on the Prevention of Dangerous Journeys.
+This inspection will examine the effectiveness of the pilot in meeting its stated aims, with a particular focus on:
+the efficiency, effectiveness and consistency of current practices
+the eligibility criteria for the pilot, with regard to the identification of vulnerability
+opportunities for stakeholders to engage with the Home Office, either on the design or the operation of the pilot
+challenges should the Home Office decide to transition from pilot to full implementation.
+This call for evidence will remain open until 7 April 2026.
+The Independent Chief Inspector invites anyone with knowledge and experience of the UK-France Agreement on the Prevention of Dangerous Journeys to submit evidence to inform this inspection and would be pleased to hear both what is working well and what could be improved. The
+ICIBI Inspection framework
+will be used to assess the Home Office in this inspection.
+The information you submit may be included in the final inspection report, but it is the ICIBI’s practice not to name sources and to anonymise as much as possible any examples or case studies.
+Please click
+here
+to email your submission to the Chief Inspector.
+Please note: The
+ICIBI’s statutory remit
+does not extend to investigating or making decisions about individual cases. This remains a Home Office responsibility. However, the Chief Inspector can take an interest in individual cases to the extent that they illustrate or point to systemic problems.
+Data Protection
+Information on how we process personal data submitted in response to a call for evidence can be found in the
+ICIBI privacy information notice
+available on the ICIBI website.
+John Tuckett, Independent Chief Inspector of Borders and Immigration
+23 March 2026
+
+---
+
+### Time to Pay Up: Government unveils toughest crackdown on late payments in over 25 years
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/time-to-pay-up-government-unveils-toughest-crackdown-on-late-payments-in-over-25-years
+- **Published Date:** 2026-03-24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1216
+- **Unique ID:** `23e8c008c7c93ff4`
+
+#### Content:
+
+UK is backing small businesses with the toughest laws on late payments in the G7
+Sweeping new powers for the Small Business Commissioner, including multi-million-pound fines to hold big businesses and persistent offenders to account
+Measures will help tackle cost of living for entrepreneurs and SME owners by ensuring they are paid on time and prevent the abuse of retention payments in construction
+Small businesses will be paid on time – that’s the clear message from government today [24 March] as it cracks down on late payments, with the largest set of reforms in over a generation.
+The Small Business Commissioner will be given sweeping new powers to investigate poor payment practices, adjudicate payment disputes, and fine the worst offenders – with fines worth tens of millions for firms that persistently pay late or fail to comply with the new laws.
+The measures will tackle a problem costing the UK economy £11 billion every year and ease the cost of living for entrepreneurs and SME owners who are often forced to wait months – or even years – to receive money they have already earned and having to chase endlessly to receive it.
+Some 38 businesses shut their doors every single day because they are not paid on time – the equivalent of 266 a week, and well over a thousand in any given month.
+Every small business owner, including tradespeople, freelancers, family firms and the self-employed, have to waste time and money chasing unpaid invoices when they could be growing their business.
+These measures, which will be the toughest in the G7, build upon and strengthen legislation on late payments, first laid out in the 1998 Late Payment of Commercial Debt Act, over 25 years ago. They go further than any previous government and will boost our economy and give small businesses better cashflow.
+The changes will include a new 60-day cap on payment terms on all large firms when paying smaller suppliers. New mandatory interest on late payments will also be introduced, with a requirement for all commercial contracts to include statutory interest set at 8% above the Bank of England base rate.
+For example, if a small business is owed £10,000 by one of its customers and is paid 60 days later than the agreed payment date, they will be owed £10,293.15 including mandatory interest (£10,000 plus £193.15 interest plus £100 compensation).
+We also propose to ban the withholding of retention payments under the terms of construction contracts, consulting on its implementation. This will prevent small firms losing retentions to insolvency or non-payment.
+Business Secretary Peter Kyle said:
+Far too many businesses are forced to shut down because they have not been paid – that is simply unacceptable.
+We are unveiling the strongest, most robust changes to payment laws in over a generation – laws that will transform the fortunes of small businesses for years to come and make their day to day lives much easier.
+After working closely with the Federation of Small Businesses, boards or audit committees of persistently late-paying large companies will be required to publish explanations for poor payment performance and the actions they are taking to address it.
+FSB Policy Chair Tina McKenzie said:
+Late payments are a blight on our economy, so FSB is pleased to have worked in partnership with the Government to deliver the toughest legislation in the G7.  The new laws will finally bring a stop to big businesses using their small suppliers as sources of free credit.
+For the first time, audit committees and boards will question and challenge poor payment performance, publish it in annual reports for all to see, and put it right.  Paying in 60 days is not prompt - but strengthening that as the absolute maximum cap after years of dithering is a good step towards encouraging payments in 30 days across all supply chains.  Improving the Small Business Commissioner’s powers will also help, mandating CEO’s of Britain’s poor payers to take the phone call.
+This is real progress, and we’ll keep working with the Government to make sure new laws are brought in as soon as possible.
+Minister for Small Business and Economic Transformation, Blair McDougall said:
+I know first-hand how difficult late payments can be, forcing you to decide if you can afford to keep a business running, pay employees or even buy Christmas presents for your children.
+That is why I’m proud to be leading the charge on tackling a problem that has been left untouched for far too long.
+These are genuinely game changing measures that will ensure no business, no employer, no family has to endure the immense strain of being left strapped for cash they have already earnt.
+Emma Jones CBE, Small Business Commissioner said:
+We are on a mission to make life easier for small firms by getting money moving faster through the economy by tackling late payments.
+The measures the Government has announced today will strengthen the role of my office in taking on the worst payers alongside ensuring small businesses have a stronger voice on payment terms and late payment interest.
+These reforms will reduce the hours spent chasing debt allowing small businesses to focus on more productive and enjoyable growth.
+Right now, some small businesses have more cash in the bank because the Small Business Commissioner recovered three times more overdue invoices in 2025 than in 2024. We will bring this benefit to the whole economy.
+Today’s measures follow the launch of the Small Business Plan by the Prime Minister last year, which in addition to laying out late payments plans, also launched the Business Growth Service, which is already transforming the government support offer for small firms, and increased access to finance for SMEs and entrepreneurs with a massive £4 billion finance boost.
+This is a more interventionist government, backing the British business community with landmark reforms that will also help to control inflation and make our economy more resilient from global shocks.
+Debbie Williams, co-founder of John Williams Heating Services, said:
+As a family-run business that has served our community for more than 20 years, we see first-hand the strain that late payments place on small companies. Cashflow pressures don’t just affect the balance sheet — they impact our ability to take on apprentices, invest in training and continue providing reliable service to local families.
+We welcome the Government’s focus on tackling late payments, as timely and fair payment practices are essential for the stability and growth of businesses like ours.
+NOTES TO EDITORS
+Late payments research:
+Late payments research: impact on the UK economy - GOV.UK
+This government is backing small businesses across the board. We are:
+Halving childcare costs for small business owners and employees.
+Putting more money in customers’ pockets by taking £150 off energy bills, and freezing rail fares and prescription charges.
+Offering new incentives of £2,000 for SMEs who hire foundation apprentices aged 16-21, on top of a complete NICs exemption for employees under 21 and apprentices under 25.
+Raising the rate when small businesses start to pay national insurance.
+Slashing electricity prices for thousands of manufacturing businesses.
+Making training for under-25 apprenticeships free for small businesses.
+Doubling eligibility for enterprise tax incentives to help fast-growing firms attract investment and talent.
+Slashing red tape to boost our pubs, bars and cultural venues
+
+---
+
+### Government to make “plug-in solar” available within months
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months
+- **Published Date:** 2026-03-24
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 3415
+- **Unique ID:** `d64aaf25f4166829`
+
+#### Content:
+
+“Plug-in” solar panels to be in shops within months, offering households chance to significantly cut energy bills
+Move comes as Government steps up drive for clean homegrown power to get the UK off dependency on fossil fuel markets in response to Iran war
+New rules introduced today to ensure majority of new homes in England will come with solar panels fitted as standard
+Innovative new approach of discounted power on windy days in areas where wind farms are paid to switch off to avoid “wasted wind”, predominantly benefiting Scotland and the East of England
+More households will be helped to save money on bills through plug-in solar panels as the Government vows to go further and faster on clean energy in response to conflict in the Middle East.
+The current conflict is yet another reminder that the only route to energy security and sovereignty for the UK is to end dependence on fossil fuel markets and accelerate the drive for clean, homegrown power, as well as new renewables and nuclear.
+Already the Government has taken significant steps in speeding up the move to clean energy in response to the conflict. Last week, the Government’s annual renewables auction was brought forward to July. The most recent auction was the biggest ever and alongside the previous auction, enough clean energy to power 23 million homes has been confirmed.
+Today, the Government is driving forward with the rollout of “plug-in” solar panels (low-cost panels that families can put on their balconies or outdoor space) to be available in shops within months and save people money on their bills.
+Retailers like Lidl and Amazon, alongside manufacturers such as EcoFlow, are working with Government to enable them to be brought to the UK market.
+Plug-in solar is already widely used by households across Europe, with Germany seeing around half a million new devices plugged in per year.
+The free solar power can be used directly through a mains socket like any other device, without an installation cost, thereby reducing the amount of electricity taken from the grid and cutting energy bills.
+The easy-to-install technology could save many households significant amounts on their energy bills and help make the UK less reliant on global fossil fuel markets.
+The Government has taken decisive action in response to the conflict in the Middle East to fight for consumers and businesses on the cost of living, and is speeding up plans for more clean, homegrown energy that the UK controls to ensure energy sovereignty and security.
+This is alongside new rules coming into force today implementing the Future Homes Standard, which includes common-sense measures to ensure the majority of new homes are built cheaper to run, with solar panels and clean heating as standard.
+These measures on new homes could save families up to £830 a year on their energy bills, compared to a standard home with an EPC rating of C. This will ensure they are more comfortable and affordable – and create at least 75% less carbon emissions than those built to the 2013 standards.
+Energy Secretary Ed Miliband said:
+The government is determined to fight people’s corner in this crisis, which is why we have acted to prevent unfair practices like price gouging and provided immediate help for the most vulnerable facing spiralling heating oil prices.
+The Iran War has once again shown our drive for clean power is essential for our energy security so we can escape the grip of fossil fuel markets we don’t control.
+Whether through solar panels fitted as standard on new homes or making it possible for people to purchase plug-in solar in shops, we are determined to roll out clean power so we can give our country energy sovereignty.”
+Housing Secretary Steve Reed said:
+Building 1.5 million new homes also means building high-quality homes that are cheaper to run and warmer to live in.
+As we make the switch to clean, homegrown energy, today’s standard is what the future of housing can and should look like. Not only will these changes protect hardworking families from shocks abroad but will also slash hundreds of pounds off their energy bills every year.
+The Government is also announcing and innovative new approach, predominantly benefiting Scotland and East of England, and launching in time for this winter, enabling energy companies to offer discounted energy bills to customers on windy days, rather than continuing the previous default practice of paying wind turbines to turn off.
+Historic underinvestment in Britain’s electricity grid means wind farms in these areas are being paid to switch off on windy days when the network cannot carry all the clean power they produce. Government will look to bring forward new legislation to ensure more homegrown, clean energy can be passed on as discounted electricity to consumers during these periods.
+Future Homes Standard:
+The Future Homes Standard turns the page on over a decade of failure by previous governments. More than a million homes were built with higher bills following the cancellation of the Zero Carbon Homes standard in 2015 - leaving families exposed to the energy price spike after Russia’s invasion of Ukraine.
+Today we are laying the regulations for the Standard and publishing its details.
+It will put energy in the hands of the British people and help cut bills for good, protecting against fossil fuel price spikes like those triggered by the conflict in Iran.
+“Discounted energy”
+At the moment, wind farms are often paid to switch off on windy days, because the system can’t use all the power being generated, due to historic underinvestment in the grid required to match this supply with demand across the country.
+To tackle these so-called “constraint payments”, we are launching a new, innovative trial, which would mean that using the generated power would become a more cost-effective option compared to turning turbines off.
+This will enable suppliers and flexibility service providers to offer households and businesses in areas with constrained renewable generation discounted power during these periods, so that more of the extra electricity can be used rather than wasted. It will predominantly apply to areas in Scotland and the East of England.
+And it comes ahead of households across the country seeing a significant cut to their energy bills next week, with a £117 reduction coming into effect on 1 April, which will be in place until the end of June, saving families money for years to come, whatever the international situation.
+Georgina Hall, Corporate Affairs Director at Lidl GB said:
+At Lidl GB, we are committed to making sustainable living affordable for everyone and we welcome the Government’s move to modernise regulations in the UK. Updating the regulatory landscape for this ‘plug-and-play’ technology is a positive step towards empowering British households to manage their energy costs and support the nation’s net-zero ambitions.
+Greg Jackson, Founder and CEO of Octopus Energy, said:
+People want to be free of these fossil fuel crises - since the conflict in the Middle East began, interest in solar has shot up 50%, heat pump and electric cars are also seeing surges.
+Every solar panel, heat pump and battery cuts bills and boosts Britain’s energy independence. And the government’s latest steps can help cut the costs of electrification.
+With solar, many homes can produce and use their own electricity, and cut their bills further by selling the excess back to us. With heat pumps and electric cars, their own electricity can slash heating and driving bills - stuff you simply can’t do with gas and petrol.
+And it’s great that the government want to give homes and businesses cheap electricity on windy days instead of paying wind farms to switch off. Once this is permanent, companies and families will be able to invest confidently in electric vehicles, batteries and heat pumps - knowing they’ll be cheap to run.
+Chris Norbury, Chief Executive of E.ON UK said:
+Cutting red tape on plug-in solar is an encouraging move and we will help ensure it works alongside, or as part of, whole-home solutions that genuinely empower people to take control of their energy use and cut bills.
+At E.ON Next, we’re already seeing how powerful that shift can be. Whether it’s giving customers more control through innovative time of use tariffs or helping people get income from generating and storing energy at home via steerable assets, the direction is clear: simplicity, transparency and providing real financial rewards for doing the right thing.
+Pair that with future homes built to a genuinely modern standard that prioritise affordable living and you start to build a system that works with and for people, not around them. The opportunity now is scale and simplicity. If we get that right, this isn’t just policy, it’s progress. It’s how we make new energy work - for everyone.
+Chris O’Shea, CEO, Centrica, said:
+As the UK’s biggest installer of low‑carbon heating, we welcome today’s announcements, including the Future Homes Standard. It’s a chance to ensure new homes come ready for the full benefits of modern energy systems — where low‑carbon heating, solar and smart technology are designed to work together from the start and reduce energy consumption. Our army of engineers stand ready to continue to keep Britain’s homes warm.
+Josh Buckland, Strategy & Policy Director, EDF, said:
+Electrification is fundamental to future proofing the country with homegrown electricity putting Britain back in charge of its destiny and helping keeping bills low for all in the long term. This is why we welcome the Government’s Future Homes Standard and the decision that all new homes will have clean heating as standard. We are also pleased to see the focus on unlocking further investment in solar, offering customers a practical way to reduce both their bills and their impact on the environment.
+Dhara Vyas, Energy UK’s chief executive, said:
+The Future Homes Standard is a landmark moment for clean energy in Britain. New homes built under this standard will benefit from clean heating solutions and solar, protecting households from volatile gas prices and putting energy security within the home itself.
+Combined with higher fabric efficiency standards, these homes will be warmer and cheaper to run – offering real and tangible change in people’s homes.
+Critically, plans for rooftop solar with the possibility for households to export excess energy back to the grid mark a genuine shift in how people can engage with the energy transition, easily allowing them to save money from an increasingly flexible energy system.
+The Future Homes Standard gives businesses the long-term certainty they need to invest in manufacturing, scale up supply chains, and build the skilled workforce that will make the targets set in the Warm Homes Plan a reality.
+Chris Hewett, Chief Executive, Solar Energy UK, said:
+Expanding solar energy and battery storage is a rapid and inexpensive solution to the looming energy crisis – for cutting bills, for the economy and for our nation’s energy security. From the largest installations to the smallest domestic systems, every battery and panel counts towards weaning us off reliance on imported and polluting fossil fuels. That’s why ensuring that new homes and other buildings are built with solar and boosting retrofits is so vital, and so welcome.”
+Charlotte Lee, Chief Executive, HPA UK, said:
+We are delighted to get confirmation that following a transition period, all new homes and buildings will benefit from low carbon heating such as heat pumps and heat networks. Coupled with solar PV, heat pumps and connections to heat networks provide a future proofed solution which will strengthen the UK’s energy security.
+Whilst the sector has been scaling up, with over a quarter of new homes built in the UK in 2025 having a heat pump, this clarity will unlock further investment into the supply chain, supporting thousands of highly skilled jobs, and contribute to the UK’s wider economic growth.
+Dave Sowden, Chief Executive, Sustainable Energy Association (SEA), said:
+We are delighted to see the publication of the Future Homes and Buildings Standard, which will provide much needed clarity for the low carbon heating and energy efficiency sectors. Today’s news will mean that the UK’s future building stock will provide residents with warm, comfortable, efficient, and cost-effective homes for decades to come.
+Additionally, it is encouraging to see the Government recognise exciting low carbon innovations such as plug-in solar. The technology will be welcomed by consumers and businesses as we navigate the uncertain long-term impact on fuel bills due to a range of geopolitical factors.
+Madeleine Gabriel, director of sustainable future at Nesta, said:
+Many households are understandably concerned about paying for rising energy costs in the future because of the volatility of fossil fuel prices. With the government now making it even easier to switch to electricity to heat and power your home, there has never been a better time for people to consider installing solar panels, storage batteries and heat pumps.
+These home upgrades could save a typical household hundreds of pounds on its annual energy bill under current and projected energy prices and allow households to have some relief from the fossil fuel rollercoaster. Ensuring new homes have heat pumps from 2028 will also lock in that protection for future buyers.
+Friends of the Earth’s head of policy, Mike Childs, said:
+For too long households across the UK have been hit by soaring energy bills driven by our dependence on volatile gas and oil markets.
+Making it easier to install plug-in solar panels and ensuring new homes come with heat pumps and solar power is a welcome step that will help protect families from future price shocks.
+But we must go further to end our reliance on fossil fuels, strengthen energy security and cut the carbon pollution driving the climate crisis. That means rapidly expanding the UK’s huge renewable energy potential and helping more people switch to electric heating and vehicles.”
+Aldersgate Group’s Executive Director, Rachel Solomon Williams, said:
+The built environment is one of the most challenging sectors to decarbonise. Including indirect emissions, buildings still account for 23% of the UK’s total carbon emissions. Measures that require homes and commercial buildings to include low-carbon heating and energy efficiency would play an important role in driving the transition.
+To ensure that these measures also contribute to reduced bills for households and businesses, it will be vital to continue work on addressing the rising cost of electricity.”
+Garry Felgate, CEO of The MCS Foundation, said:
+The confirmation that the majority of all new homes in England will have solar panels and low carbon heating systems such as heat pumps is very good news – for energy security, for the UK’s progress toward a carbon-free future, and for the countless households that will benefit as a result.
+What matters now is implementation, and ensuring households have confidence in the technologies their new home will come with. So, it’s vital that housebuilders consider quality and consumer protection, by ensuring every installation is delivered by an MCS certified installer, to MCS standards.”
+Janine Michael, Chief executive at the Centre for Sustainable Energy said:
+The Future Homes Standard is a significant step forward in futureproofing our homes and our energy system. Building solar and low carbon heating into new builds as standard will create jobs, strengthen energy security and cut household bills, accelerating the green transition.
+We also welcome plans to improve access to a wider range of smart tariffs for households generating their own electricity. But the benefits must reach everyone. In particular, it must be easier for lower income and vulnerable households who have had solar panels installed through government-backed schemes to earn income as generators.”
+Elli Moody, Director of Policy and Advocacy at the Campaign to Protect Rural England, said:
+This announcement shows that the government is serious about harnessing the enormous potential of the UK’s rooftops to generate clean, sustainable energy. Mandating solar panels on new homes and making solar more accessible to renters as well as homeowners will deliver meaningful climate action without placing further pressure on iconic landscapes and productive farmland.
+Ed Lockhart, Chief Executive of the Future Homes Hub, said:
+The publication of the Future Homes Standard isn’t just about a change in regulation - it’s a promise to consumers that new homes will be more comfortable, more efficient, and more secure against the volatility of unstable fossil fuel markets.
+Today’s announcement sets the timeline for all new homes to meet these higher standards from 2028. The Future Homes Hub is facilitating partnership across the whole housing ecosystem including sharing solutions between homebuilders, housing associations and developers of all sizes to ensure residents feel the full benefits, starting with the Future Homes Standard Ready campaign.
+Dr Tom Dollard, Chair, Good Homes Alliance said:
+The Good Homes Alliance welcomes the launch of the Future Homes and Building Standard as a positive step towards net zero and low energy homes.  This is a clear improvement for Part L of the building regulations that set targets to ensure all new homes and buildings are built fit for a net zero future, with low carbon heating and solar panels.
+Our industry-leading membership will continue delivering these homes that are more comfortable and cheaper to run.  We welcome the proposed used of HEM as a replacement for SAP after a period of dual running and look forward to working with industry to ensure these new low energy homes are delivered as comfortable, healthy homes.
+We are confident that these standards, especially if used in combination with enhanced ventilation commissioning and low-cost, post-completion testing, such as short duration whole-house heat loss tests, will ensure delivery of both high-quality, energy-efficient homes and the housing supply needed to meet demand.
+Lorna Wallace-Smith, Head of UK Communications for EcoFlow, said:
+Allowing plug-and-play solar is a very positive step for expanding access to renewable energy in the UK. Seeing these systems available in stores by summer would be a major win for households, enabling people to take advantage of the longer, brighter days and start generating their own clean electricity straight away.
+For many households - particularly those living in flats or rented homes - solar has not always been straightforward. Plug-and-play systems remove that barrier, making it far easier to get started.
+Across Europe, similar technologies are already widely used, helping households reduce energy bills while supporting a more resilient, decentralised energy system. Solutions such as EcoFlow STREAM show how people can generate solar power from small outdoor spaces like balconies, gardens or terraces, without complex installation. With clear standards and the right regulatory framework, the UK now has a real opportunity to bring accessible solar to millions more homes - just in time for summer.
+Notes to Editors:
+The Future Homes Standard will introduce a functional requirement to the Building Regulations that new homes, with some exceptions (including high-rise buildings), are built with on-site renewable electricity generation. We anticipate the majority of this will be solar panels.
+The Future Homes Standard will also see homes built with low carbon heating such as heat pumps and heat networks.
+We are also confirming the technical details of the Home Energy Model (HEM), the government’s new, independently quality‑assured methodology that will be, in due course, one of the approved calculation methodologies to demonstrate compliance with the Future Homes Standard, by publishing the HEM:FHS consultation’s Government Response. This will support innovation in new‑build products, best‑practice heat‑pump installation, and recognise smart, zero‑bills technologies.
+The government has also launched a call for evidence on the next steps for the £5 billion Warm Homes Fund, as part of the roll out of the £15 billion
+Warm Homes Plan
+. The fund includes £1.7 billion already allocated to consumer loans for clean energy technology, supported by £300 million capital investment. As set out in the Warm Homes Plan, the remaining £3.3 billion will be available as innovative finance for investments and loans in the building upgrade and retrofit sector, including £600m to be allocated to support low-income homes. The government is engaging with the industry on the options for this investment and further details will be published later this year.
+The government will work with the Energy Networks Association, DNOs and Ofgem to update the G98 distribution code and wiring regulations BS 7671 to allow UK households to connect <800W plug-in solar panels to domestic mains sockets, without the need for an electrician and with tailored safety standards.
+Bundesverband Steckersolar analysis of Germany’s national network regulator (Bundesnetzagentur) data suggests 426,269 registrations of balcony solar systems in Germany in 2025:
+https://bundesverband-steckersolar.de/wp-content/uploads/2026/01/MaStR-2025.pdf
+. Registrations are likely to undercount sales.
+
+---
+
+### The UK will not cease in our support for Ukraine and its people: UK statement at the UN Security Council
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/speeches/the-uk-will-not-cease-in-our-support-for-ukraine-and-its-people-uk-statement-at-the-un-security-council
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 318
+- **Unique ID:** `1236fec09df6b60d`
+
+#### Content:
+
+It is over four years since Russia launched its illegal, full-scale invasion of Ukraine, in direct violation of the UN Charter.
+It is a war that demands this Council’s sustained attention.
+In February, Russia fired 280 missiles at Ukraine, the highest monthly total of the entire war.
+And since 28 February, Russia has fired over 3,200 drones at Ukraine.
+This is roughly as many as Iran, who supplied so many of these drones to Russia, has fired at all its neighbours combined in the same period.
+Russia is now firing over 5,000 drones per month at Ukraine, five times higher than in 2024.
+The burden on Ukrainian civilians is immense.
+There have been over 50,000 Ukrainian civilian casualties, and over 15,000 killed since Russia started its war.
+Waves of attacks on its electricity and heating infrastructure in the depths of winter.
+Russia has also sought to systematically erase Ukrainian identity, including through the forcible deportation and indoctrination of thousands of Ukrainian children, acts that earlier this month, the Independent Commission of Inquiry concluded constitute crimes against humanity.
+Russia could end this war today.
+We repeat this because it remains true.
+Ukraine agreed in principle to a full, immediate, and unconditional ceasefire 12 months ago.
+If Russia is serious about peace, we call upon it to agree the same and to engage in meaningful negotiations towards a just and lasting peace.
+Ukraine remains committed to US-led diplomatic efforts to achieve a just and lasting peace, in line with the UN Charter.
+But in return, Russia has only dragged out talks, issued ultra-maximalist demands, and intensified its assault.
+Mr President, the UK fully supports the diplomatic efforts of our US colleagues to secure a peace that guarantees Ukraine’s long-term security, sovereignty, and prosperity.
+We call on Russia to end its war of choice, immediately and without pre-conditions.
+The UK will not cease in our support for Ukraine and its people.
+
+---
+
+### Readout: COBR(M)  – Iran economic and domestic impacts: 23 March 2026
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/readout-cobrm-iran-economic-and-domestic-impacts-23-march-2026
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 392
+- **Unique ID:** `00f2636daec9a69c`
+
+#### Content:
+
+The Prime Minister chaired a COBR(M) meeting today, focussing on the domestic economic impact of the ongoing situation in the Middle East.
+The Chancellor, the Governor of the Bank of England, the Energy Secretary and others updated on the situation – all making clear that the best thing we can do for the economy is to de-escalate and bring the conflict to an end.
+This is the priority for the Prime Minister, who told the Liaison Committee earlier today:
+“We need to deescalate and bring an end to the conflict as quickly as possible…
+“I welcome the talks reported between the US and Iran.
+“We the UK were aware that was happening and the immediate priority has to be a swift resolution of the conflict and delivering a negotiated agreement which puts tough conditions on Iran, particularly on nuclear weapons.
+“We are holding COBR this afternoon on the economic impact.”
+The Chancellor set out the steps she will take tomorrow – in a statement to Parliament – that will help protect working people from unfair price rises.
+She spoke about a plan to detect and crack down on companies if they exploit the crisis in the Middle East.
+This will take the form of a new anti-profiteering framework which will help regulators like the CMA to root out price gouging.
+This comes after the Prime Minister announced he is looking at giving the Competition and Markets Authority “further teeth” so it can better protect customers from being ripped off.
+Speaking at the Liaison Committee, Keir Starmer said the government would: “look at what further teeth we can give the CMA to deal with this”.
+He told MPs:
+“We are looking at measures to deal with profiteering, I’ve already asked the CMA to look at this…
+“On price gouging or profiteering, we absolutely need to bear down on it, so we are actively considering whether the CMA should have additional powers to deal specifically with that.
+“But at the moment, we are making sure they are focused on anti-profiteering steps they can take now.”
+As part of that, the government will not hesitate to introduce new time-limited, targeted powers for the CMA and other key regulators if that is needed.
+The exact powers are being worked through at pace with the Treasury, Department for Business and Trade, and key regulators including the CMA.
+
+---
+
+### Government outlines reforms of Industry Training Boards to boost construction and engineering skills
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/government-outlines-reforms-of-industry-training-boards-to-boost-construction-and-engineering-skills
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 415
+- **Unique ID:** `72eb088ff7cf9f7f`
+
+#### Content:
+
+Plans to establish a single Industry Training Board by merging construction and engineering boards in latest move to simplify the skills system and strengthen industry leadership.
+Reforms designed to improve workforce planning, productivity and better meet employers’ skills needs.
+12-week consultation, launched today, seeks views from employers, training providers and stakeholders across England, Scotland and Wales.
+Industry voices and stakeholders are being asked to shape the future of skills training as a new consultation proposes the merger of construction and engineering training boards.
+This consultation is the latest step in the Government’s drive to future-proof the skills of the workforce and unlock the economic growth the country needs.
+The plans will create a single Industry Training Board (
+ITB
+), uniting the Engineering Construction Industry Training Board (ECITB) and the Construction Industry Training Board (CITB). This will simplify the skills system, strengthen industry leadership and give employers a clearer, stronger voice in shaping the workforce they need.
+Bringing the two boards together will mean more training, better use of funding and clearer routes into skilled work. Employers will find it easier to get the workers they need, and more people will have the opportunity to build a career in construction and engineering.
+Work and Pensions Secretary Pat McFadden said:
+“Construction and engineering are the backbone of this country. Their workforces build our homes, power our communities and lay the foundations for growth.
+“We are committed to giving the next generation the high-quality, employer-led training that leads to real jobs and real careers.
+“That’s why we are working hand in hand with the sector, ensuring employers get the skilled workforce they need to drive productivity, deliver infrastructure and power our clean energy future.”
+These changes will ensure the UK can deliver on its priorities including building 1.5 million homes, upgrading existing housing to make it warmer and more affordable to heat, and delivering the clean energy infrastructure needed to power economic growth. This will strengthen how industry and government work together to plan and deliver skills, helping employers recruit and retain the talent they need.
+Construction and engineering employers are already responding to rising demand and rapid change. A single
+ITB
+will support this effort by improving coordination, aligning training more closely with labour market needs and driving productivity across the sector.
+The government is inviting views from employers, training providers and stakeholders across England, Scotland and Wales with the consultation closing on Sunday 14 June 2026.
+Further details and how to respond are available
+here
+
+---
+
+### Security Minister statement: Hatzola ambulance attack
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/speeches/security-minister-statement-hatzola-ambulance-attack
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1105
+- **Unique ID:** `894398062db0cb07`
+
+#### Content:
+
+With your permission, Madam Deputy Speaker I will make a statement on the abhorrent arson attack in Golders Green, north London.
+I will begin with the facts as they are currently known.
+At around 01:45hrs this morning the Metropolitan Police and the London Fire Brigade were called to reports of a fire on Highfield Road, Golders Green.
+Officers attended the scene, where four ambulances from Hatzola –  a volunteer-led ambulance service run by members of the Jewish community – were on fire.
+The attack occurred in the car park of a local synagogue, where Hatzola’s vehicles for this area are based.
+Now Madam Deputy Speaker I can tell the House, the vital work of this organisation will continue uninterrupted, with its highly trained volunteers responding to calls as steadfastly as ever.
+The government is determined to deliver justice for this cowardly attack. Of course, we fully support the police in bringing the perpetrators to account and we are equally committed to ensuring that Hatzola suffers no lasting impact as a consequence.
+As the Secretary of State for Health has confirmed, four replacement ambulances will be in place by tomorrow morning, and government will fund permanent replacements to ensure this essential service remains strong and fully equipped.
+Nearby houses were evacuated as a precaution, with residents allowed to return quickly to their homes.
+Thankfully, no injuries occurred.
+Now Madam Deputy Speaker, the House will be aware that police are treating this arson attack as an antisemitic hate crime.
+The investigation is now being led by Counter Terrorism Policing, although I should emphasise that this has not been declared a terrorist incident at this stage.
+No arrests have been made. I take this opportunity to urge anyone with information about the incident to contact the police.
+Officers are aware of an online claim from a group taking responsibility for this attack, and establishing the accuracy of the claim is a priority for the investigation team.
+As the Home Secretary has already told the House, support for the Jewish community in London is being stepped up.
+The police have the unshakeable backing of this government, and I am sure the whole House, in their effort to find the perpetrators of this awful crime, who should be in no doubt whatsoever that they will be pursued, and made to face the consequences.
+I also wish to echo the Home Secretary’s words of thanks to the police and fire services for the speed and professionalism of their response, which was vital in averting an even worse outcome.
+Shocking though it was to wake to this morning’s developments, I know that for many this outrage will not have come as a surprise  – occurring as it has at a time of profound distress and vulnerability within our Jewish communities.
+Now given the vicious torrent of antisemitism that was unleashed following the October 7 attacks a dreadful manifestation of which we saw, to our horror, in Manchester last year, when Heaton Park Hebrew Congregation Synagogue was the subject of a sickening act of terrorism on Yom Kippur.
+Today, as at that profoundly difficult moment, and as in the aftermath of the subsequent atrocity on Bondi Beach in Sydney, we declare once more that we stand with our Jewish friends, colleagues and neighbours. And with the oldest hatred on the rise, we assert our unwavering commitment to defeat it.
+The Prime Minister has been clear that his government will lead the way – including through a relentless national security effort – which is being mounted around the clock by MI5 and the police, who have our full backing in their work to detect and disrupt plots against the Jewish community in our country.
+While those activities must necessarily take place away from view, our willingness to take strong and decisive action when threats present themselves has been underscored again in recent weeks – with three men jailed over a foiled terrorist plot targeting the Jewish community in Greater Manchester.
+And a separate investigation into suspected surveillance of locations and individuals linked to the Jewish community in the London area, which resulted in 2 men being charged last week under the National Security Act.
+While the state’s national security and law enforcement apparatus retains a relentless focus on this threat, such is its perseverance and potency, that we have a responsibility to do more.
+It is a terrible indictment that we should need to do this. But we must and we are.
+In fact, the demand for extra measures and precautions – such as those provided so expertly by the Community Security Trust – is only intensifying.
+That is why, in the wake of the Manchester attack, we increased funding available via the Jewish Community Protective Security Grant to a record £28 million – a level we are maintaining in the next financial year.
+We are also strengthening police powers for dealing with repeat protests, which have been a source of concern for many within the Jewish community.
+And the Home Secretary has commissioned Lord Macdonald KC of River Glaven to undertake a review to consider how public order laws can be improved to keep hate and intimidation off our streets.
+But we can only prevent the manifestations of this evil if we address the cause, by tackling the very existence of antisemitism in this country.
+That means adopting and enforcing a posture of zero tolerance in every part of society.
+The Online Safety Act will compel tech platforms to protect UK users from illegal antisemitic material. Meanwhile, we are acting to drive antisemitism out of the NHS – with stronger mandatory training and an urgent review led by Lord Mann.
+In recognition of the critical importance of education in preventing young minds from being polluted, we have committed £7 million to combat antisemitism in schools, colleges and universities – and launched a review led by Sir David Bell into antisemitism in schools and colleges, which is expected to conclude this autumn.
+We do all of this, and more, Mr Speaker, because it is right.
+Because it is our responsibility.
+And because, as the Home Secretary has repeatedly made clear, no one should have to live a smaller Jewish life in this country.
+I will finish, Madam Deputy Speaker, by addressing our Jewish community directly.
+Whether you live here in London or in any other part of the United Kingdom, please know that we stand with you.
+We are here for you, and we will do everything in our power to keep you and your family safe.
+Not just today, after this appalling incident, but every day.
+I commend this statement to the House.
+
+---
+
+### Summoning of the Iranian Ambassador to the United Kingdom: FCDO statement
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/summoning-of-the-iranian-ambassador-to-the-united-kingdom-fcdo-statement--3
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 125
+- **Unique ID:** `ff9f61f363ca47fe`
+
+#### Content:
+
+An FCDO spokesperson said:
+Today, upon instruction from the Foreign Secretary, the Ambassador of the Islamic Republic of Iran to the United Kingdom was summoned to the Foreign, Commonwealth & Development Office. His Excellency Seyed Ali Mousavi was summoned by the Minister for the Middle East, Hamish Falconer.
+The summons follows the recent charging of two individuals, one Iranian national and one British-Iranian dual national, under the National Security Act, on suspicion of providing assistance to a foreign intelligence service.
+National security remains our top priority, and we take threats posed by Iran and those who do its bidding extremely seriously. This government will take all measures necessary to protect the British people, including exposing Iran’s reckless and destabilising actions at home and abroad.
+[CONTACT:3939]
+
+---
+
+### Sir Robert Buckland KC appointed to review the death of Sir David Amess
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/sir-robert-buckland-kc-appointed-to-review-the-death-of-sir-david-amess
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 362
+- **Unique ID:** `52b830103700f578`
+
+#### Content:
+
+Sir Robert Buckland KC has been appointed to lead an independent review to explore any missed opportunities that could have prevented the murder of Sir David Amess.
+The Home Secretary has appointed Sir Robert Buckland KC, who was previously Lord Chancellor and Secretary of State for Justice and Solicitor General for England and Wales, as well as having a distinguished legal career as a barrister.
+Sir Robert will now seek to meet with the Amess family in order to establish the terms of reference for the review.
+Home Secretary, Shabana Mahmood, said:
+Sir David Amess was a hugely respected parliamentarian, who served his constituents and country with distinction. His tragic murder casts a long shadow over all of us who serve as MPs.
+I have met with the Amess family and admire their resilience amid such tragic circumstances. I have appointed Sir Robert Buckland KC, an eminent legal mind, to carry out an independent review and help the family seek the answers they need.
+Sir Robert Buckland KC said:
+The horrific murder of Sir David Amess in October 2021 shook the entire nation. As someone who, like Sir David, held regular open surgeries in my constituency, and who had known and worked with him in Parliament for over a decade, it made a deep and profound personal impact that lives with me to this day.
+I have accepted an invitation to conduct this independent review because I want to ensure that everything possible is done to fully identify the facts and circumstances that led up to this outrage, as Sir David’s family and all of us who care deeply about our parliamentary democracy rightly demand.
+While this will be subject to agreement, it is expected that the terms of reference will seek to address any unanswered questions the Amess family have regarding the murder of Sir David Amess.
+The reviewer will engage relevant experts and draw upon extant material from the trial of Sir David’s murderer and from reviews which have previously taken place, including the initial Prevent learning review and the Independent Prevent Commissioner’s review published in July 2025.
+More details on the terms of reference will be published once established.
+
+---
+
+### England recovered from drought as weather whiplash sees floods
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/england-recovered-from-drought-as-weather-whiplash-sees-floods
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1327
+- **Unique ID:** `ac4a99772764a986`
+
+#### Content:
+
+Four months of above average rainfall mean England’s water levels have now largely recovered from last year’s drought, the National Drought Group heard today.
+East Anglia today (Monday 23rd March) became the final area to move out of recovery, with all regions in England now classed at normal status.
+The expert group noted that while this is positive for water supplies, exceptional levels of rain have caused devastating flooding in many communities.
+Our changing climate means we will likely experience more rapid swings between drought and flooding – sometimes referred to as weather whiplash.
+The risk of drought in 2026 is currently low but there remains the possibility of a flash drought – brought about by a sudden combination of very low rainfall and hot temperatures, like we experienced in 2022.
+National Drought Group chair and Director of Water at the Environment Agency, Helen Wakeham, said:
+Last year’s drought was challenging for everyone, affecting our farmers, our wildlife, and our public water supplies.
+The winter rainfall has helped our depleted reservoirs and rivers to recover and, while we welcome the improved picture, we are mindful of the problems that flooding brings too.
+We enter spring in a favourable position, but we can never be complacent. We expect water companies to carry on quickly fixing burst pipes and to be ready to enact their drought plans in a timely manner, if needed.
+The National Drought Group includes the Met Office, government, regulators, water companies, the National Farmers’ Union, Canal & River Trust, anglers, hydrologists, and conservation experts.
+Each share their current water situation, ongoing research and innovation, areas of concern, and preparations for future drought – so all can work together to protect our precious and finite resources.
+The meeting heard that water companies are finalising their statutory drought plans, which are produced every five years and detail how public supplies and the environment will be protected during dry weather.
+Alongside this, the Government recently gave additional guidance to water companies for beefing up their contingency plans should a region enter severe drought – last experienced in England half a century ago in 1976. Measures could include daily limits, reduced water pressure, or business restrictions to ensure the taps remain on.
+After attending the National Drought Group meeting,  Water Minister Emma Hardy said:
+Despite our recent wet weather, we must still talk about drought. Our climate is changing, droughts are becoming increasingly common, and we need to be prepared.
+We expect water companies to update their draft statutory drought plans by the end of March and plan for more extreme dry weather – in the hope it never comes.
+In the longer-term, the Government is taking decisive action to secure supplies, including nine new reservoirs, multiple water transfer schemes, and eight desalination projects.
+CURRENT WATER SITUATION:
+February received 170% of the long-term average (LTA) rainfall. March to date rainfall is 53% of the long-term average for the month
+Reservoir storage for England is now 95% which is slightly above average for this time of year.
+Abberton and Hanningfield reservoirs in Essex, Grafham reservoir in Cambridgeshire and the Dove Group in Derbyshire are still below average for this time of year.
+Soils are now fully replenished across the country, with no deficits remaining.
+Groundwater and river flows are now normal or above across England. See more here:
+Water situation reports for England - GOV.UK
+All areas are out of drought and there are no water company restrictions in place.
+It is a mixed picture across England, however. The south-west recorded the second highest December to February winter rainfall since records began in 1871, which has caused widespread flooding.
+In contrast, despite a wet start to the year, East Anglia’s river flows and groundwater levels have been slower to recover from last year’s drought. This meant delays for some farmers in refilling their on-site reservoirs ahead of the irrigation season.
+To ensure resilience to more extreme weather, the Government announced last week more than 600 projects that will be funded as part of a £10.5billion flood defence programme.
+The Floods Resilience Taskforce also recently met in Manchester to assess the impact of recent winter storms and to accelerate action to protect communities.
+Meanwhile, National Drought Group members also spent the winter preparing for the spring and summer ahead.
+ACTIONS TAKEN:
+Water companies continue to drive down leaks to meet a commitment to halve the amount lost by 2050.
+Farmers have been saving winter rainwater, where possible, in reservoir storage.
+The Government continues to progress mandatory water efficiency labelling in white goods, such as washing machines to help consumers reduce their water use.
+The Canal & River Trust has been undertaking vital maintenance work on its network, including replacing lock gates.
+The Environment Agency has continued to monitor recovery and reviewed the overall response to 2025 to improve preparedness for future droughts.
+The Environment Agency’s Chief Scientist’s Group continues its work with The Alan Turing Institute on river flow modelling.
+As we now enter spring, the weather is forecast to be mostly dry for the rest of March. The Met Office forecast indicates that conditions will be drier than average for the rest of March albeit with the usual regional variations.
+Head of Environment and Energy at the Met Office, Sarah Davies, said:
+High pressure is expected to dominate across the UK through to the end of March, keeping conditions mostly fine and dry with limited rainfall, and temperatures near or slightly above average.
+As we head into early April, there are some early signs the weather could become more changeable, however, there is still no strong indication at this time of a shift towards significantly wetter conditions.
+We continue to work closely with the Environment Agency and other partners to monitor conditions and support preparedness efforts as we move through spring.
+The 50‑year anniversary of the 1976 drought will also be marked this summer through sector‑wide events reflecting on lessons learned and future resilience.
+NOTE TO EDITORS:
+DROUGHT, FLOOD AND WATER RESOURCES:
+See more on the 2025 drought here:
+2025 drought: how it developed in England - GOV.UK
+See more on the latest flood investment:
+£1.4bn flood investment unleashed to protect homes and businesses - GOV.UK
+England faces water shortages of five billion litres a day by 2055. Read more here:
+National Framework for Water Resources 2025: water for growth, nature and a resilient future - GOV.UK
+2025 AND 2026 LONG-TERM AVERAGE RAINFALL STATISTICS:
+2025:
+Jan                             112%
+Feb                             79%
+Mar                             25%
+Apr                              50%
+May                             57%
+Jun                              80%
+Jul                               89%
+Aug                             42%
+Sep                             149%
+Oct                              90%
+Nov                             149%
+Dec                             114%
+2026:
+Jan                              150%
+Feb                              170%
+WATER SAVING TIPS:
+Whatever the weather, we always need to use water wisely to protect current and future supplies. We can:
+Opt for a low-flow shower head: These use around 6 litres per minute, compared to a standard shower head, which uses 10-15 litres per minute. Over a 10-minute shower, that’s a saving of up to 90 litres of water.
+If you don’t have a dual flush, get a Cistern Displacement Device (CDD) from your water company: This simple tool can reduce each toilet flush by at least 1 litre and is often available for free from water companies. Find out more on your water company’s website
+In the kitchen avoid pre-rinsing dishes – scrape them instead, as modern detergents are designed to work effectively without extra rinsing and use a washing-up bowl to catch excess water -this can reduce wastage by up to 50%
+Fill your washing machine to its recommended load size for the most efficient use of water.
+Know your house plants and how much water they really need during cooler winter months – try not to over water.
+Install a rain butt to collect rainwater to use in the garden to use when the warmer weather returns.
+Turn off the taps when brushing teeth or shaving.
+Take shorter showers.
+Fix a leaking toilet – leaky loos can waste 200-400 litres a day.
+
+---
+
+### YJB Board Member becomes Victims’ Commissioner Chief Executive
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/yjb-board-member-becomes-victims-commissioner-chief-executive
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 513
+- **Unique ID:** `cccb25038cac1d90`
+
+#### Content:
+
+Susannah brings a wealth of leadership experience and expertise across youth justice, emergency services and victims’ services. She has previously served as Chief Executive of the National Fire Chiefs Council and the Association of Police and Crime Commissioners, working closely with partners across emergency services, criminal justice and victim-focused organisations to drive public service transformation.
+Susannah previously held the role of Head of London at the YJB before moving to the charity Victim Support as Assistant Chief Executive. There, she led national work on partnerships, performance and strategy, working closely with local and national victims’ service organisations.
+Susannah Hancock, YJB Board member, said:
+My new role as Chief Executive of the Office of the Victim’s Commissioner compliments the lead responsibility I hold for Victims in Youth Justice as a YJB board member - a role I am pleased to be continuing.
+Through my work with the YJB, I see first-hand it is crucially important both to respond to children in the justice system in a way that recognises their needs and potential and never to lose sight of the voice and needs of victims and the harm caused to them. Strengthening the evidence base, improving practice and building confidence in how we respond to harm are priorities that cut across both roles. Ultimately if we can prevent and reduce offending by children, there will be fewer victims, which is a key outcome across the youth justice system.
+Many children who enter the justice system are themselves victims. Understanding this can help to bridge perspectives. By working together across youth justice and victims’ services partners, we can better support children, better support victims of crime and ultimately create safer communities.
+Stephanie Roberts-Bibby, Chief Executive of the YJB, said:
+I am very pleased to see Susannah take up such an important role in the Office of Victims Commissioner. Susannah has brought a strong and thoughtful focus to victims’ issues through her work with the YJB, and her continued role as our board lead for victims will ensure these perspectives remain central to our work.
+At a time when the youth justice system is evolving, maintaining strong partnerships and a clear focus on evidence and outcomes for children, victims and communities is more important than ever.
+Susannah’s insight across both roles will help strengthen that connection and better support our collective ambition to deliver a system that responds effectively to the needs of victims while continuing to improve outcomes for children.
+Phil Bowen, Interim Chair of the YJB board, said:
+I congratulate Susannah on her new appointment. Her deep commitment to ensuring that victims’ voices are heard and understood has been evident throughout her work with the YJB.
+We are pleased Susannah will continue to serve on the YJB Board with lead responsibility for victims as her perspective remains an important part of our work as we continue to support the sector to navigate the period of change that is in front of us. Consistency of leadership and shared purpose across the system will be vital as we build on what works to create safer communities.
+
+---
+
+### Precautionary recall of Hibiwash due to microbial contamination
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/precautionary-recall-of-hibiwash-due-to-microbial-contamination
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 416
+- **Unique ID:** `eea38271d4bd1ffc`
+
+#### Content:
+
+As a precautionary measure, Mölnlycke Health Care is recalling three batches of Hibiwash, an antimicrobial wash, due to microbial contamination at the manufacturing facility.
+Contamination with Burkholderia cepacia was identified during routine weekly monitoring, but there have been no reports of patient harm.
+The risk from Burkholderia cepacia is very low for most people, but some patient groups are at a higher risk and may be more vulnerable to infection. This includes patients who have cystic fibrosis or are awaiting lung transplant. There have currently been no confirmed cases of Burkholderia cepacia infection in patients from the affected batches.
+Healthcare professionals and retailers should stop supplying Hibiwash with batch numbers 5156042, 5156043, and 5156093 and return all remaining stock to suppliers. Patients should check for the batch number on the bottle and those who have an impacted batch of Hibiwash should stop using it. Patients with cystic fibrosis or who are awaiting lung transplant who have been supplied with Hibiwash since 10 February 2026  will be contacted directly to check if they have an impacted batch. If you have not been contacted directly, then contact the team responsible for your care. .
+Alternative chlorhexidine gluconate 4% washes are available and are not impacted by this recall.
+Shareen Doak, Deputy Director, Benefit-Risk Evaluation, at the Medicines and Healthcare products Regulatory Agency (MHRA) said:
+“If you have Hibiwash, check the packaging for batch numbers 5156042, 5156043 or 5156093 and stop using it. These batches could be contaminated with Burkholderia cepacia and should be taken to a pharmacy for safe disposal.
+“Please be reassured that there have been no reports of patient harm associated with this microbial contamination, and this recall is being carried out as a precaution.
+“If you have used the product and are concerned that you may be vulnerable to infection or have experienced an adverse reaction, please seek medical advice.
+“Any suspected adverse reactions can be reported to the MHRA through the MHRA’s
+Yellow Card Scheme
+scheme.”
+Notes to editors
+Please see
+MHRA’s Class 2 recall
+for further information.
+This recall impacts around 50,000 units of Hibiwash
+The MHRA is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.
+The MHRA is an executive agency of the Department of Health and Social Care.
+For media enquiries, please contact the
+newscentre@mhra.gov.uk
+, or call on 020 3080 7651.
+
+---
+
+### UK Government commits up to £9m to support Mossmorran's future
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/uk-government-commits-up-to-9-million-to-support-mossmorrans-future
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 308
+- **Unique ID:** `8e8e97199c9163a2`
+
+#### Content:
+
+The UK Government has pledged up to £9 million to support the future of the Mossmorran site and help protect Fife’s wider economy following the ethylene plant’s closure.
+The investment, announced by Scottish Secretary Douglas Alexander, is designed to help secure a successful future for the site and support the local economy and communities affected by the closure. Funding is contingent on suitable investment proposals being brought forward and approved, and appropriate commercial partners being identified.
+The announcement was made as the Fife Council-led taskforce met today [23 March 2026], bringing together local elected representatives, employers, Fife Council and the Scottish Government to support the plant’s workforce into well-paid future employment.
+The UK Government has already taken a number of steps to support Mossmorran workers, including:
+Actively marketing the site to potential investors. With its industrial heritage, skilled local workforce, and proximity to other large energy and defence companies, we believe Mossmorran can be an attractive site for future investment.
+Guaranteeing all Mossmorran workers a job interview at the Grangemouth plant (which is supported by a £120 million UK Government investment).
+Today’s commitment builds on this work and signals the UK Government’s determination to go further in supporting workers, families and communities across Fife.  Last year we supported the acquisition of Harland & Wolff by Navantia, securing the future of its Fife yard, and last year committed £340 million to Rosyth Dockyard.
+Scottish Secretary Douglas Alexander said:
+The UK Government stands ready to invest up to £9 million in Mossmorran’s future. We know this has been an incredibly difficult time for the plant’s workers and their families, which is why the UK Government is stepping in.
+We are determined to do all we can to look after the plant’s workers,  ensure a successful future for the site itself, and so mitigate the impact on the wider Fife community.
+
+---
+
+### Welsh steel industry backed with new trade measure and strategy
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 1080
+- **Unique ID:** `49769130ff7efe8d`
+
+#### Content:
+
+Landmark new Steel Strategy shows that UK Government is standing up for Welsh steelmaking and will do whatever it takes to boost domestic steel production and protect the thousands of steelmaking jobs in Welsh communities.
+UK Government will introduce tough new trade measures to protect and promote domestic steelmaking and reduce our reliance on overseas suppliers with Welsh producers like Tata Steel and 7Steel to benefit.
+New target for 50% of steel used in Britain to be made in Britain, boosting production from 30% and Welsh steel expected to account for half of future UK steelmaking.
+UK Government allocating an additional £5.8bn to the National Wealth Fund to invest in its priority sectors, including Welsh steel which builds on the over £600m invested in Port Talbot by this government, protecting 5,000 skilled jobs.
+UK steel producers and thousands of steel workers in Wales will benefit from a new landmark Steel Strategy as the UK Government takes bold action to protect domestic steelmaking and the wider supply chain for critical national infrastructure and defence.
+On a visit to Tata Steel Port Talbot to meet steelworkers and launch the Strategy, the Business and Trade Secretary Peter Kyle announced the Government’s ambition to boost domestic production so that it can meet up to 50% of our domestic demand for steel, and secure the industry’s role in supporting vital UK sectors like infrastructure, defence and clean energy.
+Building on the direct financial support the government has made so far, the National Wealth Fund will be the government’s main mechanism for providing up to £2.5 billion of financing for investment in the steel sector this Parliament. The Steel Strategy forms a vital part of the Government’s activist and strategic approach to British industry, taking decisive action to give businesses the certainty and support they need in uncertain times and bolstering the UK’s resilience.
+Today, the UK also announces that from 1 July 2026, overall quota levels for steel imports will be significantly reduced by 60% compared to current arrangements, and steel coming into the UK above these levels will be subject to a 50% tariff.
+The robust new measure is a vital step to protect Welsh steel production in the face of global steel overcapacity. It will apply to imported steel products that can be made in Britain. Welsh steelmaking is expected to account for half of future UK steelmaking, via producers including Tata Steel in Port Talbot, Shotton, Llanelli and Newport and 7Steel in Cardiff.
+The Government will also introduce a target to boost domestic production so that it can meet 50% of our domestic demand for steel and secure the industry’s role in supporting vital UK sectors like infrastructure, defence and clean energy.
+The UK Government will allocate an additional £5.8bn to the National Wealth Fund to invest in steel and related, priority sectors.
+Welsh Secretary Jo Stevens is to convene new initiative with the NWF and the private sector to unlock new investments into Welsh steel and related Welsh industries. This builds on the over £600m already allocated to Port Talbot by this Government.
+This vital intervention by UK Government comes alongside critical support for Welsh steel producers’ energy costs through the British Industrial Competitive Scheme and the British Industry Supercharger. The £122m funding from UK Government and Tata through the Port Talbot Transition Board has helped thousands of workers and hundreds of businesses with the transition to EAF-steelmaking.
+Business and Trade Secretary Peter Kyle said:
+Making steel in the UK is vital for national security, critical infrastructure and the wider economy. Steel-making is a cornerstone of our modern industrial policy that deliberately focuses support for key industries, technologies, and strategically important sectors.
+With this strategy we are closing the decades-long chapter of destructive de-industrialisation and committing instead to strengthening and sustaining Britain as a steel-making nation.”
+Secretary of State for Wales Jo Stevens said:
+The UK Government is standing up for Welsh steelmaking and showing that we will do whatever it takes to boost domestic steel production and protect the thousands of steelmaking jobs in our communities.
+Welsh steel is expected to account for half of future UK steelmaking. It is not only a vital part of the South Wales economy, but also a crucial part of the UK’s industrial strategy, infrastructure capabilities and national security.
+We said we would back our steelworkers and steel communities and we are delivering on that promise - Welsh steelmaking now has a secure and bright future.
+The new Steel Strategy also commits to:
+Confirm electric arc furnaces (EAF), like that being built in Port Talbot, as the future of British steelmaking, continuing the shift from blast furnaces to cleaner, EAF-based production using recycled scrap to support net zero.
+Enable offshore wind developers to include steel manufacturers in the next round of Clean Industry Bonus applications (launching this year) to maximise UK steel use in renewables.
+Launch a cross-government working group to secure a sustainable supply of scrap metal for UK steelmakers.
+Task the Steel Council with action on workforce needs and practical research and innovation to boost productivity and competitiveness.
+Alongside the new trade measure being announced today, the Government will also be raising the UK’s maximum Most Favoured Nation (MFN) steel tariffs at the WTO to 50% to protect domestic industry in the long run from the impacts of global overcapacity.
+This approach reflects feedback from government’s recent Call for Evidence, aligns with the UK’s Industrial Strategy and Trade Strategy, and follows months of engagement with UK steel producers and downstream industries.
+In tandem, the Government will explore the possibility of introducing requirements to identify where steel imports are melted and poured, in order to better understand our supply chains and ensure the UK steel industry is better protected from global overcapacity.
+The new measure is not about stopping steel trade: steel imports are necessary for industry and will continue. Quota allocations have been carefully designed through engagement with industry to help maintain security of supply and minimise impacts on the wider economy, such as for automotive manufacturing and construction.
+The UK remains committed to working with international partners to tackle global steel challenges, including through the Global Forum on Steel Excess Capacity and efforts to advance WTO reform.
+Further good news for the UK’s steel sector will be unveiled later today during the Nigerian State Visit, with a record-breaking new deal backed by UK Export Finance worth £70 million, for British Steel to supply the redevelopment of two of Nigeria’s trading ports.
+
+---
+
+### Transport Secretary tasks HS2 with reducing construction time and cost to taxpayers
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/transport-secretary-tasks-hs2-with-reducing-construction-time-and-cost-to-taxpayers
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 755
+- **Unique ID:** `c0152c0df1b1f127`
+
+#### Content:
+
+government tells
+HS2
+Ltd
+to consider options that could save billions and bring the railway into service sooner
+the ongoing review will consider how to get passengers on trains sooner and deliver some of the fastest high-speed trains in Europe
+scheme supports national renewal – with delivery focusing on increased capacity, reliable trains with increased frequency whilst supporting thousands of jobs and adding billions to the economy
+The Transport Secretary has today (23 March 2026) tasked
+HS2
+Ltd
+to explore options to remove complexity that could cut billions in costs and reduce delays for the project.
+The move comes as part of the government’s reset of the high-speed rail line to ensure more trains and faster journeys are delivered as quickly and efficiently as possible, following years of mismanagement.
+As part of his comprehensive reset of the project,
+HS2
+Ltd
+CEO
+, Mark Wild, will explore other high-speed options for the railway, which could save taxpayers billions and reduce construction time.
+HS2
+was originally commissioned to run at 360km/h, which would have made them the fastest conventional high-speed trains anywhere in the world. However, no railway in the UK, or globally, is currently engineered for 360km/h.
+This means that
+HS2
+would have to wait for
+HS2
+tracks to be built before testing any trains – an approach which could increase costs and delay the completion of the project.
+These options would have negligible impact on projected journey times and get passengers onto trains sooner. The move would bring
+HS2
+in line with proven high-speed models such as
+HS1
+, Japan’s bullet trains, and France’s
+TGV
+network which all run at 300-320km/h.
+Transport Secretary, Heidi Alexander, said:
+This government is determined to deliver
+HS2
+as effectively and efficiently as possible. In doing so, I will look at every opportunity to claw back construction time, save taxpayers money and ensure the project delivers for the country.
+I share the public’s anger about the waste and mess of the past which is why this government is pulling
+HS2
+out of its sclerosis and setting it on a more sensible course. We’re getting a grip, controlling costs, and getting on with delivering the transport infrastructure this country needs.
+After investigating further opportunities to bring down costs and delivery timelines, Mark Wild will report back to the Transport Secretary in the summer, alongside a progress update. Together, this work will ensure that the updated costs and schedule estimates are robust.
+Under Mark Wild’s leadership,
+HS2
+is working. Right now, around 30,000 workers and thousands of UK businesses are supporting
+HS2
+’s delivery, and in West London and the West Midlands,
+HS2
+is estimated to add £20 billion to the economy and unlock 63,000 new homes over the next 10 years.
+Mark Wild has delivered six construction milestones ahead of schedule over the last year, including:
+completion of excavation of the 3.5-mile Bromford Tunnel in the West Midlands – marking the end of excavation for all 23 miles of deep tunnels on the opening stage of the railway
+sliding a 14,500-tonne box structure – the heaviest of its kind in Europe – under the A46
+completion of the assembly of the second of two tunnel boring machines at Old Oak Common, allowing the first machine to begin excavating the Euston Tunnel under London in January this year, with the second having started last week
+Northolt Tunnel – last of four tunnel boring machines lifted out of the ground at Green Park Way in West London after excavating an 8.4-mile long tunnel between West Ruislip and Old Oak Common, three months ahead of schedule
+Station Road – installation of beams to carry Station Road in central Buckinghamshire over
+HS2
+and national rail overbridges (Calvert)
+Greatworth Tunnel – completion of fifth of nine 400-metre sections of what will become
+HS2
+’s longest green tunnel at 2.7km
+Mark Wild, Chief Executive of
+HS2
+Ltd
+, said:
+I made a commitment to the Transport Secretary that I would regain control of
+HS2
+and bring an end to the project’s cost increases and delays.
+With performance moving in the right direction, driven by the hard work of 30,000 people on the ground, we are rightly exploring options to create further efficiencies.
+Speed has never been the primary objective. This railway will deliver better journeys, more capacity on the network, and economic growth – all of which are vital to the country’s future prosperity.
+HS2
+6-monthly report to Parliament: March 2026
+.
+HS2 and major projects media enquiries
+Media enquiries 0300 7777 878
+Switchboard 0300 330 3000
+
+---
+
+### HS2 6-monthly report to Parliament: March 2026
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/speeches/hs2-6-monthly-report-to-parliament-march-2026
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 2622
+- **Unique ID:** `b947bc0a111294ff`
+
+#### Content:
+
+Reset update
+Today, I am publishing this government’s latest report to Parliament on High Speed Two (
+HS2
+).
+When I was appointed Secretary of State, I was clear that significant change was needed to bring
+HS2
+under control. The history of the programme has been characterised by spiralling costs and ever-shifting timelines, in significant part due to past mismanagement.
+As I set out in
+my statement to Parliament
+in June last year, I gave the new
+CEO
+of
+HS2
+Ltd, Mark Wild, a clear task: to reset
+HS2
+, bring an end to constant cost increases and delays, and deliver the remainder of the programme safely and at the lowest reasonable cost.
+Since then, the scale of the challenge in resetting this programme has become even clearer. Mark Wild’s work on the reset has shown that
+HS2
+Ltd did not have an accurate assessment of how much work had been delivered, or of how much was left to do. It is now clear that previous plans significantly underestimated the work required.
+Mark Wild and
+HS2
+Ltd have been working closely with my department and other partners in government over the past year to assess the remaining scope of work, and to estimate thoroughly how long it will take and how much it will cost to complete the project.
+I am determined to explore every opportunity to remove the over-specification and complexity from this project to bring down costs and delivery timelines. This will ensure the updated cost and schedule estimates are robust, rather than rush the process and risk publishing figures that we do not trust. As such, today I am publishing an interim report, with a more detailed update on the progress of the
+HS2
+reset to follow shortly.
+I have commissioned Mark Wild to assess how much money and time could be saved by adopting a specification for
+HS2
+that is more in line with the high-speed railways successfully delivered by the rest of the world. This could involve relying on proven technology and reducing the top operating speed of the railway in line with
+HS1
+and other European counterparts.
+On current specification,
+HS2
+trains will run at 360 kilometres per hour (kph), which would make them the fastest conventional high-speed trains anywhere in the world.
+The definition of high-speed covers trains running at least 250 kph. China and Spain have the highest design speeds of 350 kph. The maximum commercial passenger speed on the
+UK
+conventional rail network is 200 kph, and
+HS1
+runs at 300 kph.
+However, no railway in the
+UK
+, or globally, is currently engineered for 360 kph. This means that the project would have to wait for
+HS2
+tracks to be built before testing any trains – an approach which could increase costs and delay the completion of the project. The alternative would have been to send trains abroad to test on an existing track running at that speed.
+Mark Wild’s initial and provisional estimate is that a specification at reduced speeds could save in the low billions and bring the railway into service sooner, by reducing risk in the delivery of the programme and its testing. However, in learning the lessons of the past, I am eager not to make this decision prematurely; I have asked Mark Wild to report back to me before the summer recess, and I will be considering his advice carefully.
+The government will reflect on the early outcomes of this work, alongside progress on engagement with
+HS2
+Ltd’s main suppliers, ahead of publishing the new cost and schedule estimates once they have been fully assured and approved. It is clear that this review of specification and the wider reset are not going to undo the failures that have led to this point, but they will set a realistic and controlled path to completing the remaining work.
+At the same time, I am pleased to report early signs of improvement following a productive year of delivery. Civils works are now at maximum effort and collective action is helping to drive up productivity and safety. The excavation of the
+HS2
+tunnel to Euston has now started following the launch of the final two tunnel boring machines on the programme. Following his appointment as new Chair of
+HS2
+Ltd last summer, Mike Brown has made rapid progress in reshaping the organisation’s Board, bringing in new skills, expertise and capability.
+Looking ahead, our focus remains on finalising the updated cost and schedule estimates and progressing the reset to address the difficult position that we inherited. This includes reshaping
+HS2
+Ltd and continuing to engage with suppliers to review contracts, implement the recommendations of
+James Stewart’s independent review
+and deliver the railway safely and at the lowest reasonable cost.
+Delivery control and expenditure
+Whilst the reset progresses, the department will continue to manage
+HS2
+Ltd through strengthened in-year controls and a yearly performance management plan that includes challenging construction targets and performance metrics to deliver within annual budgets. This plan has worked well, with productivity up in almost all sectors of construction.
+These strengthened controls will remain as long as needed, determined by the improved performance and capability of
+HS2
+Ltd and the adoption of a new cost and schedule baseline. When
+HS2
+Ltd achieves sufficient capability to consistently deliver to the new baseline, the Department will be able to transition to a more permissive and flexible sponsorship model.
+This year,
+HS2
+Ltd has rescheduled some work with the aim of focusing construction efforts on delivering the opening stage of the railway, between Old Oak Common and Birmingham Curzon Street.
+To the end of February 2026, £43.6 billion (nominal prices) had been spent on the
+HS2
+programme. This is provided in more detail in the financial annex, based on data provided by
+HS2
+Ltd.
+Spend to date information covers the period up to the end of February 2026. Unless stated otherwise, all figures are presented in nominal prices.
+Delivery progress
+Delivery progress has historically been poor on some key areas of civils construction. Performance has started improving and the past six months have seen good progress in the delivery of
+HS2
+’s civil engineering works. Notably, the Align joint venture, responsible for delivering civil infrastructure on one of the central sections of the
+HS2
+route, is nearing the completion of their major assets.
+HS2
+Ltd will continue working with the main works civils contractors to improve delivery so that the programme can progress to the next stage.
+August 2025 saw the completion of construction on the Chiltern tunnel. Boring of the tunnel was completed in 2024, and since then work had been underway on the porous portals, cross passages, emergency walkways, and finishing works. As well as being complex, at 10 miles, it is the longest tunnel on
+HS2
+’s route.
+All major deep-bore tunnelling between Old Oak Common in London and Birmingham Curzon Street was completed in October 2025, when the breakthrough of tunnel boring machine Elizabeth concluded the excavation of the Bromford Tunnel. This marks a significant milestone in the construction of the railway.
+In January and March, the final two tunnel boring machines of the programme, Madeleine and Karen, were launched to excavate the twin-bore tunnel between Old Oak Common and Euston in London. Progress on this section of the route makes good on the government’s commitment to bringing
+HS2
+into central London.
+Six major milestones on tunnels and roads have been completed ahead of in-year schedule, including the sliding of a road bridge for the A46 over the
+HS2
+route in April 2025, the installation of precast beams and overbridges over Station Road near Calvert in August 2025, and the second breakthrough on the Bromford tunnel in Birmingham in October 2025. The north portal structure at the Chiltern tunnel was completed in 12 months, several months faster than the south portal, thanks to lessons learned and innovative construction methods. The excavation of the 8.4-mile Northolt tunnel, the second longest on
+HS2
+, was completed on schedule in June 2025 despite complex ground conditions.
+Since July 2025, major progress has been made on earthworks. As at February 2026, over 108 million cubic metres of earthworks has been completed across
+HS2
+’s civils construction, representing around 70% of the total planned quantities. In August, more than 1.7 million cubic metres of spoil was excavated, filled and processed in our Greatworth to Southam sites alone.
+In August 2025, a 112-metre bridge was moved over Lawley Middleway in Birmingham. To minimise disruption to road users, the 1,631-tonne bridge was constructed on land over the span of two years, before being rotated 90 degrees and carefully lifted over the road.
+In September 2025, a key construction milestone was achieved as the Colne Valley Viaduct, the longest rail bridge in the
+UK
+, became structurally complete following the placement of the final deck segment.
+Safety remains our top priority in the construction of
+HS2
+. In October 2025, following an incident on site, all works across the London tunnels section of the route were brought to a safe stop to allow for a comprehensive safety review to be conducted. While no one was harmed in the incident,
+HS2
+Ltd remains committed to the health and safety of everyone working on its sites. By mid-November all sites were able to reopen, with enhanced procedures and protocols implemented to ensure that all works resumed safely.
+Ground investigation works at Interchange Station are complete, in advance of detailed design commencing early this year. In order to formulate and advance plans for commercial development at Arden Cross, the area around the new station, engagement with local stakeholders and landowners continues.
+Initial utility diversions are continuing for the Automated People Mover along the route with the first completed in October 2025. Once complete, the Mover will enable passengers to travel seamlessly from Interchange Station to Birmingham Airport.
+At Birmingham Curzon Street Station, the last of the 2,011 concrete piles, which form a key part of the foundation for the station, were completed in March. Work on the infrastructure required for the Midland Metro Alliance to deliver the Birmingham Eastside tram extension is progressing well, ahead of the first phased handover of the site to Transport for West Midlands in September 2026.
+HS2
+Ltd and the Midland Metro Alliance are leading workshops over the future operation of the live tram through the Curzon Street site to maintain a collaborative approach and ensure lessons continue to be learnt as delivery progresses.
+Work progresses on the six high-speed platforms at Old Oak Common, alongside work on six of the eight surface-level platforms that will serve the Great Western Main Line, Elizabeth Line, and Heathrow Express. Meanwhile, work continues on a complex sequence of critical utility works to the west of the station site. Key utility diversions are expected to complete this year.
+Rail systems contracts for track, signalling, communications and power supplies commenced in February 2025. We have amended the schedule of work to support the wider reset which has slowed initial mobilisation; however, this will then be followed by a period of design, and development of an integrated schedule for the deployment of railway systems. Work will not start on site until civil works have been completed. This is learning from the premature start of main civil works on
+HS2
+as well as from previous projects such as Crossrail, where systems installation started before civils had finished.
+Procurement of the Washwood Heath Depot continues.
+As
+HS2
+Ltd has further developed the operational design of the railway, it has become clear that platform-edge doors, which are screens along platform edges to safely separate passengers and trains, are no longer technically viable. Therefore, the procurement was abandoned via a contract notice in July 2025. The tender for the train dispatch system, which is the system to ensure the safe departure of trains from stations, has also been amended to remove the interface with the platform-edge doors.
+Fraud investigation
+In my previous report, I referred to allegations of fraud made in relation to a
+HS2
+labour supplier. Upon completion of an investigation by the main contractor Balfour Beatty Vinci (
+BBV
+), the contract of this labour supplier was terminated in July 2025.
+HS2
+Ltd formally referred the matter to
+HMRC
+and has since concluded its own wider investigation of all labour-only subcontractors. I have been clear that such allegations need to be investigated rapidly and rigorously and I am glad to see that swift action was taken.
+Community impacts, land and property
+HS2
+Ltd continues to inform and involve communities who are impacted by construction. Between April and December 2025, over 15,000 residents were engaged at over 1,700 meetings and events. A further 22,000 enquiries were received via the
+HS2
+Ltd Helpdesk, which operates 24 hours a day.
+During the same period,
+HS2
+Ltd received 1,067 complaints, the vast majority of which continue to relate to the impacts of construction, including concerns about traffic and transport disruption and noise and vibration impacts.
+HS2
+Ltd is committed to resolving complaints promptly. Of the 1,067 complaints received,
+HS2
+Ltd resolved 100% of urgent complaints within 2 working days and resolved 98% of all other complaints within 20 working days or less.
+Successful deployment of the £40 million Community and Environment Fund and the Business and Local Economy Fund has now passed the halfway point. This is a significant milestone and means as at February 2026, over £21.1 million has been invested in communities and businesses that have been demonstrably disrupted by the construction of
+HS2
+, delivering over 379 projects that will leave an enduring legacy.
+We understand the continuing impact that
+HS2
+is having on those who live or have businesses on or near the route. In previous reports we have recognised the need for
+HS2
+Ltd to make faster progress in settling claims and resolving other issues affecting people whose land has been acquired or possessed for the project. While
+HS2
+Ltd has increased the rate at which claims on Phase 1 are being settled, we have made clear to the company that further improvement is needed. On the former Phase 2a route, we recognise the concerns that have been expressed regarding the quality of communication from
+HS2
+Ltd and a lack of progress in resolving land issues. We have made it clear to
+HS2
+Ltd’s leadership that performance in this respect needs to improve, and we will be scrutinising the measures taken by the company to address these concerns.
+Financial annex
+Historic and forecast expenditure
+The information on
+HS2
+’s overall spend to date and budget is now being provided in nominal (cash) terms following a commitment made by the department to the Public Accounts Committee to express the costs of the programme in a more up-to-date price base and better capture the inflation incurred since 2019. The government provided further details of the 2025 to 2026 position in cash terms as part of the standard Supplementary Estimates report to Parliament.
+This is expressed in nominal prices, including land and property.
+Overall spend to date (£ billion)
+2025 to 2026 budget (£ billion)
+2025 to 2026 forecast (£ billion)
+2025 to 2026 variance (£ billion)
+HS2
+Programme Total
+43.6
+7.1
+7.0
+0.2
+Civils
+30.7
+5.5
+5.4
+0.0
+Stations
+2.9
+0.6
+0.6
+0.0
+Systems
+2.1
+0.3
+0.2
+0.1
+Indirects
+4.1
+0.4
+0.3
+0.0
+Land and Property
+3.7
+0.2
+0.2
+0.0
+Former Phase 2
+2.6
+0.1
+0.1
+0.1
+Overall Total
+46.2
+7.3
+7.1
+0.2
+Notes for the table
+[1] The figures set out in the table have been rounded to the nearest £100 million to aid legibility. Due to this, they do not always tally.
+[2] Spend to date includes a £0.5 billion liability (provision) representing the department’s obligation to purchase land and property.
+
+---
+
+### Current inspections
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/current-inspections
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 198
+- **Unique ID:** `50e8e00e7ffb07ae`
+
+#### Content:
+
+Completed inspections awaiting publication
+An inspection of Home Office management of contact with migrants who are without leave to enter or remain (12 May 2025)
+An inspection of administrative reviews (17 October 2025)
+An inspection of overstayers (21 October 2025)
+An inspection of asylum casework (5 March 2026)
+Inspection report on Home Office country of origin information on Afghanistan and Colombia (5 March 2026)
+Live inspections
+An inspection of refusals and cancellations of permission to enter the UK
+An inspection of the UK-France Agreement on the Prevention of Dangerous Journeys
+Published Reports and Government Responses
+2025 ICIBI Reports
+2025 Government Responses
+2024 ICIBI Reports
+2024 Government Responses
+2023 ICIBI Reports
+2023 Government Responses
+2022 ICIBI Reports
+2022 Government Responses
+2021 ICIBI Reports
+2021 Government Responses
+2020 ICIBI Reports
+2020 Government Responses
+2019 ICIBI Reports
+2019 Government Responses
+2018 ICIBI Reports
+2018 Government Responses
+2017 ICIBI Reports
+2017 Government Responses
+2016 ICIBI Reports
+2016 Government Responses
+2015 ICIBI Reports
+2015 Government Responses
+2014 ICIBI Reports
+2014 Government Responses
+2013 ICIBI Reports
+2013 Government Responses
+2012 ICIBI Reports
+2012 Government Responses
+2011 ICIBI Reports
+2011 Government Responses
+2010 ICIBI Reports
+2010 Government Responses
+2009 ICIBI Reports
+No Government Responses published
+
+---
+
+### Call for evidence: An inspection of the UK-France Agreement on the Prevention of Dangerous Journeys
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/call-for-evidence-an-inspection-of-the-uk-france-agreement-on-the-prevention-of-dangerous-journeys--2
+- **Published Date:** 2026-03-23
+- **Scraped Date:** 2026-03-24
+- **Word Count:** 303
+- **Unique ID:** `f21ca14827ddcae8`
+
+#### Content:
+
+In line with their 2026-27 inspection plan, the Independent Chief Inspector of Borders and Immigration has commenced an inspection of the UK-France Agreement on the Prevention of Dangerous Journeys.
+This inspection will examine the effectiveness of the pilot in meeting its stated aims, with a particular focus on:
+the efficiency, effectiveness and consistency of current practices
+the eligibility criteria for the pilot, with regard to the identification of vulnerability
+opportunities for stakeholders to engage with the Home Office, either on the design or the operation of the pilot
+challenges should the Home Office decide to transition from pilot to full implementation.
+This call for evidence will remain open until 7 April 2026.
+The Independent Chief Inspector invites anyone with knowledge and experience of the UK-France Agreement on the Prevention of Dangerous Journeys to submit evidence to inform this inspection and would be pleased to hear both what is working well and what could be improved. The
+ICIBI Inspection framework
+will be used to assess the Home Office in this inspection.
+The information you submit may be included in the final inspection report, but it is the ICIBI’s practice not to name sources and to anonymise as much as possible any examples or case studies.
+Please click
+here
+to email your submission to the Chief Inspector.
+Please note: The
+ICIBI’s statutory remit
+does not extend to investigating or making decisions about individual cases. This remains a Home Office responsibility. However, the Chief Inspector can take an interest in individual cases to the extent that they illustrate or point to systemic problems.
+Data Protection
+Information on how we process personal data submitted in response to a call for evidence can be found in the
+ICIBI privacy information notice
+available on the ICIBI website.
+John Tuckett, Independent Chief Inspector of Borders and Immigration
+23 March 2026
 
 ---
 

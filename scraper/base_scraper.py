@@ -13,10 +13,10 @@
 # =============================================================
 
 import asyncio
+import itertools
 import random
 from datetime import datetime, timezone
-from typing import Optional
-from urllib.parse import urljoin
+from typing import Optional, cast
 
 import httpx
 from bs4 import BeautifulSoup
@@ -25,13 +25,14 @@ from config import (
     HEADERS, RATE_LIMIT_MIN, RATE_LIMIT_MAX,
     REQUEST_TIMEOUT, MAX_ARTICLES, RSS_FALLBACK_PATHS,
 )
-from utils.logger    import get_logger
-from utils.cleaner   import normalise_date, content_hash, url_hash, unique_id, clean_text
-from utils.url_utils import normalise_url, same_domain, can_fetch, make_absolute
-from utils.storage   import (
+from utils.logger     import get_logger
+from utils.cleaner    import normalise_date, content_hash, url_hash, unique_id
+from utils.url_utils  import normalise_url, same_domain, can_fetch, make_absolute
+from utils.storage    import (
     load_index, save_index, save_document,
     load_checkpoints, save_checkpoints, save_raw_json,
 )
+from utils.translator import translate_to_english
 
 log = get_logger(__name__)
 
@@ -190,7 +191,12 @@ async def _parse_rss(rss_url: str) -> list[dict]:
                 continue
             title = entry.get("title", "")
             dp    = entry.get("published_parsed") or entry.get("updated_parsed")
-            date  = datetime(*dp[:6], tzinfo=timezone.utc).isoformat() if dp else ""
+            date  = (
+                datetime(dp.tm_year, dp.tm_mon, dp.tm_mday,
+                         dp.tm_hour, dp.tm_min, dp.tm_sec,
+                         tzinfo=timezone.utc).isoformat()
+                if dp else ""
+            )
             entries.append({"url": link, "title": title, "date": date})
         log.info(f"  RSS → {len(entries)} entries")
         return entries
@@ -231,9 +237,12 @@ async def discover_via_listing(
         # ── Build page URL ────────────────────────────────────
         if page_n == 1:
             url = listing_url
-        elif pagination_pattern and "{n}" in pagination_pattern:
+        elif pagination_pattern is not None:
+            pat = cast(str, pagination_pattern)  # narrow Optional[str] → str
+            if "{n}" not in pat:
+                break   # no {n} placeholder — no pagination, stop after page 1
             offset = (page_n - 1) * pagination_step
-            suffix = pagination_pattern.replace("{n}", str(offset))
+            suffix = pat.replace("{n}", str(offset))
             url = listing_url.rstrip("/") + suffix
         else:
             break   # no pagination configured, only first page
@@ -383,7 +392,8 @@ def parse_article(
         body_text = re.sub(r"\n{3,}", "\n\n", body_text).strip()
 
         # Skip thin / empty pages (navigation pages, error pages, etc.)
-        if len(body_text) < 50:
+        # 300 chars ≈ 50 words — filters junk like nav wrappers and widget pages
+        if len(body_text) < 300:
             log.debug(f"  Thin content ({len(body_text)} chars), skipping: {url}")
             return None
 
@@ -517,7 +527,6 @@ class CountryScraper:
         # Special case: Japan uses monthly archive URLs
         if name == "Government of Japan":
             from config import JAPAN_MONTHS_BACK
-            from datetime import datetime, timezone
             now = datetime.now(timezone.utc)
             for i in range(JAPAN_MONTHS_BACK):
                 month = now.month - i
@@ -559,7 +568,7 @@ class CountryScraper:
         errors  = 0
         raw_records = []
 
-        for norm, item in list(candidates.items())[:MAX_ARTICLES]:
+        for norm, item in itertools.islice(candidates.items(), MAX_ARTICLES):
             url = item["url"]
 
             # Skip off-domain links
@@ -613,6 +622,11 @@ class CountryScraper:
             )
 
             if doc:
+                # ── Translate to English (title + body) ──────────
+                doc["title"] = translate_to_english(doc["title"])
+                doc["body"]  = translate_to_english(doc["body"])
+                doc["word_count"] = len(doc["body"].split())
+
                 raw_records.append(doc)
                 # ── LAYER 5: final dedup guard inside save_document ──
                 if save_document(doc, country_code, index):

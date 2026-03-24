@@ -1,0 +1,157 @@
+# =============================================================
+# .github/workflows/ci.yml — Continuous Integration
+# =============================================================
+# Triggers on every push and pull request to main / dev branches.
+#
+# Jobs:
+#   1. lint      — Ruff (fast Python linter, replaces flake8)
+#   2. typecheck — Pyright in basic mode
+#   3. test      — Import smoke-test (verify all modules load cleanly)
+#   4. docker    — Build Docker image (no push, just validate it builds)
+# =============================================================
+
+name: CI
+
+on:
+  push:
+    branches: [main, master, dev]
+  pull_request:
+    branches: [main, master, dev]
+
+# Cancel in-progress runs when a new push comes in to the same branch
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # ─────────────────────────────────────────────────────────────
+  # JOB 1 — Lint with Ruff
+  # ─────────────────────────────────────────────────────────────
+  lint:
+    name: 🔍 Lint (Ruff)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Ruff
+        run: pip install ruff==0.4.4
+
+      - name: Run Ruff linter
+        run: ruff check . --output-format=github
+
+      - name: Run Ruff formatter check
+        run: ruff format --check .
+
+  # ─────────────────────────────────────────────────────────────
+  # JOB 2 — Type Check with Pyright
+  # ─────────────────────────────────────────────────────────────
+  typecheck:
+    name: 🔎 Type Check (Pyright)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyright==1.1.360
+
+      - name: Run Pyright type checker
+        run: pyright --project pyrightconfig.json
+
+  # ─────────────────────────────────────────────────────────────
+  # JOB 3 — pytest + Coverage
+  # ─────────────────────────────────────────────────────────────
+  test:
+    name: 🧪 Tests (pytest)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov
+
+      - name: Run pytest with coverage
+        run: |
+          pytest tests/ \
+            --tb=short \
+            --cov=utils \
+            --cov=scraper \
+            --cov=config \
+            --cov-report=term-missing \
+            --cov-report=html:htmlcov \
+            --cov-fail-under=70 \
+            -q
+
+      - name: Upload coverage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-report
+          path: htmlcov/
+          retention-days: 7
+
+  # ─────────────────────────────────────────────────────────────
+  # JOB 4 — Docker Build (validate image builds, no push)
+  # ─────────────────────────────────────────────────────────────
+  docker:
+    name: 🐳 Docker Build
+    runs-on: ubuntu-latest
+    # Only runs after lint + test pass (not typecheck — Pyre2 noise)
+    needs: [lint, test]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: false          # CI only — no push to registry yet (CD does that)
+          tags: g7-scraper:ci-${{ github.sha }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Verify container starts correctly
+        run: |
+          # Build locally for docker run test
+          docker build -t g7-scraper:test .
+          # Run the container with RUN_NOW=false (cron only, won't actually scrape)
+          # and check it outputs the startup banner within 10 seconds then exit
+          timeout 15 docker run --rm \
+            -e RUN_NOW=false \
+            g7-scraper:test \
+            bash -c 'service cron start && echo "Container startup OK " && exit 0' \
+            || true

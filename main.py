@@ -22,8 +22,7 @@ import asyncio
 import json
 import os
 import sys
-import time
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Allow imports relative to project root regardless of where
 # the script is invoked from.
@@ -59,7 +58,7 @@ async def run_all() -> None:
     servers and makes logs easy to read.  The async event loop
     is still used inside each source for non-blocking I/O.
     """
-    start_time = datetime.now()
+    start_time = datetime.now(timezone.utc)
     print(BANNER)
 
     # ── Load site configurations ──────────────────────────────
@@ -72,7 +71,7 @@ async def run_all() -> None:
         sites = json.load(f)
 
     log.info(f"Loaded {len(sites)} site configurations from sites.json")
-    log.info(f"Output: data/markdown/  |  Index: data/processed/")
+    log.info("Output: data/markdown/  |  Index: data/processed/")
     log.info("")
 
     # ── Create one shared scraper instance ───────────────────
@@ -84,9 +83,10 @@ async def run_all() -> None:
     summary: dict = {}
 
     # ── Shared HTTP client (HTTP/2, connection pooling) ───────
+    # HTTP/2 disabled — some gov sites return 'stream closed' errors with h2
     async with httpx.AsyncClient(
-        http2=True,
-        limits=httpx.Limits(max_connections=5, max_keepalive_connections=3),
+        http2=False,
+        limits=httpx.Limits(max_connections=10, max_keepalive_connections=5),
         timeout=httpx.Timeout(30.0, connect=10.0),
         follow_redirects=True,
     ) as client:
@@ -116,7 +116,7 @@ async def run_all() -> None:
     report_path = save_summary_report(summary)
 
     # ── Final summary table ───────────────────────────────────
-    elapsed = int((datetime.now() - start_time).total_seconds())
+    elapsed = int((datetime.now(timezone.utc) - start_time).total_seconds())
 
     print("\n" + "=" * 62)
     print("  G7 Scraper — Run Complete")
@@ -144,9 +144,9 @@ async def run_all() -> None:
     print("=" * 62)
     print(f"  ⏱  Elapsed    : {elapsed}s")
     print(f"  📄 Summary    : {report_path}")
-    print(f"  📁 Markdown   : data/markdown/")
-    print(f"  🗂  Index      : data/processed/")
-    print(f"  📋 Checkpoints: data/processed/checkpoints.json")
+    print("  📁 Markdown   : data/markdown/")
+    print("  🗂  Index      : data/processed/")
+    print("  📋 Checkpoints: data/processed/checkpoints.json")
     print("=" * 62)
     print()
 

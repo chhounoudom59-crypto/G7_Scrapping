@@ -1,0 +1,19 @@
+{
+  "pythonVersion": "3.11",
+  "venvPath": ".",
+  "venv": "env",
+  "include": [
+    "."
+  ],
+  "exclude": [
+    "env",
+    "data",
+    "logs"
+  ],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": "none",
+  "reportUndefinedVariable": "error",
+  "reportOptionalMemberAccess": "warning",
+  "reportOptionalSubscript": "warning"
+}
