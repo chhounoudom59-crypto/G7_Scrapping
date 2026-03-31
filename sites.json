@@ -71,6 +71,28 @@
     "tags": ["Canada"]
   },
   {
+    "name": "Canada",
+    "country": "Canada",
+    "country_code": "canada",
+    "base_url": "https://www.canada.ca/en.html",
+    "rss_url": "https://www.canada.ca/en/news/rss.xml",
+    "listing_urls": [
+      "https://www.canada.ca/en.html"
+    ],
+    "pagination": "",
+    "pagination_step": 1,
+    "max_pages": 5,
+    "js_required": false,
+    "selectors": {
+      "article_links": "h2 a, .news-item__title a",
+      "title": "h1.page-title, h1",
+      "date": "time[datetime]",
+      "date_attr": "datetime",
+      "body": "div.content, article .entry-content"
+    },
+    "tags": ["Canada"]
+  },
+  {
     "name": "Gouvernement.fr",
     "country": "France",
     "country_code": "france",
@@ -216,25 +238,25 @@
   },
   {
     "name": "OECD",
-    "country": "Global",
+    "country": "OECD",
     "country_code": "oecd",
-    "base_url": "https://www.oecd.org",
-    "rss_url": "https://www.oecd.org/newsroom/pages/pressreleases.rss",
+    "base_url": "https://www.oecd.org/en/topics.html",
+    "rss_url": "",
     "listing_urls": [
-      "https://www.oecd.org/en/about/news/press-releases.html"
+      "https://www.oecd.org/en/topics.html"
     ],
-    "pagination": "?page={n}",
+    "pagination": "",
     "pagination_step": 1,
-    "max_pages": 3,
+    "max_pages": 5,
     "js_required": false,
     "selectors": {
-      "article_links": "h3 a[href*='/press/'], h4 a[href*='/news/'], .title a, article a",
-      "title": "h1.page-title, h1.article-title, h1",
-      "date": "time, span.date, .publication-date, abbr.date",
+      "article_links": "h2 a, .news-item__title a",
+      "title": "h1.page-title, h1",
+      "date": "time[datetime]",
       "date_attr": "datetime",
-      "body": "div.article-body, div.rich-text, section.content, main article, .body-content"
+      "body": "div.content, article .entry-content"
     },
-    "tags": ["OECD", "Global"]
+    "tags": ["OECD"]
   },
   {
     "name": "World Economic Forum",
@@ -259,5 +281,27 @@
       "body": "div.article-body, div.story-content, .content-body, article .body, main article"
     },
     "tags": ["WEF", "Global"]
+  },
+  {
+    "name": "European Union",
+    "country": "European Union",
+    "country_code": "eu",
+    "base_url": "https://european-union.europa.eu/index_en",
+    "rss_url": "https://europa.eu/newsroom/rss.xml",
+    "listing_urls": [
+      "https://european-union.europa.eu/index_en"
+    ],
+    "pagination": "",
+    "pagination_step": 1,
+    "max_pages": 5,
+    "js_required": false,
+    "selectors": {
+      "article_links": "h2 a, .news-item__title a",
+      "title": "h1.page-title, h1",
+      "date": "time[datetime]",
+      "date_attr": "datetime",
+      "body": "div.content, article .entry-content"
+    },
+    "tags": ["EU"]
   }
 ]

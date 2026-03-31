@@ -1,44 +1,27 @@
 #!/bin/bash
 # =============================================================
-# docker-entrypoint.sh
+# docker-entrypoint.sh — Entry point for the G7 Scraper Docker container
 # =============================================================
-# Behaviour:
-#   • RUN_NOW=true  → run scraper immediately, then start cron
-#   • RUN_NOW=false → start cron only (default for production)
-#   • Pass "python main.py" as CMD args to run once and exit
+# This script handles:
+# 1. Running the scraper immediately if RUN_NOW is "true" (default)
+# 2. Starting cron to run scheduled jobs
 # =============================================================
 
 set -e
 
-echo "=================================================="
-echo "  G7 Scraper Docker Container Starting"
-echo "  Time: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-echo "=================================================="
+# ── Configure environment ────────────────────────────────────
+RUN_NOW=${RUN_NOW:-true}
+LOG_FILE="/app/logs/cron.log"
 
-# If CMD args were passed (e.g. python main.py), run them directly
-if [ "$#" -gt 0 ]; then
-    echo "Running command: $@"
-    exec "$@"
+# Ensure log directory exists
+mkdir -p /app/logs
+
+# ── Run scraper immediately if RUN_NOW is "true" ────────────
+if [ "$RUN_NOW" = "true" ]; then
+    echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running scraper immediately..." >> "$LOG_FILE"
+    cd /app && python main.py >> "$LOG_FILE" 2>&1 || true
 fi
 
-# Run immediately on first start if RUN_NOW=true
-if [ "${RUN_NOW:-true}" = "true" ]; then
-    echo ""
-    echo "RUN_NOW=true — running scraper now..."
-    echo ""
-    python main.py
-    echo ""
-    echo "Initial run complete. Starting cron for scheduled runs..."
-fi
-
-# Start cron daemon in foreground
-echo "Cron schedule: daily at 06:00 UTC"
-echo "Logs: /app/logs/cron.log"
-echo ""
-
-# Touch cron log so tail works immediately
-touch /app/logs/cron.log
-
-# Keep cron alive and stream logs
-service cron start
-tail -f /app/logs/cron.log
+# ── Start cron daemon ────────────────────────────────────────
+echo "[$(date +'%Y-%m-%d %H:%M:%S')] Starting cron daemon..." >> "$LOG_FILE"
+cron -f

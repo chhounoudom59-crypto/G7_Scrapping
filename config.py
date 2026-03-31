@@ -31,8 +31,9 @@ RATE_LIMIT_MAX  = 3.0    # maximum seconds between requests
 MAX_ARTICLES    = 99999
 
 # ── Request Settings ──────────────────────────────────────────
-REQUEST_TIMEOUT = 30     # seconds before giving up on a request
+REQUEST_TIMEOUT = 60     # seconds before giving up on a request (increased)
 MAX_RETRIES     = 3      # retry count on network errors
+RETRY_BACKOFF   = 2      # exponential backoff factor (seconds)
 
 # For Japan, we generate monthly archive URLs going this far back.
 JAPAN_MONTHS_BACK = 24

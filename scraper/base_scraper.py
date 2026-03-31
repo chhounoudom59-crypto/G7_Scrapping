@@ -24,6 +24,7 @@ from bs4 import BeautifulSoup
 from config import (
     HEADERS, RATE_LIMIT_MIN, RATE_LIMIT_MAX,
     REQUEST_TIMEOUT, MAX_ARTICLES, RSS_FALLBACK_PATHS,
+    MAX_RETRIES, RETRY_BACKOFF  # Added missing imports
 )
 from utils.logger     import get_logger
 from utils.cleaner    import normalise_date, content_hash, url_hash, unique_id
@@ -46,21 +47,15 @@ async def fetch_url(
     url: str,
     etag: str = "",
     last_modified: str = "",
+    retries: int = MAX_RETRIES,
+    backoff: int = RETRY_BACKOFF
 ) -> tuple[Optional[str], Optional[str], Optional[str], int]:
     """
-    Fetch a URL with async httpx.
-    Supports HTTP conditional requests (ETag / If-Modified-Since).
-
-    Returns: (html, new_etag, new_last_modified, status_code)
-      - html is None on failure or 304 Not Modified
-      - status 304 → content unchanged, skip processing
+    Fetch a URL with async httpx, with retry logic and exponential backoff.
     """
     if not can_fetch(url):
         log.warning(f"  robots.txt disallows: {url}")
         return None, None, None, 403
-
-    # Polite random delay before each request
-    await asyncio.sleep(RATE_LIMIT_MIN + random.random() * (RATE_LIMIT_MAX - RATE_LIMIT_MIN))
 
     headers = dict(HEADERS)
     if etag:
@@ -68,29 +63,34 @@ async def fetch_url(
     if last_modified:
         headers["If-Modified-Since"] = last_modified
 
-    try:
-        resp = await client.get(
-            url, headers=headers,
-            follow_redirects=True,
-            timeout=REQUEST_TIMEOUT
-        )
-        new_etag = resp.headers.get("ETag")
-        new_lm   = resp.headers.get("Last-Modified")
+    for attempt in range(retries):
+        try:
+            resp = await client.get(
+                url, headers=headers,
+                follow_redirects=True,
+                timeout=REQUEST_TIMEOUT
+            )
+            new_etag = resp.headers.get("ETag")
+            new_lm   = resp.headers.get("Last-Modified")
 
-        if resp.status_code == 304:
-            return None, etag, last_modified, 304
-        if resp.status_code == 200:
-            return resp.text, new_etag, new_lm, 200
+            if resp.status_code == 304:
+                return None, etag, last_modified, 304
+            if resp.status_code == 200:
+                return resp.text, new_etag, new_lm, 200
 
-        log.warning(f"  HTTP {resp.status_code}: {url}")
-        return None, None, None, resp.status_code
+            log.warning(f"  HTTP {resp.status_code}: {url}")
+            return None, None, None, resp.status_code
 
-    except httpx.TimeoutException:
-        log.warning(f"  Timeout: {url}")
-        return None, None, None, 0
-    except Exception as e:
-        log.warning(f"  Fetch error {url}: {e}")
-        return None, None, None, 0
+        except httpx.TimeoutException:
+            log.warning(f"  Timeout (attempt {attempt + 1}/{retries}): {url}")
+        except Exception as e:
+            log.warning(f"  Fetch error (attempt {attempt + 1}/{retries}): {url}: {e}")
+
+        # Exponential backoff
+        await asyncio.sleep(backoff * (2 ** attempt))
+
+    log.error(f"  Failed to fetch URL after {retries} attempts: {url}")
+    return None, None, None, 0
 
 
 async def fetch_url_playwright(url: str, wait_selector: str = "") -> Optional[str]:
@@ -172,6 +172,8 @@ async def discover_via_rss(
             if entries:
                 log.info(f"  RSS fallback succeeded: {fallback} → {len(entries)} entries")
                 return entries
+        elif status == 403:
+            log.warning(f"  robots.txt disallows RSS fallback: {fallback}")
 
     log.info("  All RSS paths failed — relying on listing pages only")
     return []
@@ -219,6 +221,7 @@ async def discover_via_listing(
     pagination_step: int = 1,
     known_norm: set = None,
     wait_selector: str = "",
+    retries: int = 3
 ) -> list[str]:
     """
     Crawl paginated listing pages and return article URLs.
@@ -231,7 +234,7 @@ async def discover_via_listing(
     Returns a flat list of raw (not normalised) article URLs.
     """
     seen_this_call: set = set()
-    found_raw: list     = []
+    found_raw: list = []
 
     for page_n in range(1, max_pages + 1):
         # ── Build page URL ────────────────────────────────────
@@ -248,15 +251,20 @@ async def discover_via_listing(
             break   # no pagination configured, only first page
 
         # ── Fetch ─────────────────────────────────────────────
-        if js_required:
-            html = await fetch_url_playwright(url, wait_selector=wait_selector or "a[href]")
-        else:
-            html, _, _, status = await fetch_url(client, url)
-            if status != 200:
-                html = None
+        for attempt in range(retries):
+            if js_required:
+                html = await fetch_url_playwright(url, wait_selector=wait_selector or "a[href]")
+            else:
+                html, _, _, status = await fetch_url(client, url)
+                if status != 200:
+                    html = None
+
+            if html:
+                break
+            log.warning(f"  Could not fetch listing page (attempt {attempt + 1}/{retries}): {url}")
 
         if not html:
-            log.warning(f"  Could not fetch listing page: {url}")
+            log.error(f"  Failed to fetch listing page after {retries} attempts: {url}")
             break
 
         soup = BeautifulSoup(html, "lxml")

@@ -2010,3 +2010,2264 @@ John Tuckett, Independent Chief Inspector of Borders and Immigration
 
 ---
 
+### Simpler household recycling rules come into force across England
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/simpler-household-recycling-rules-come-into-force-across-england
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 877
+- **Unique ID:** `6644800a2bc059f3`
+
+#### Content:
+
+Households across England are set to benefit from clear new rules on sorting their recycling and waste – which come into force today (Tuesday 31 March 2026) – ending years of confusion over what goes in which bin and enabling consistent, streamlined collections.
+The government’s Simpler Recycling scheme will boost recycling rates and cut the amount of waste sent to landfill or incineration.
+Waste collectors must by default collect the following types of waste separately from households:
+food and garden waste
+paper and card
+all other dry recyclable materials (glass, metal and plastic, including cartons)
+residual waste (non-recyclable waste that is sent for energy recovery or to landfill)
+Households will now have a maximum of just four straightforward collections: food and garden waste, paper and card, dry recyclables like glass and plastic, and general rubbish.
+Paper and card can be collected with other dry recyclable materials in certain circumstances, allowing local authorities flexibility to deliver services that work best for their communities.
+This is a sensible, pragmatic approach to the collection of materials for households. Simplifying sorting and collections will mean more high-quality recycled material can be processed domestically and used by manufacturers to make new products, supporting the shift to a more circular economy.
+Simpler Recycling will reduce carbon emissions, cut environmental and societal impacts from waste disposal, and support the growth of the UK’s reprocessing industry. Alongside the current Extended Producer Responsibility for packaging and upcoming Deposit Return Scheme which launches in October 2027, it will help make a significant step towards meeting the ambition to recycle 65% of municipal waste by 2035, and deliver greenhouse gas emissions savings equivalent to £11.8 billion.
+Circular Economy Minister Mary Creagh said:
+We are ending the bin collections postcode lottery and making it easier for people to recycle wherever they live.
+Simplifying these rules will cut out carbon, clean up our streets, and help bring pride back into our communities.
+We will continue to work hand-in-hand with local areas to deliver these changes and ensure there’s more recycled content in the products we buy.
+Simpler Recycling in England is integral to the government’s commitment to move to a circular economy – keeping resources in use for longer, cutting waste, accelerating the path to net zero and supporting growth through investment in critical infrastructure and green jobs.
+To support some local authorities with area-specific delivery challenges, the government is providing additional support, such as agreed transitional arrangements allowing a later implementation date.
+More than £78 billion has been made available to councils in England this year, which includes funding for councils to roll out weekly food waste collections for all households. This is alongside £340 million to support councils as they prepare for the new collections.
+Pascal Hauret, Veolia UK Managing Director, Municipal said:
+This is a great step forward in ensuring more of what we use is collected, recycled and ends up back on our shelves.
+Veolia will be helping to roll out this generational change to more than 16 million residents across England and we expect to collect over 40,000 additional tonnes of plastics alone.
+We know the public wants to recycle and recycle right; so as the volume of materials we collect increases, we also need to invest in the critical national recycling infrastructure that will ensure more of our products are made from recycled content.
+Carla Brian, Biffa’s Director of Public Affairs & Partnerships, said:
+Simpler Recycling will give households clear, consistent guidance on what can be recycled wherever they live, making it much easier for people to know which bin to use - removing confusion, reducing contamination and driving higher recycling rates.
+This single system across England will play a key role in delivering a circular economy, helping to keep materials in use for longer, cutting waste, accelerating the journey to net zero, and driving investment in vital infrastructure and green jobs.
+As part of preparing for these changes, we’ve already created 250 new frontline jobs to support our local authority partners, demonstrating the real economic benefits this transition brings to communities.
+We look forward to continuing our work with government and our customers to ensure Simpler Recycling is implemented in a practical and efficient way that delivers long-term value for the environment and the public.
+Claire Shrewsbury, Director Insights and Innovation at climate action NGO WRAP said:
+Simpler Recycling is the biggest shakeup in recycling policy in England in twenty years. Now, wherever you are you’ll have the same service at home, at work, and when out and about.
+We’re a nation of recyclers, but most households put two or more items in the rubbish each week that could be recycled - because of confusion. Making recycling simpler will help end this and if we all recycled one more trigger spray each week, we’d save enough energy to power every home in Birmingham for a year.
+Food waste is where we’ll see the big win. It’s difficult to prevent all food waste and so recycling one kitchen caddy of unavoidable food waste could power your fridge for 18 hours, and a whole truck would keep that fridge cool for five years. Recycling is good for the environment and the economy, and Simpler Recycling will make things easier for all of us as well.
+
+---
+
+### Fuel Finder for drivers: Factsheet
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/fuel-finder-for-drivers-factsheet
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 466
+- **Unique ID:** `55351346ad8936fe`
+
+#### Content:
+
+Find the cheapest fuel prices near you
+Fuel Finder is a new scheme designed to help drivers find the cheapest fuel near them.
+Fuel Finder data is available on a range of third-party mapping and price comparison tools to help drivers shop around for the best deals at the pump.
+You can find the cheapest petrol and diesel prices near you on apps and websites, with examples including:
+Confused.com
+DriveScore
+Fuel Finder UK
+Fuel Spy
+MotorMouth
+PetrolPrices.com
+RAC Fuel Watch
+Under the scheme, petrol stations across the UK are required to report their fuel prices within 30 minutes of any change.
+We estimate this will save households who own a car an average of £40 a year. It is intended to strengthen competition between retailers over time, bringing down the price for all drivers.
+Which apps or websites should I use?
+Fuel finder data is already being used by some of the UK’s most popular price comparison sites. As it is a new scheme, some developers are still working to integrate the data into their apps and sites. We anticipate it rolling out more widely very soon.
+Drivers should search online for the app or site that works best for them.
+Drivers can alternatively
+download data directly
+, but as the data is intended for website and app developers, it will not be a useful format for everyone.
+Are my local petrol stations reporting data to Fuel Finder?
+The scheme places a mandatory obligation on all petrol filling stations in the United Kingdom to submit their pricing data.
+Around 90% of petrol stations are now signed up to Fuel Finder, and we require all outstanding stations to start sharing their prices with Fuel Finder now.
+Should a small number of stations continue not to share prices, the Competition and Markets Authority have the power to take enforcement action against them.
+What if I see an error?
+If you visit a petrol station and the price does not match up, you can
+report it directly to the government’s service
+.
+How else is the government backing drivers?
+At Budget 2025, the government
+extended the freeze on fuel duty
+to the end of August 2026.
+In March 2026 the Chancellor and Energy Secretary asked the
+CMA to crack down on any ripoffs on road fuel pricing
+, warning they will not tolerate firms exploiting recent price fluctuations to make excess profits.
+This is the latest in a wider set of measures to support drivers, including:
+electric vehicle grants of up to £3,750
+record investment in road resurfacing and tackling potholes
+a
+national parking platform
+to allow drivers to use one app for payment rather than multiple
+Fuel Finder comes on top of other measures to help people across the UK more generally with
+the cost of living
+.
+
+---
+
+### Government response to non-crime hate incidents final report
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/government-response-to-non-crime-hate-incidents-final-report
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 638
+- **Unique ID:** `0de6e2145af77a80`
+
+#### Content:
+
+Police will be told to stop recording everyday rows and online spats, as non-crime hate incidents (NCHIs) are to be scrapped by the government.
+Over recent years, unclear guidance has led to officers being called out to people’s homes over insults and routine arguments.
+A lack of clarity around when and how NCHIs should be recorded, the rise of the digital age and social media, and inconsistent approaches between police forces have led to them no longer being fit for purpose.
+In new measures announced today, NCHIs will be replaced with a system that lets police get on with their jobs – preventing and fighting real criminals to make communities safer.
+After commissioning the College of Policing and National Police Chiefs’ Council for an urgent review of NCHI guidance, the government is now accepting all their recommendations. The final recommendations, published today, set out a series of common-sense reforms to give police a clear, consistent process for handling these types of incidents.
+The new system will prevent police from recording lawful free speech, whilst ensuring that reports from the public, which may lead to genuine harm, get the right response. Police will still be able to keep tabs on serious community tensions and protect those who need it.
+The Home Office will immediately begin working with policing partners to put these recommendations into action. The process of moving away from the old NCHI system has already started by removing the code of practice.
+Home Secretary Shabana Mahmood said:
+Under these reforms, forces will no longer be policing perfectly legal tweets. Instead, they will be doing what they do best: patrolling our streets, catching criminals and keeping communities safe.
+A key recommendation for the Home Office is to adopt a new national standard for information recording and assessment – the rules that govern how police record and count incidents. The national standard was last updated in 2011 and is too broad. This has led police to record reports that go beyond their core duties, such as minor personal disagreements where offensive language is used.
+The Home Office will update the national standard with a narrower definition setting out when police involvement is required. The new threshold will be more closely tied to core police work: preventing and detecting crime, protecting life and property, and maintaining public order.
+This means fewer reports will automatically trigger a police record. Incidents that meet the new threshold will not be given crime reference numbers and will not use criminal terminology such as “suspect” and “victim”.
+The government has already taken the first steps toward these reforms with a recent amendment to the Crime and Policing Bill to revoke the statutory code of practice addressing the recording of NCHIs. This will allow us to move quickly to bring in a better system for both police and citizens.
+More broadly, the government’s social cohesion action plan, Protecting What Matters, sets out how we will go further to tackle rising levels of unacceptable hatred and discrimination against minority groups in Britain.
+Working with the Crown Prosecution Service and the police, the government is ensuring robust use of existing hate crime and public order legislation, wherever conduct meets the appropriate threshold. Lord Macdonald is also reviewing existing public order and hate crime legislation to test whether it is effective and proportionate, particularly in response to protests and the ‘stirring up’ of hatred.
+In the immediate term, funding to protect faith communities has been increased to record levels, and the government will continue to work with the police and security partners to ensure protections for all faith communities remain effective.
+This announcement follows the Home Office unveiling in January the largest reforms to policing since the police service was founded 2 centuries ago, outlining a radical blueprint so local forces protect their community, catch criminals and cut crime.
+
+---
+
+### Support for Keep Britain Working ramps up across employers and regions
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/support-for-keep-britain-working-ramps-up-across-employers-and-regions
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 1739
+- **Unique ID:** `16240a494e39be11`
+
+#### Content:
+
+150 organisations employing around 1.5 million workers, 10 mayoral authorities and representatives from all the nations are now part of the Vanguard group of Keep Britain Working Review led by Sir Charlie Mayfield.
+A new standard for healthy working will be developed with the British Standards Institution and independent expert advisory panel established.
+In all, some 150 organisations employing 1.5million people across 24 sectors, 10 mayoral and strategic authorities and all nations of the UK have signed up to be part of the Vanguard phase – doubling down on the Government’s pledge to make it an employer led movement.
+The Vanguard employers include household names like Transport for London and Siemens, small and mid-size employers, across public and private sectors and several providers of workplace health services.
+Work is underway to develop practical, scalable solutions across several aspects of the ‘healthy working lifecycle’, including: improving disability inclusion; acting early to prevent deteriorating health at work; supporting employees to remain and return to work;  and looking at how we can better measure key outcomes to improve data visibility across the workplace.
+The work will help to reduce the number of people leaving work prematurely for reasons of ill-health each year. 2.8 million people are currently out of work due to long-term sickness. That amounts to one in five working-age adults now out of the labour force - 800,000 more than in 2019.  Government and business are taking action now to build a stronger workforce and stronger economy.
+Sir Charlie Mayfield, author of the Keep Britain Working Review & Co-Chair of the Keep Britain Working programme, said:
+The numbers speak for themselves. This is a serious problem. But, it’s also fixable. The response and engagement from employers, mayors and leaders across the whole of the UK has been extraordinary.  We are moving at pace to surface, consider and solve the issues.
+The Vanguards will feed into the Review’s plans on developing a Standard for employers in the UK to adopt, in conjunction with the British Standards Institution (BSI).
+Alongside this, a new independent advisory group made up of experienced people from a range of backgrounds, including employers, trade unions, disability inclusion, and healthcare - will provide expert advice to Sir Charlie Mayfield and the government on how to best move the programme forward.
+Work and Pensions Secretary Pat McFadden said:
+I want to thank Sir Charlie Mayfield for his ongoing work spearheading this programme.
+That 150 organisations have already stepped forward to be part of it, showing just how much appetite there is for an employer-led approach to supporting disabled employees and those experiencing ill-health.
+Business is our partner in building a productive workforce because when businesses retain talent and reduce workplace ill-health, everyone wins.
+Business Secretary Peter Kyle said:
+Businesses are the backbone of our drive to get people back into work, with their success critical to economic growth.
+That’s why it’s so great to see more and more employers stepping forward to become vanguards, demonstrating good employers recognise that when they back their workers, their workers back them.
+Minister for Secondary Care Karin Smyth said:
+Good health is the foundation of a productive working life, and this programme shows what’s possible when government and employers work together with that shared goal in mind.
+Too many people are leaving work early because of ill-health that could have been prevented or better managed. Keep Britain Working is changing that — by embedding healthy working practices across sectors and regions, we can help people stay well, stay in work, and thrive. That’s something we’re mirroring in both our National Cancer Plan and Men’s Health Strategy, which set out how we can work with employers to make sure people are supported when they experience ill health.
+I’m delighted to see so many organisations stepping up as Vanguards, and I look forward to seeing the practical changes this programme will deliver for working people across the country.
+This progress supports the government’s Plan for Change commitment to help more people get a job, stay in work and progress in their careers. This is integral to our mission to tackle the ill-health inactivity crisis and raise living standards across the UK.
+This progress also comes following a £3.5 billion package of employment support by the end of the decade to help more sick or disabled people into work. We are expanding WorkWell across the country, supporting up to 250,000 people to return or stay in work and backed by £259 million.
+We’re also providing 300,000 sick or disabled people with tailored help through Connect to Work by the end of the decade, partnering with employers to transform how disabilities are managed at work, following the Keep Britain Working Review, and have put in place the equivalent of over 1,000 full-time Pathways to Work advisers across Britain to support disabled people into work.
+Louise Harry, Director of Sustainability and Environment, Health and Safety at Siemens, said:
+The data shows that supporting wellbeing – both for people in work already and those looking for roles – is vital to enhance UK productivity and growth. As well as addressing mental health there is a range of work needed to help people living with disabilities so the UK can make the most of our brilliant talent pool. We’re looking forward to supporting this alongside the other Vanguard employers as this initiative continues to progress.
+Dr Sam Phillips, Head of Health and Wellbeing at Transport for London said:
+We are proud to have been one of the first organisations to commit to being a vanguard. We take a very proactive approach in the promotion of health and wellbeing of our staff and supporting colleagues to return to work if they experience ill health. It has been a great opportunity to be a vanguard and lead the smaller group of employers developing the principles of employers’ role in ill health prevention - an exciting initiative which will influence the future workplace standard.
+Susan Taylor Martin, Chief Executive, BSI said:
+The Keep Britain Working review rightly identified the immense challenge we are facing around workplace absence and low productivity. Supporting people to lead healthy, productive and fulfilled lives at work, and in doing so giving businesses access to the pool of talent they need, is a critical goal.
+BSI has extensive experience developing standards to help employers improve employee wellbeing, manage ill-health in the workplace, and nurture inclusive working environments. BSI is proud to support this vital mission to help individuals and organizations to thrive, contribute to economic growth and enable more people to flourish at work.
+Dr Sarah Jackson, Chief Executive at EDF said:
+EDF is committed to championing employee health and wellbeing at every stage of working life. National recognition of this mission creates a rare opportunity to help transform the future of work in Britain. We’re proud to join the Vanguard and fully committed to helping this important initiative deliver its bold vision.
+Diane Lightfoot, CEO, Business Disability Forum said:
+We are pleased to be working with many of our Members to support the Vanguard scheme and to have led the workshops to help inform the disability inclusion part of this work. We hope the work will lead to solutions that will move forward the Keep Britain Working agenda and, crucially, help to close the disability employment gap.
+Additional Information:
+Read the
+‘Story So Far’ report
+Organisations
+3-1-5 Health Club
+Google UK
+Places Leisure
+A&M EDM
+GXO Logistics / Wincanton
+Post Office
+Adam Reed Hair
+Haleon
+PreCure ApS (Denmark)
+Aquame
+Health 2 Employment and OH One CIC
+Psychiatry UK
+Association of British Insurers
+HealthHero
+Pure Gym
+Aviva
+Health Partners Group
+PwC UK
+AXA Health
+Health Shield
+Rail Safety & Standards Board
+BITC
+Herriot Hospice Homecare
+Renew Beauty
+Barts Health NHS Trust
+Holland & Barrett
+Retail Trust
+BP
+Hospitality Action
+Rethink Mental Illness
+British Airways
+HR Support 4 U
+Rio Tinto
+British Beer & Pub Association
+Hussle
+Road Haulage Association
+BT Group
+Independent Healthcare Providers Network
+Rolls-Royce
+BUPA
+Ingeus
+Seddon
+Burger King
+Insurance at Heart ApS (Denmark)
+Serco
+ByteDance/TikTok
+J Sainsbury
+Severn Trent Water
+Canada Life
+Jaguar Land Rover
+Sick in the City (SIC) Official
+Canary Wharf Group
+John Lewis Partnership
+Siemens
+Capita
+Journey Enterprises
+Simplyhealth Group
+Career Returners
+Kore Sandwell
+Sky UK
+Cartrefi Cymru Cooperative
+Latus Health
+Sopra Steria
+CBI
+Legal & General Group
+South Warwickshire University NHS Trust
+Centrica
+Loughborough University
+Spire Healthcare
+Change Grow Live
+LSN Diffusion
+Square Health
+Channel 4
+Marks and Spencer
+TELUS Health
+Chrysalis
+Maximus UK
+Tesco
+Coca-Cola Europacific Partners
+Mind Matters Counselling LLP
+The Anti Burnout Club
+Cook Food
+Moneypenny
+The Busy Group
+Cora Health
+Motionspot
+The Chartered Management Institute (CMI)
+Cosy
+Nando’s
+The Gym Group
+Crown Estate
+National Hair and Beauty Federation
+The Human Centre
+Currys
+NHS Business Services Authority
+The Ink Group
+Dene Healthcare
+NHS Cheshire and Wirral Trust
+The Migraine Trust
+Department for Business & Trade
+NHS Greater Manchester Integrated Care Board
+Thrivall
+Department for Energy Security and Net Zero
+Northumbria Healthcare NHS Foundation Trust
+Transport for London
+Department for Health & Social Care
+Northern Trains Limited
+Transport for Wales
+Department for Work and Pensions
+Nuffield Health
+Truro College
+Disability Action (Northern Ireland)
+One Medical Group
+UK Hospitality
+East Midlands Railway (EMR)
+Onebright
+University of Cambridge
+EDF Energy
+Optima Health
+Unum
+Endometriosis UK
+PAM Wellness
+Vercida
+Enginuity
+Parachute
+Vitality
+Epilepsy Action
+Passion4Social
+Vivam Health
+Evenbreak
+Patchwork Hub
+Waltham Forest College
+EY
+Pathways CIC
+Well Hub
+Fedcap
+People Partners 4 U
+Wise Corp
+Ford
+Peppy Health
+Working to Wellbeing
+Future Fit
+PepsiCo
+WPA
+Genius Within
+Phoenix Group
+Zurich Insurance & Coporate Risk
+Goodshape
+Regions
+Cornwall Council
+North East Combined Mayoral Authority
+East Midlands
+South Yorkshire Combined Mayoral Authority
+Greater London Authority
+West Midlands Combined Mayoral Authority
+Greater Manchester
+West of England Combined Mayoral Authority
+Liverpool City Region Combined Authority
+West Yorkshire Combined Mayoral Authority
+Advisory panel members:
+Name
+Organisation
+Prof Iain Buchan
+University of Liverpool
+Joanne Cairns
+Union of Shop, Distributive and Allied Workers (USDAW)
+Dr Robin Cordell
+Faculty of Occupational Medicine
+Joe Donnelly
+UNISON
+Henrietta Frater
+Crown Estate
+Anne Hayes
+British Standards Institution (BSI)
+Professor Kamila Hawthorne MBE
+Swansea University; National Academy of Social Prescribing
+Dr Sarah Hughes
+Mind
+Prof Ewan MacDonald CBE
+University of Glasgow
+Kate Nash OBE
+PurpleSpace
+Deborah Rees
+LSN Diffusion Ltd
+Paul Schreier
+Simplyhealth
+Valerie Todd CBE
+Digital Catapult; Leonard Cheshire; Great British Energy
+Kirsty Watt
+Advisory, Conciliation and Arbitration Service (Acas)
+Sara Weller CBE
+BT; Lloyds Banking Group plc; United Utilities; Money and Pensions Service
+
+---
+
+### Fuel Finder now helping drivers shop around for the best deals
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/fuel-finder-now-helping-drivers-shop-around-for-the-best-deals
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 1271
+- **Unique ID:** `e60d7e3239ee7eb7`
+
+#### Content:
+
+Government’s Fuel Finder mandates all UK petrol stations to report their prices, helping households with a car find the best deals and save around £40 a year
+Apps and websites including
+Confused.com
+,
+DriveScore
+,
+Fuel Finder UK
+,
+Fuel Spy
+,
+MotorMouth
+,
+PetrolPrices.com
+and
+RAC Fuel Watch
+are now displaying real time fuel prices, meaning drivers can find the cheapest fuel at stations close to them
+Drivers should continue filling up as normal, as the government continues fighting people’s corner and helping households with the cost of living amid conflict in the Middle East
+The government’s Fuel Finder scheme is now delivering real benefits at the pump, with a growing number of apps and websites making near live fuel prices available to drivers right across the UK – another major milestone in tackling the cost of living.
+Government has today (Tuesday 31 March) launched a new
+GOV.UK page
+with information to help drivers easily access Fuel Finder to shop around for the best deals at the pump.
+Developers including including
+Confused.com
+,
+DriveScore
+,
+Fuel Finder UK
+,
+Fuel Spy
+,
+MotorMouth
+,
+PetrolPrices.com
+and
+RAC Fuel Watch
+are now using this data, meaning millions of drivers can compare prices at nearby forecourts in near real time – without having to drive around to find the best deal.
+Drivers should not have to guess whether they are being overcharged, which is why the government introduced Fuel Finder at the start of this year to make it easier to see which stations are cheapest locally and take business away from the priciest pumps.
+By putting power back in the hands of drivers to see what petrol stations are charging, Fuel Finder could save households who own a car an average of £40 a year.
+Drivers should continue filling up as normal, and with Fuel Finder now available on an increasing number of apps and websites, they will be able to see where the cheapest deals are at a tap of their fingers, helping to encourage competition and keep costs down.
+Other major platforms are working to bring the same capability to their services as soon as possible, and drivers are encouraged to look around and use the sites and apps that work best for them.
+Chancellor of the Exchequer Rachel Reeves said:
+My priority is protecting family finances and standing up for drivers — and Fuel Finder puts power back into their hands.
+By giving drivers the information they need to see where fuel is cheapest locally, they can avoid being overcharged and continue to fill up as normal. This is in addition to other steps we’ve taken to help households keep costs down: extending the 5p fuel duty cut to September - which the previous government planned to increase; taking £117 off energy bills from April; and providing targeted support for those facing higher heating oil costs.
+Minister for Energy Consumers Martin McCluskey said:
+Tackling the cost of living is this government’s number one priority, which is why we launched Fuel Finder to force all petrol stations to share their prices.
+It is good to see that a growing number of apps and websites are now using this data, helping drivers shop around for the best deal at the pump.
+With energy bills also set to fall from tomorrow and over £50 million to help households using heating oil, we will keep fighting people’s corner and tackling the cost of living head on.
+Steve Dukes,
+CEO
+at Confused.com, said:
+Our Petrol Prices tool helps tens of thousands of motorists each month find the cheapest pumps near them. And now, by integrating with Fuel Finder, drivers will have a better, real-time view of prices near them to help them find the cheapest option and save money.
+Fuel Finder is a positive step towards making motoring costs more affordable for drivers. More accurate and accessible data is important in so many aspects of cost and pricing in all industries, and we’re pleased to see how this is being applied to things like fuel where visibility of pricing has historically been limited.
+Andrew Hooks,
+GM
+at DriveScore, said:
+Fuel costs remain one of the biggest everyday pressures for UK drivers, and people deserve simple, transparent ways to save. That’s why we launched DriveScore Fuel Finder - to help drivers quickly locate the best prices nearby and keep more money in their pocket. At a time when every pound counts, giving people smarter tools to manage their driving costs has never been more important.
+Scott Benson of Fuel Finder UK said:
+I started fuel-finder.uk as a solo project in my spare time to provide a fast, simple way for motorists to find the best prices at the pump. With nearly a quarter of a million visits to the site recently, it’s clear there is a huge demand for this transparency. The government’s data has enabled the creation of features like instant price notifications, making it possible for an independent developer to build a tool that helps people save money every time they fill up.
+Andrew Watson, Managing Director of myAutomate owners of PetrolPrices.com, said:
+The Fuel Finder scheme will enable PetrolPrices.com to build on our many years of service to the users of our platform, helping them make even more informed decisions about where to buy petrol and diesel.
+Luke Bosdet, Road Fuel Expert at the AA, said:
+This is the first time that pump prices have coincided with price transparency set up by the UK government. This has shown drivers where to save money either locally or out on the open road. Use of the AA App’s fuel-price search tool has shot up 500% in the last month, such is the demand from motorists.
+This milestone is part of a wider package of action the government has taken amid the conflict in the Middle East to protect hardworking families.
+Earlier this month, the Chancellor and Energy Secretary met with petrol retailers in No.11, making clear that drivers must receive a fair deal at the pump. The Chancellor has also written to the Competition and Markets Authority, who have confirmed they are stepping up their monitoring of petrol and diesel prices.
+The government has also confirmed over £50 million of targeted financial support, helping low-income households in rural communities on heating oil, who have no choice but to top up their tanks at a time when prices have risen significantly.
+In England, funding will be distributed by local authorities via the Crisis and Resilience Fund, which comes into effect from 1 April, targeted areas with higher rates of oil heating.
+This is a particular issue in Northern Ireland, where a greater proportion of homes rely on heating oil, which is why the government has allocated £17 million to support them. England will receive £27 million, Scotland £4.6 million and Wales £3.8 million.
+From tomorrow, the energy price cap will fall by £117 a year, delivering lower bills for millions of households thanks to the removal of some costs off bills, funded by asking the wealthy to pay their fair share last year’s Budget.
+Government action has also seen the national minimum and living wage increased, free breakfast clubs rolled out, and prescription fees and rail fares frozen – the latter for the first time in 30 years.
+Notes to editors
+Drivers are encouraged to look around for apps and websites using Fuel Finder which suit them best, and the government does not recommend or endorse any single developer over another. Any examples mentioned are for illustrative purposes only. We expect other platforms to integrate Fuel Finder data over the coming weeks and months.
+
+---
+
+### Inspections target smashed with 10,000 health checks on water network
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/inspections-target-smashed-with-10000-health-checks-on-water-network
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 820
+- **Unique ID:** `031665f637c21098`
+
+#### Content:
+
+The Environment Agency today (Tuesday 31 March) has expanded its surveillance of the water network to record levels, completing over 10,000 inspections of water company assets in the last year.
+The surge in checks on treatment works, sewage pumping stations and storm overflows marks a major step in ensuring better performance by water companies: identifying potential problems before they occur and taking robust action where breaches are identified.
+This year, the EA’s inspection teams uncovered over 3,000 permit condition breaches, where companies are failing to comply with environmental regulation. These findings led to real-world action with over 3000 individual demands for improvement issued to water companies, including repairing sewage works and upgrading infrastructure.
+Deploying its largest-ever water enforcement workforce (with 500 additional staff for water regulation) and record funding, the Environment Agency’s scrutiny of the sector has increased sharply, marking one of the many significant changes the organisation has undergone to deliver tougher regulation.
+Water company behaviour is beginning to shift. 22% of site visits uncovered at least one issue – down from 25% the previous year – indicating that more diligent scrutiny of water company assets is pushing companies to maintain their assets more responsibly.
+This step change in regulation reinforces the Environment Agency’s determination to better tackle water pollution – and shows that increased inspections are already delivering results. The message from the regulator is clear: water companies must maintain their networks, fix problems when they appear and ensure the environment is protected.
+This record number of inspections, up from 4,600 in 2024/25, has given the regulator the most comprehensive national picture of water company performance. More staff, better data, and increased powers mean the regulator can act faster when breaches occur and enable more targeted regulatory action.
+Helen Wakeham, Director for Water, said:
+In our role as regulators of the water industry, we are changing how we operate - with better data, record levels of new staff and greater powers to do our job effectively.
+Inspections are a vital preventative measure, with our teams issuing over 3000 individual actions to water companies, including repairing sewage works and upgrading infrastructure.
+Together, this will drive meaningful improvements in performance, hold persistent offenders to account and ultimately create a cleaner water environment.
+Water Minister, Emma Hardy, said:
+This government is delivering on water regulation and these 10,000 inspections prove it.
+Thanks to our investment in the Environment Agency, inspectors are out in force, checking water company assets at unprecedented levels and taking action where standards aren’t met.
+This greater oversight of water companies coupled with our long-term reforms will prevent problems before they occur and ensure serial offenders are punished, ensuring a healthy, sustainable water system for the future.
+Checks by Environment Agency officers ensure that water companies’ assets, like treatment works, sewage pumping stations, and storm overflows, are operating as they should and within their permits. They play a crucial role in revealing the true picture of water company assets and encouraging greater compliance.
+The Environment Agency is empowered to deal with breaches through warnings, advice and guidance up to prosecution as part of our enforcement response, alongside local level actions which tackle the root causes of breaches to prevent future offending and reduce environmental impact.
+The longer-term impact of inspections has also been a tool to positively change water company behaviour, with water companies investing into additional site maintenance staff to improve compliance.
+Inspections are one part of a wider suite of measures the Environment Agency is using to improve water company performance. The Water Industry National Environment Programme (WINEP) requires wastewater treatment works to be improved to meet tighter effluent standards, water companies now must monitor 100% of storm overflows, and increased enforcement measures from the Water Special Measures Act will allow the EA to use a range of new enforcement powers to drive sector wide change.
+1 April marks the legal deadline for water companies to publish
+Pollution Incident Reduction Plans (PIRPs)
+. These plans, made mandatory by the Water (Special Measures) Act, must set out the specific actions companies will take to cut their pollution, including through better monitoring, clearing blockages, and customer awareness campaigns.
+Last week, new Environment Agency data showed there were sharp falls in the number and duration of storm overflow spills in 2025 compared to 2024 helping the Environment Agency target action where it is most needed and ensure water companies continue to improve. This builds on the government’s
+recent launch of the Water White Paper
+, a once-in-a-generation plan to overhaul the water system, delivering tougher oversight and stronger accountability for water companies.
+Notes to editors
+A permit condition breach is when a water company fails to comply with the conditions set out in its environmental permit. This can happen for various reasons, such as equipment failure, effluent not meeting water quality standards, not treating required amount of wastewater flows or failing to manage assets in line with permit requirements.
+
+---
+
+### Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 333
+- **Unique ID:** `40194d392fd28725`
+
+#### Content:
+
+We condemn in the strongest terms recent attacks by Iran on unarmed commercial vessels in the Gulf, attacks on civilian infrastructure including oil and gas installations, and the de facto closure of the Strait of Hormuz by Iranian forces.
+We express our deep concern about the escalating conflict. We call on Iran to cease immediately its threats, laying of mines, drone and missile attacks and other attempts to block the Strait to commercial shipping, and to comply with UN Security Council Resolution 2817.
+Freedom of navigation is a fundamental principle of international law, including under the United Nations Convention on the Law of the Sea.
+The effects of Iran’s actions will be felt by people in all parts of the world, especially the most vulnerable.
+Consistent with UNSC Resolution 2817, we emphasise that such interference with international shipping and the disruption of global energy supply chains constitute a threat to international peace and security. In this regard, we call for an immediate comprehensive moratorium on attacks on civilian infrastructure, including oil and gas installations.
+We express our readiness to contribute to appropriate efforts to ensure safe passage through the Strait. We welcome the commitment of nations who are engaging in preparatory planning.
+We welcome the International Energy Agency decision to authorise a coordinated release of strategic petroleum reserves. We will take other steps to stabilise energy markets, including working with certain producing nations to increase output.
+We will also work to provide support for the most affected nations, including through the United Nations and the IFIs.
+Maritime security and freedom of navigation benefit all countries. We call on all states to respect international law and uphold the fundamental principles of international prosperity and security.
+Following publication, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain, Lithuania, Australia, United Arab Emirates, Portugal, Trinidad & Tobago, Croatia, Bulgaria, Kosovo, Panama, North Macedonia, Nigeria, Montenegro, Albania, Marshall Islands, Chile and Moldova confirmed they also joined this joint leaders’ statement.
+
+---
+
+### The UK stands ready to engage constructively with all parties and expects COP31 to be a moment of delivery: UK statement at the briefing by the COP31 Presidency
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/speeches/the-uk-stands-ready-to-engage-constructively-with-all-parties-and-expects-cop31-to-be-a-moment-of-delivery-uk-statement-at-the-briefing-by-the-cop31
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 493
+- **Unique ID:** `b0f6ab80343d3939`
+
+#### Content:
+
+Climate change drives current crises, not just future risks.
+Everyone is affected, with the most vulnerable disproportionately so.
+So, COP31 must respond with urgency and credibility.
+The Paris Agreement sets the course for global action. And we must all deliver against all the pillars of the Paris Agreement.
+We welcome the focus on implementation and delivery against agreed goals rather than reopening settled debates.
+Action is happening across the world. For example, in the United Kingdom, we have halved our emissions since 1990.
+But action and progress is uneven, and collectively, we must go further.
+We know that our collective NDCs don’t yet put us on track for what the science tells us 1.5 degrees requires.
+These 2030 and 2035 NDCs are central to keeping 1.5 degrees in reach. And we call on those who have not yet submitted updated 2035 NDCs to do so. Contributions should reflect their highest possible ambition.
+Wherever possible, though, we need to be working towards over-achievement and greater ambition.
+The UK is pressing for action consistent with keeping 1.5 degrees within reach, including ensuring a robust UNFCCC mitigation architecture and using the newly mandated Belem Mission 1.5 and Global Implementation Accelerator to enable greater action.
+The Action Agenda is an integral part of our architecture, and the UK is supportive of Türkiye using the GST-aligned 6 axes of the Global Climate Action Agenda to guide delivery on your priorities this year.
+The Global Stocktake sent a clear signal on the need to transition away from fossil fuels in energy systems, in a just, orderly, and equitable manner.
+COP31 should build on this by driving practical implementation.
+Including through the COP30 Roadmaps on fossil fuels and deforestation.
+COP31 must also accelerate the scaling up of adaptation action, strengthen the coherence of the UNFCCC architecture, and tackle barriers to accessing high-quality, effective finance for resilience, ensuring that support reaches those most exposed.
+The UK remains firmly committed to both providing and mobilising climate finance, leading delivery against the NCQG.
+That is why we announced last week £6 billion of International Climate Finance (ICF).
+We will also deliver an additional £6.7 billion of UK-backed climate and nature positive investments and mobilise billions more in private sector finance.
+Of course, in any COP, process matters. We rely on you for an inclusive, transparent COP, which will be essential to maintaining trust and building consensus.
+Finally, Chair, a personal note. A few years ago, I had the honour of sitting where you and your colleagues are sitting now, as the lead negotiator for COP26 in Glasgow. Bringing the world together and accelerating action in the wake of the COVID Pandemic.
+As a former Presidency, we know how you feel right now. You have our full support.
+And we stand ready to engage constructively with all Parties and we expect COP31 to be a moment of delivery that responds to the urgency that 1.5 degrees and the most vulnerable around the world require.
+
+---
+
+### Largest ever enforcement workforce protecting waterways from pollution
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/largest-ever-enforcement-workforce-protecting-waterways-from-pollution
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 612
+- **Unique ID:** `bab769620ad2996e`
+
+#### Content:
+
+The Environment Agency has assembled its largest ever team of investigators, enforcement officers and lawyers tackling water pollution, significantly strengthening its enforcement capability as part of a drive to build a tougher regulatory culture.
+The regulator has increased its water enforcement workforce almost fivefold – from 41 roles in 2023 to 195 by March 2026, with a further increase planned later in 2026. Water company environmental performance has continued to decline in recent years, and this has driven the need for stronger, more visible enforcement action.
+This expanded team means the regulator can deliver swifter, tougher action against environmental harm - deterring illegal activity, and focusing efforts on achieving a cleaner water environment.
+Enforcement officers investigate water companies for breaches of environmental law. A typical day might see them visiting facilities to inspect equipment, collecting water and soil samples for chemical analysis, and providing evidence to courts and legal teams to support prosecutions.
+Water enforcement last year resulted in over £6.9 million in enforcement undertakings being paid by water companies after breaking environmental law and redirected into cleaning up our waterways.
+This suite of enforcement activity and record levels of inspections has already led to improved performance from water companies with a 4% decrease in permit breaches this year following persistent underperformance across the sector.
+This expansion is being backed by the largest budget for water enforcement and compliance ever - with a record £153 million this financial year to enable this increase. This includes funding through the introduction of a strengthened “polluter pays” approach, with water companies now covering the costs of enforcement, including investigations.
+The Environment Agency’s Director for Water, Helen Wakeham, said:
+With more specialists and enforcement teams on the ground, the Environment Agency has more resources than ever to protect our waterways from pollution.
+Our teams will use a wide range of actions to hold water companies to account — from formal notices to civil penalties and prosecution.
+Enforcement is only one tool in our compliance toolbox. Our goal is to identify and address the root causes of pollution and work with water companies to prevent it from occurring in the first place.
+Water Minister Emma Hardy said:
+These extra officers and inspectors, hired under this government, are already out on the ground carrying out thousands of checks on water companies, helping to protect our rivers, lakes and seas and restore public confidence in the system.
+This workforce will be integral in holding water companies to account, and delivering strengthened enforcement powers including new, automatic and tougher penalties for water companies.
+This increase in workforce forms part of the EA’s transformation of its enforcement approach, with increased funding enabling additional dedicated water industry teams, stronger powers through the Water (Special Measures) Act 2025, and a clear strategy to tackle the root causes of environmental harm.
+The Water (Special Measures) Act 2025 has already brought in new powers to tackle poor performance, including cost recovery for enforcement and prison sanctions for obstruction. Further provisions to the act will follow, including new civil penalties such as automatic penalties, statutory Pollution Incident Reduction Plans and accelerated monitoring of all sewage overflows.
+As part of our commitment to transparency, we are also publishing all of our Water Industry Compliance Assessment Report (CAR) forms online, giving the public greater visibility of how compliance is assessed and enforcement decisions are informed.
+This builds on the government’s
+recent launch of the Water White Paper
+, a once-in-a-generation plan to overhaul the water system, delivering tougher oversight and stronger accountability for water companies.
+Notes to Editors:
+The three highest enforcement undertakings were given to:
+Gloucestershire Wildlife Trust (£600,000)
+Severn Rivers Trust (£550,000)
+Mersey Rivers Trust (£517,000).
+
+---
+
+### Certification Officer: Announcements
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/certification-officer-latest-decisions
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 19951
+- **Unique ID:** `2a3dc45b16fe7521`
+
+#### Content:
+
+30 March 2026
+Certification Officer marks 50 years of independent oversight
+Current and past Certification Officers
+The Certification Officer (CO) has marked the 50th anniversary of the establishment of the office with a speech reflecting on its origins, its evolution, and its continuing role in promoting good industrial relations and effective governance in the UK.
+Established in 1976, the Certification Officer is the independent statutory regulator of trade unions and employer associations, with duties that have developed across five decades of significant political, social and economic change. In his anniversary address, the Certification Officer reflected on that journey, beginning with the context in which Parliament first considered the role in 1975.
+The CO, Stephen Hardy, said:
+“When the Certification Officer (CO) was first being considered in 1975:
+Harold Wilson was Prime Minister;
+Vic Feather was General Secretary of the TUC;
+Sir Ralph Bateman was President of the CBI;
+The UK’s car of choice was the Ford Cortina;
+‘Jaws’ the blockbuster film had just been released;
+The UK won the Eurovision Song Contest;
+And, the Sex Discrimination and Equal Pay Acts were coming into force.
+However, the world was in turmoil, as the Vietnam War had just ended with the fall of Saigon and in Britain an economic crisis was looming.
+But, notwithstanding this gloomy background, the then Employment Minister, Michael Foot, called an informal meeting with Vic Feather and General Secretaries Jack Jones, Hugh Scanlon and Len Murray. The agenda was to discuss the creation of the Certification Office, an independent office to improve industrial relations, as part of the ‘social contract’ between the Government and trade unions.
+In fact, introducing the Employment Protection Bill in Parliament to create the Certification Officer on Wednesday 29 October 1975, Albert Booth, the then MP for Barrow in Furness and Minister of State for Employment, described the Certification Officer as a ‘truly independent office holder who will bring truth to the issues at hand’.
+Yet, by the time John Edwards was appointed as the first Certification Officer on 12 March 1976, Harold Wilson had resigned as Prime Minister and had been replaced by Jim Callaghan; Concorde had made its maiden flight; that Summer saw a UK heat wave for 15 days; and, the play - Macbeth – had opened at the Royal Shakespeare Company with two unknown, up and coming young actors, Judi Dench and Ian McKellen.
+How times change and decades swiftly pass by.
+Since the inception of the Certification Officer, there has been 12 general elections; 12 Prime Ministers to-date; and, 86 major employment law legislative measures.
+Yet, against this background, over the last 5 decades, the CO has listed over 190 trade unions and 60 employer associations; collated Annual Returns every year for 5 decades, annually; and, determined in excess of 650 formal applications.
+Such data, I am sure you will agree with me, reaffirms that the Certification Office has been robustly independent and effective throughout the last 5 decades as well as proven to be ‘fit for purpose’.
+To that end, the Certification Officer’s small, but expert staff team have remained dedicated, diligent and focussed in their purpose. Working closely with Advisory, Conciliation and Arbitration Service (ACAS) over the last 5 decades and being subject to the valuable scrutiny of the Employment Appeal Tribunal, the Certification Officer has always strived to promote good industrial relations as a constant.
+So, as we recognise and celebrate the service given by the Certification Officer over the last 50 years, there is no place for complacency and so, we look forward to the next half-century under the new legislative landscape set by the Employment Rights Act 2025.
+For the Certification Officer and his office, the future brings challenges and changes. Such as life after the levy; the introduction of an online portal for the submission of Annual Returns from 2027; a new applications’ sift; as well as revised guidance on the office and work of the Certification Officer. All of this alongside the financial investigations, annual returns, listing/de-listing and hearings we do, as our daily workload.
+So, we sincerely hope that you will continue along our journey with us keeping, good industrial relations and effective governance, at the heart of all we do.
+Thank you for your support in this remarkable journey over the last 50 years.”
+Notes
+The office of the Certification Officer was created by the Employment Protection Act 1975 and began operating in March 1976.
+The CO is an independent statutory office holder, responsible for regulating trade unions and employers’ associations.
+The CO’s functions include maintaining lists of unions and employer associations, receiving and publishing annual returns, overseeing elections and ballots, handling complaints and investigations, and determining certain statutory applications.
+The Certification Officer is supported by a small specialist team and, under statute, receives staff, facilities and support from Acas.
+For further information, please contact:
+info@certoffice.org
+23 March 2026
+Breach of union rules decision: Alsaid v Unite the Union - GOV.UK
+Mr Alsaid made two complaints of breaches of union rules regarding the 2025 branch elections at the South East branch of the Union. The application was under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing, which took place by Video Conference on 18 February 2026, the Certification Officer did not uphold the complaints.
+5 March 2026
+Breach of union rules decision: Gomes v Unite the Union - GOV.UK
+The applicant made five complaints under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached rules relating to election procedures in the BASSA branch of the Union.
+Following a hearing on 20 January 2026 and written final submissions submitted by both parties, the Certification Officer refused complaints 1,3,4 and 5. He upheld complaint 2 and made an enforcement order.
+3 March 2026
+Breach of union rules decision: Giire v UKPHD Union
+Mr Giire made an application under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+12 February 2026
+Guidance Update in Light of the Employment Rights Act 2025
+The Employment Rights Act 2025 is scheduled to come into force on
+18 February 2026
+. This legislation introduces a number of significant changes that directly affect the statutory functions and responsibilities of the Certification Officer.
+As a result, substantial portions of the existing guidance are currently undergoing review to ensure alignment with the updated legal framework. Consequently, work to revise and update the guidance is actively in progress; but has not yet been completed.
+During this period of transition, users should be aware that some existing guidance may not fully reflect the requirements introduced by the new legislation. In circumstances where any inconsistency or contradiction arises between the current published guidance and the Employment Rights Act 2025, the provisions of the legislation will take precedence.
+Individuals and organisations are therefore advised to refer to the legislation as the authoritative source.
+Further communications will be issued once the review has been finalised and updated guidance is available. We appreciate your understanding and cooperation during this period of change.
+6 February 2026
+Future Funding Arrangements - Repeal of the levy on 1 April 2026
+The Employment Rights Act 2025 repeals the Certification Officer’s power to raise an annual levy, meaning that the Certification Officer will return to his previous funding arrangements. The repeal of the levy did not come into effect immediately upon Royal Assent of the Act on 18 December 2025, instead, further regulations are required to remove the levy.
+We have been advised by the Department for Business and Trade that the repeal of the levy will take place on 1 April 2026.
+This means the final levy payment has now been collected and organisations on the Certification Officer’s lists will no longer be required to make any further levy payments.
+14 January 2026
+Important Update: Changes to Political Fund Rules under the Employment Rights Act 2025
+Trade unions wishing to operate a political fund after 17 February 2026 must update their political fund rules and obtain approval from the Certification Officer, following changes introduced by the Employment Rights Act 2025.
+Key Changes
+The previous opt-in system for political fund contributions is replaced with an opt-out system.
+Transitional arrangements apply for members who joined between 1 March 2018 and 17 February 2026.
+Updated statutory requirements for the content of political fund rules.
+Model rules
+The new model rules are available can be found
+Model PF Rules - 2025 version
+(
+MS Word Document
+,
+50.9 KB
+)
+:
+17 December 2025
+Jurisdictional sift: McDonald and RMT
+The Assistant Certification Officer found that Mr McDonald’s application is not one which the Certification Officer has the jurisdiction to determine. Therefore, the application cannot be accepted for determination by the Certification Officer and is dismissed.
+12 December 2025
+Breach of union rules decision: Jama v UKPHD Union
+Mr Jama made two complaints of breaches of rules relating to the constitution or proceedings of a decision-making meeting by the Union. The application was made under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 15 October 2025, the Assistant Certification Officer upheld the first complaint but did not consider that it was appropriate to make an enforcement order. He did not uphold the second complaint.
+9 December 2025
+Access to accounting records decision: Casey v Unite the Union - GOV.UK
+The applicant made a complaint that Unite the Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with her request to access accounting records of the union. Following consideration of the parties’ written submissions, the Assistant Certification Officer upheld the complaint in that the union breached the requirement by failing to make arrangements within 28 days. He did not make an enforcement order as the union was actively seeking dates from the applicant to make practical arrangements for the inspection.
+Jurisdictional sift: Rachubinski and GMB - GOV.UK
+The Assistant Certification Officer found that Mr Rachubinski’s application is not one which the Certification Officer has the jurisdiction to determine. Therefore, the application cannot be accepted for determination by the Certification Officer and is dismissed.
+27 November 2025
+Breach of union rules decision: Roberts v UNISON
+Mr Roberts made an application under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+4 November 2025
+Breach of union rules decision: Cortes v TSSA
+Mr Cortes made three complaints of a breaches of rules relating to disciplinary proceedings by the Union. The application was under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 18 September 2025, the Certification Officer did not uphold the first two complaints. He partially upheld the third complaint but did not consider that it was appropriate to make an enforcement order.
+2 October 2025
+The Department of Business and Trade announced the appointment of Stephen Hardy as the new Certification Officer.
+Stephen Hardy took up his role on 1 October 2025, replacing Sarah Bedwell, who had held the post since 2017.
+Biography
+Stephen Hardy is a Professor of Employment Law and formerly the Dean of the Faculty of Business, Law & Politics at the University of Hull (2020-2024).
+He has over 3 decades experience in higher education and was a practising Barrister, specialising in Employment and Public law, instructed in complex trades union, equality, redundancy, dismissal and judicial review cases; including being appointed Regional Treasury Counsel and on the Panel of Preferred Counsel of the Equality Human Rights Commission.
+Since 2011, he has been a Fee-paid Judge of the First-Tier Tribunal and was a member of the Judicial Pensions Board (2019-2023). He was a member of the Social Security Advisory Committee. In 2021 he was elected a Fellow of the Academy of Social Sciences and, since 2022, has been a Principal Fellow of the Higher Education Academy.
+22 September 2025
+Breach of union rules decision: Fellica v University and College Union
+Fellica made a complaint under section 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached several of its rules relating to removal from office, disciplinary proceedings by the union and the constitution or proceedings of a decision-making meeting.
+The Certification Officer struck out the complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they had no reasonable prospect of success.
+Please note that on 17 October 2025 this decision was revised to amend references to the preferred title and pronouns of the Applicant. For the avoidance of any doubt, this revised version does not change the reasoning nor outcome of the complaint. In any event, for completeness, the original version is appended to the attached decision to show that no changes other than title and pronouns have been made and/or to aid any interpretation where grammatical structure may be affected.
+20 August 2025
+Breach of union rules decision: Sartin (2) v UNISON - GOV.UK
+Mr Sartin made one complaint of a breach of a union rule and the principles of natural justice relating to disciplinary proceedings by the Union. The application was under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 16 July 2025, the Certification Officer did not uphold the complaint.
+11 August 2025
+Cleaners Union has been entered on the list of trade unions held by the Certification Officer with effect from 6 August 2025.
+29 July 2025
+Financial Penalty Order: Unite the Union (Moosa v Unite the Union)
+Further to his decision in Moosa v Unite the Union, the Certification Officer issued a Financial Penalty Order to the Union on 23 July 2025.
+7 July 2025
+Access to accounting records decision: Moosa v Unite the Union
+The applicant made a complaint that Unite the Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access accounting records of the union. The applicant submitted two complaints to the Certification Officer on 6 January 2025 and 7 March 2025 respectively.  Following a hearing held by Video Conferencing on 19 June 2025, the Assistant Certification Officer upheld the applicant’s complaints and made an enforcement order, granting the applicant access to the union’s accounting records.
+7 July 2025
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament on 7 July 2025. The report describes the work of the Certification Officer over the period 1 April 2024 to 31 March 2025 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2023.
+29 May 2025
+Care Workers Union has been entered on the list of trade unions held by the Certification Officer with effect from 28 May 2025.
+22 May 2025
+Appointment of interim CO Announcement
+I am very happy to announce that Michael Kidd has been appointed as Interim Certification Officer from 1 June 2025. Mike will lead the team until a permanent appointment has been made.
+Many of you will know Mike from his role as Assistant Certification Officer. I would encourage all of our stakeholders to support Mike and the team in the coming months
+29 April 2025
+The application for a certificate of independence from United Medical Associate Professionals Trade Union (UMAPs TU) was approved by the Certification Officer on 29 April 2025
+28 April 2025
+Breach of union rules decision: Morley v UNISON
+This decision relates to Mr Morley’s application under section 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 received in March 2022 that the union had breached its rules in relation to his removal from membership. The Certification Officer informed Mr Morley, in April 2022, of her view that his complaint was not within her jurisdiction and the case was closed.
+On appeal, the Employment Appeal Tribunal remitted the matter back to the Certification Officer to hear full argument. A hearing was held by the Assistant Certification Officer, who did not uphold the complaint on the basis that he had no jurisdiction to consider it.
+15 April 2025
+The application for a certificate of independence from Yourmate Union was approved by the Certification Officer on 15 April 2025.
+28 March 2025
+An application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from United Medical Associate Professionals Trade Union (UMAPs TU). Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+13 March 2025
+An application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from Yourmate Union. Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+4 March 2025
+Breach of union rules decision: Aslam v App Drivers and Couriers Union
+Mr Aslam  made an application under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+28 February 2025
+Breach of statutory election procedures: Certification Officer v Fire Brigades Union - GOV.UK
+The FBU notified the Certification Officer that it had breached its obligations under section 55 in the recent general secretary election and asked the Certification Officer to make a declaration and an enforcement order.
+The Certification Officer made a declaration that the Union breached the requirements of Chapter IV of Part 1 of the Trade Union and Labour Relations (Consolidation) Act 1992, because the Union did not issue ballot papers to all eligible members. She also made an enforcement order.
+13 February 2025
+Certification Officer - retirement
+I will be retiring from my role as Certification Officer on 31 May 2025.  I have enjoyed working with Trade Unions, Employers’ Associations and their members and have been grateful for their willingness to engage with myself and my team.
+I have been very lucky to work with a fabulous team who have supported me to develop and modernise the role of the Certification Office. Together we have strengthened our internal and external processes to deliver higher standards to our customers. I am confident that they can maintain these standards and work with our customers as our legislation changes. They will also continue to look for ways to improve our service and, in particular, to ensure that we deliver more efficient and accessible services online.
+I informed the Secretary of State for Business and Trade of my retirement in December 2024. I expect the Department to begin recruitment for my successor very soon.
+12 February 2025
+Financial irregularity decision: Fire Brigades Union
+The Certification Officer received allegations of financial irregularities within the Fire Brigades Union on 12 July 2023. On 30 July 2024, following extensive enquiries with the Union, the Certification Officer appointed an inspector to investigate the allegations further. On 11 February 2025, the inspector submitted the report of his findings to the Certification Officer.
+31 January 2025
+Leek United Building Society Staff Association was removed from the list of trade unions held by the Certification Officer with effect from 29 January 2025 because the organisation had dissolved.
+23 January 2025
+Breach of union rules decision: Cassidy v Unite the Union - GOV.UK
+Mr Cassidy made a complaint under section 108A(2)(a) about breaches of union rules in relation to the appointment or election of a person to any office.
+Following a hearing held by Video Conference on 16 December 2024, the Certification Officer did not uphold the complaint.
+15 January 2025
+Boots Pharmacists’ Association (BPA) merged into PDA Union on 1 January 2025.  Therefore Boots Pharmacists’ Association (BPA) ceased to exist from 1 January 2025 and has been removed from the list of trade unions maintained by the Certification Officer.
+13 December 2024
+Breach of union rules decision: Cromwell v App Drivers and Couriers Union
+Mr Cromwell made a complaint under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rule relating to disciplinary proceedings by the union (including expulsion)
+The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the grounds that the complaint, as advanced by Mr Cromwell, had no reasonable prospect of success.
+13 December 2024
+Breach of union rules decision: Pinder v GMB - GOV.UK
+Ms Pinder made one complaint of a breach of a union rule relating to disciplinary proceedings by the Union. The application was under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 30 October 2024, the Certification Officer did not uphold the complaint.
+A part of the decision has been redacted because it refers to the personal information of an individual.
+15 November 2024
+An application to register the Instrument of Transfer of Boots Pharmacists’ Association (BPA) to PDA Union was received by the Certification Officer on 15 November 2024.
+7 November 2024
+Breach of union rules decision: Embery (4) v Fire Brigades Union
+Mr Embery made one complaint of a breach of a Union rule relating to disciplinary proceedings by the Union. The application was under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 3 October 2024, the Certification Officer did not uphold the complaint on the basis that she had no jurisdiction to consider the application.
+5 November 2024
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament on 5 November 2024. The report describes the work of the Certification Officer over the period 1 April 2023 to 31 March 2024 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2022.
+8 October 2024
+Yourmate Union has been entered on the list of trade unions held by the Certification Officer with effect from 8 October 2024.
+27 August 2024
+Breach of union rules decision: Burley v GMB
+Ms Burley made an application under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+Breach of union rule decision: Hensby v GMB
+Mr Hensby made an application under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+01 August 2024
+Balfour Beatty Staff Association was removed from the list of trade unions held by the Certification Officer with effect from 1 August 2024 because it no longer met the statutory definition of a trade union and it dissolved on 31st July 2024.
+26 June 2024
+Breach of union rules decision: Bhogal v National Education Union
+Mr Bhogal made a complaint under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rule relating to disciplinary proceedings.
+The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+20 May 2024
+Breach of union rules decision: Alam (2) v Unite the Union
+Mr Alam made two complaints of breach of union rules in relation to branch elections. Following a hearing held by Video Conference on 24 April 2024, the Certification Officer refused to make a declaration on both complaints.
+7  May 2024
+Independent Oxfam Union has been entered on the list of trade unions held by the Certification Officer with effect from 7 May 2024.
+22 April 2024
+Breach of union rules decision: Lambe v Fire Brigades Union
+Mr Lambe made one breach of rule complaint about the Union’s Executive Council’s powers in relation to an application to join the Union . The application was made under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 27 March 2024, the Certification Officer upheld the complaint and made an enforcement order intended to prevent a similar breach occurring in the future.
+19 April 2024
+Aircrew Officers Association Europe was removed from the list of trade unions held by the Certification Officer with effect from 19 April 2024 because the organisation had dissolved.
+16 April 2024
+Breach of statutory election procedures: Evans v Prospect
+Mr Evans’ complaint related to the Union’s duty to hold elections for its executive members under section 46 of the 1992 Act. The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+11 April 2024
+Libertas Union has been entered on the list of trade unions held by the Certification Officer with effect from 11 April 2024.
+13 March 2024
+Breach of rules decision: Dent v National Education Union
+Mr Dent made one complaint of a breach of a Union rule relating to the NEC election in 2023. The application was under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+Following a hearing held by Video Conference on 21 February 2024, the Certification Officer refused the complaint.
+7 March 2024
+Listing decision: International Alliance of App-Based Transport Workers
+Application by International Alliance of App-Based Transport Workers to be entered into the list of trade unions. The application was refused by the Certification Officer under section 3(3) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+31 January 2024
+Embery (3) v Fire Brigades Union (D/3/23-24)
+The applicant made a complaint that the Fire Brigade Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access accounting records of the union. A hearing was set for 18 January 2024. On 17 January 2024 Mr Embery informed the Certification Officer that he had been given access to the accounting records he sought. The Certification Officer found that Mr Embery’s complaint was well founded but it was not appropriate for her to make an enforcement order as access to the records had been given.
+11 January 2024
+Popplestone v Royal College of Nursing (D/3/23-24)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+4 January 2024
+Sartin v UNISON (D/2/23-24)
+The applicant made a complaint that UNISON: The Public Service Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access accounting records of the union. Following a hearing held by Video Conference on 14 November 2023, the Certification Officer upheld the complaint and made an enforcement order to ensure the applicant’s access to the relevant records.
+15 December 2023
+Scottish Engineering was removed from the Certification Officer’s list of Employers’ Associations on 14 December 2023 because it no longer meets the statutory definition of an Employers’ Association.
+25 October 2023
+Union of Pilots, Engineers & Cabin Crew (UPECC) has been entered on the list of trade unions held by the Certification Officer with effect from 20 October 2023
+PTSC has been removed from the Certification Officer’s list of Trade Unions on 6 October  2023 because it no longer meets the statutory definition of a Trade Union.
+The National Association of Farriers, Blacksmiths and Agricultural Engineers has been removed from the Certification Officer’s list of Employers’ Associations on 27 September because it no longer meets the statutory definition of an Employers’ Association.
+Autonomous Workers’ Union (AW Union) has been removed from the Certification Officer’s list of Trade Union on 14 August 2023 because it no longer meets the statutory definition of a Trade Union.
+19 October 2023
+Certification Office awarded Investors In People (IIP), Gold accreditation
+Investors in People has awarded the Certification Office it’s Gold accreditation. Achieving this internationally-recognised standard demonstrates the Certification Office’s commitment to excellence through quality people management.
+Sarah Bedwell, the Certification Officer, said:
+“I’m exceptionally proud of everyone for achieving this award – it recognises how well we all work together and our commitment to providing a good service especially following implementation of the new legislation. It also shows that we have adapted well not only to flexible working following the pandemic but also the way we work and provide our services.  The team has taken responsibility for exploring new ideas on all aspects of our work.  We will build on our success by continuing to develop together and deliver improvements for our customers and stakeholders. The award, recognises a highly empowered workforce, supportive management and an embedded commitment to developing and valuing individuals. Gold is a fantastic achievement for a very small organisation such as ours”
+IIP aims to make work better through investing in the right blend of talent, motivation and leadership. The IIP framework assesses organisations in three areas:
+• Leading: Inspiring people ; living the organisation’s values and behaviours; and 
+   empowering and involving people 
+• Supporting: Managing performance; rewarding and recognising high performance; and 
+   structuring work 
+• Improving: Building capability; delivering continuous improvement; and creating 
+   sustainable success
+These are some of the things the assessor said:
+The Certification Office has adapted well to flexible working and changes in legislation. Team work is excellent and people are confident in discussing challenges, caseloads and future plans. The pandemic has helped to focus on communication and people look forward to their daily 11am meetings. This has provided a valuable forum that has helped people to understand their colleagues much more in a work and personal setting. People take responsibility for improvements and are keen to get involved in new projects. They feel trusted to get on with their work, they understand key milestones and know where to seek advice and support. This has led to a culture of continuous improvement including:
+• website developments
+• inductions for new staff
+• networking
+• flexible and adaptable working conditions
+• succinct and user friendly communications
+People believe their professional development will be fully supported. Everyone have access to online courses, workshops and external training. Learning on the job and being supported to lead on projects is highly valued. People believe the Certification Office is a great place to work. They would recommend it to people as part of secondments or progressive career development
+6 July 2023
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament on 6 July 2023. The report describes the work of the Certification Officer over the year 1 April 2022 to 31 March 2023 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2021.
+26 June 2023
+Empower The Workers’ Union has been entered on the list of trade unions held by the Certification Officer with effect from 23 June 2023.
+31 May 2023
+Security Industry Federation has been entered on the list of trade unions held by the Certification Officer with effect from 19 May 2023.
+25 May 2023
+Simpson v Unite the Union (D/1/23-24)
+This decision relates to Mr Simpson’s application under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rules relating to the disciplinary process. This was originally determined by the Certification Officer on 18 February 2021 (D.23-25.20-21).
+On appeal, the Employment Appeal Tribunal remitted a matter back to the Certification Officer for consideration. The issue the Certification Officer had to consider was whether the disciplinary process adopted by the Union gave rise to an appearance of bias by way of pre-determination. The case was determined on written submissions alone. The Certification Officer did not uphold the complaint.
+12 May 2023
+The Women’s Rugby Association has been entered on the list of trade unions held by the Certification Officer with effect from 11 May 2023.
+National Employees Union has been entered on the list of trade unions held by the Certification Officer with effect from 9 May 2023.
+9 May 2023
+Stage Directors U.K. Union has been entered on the list of trade unions held by the Certification Officer with effect from 17 April 2023.
+4 April 2023
+Certification Office’s
+Business Plan for 2023-2024
+published
+30 March 2023
+Dawes v Royal College of Nursing (RCN) (D/18-27/22-23)
+Mr Dawes made 10 complaints of breaches of Union rules relating to disciplinary proceedings by the Union under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Following a hearing held by Video Conference on 14 ,15 and 24 February 2023, the Certification Officer refused 8 of the complaints and upheld the remaining 2 complaints.
+8 February 2023
+Change of Name: Currys Supply Chain Staff Association (CSCSA)
+The Certification Officer has approved an application from Currys Supply Chain Staff Association CSCSA to change its name to Currys Trade Union - CTU with effect from 8 February 2023.
+6 January 2023
+The application for a certificate of independence from Solid Trade Union was approved by the Certification Officer on 6 January 2023.
+22 November 2022
+An application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from Solid Trade Union. Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+9 November 2022
+Breach of union rules decision:McKay v UNISON (D/17/22-23)
+Mr McKay made a complaint of a breach of rule relating to disciplinary proceedings by the Union under section 108A(1) of the Trade Union and Labour Relations (Consolidation Act). The Union conceded the breach and the parties agreed to the steps needed to remedy the breach. The Certification Officer made an Order that the Union implements the agreement between the parties, set out at paragraph 13 of decision.
+7 November 2022
+Breach of union rules decision: Eager v Equity (D/16/22-23)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Eager made a complaint of a breach of a union rule relating to balloting of the union’s members on proposed rule changes. The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+2 November 2022
+Solid Trade Union has been entered on the list of trade unions held by the Certification Officer with effect from 31 October 2022.
+10 August 2022
+Breach of union rules decision: Taylor v NASUWT (D/15/22-23)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Taylor made a complaint of a breach of union rule relating to disciplinary proceedings by the Union. The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+9 August 2022
+The application for a certificate of independence from the Criminal Justice Workers Union was approved by the Certification Officer on 9 August 2022.
+1 August 2022
+Breach of statute decision: Sidhu v National Education Union (D/14/22-23)
+Mr Sidhu made a complaint relating to District 7 of the NEC Executive seat elections in January 2021. The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+22 July 2022
+Breach of union rules decision: Lowe v National Education Union (D/12-13/22-23)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Lowe made two complaints of breaches of union rules relating to disciplinary proceedings by the Union. The Certification Officer struck out the complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they had no reasonable prospect of success.
+15 July 2022
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament on 14 July 2022. The report describes the work of the Certification Officer over the year 1 April 2021 to 31 March 2022 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2020.
+8 July 2022
+Breach of union rules decision: Evans (2) v Prospect (D/4-11/22-23)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Evans made eight complaints of breaches of union rules, six relating to disciplinary proceedings by the Union and two relating to the 2021 General Secretary election. The Certification Officer struck out the complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they had no reasonable prospect of success.
+Breach of union rules decision: Dawes v Royal College of Nursing of the United Kingdom (D/1-3/22-23)
+This decision relates to three complaints made by Mr Dawes of breaches of rules relating to the disciplinary process.
+The Certification Officer struck out two of the complaints under Section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they had no reasonable prospect of success and/or were otherwise misconceived.
+The Certification Officer dismissed the other complaint upon withdrawal by the applicant.
+5 July 2022
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from Criminal Justice Workers Union. Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+1 April 2022
+NEW POWERS FOR THE CERTIFICATION OFFICER
+In May 2016 the government passed the Trade Union Act 2016 into law, which introduced new statutory requirements relating to trade unions and new powers for the Certification Officer.
+Today, the government brings the last tranche of those new powers into force.  These give the Certification Officer powers to:
+*Require trade unions and employers’ associations to pay a levy to fund the costs of some of her functions.
+*Consider whether an organisation has breached statutory responsibilities set out in the Trade Union and Labour Relations (Consolidation) Act 1992, without having first received a complaint from a member of that organisation or another eligible party.
+*Investigate allegations that an organisation has breached statutory responsibilities, by requiring the organisation to provide her with specific documentation and/or by appointing an inspector to investigate the matter on her behalf.
+*Impose a financial penalty order or conditional financial penalty order where she finds that an organisation has breached its statutory responsibilities and/or its rules.
+*Enforce any order that she makes.
+The Trade Union and Labour Relations (Consolidation) Act 1992
+, as amended by the Trade Union Act 2016, provides the definitive description of these powers.
+The Certification Officer has published
+guidance
+on her website which explains how she intends to apply these powers in practice.
+Sarah Bedwell
+Certification Officer
+31 March 2022
+The Certification Officer has carried out a review of the Trade Unions and Employers’ Associations on her lists to determine whether they still met the statutory definitions. This review resulted in some organisations being removed. The updated lists can be found on her
+website
+25 March 2022
+Access to accounting records decision: Embery v Fire Brigades Union (D/18/21-22)
+The applicant made a complaint that Fire Brigades Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access accounting records of the union. Following consideration of the parties’ written submissions, the Certification Officer upheld the complaint and made an enforcement order to ensure the applicant’s access to the relevant records.
+18 January 2022
+Breach of Union rule decision: Embery v Fire Brigades Union (2) (D/16-17/21-22)
+The applicant made two complaints under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rules relating to the disciplinary process.
+Following a hearing by Video Conferencing, the Certification Officer refused both complaints.
+15 December 2021
+Implementation of the Trade Union Act 2016
+Over the last two weeks the Government has taken some significant steps towards implementing the remaining provisions of the Trade Union Act 2016.
+Last week, statutory instruments covering the powers of the Certification Officer to deal with suspected breaches of the 1992 Act, to investigate those breaches and to enforce any orders they make, were made, and these powers will come into force on 1 April 2022.
+Yesterday, the Government laid in Parliament the regulations framing the power of the Certification Officer to require trade unions and employers’ associations to pay a levy and allowing her to impose financial penalties on them.  Subject to parliamentary approval, these powers will also come into force from 1 April 2022.
+My office has prepared some
+Model PF Rules - 2025 version
+(
+MS Word Document
+,
+50.9 KB
+)
+, which sets out how I intend to administer these powers once they have been implemented.  At this stage, the guidance is in draft form and I would be grateful for your view as to whether it is sensible, easy to understand and helpful to your organisation.
+I intend to publish finalised guidance on these matters at the point at which the new powers come into force and so it would be helpful if you could submit any comments or questions you have to info@certoffice.org before 11 March 2022.  I should stress that the guidance will be subject to change after that date, being continually updated to reflect my experience of using these powers in practice.
+Sarah Bedwell
+Certification Officer
+30 November 2021
+Breach of Union rules decision: Meechan & Others v British Air Line Pilots Association (D/15/21-22)
+Mr Meechan and Members of the Virgin Atlantic Company Council submitted three complaints of breaches of rules relating to the General Secretary election.
+The Certification Officer struck out the complaints under Section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they has no reasonable prospect of success and/or were otherwise misconceived.
+24 November 2021
+Breach of Union rules decision: Morley v Unison (D/14/21-22)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Morley made a complaint of a breach of a union rule in relation to the Lancashire branch secretary election. Mr Morley made a complaint of a breach of a union rule in relation to the Lancashire branch secretary election.
+The Union conceded the breach and the Certification Officer made a declaration to that effect, however she did not consider it appropriate to make an enforcement order.
+23 November 2021
+Breach of Union rules decision: Embery v Fire Brigades Union (D/13/21-22)
+This decision related to Mr Embery’s application under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Embery made a complaint of a breach of a union rule in relation to the constitution or proceedings of any executive committee or of any decision-making meeting. The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis it had no reasonable prospect of success.
+16 November 2021
+Breach of Union rules decision: Watkins v British Medical Association (D/12/21-22)
+This decision relates to Dr Watkins’ application under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rules relating to the disciplinary process. This was originally determined by the Certification Officer on 14 October 2019. On appeal, the Employment Appeal Tribunal remitted one of Dr Watkins’ complaints back to the Certification Officer for a new decision. Following a hearing, the Certification Officer did not uphold the complaint.
+8 November 2021
+Breach of Union rules decision: Foden v National Education Union (D/11/21-22)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Foden made three complaints of breaches of union rules in relation to disciplinary proceedings. The Certification Officer struck out the complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis they had no reasonable prospect of success.
+26 October 2021
+Breach of Union rules decision: Morley v Unison (D/10/21-22)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Morley made two complaints of breaches of a union rules in relation to a branch election. The Certification Officer struck out  the complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis they had no reasonable prospect of success.
+11 October 2021
+Breach of Union rules decision: Wilson v Unison (D/9/21-22)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Wilson made a complaint of breach of a union rule in relation to a branch election. The Certification Officer struck out  the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+5 October 2021
+The application for a certificate of independence from Aircrew Officers Association Europe (AOAE) was approved by the Certification Officer on 5 October 2021
+4 October 2021
+Breach of Union rules decision: Parry  v USDAW (D/4-8/21-22)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Parry submitted five complaints of breaches of rule relating to local branch elections. Mr Parry withdrew two complaints; the Certification Officer struck out one complaint; and the union conceded breaches of two complaints. The Certification Officer made a declaration for the two breaches conceded by the Union but did not make an Order as the Union had started election procedures to rectify the breaches.
+22 September 2021
+Equal Justice The Union has been entered on the list of trade unions held by the Certification Officer with effect from 22 September 2021.
+19 August 2021
+National Union of Professional Foster Carers (NUPFC) has been entered on the list of trade unions held by the Certification Officer with effect from 19 August 2021.
+12 August 2021
+UK Private Hire Drivers Union has been entered on the list of trade unions held by the Certification Officer with effect from 12 August 2021.
+10 August 2021
+CWOATA Trade Union has been removed from the list of trade unions maintained by the Certification Officer, because it dissolved.
+Incorporated Guild of Hairdressers, Wigmakers and Perfumers was removed from the schedule of employers’ associations held by the Certification Officer because it ceased to meet the definition of an employers’ association under the TULRC 1992 Act.
+9 August 2021
+Breach of Union rule decision: Kelly v Musicians’ Union (D/3/21-2)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer dismissed the application upon withdrawal by the applicant.
+Breach of Union rule decision: Morley v GMB (D/2/21-2)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer dismissed the application upon withdrawal by the applicant.
+3 August 2021
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the Aircrew Officers Association Europe (AOAE). Any persons who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+9 July 2021
+Change of Name: The College of Podiatry
+The Certification Officer has approved an application from The College of Podiatry to change its name to The Royal College of Podiatry with effect from 9 July 2021.
+8 July 2021
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament on 8 July 2020. The report describes the work of the Certification Officer over the year 1 April 2020 to 31 March 2021 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2020.
+28 June 2021
+Association of Trade Union Political and Public Sector Staff has been removed from the list of trade unions held by the Certification Officer with effect from 28 June 2021 because it has ceased to exist from 31 December 2018
+UK Cinema Association Ltd was removed from the List of Employers’ Associations with effect from 28 June 2021 because it ceased to meet the definition of an employers’ association under the TULRC 1992 Act.
+8 June 2021
+Implementation of the remaining parts of the Trade Union Act 2016
+The Government has today announced its plans to implement the remaining parts of the
+Trade Union Act 2016
+which give the Certification Officer additional powers.  These are:
+Section 17 – Increased investigatory powers and the power to act without an application
+Section 19 – Power to impose financial penalties following a finding against a Union
+Section 20 – Power to impose a levy on trade unions and employers’ associations to contribute to the costs of the Certification Office
+More details about the Government’s announcement is available from the
+Department for Business, Energy and Industrial Strategy
+.
+Any enquiries regarding the government plans should be sent to: enquiries@beis.gov.uk
+7 June 2021
+Association of Local Council Clerks has been removed from the schedule of trade unions and has been entered on the Official list of trade unions held by the Certification Officer with effect from 7 June 2021.
+20 May 2021
+Breach of Union rule decision: McFadden v Unite the Union (D/1/21-22)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer dismissed the application upon withdrawal by the applicant.
+15 March 2021
+PPU has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 2 February 2021.
+9 March 2021
+Autonomous Workers’ Union (AW Union) has been entered on the list of trade unions held by the Certification Officer with effect from 9 March 2021.
+5 March 2021
+Trade Union for Ethnic Minority Social Workers (TUEMSW) has been entered on the list of trade unions held by the Certification Officer with effect from 5 March 2021.
+23 February 2021
+Breach of Union rule decision: Simpson v Unite the Union (2) (D/23-25/20-21)
+The applicant made three complaints under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rules relating to the disciplinary process.
+Following a hearing by Video Conferencing, the Certification Officer refused all three complaints.
+7 January 2021
+Breach of Union rule decision: Hussain v Communication Workers Union (2) (Part 2)(D/22/20-21)
+Mr Hussain made 5 complaints of breach of union rules in relation to the elections at the South East No.5 branch of the Union. Complaints 2-5 were struck out previously (D/20-23/19-20).
+The Certification Officer struck out the remaining complaint under Section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived previously .
+23 December 2020
+Political funds decision: Jennings v GMB (D/21/20-21)
+The applicant made a complaint under section 72A of the Trade Union and Labour Relations (Consolidation) Act 1992 for an alleged breach of Section 71(1) against the union for using £240 from its General Fund for political purposes. The Certification Officer struck out the complaint under section 256ZA of the 1992 Act on the basis that it had no reasonable prospect of success and/or is otherwise misconceived.
+11 December 2020
+The Workers’ Union
+We have had number of enquiries relating to The Workers’ Union. The Workers’ Union is a commercial organisation offering services to members. It is not a trade union as defined by the Trade Union and Labour Relations (Consolidation) Act 1992 Act and is not subject to the Certification Officer’s powers.
+9 December 2020
+Breach of union rules decision: Kidd v Musicians’ Union (D/20/20-21)
+The applicant made a complaint under 108A (1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union breached its rule with regards to the eligibility criteria for the election of the General Secretary.
+The Certification Officer struck out the complaint under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+23 November 2020
+Breach of union rules decision: Singh v University College Union (UCU) (D/18-19/20-21)
+The applicant made two complaints under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached its rule relating to the election and removal of a workplace representative. Following a hearing on 29 October , the Certification Officer refused both the complaints.
+6 November 2020
+British Lace Federation was removed from the List of Employers’ Associations with effect from 05 November 2020 as it ceased to be an Employers’ Association.
+4 November 2020
+Breach of union rules decision: Alam v Unite the Union (D/15-17/20-21
+Mr Alam made three complaints of breach of union rules in relation to branch elections. The Certification Officer struck out complaints one and two under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they had no reasonable prospect of success and/or are otherwise misconceived. The Union conceded complaint three. The Certification Officer declined to make an Enforcement Order.
+21 October 2020
+Breach of Statute decision: Simpson v Unite the Union (3) (D/14/20-21
+Mr Simpson made a complaint that Unite the Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access accounting records of the union.
+The Certification Officer found that the union had not breached Section 30 of the 1992 Act in respect of the Applicant’s complaint that he had been denied access to the Union’s accounting records.
+7 October  2020
+CERTIFICATION OFFICE RECOGNISED AS INVESTOR IN PEOPLE
+Investors in People has awarded the Certification Office it’s Silver accreditation. Achieving this internationally-recognised standard demonstrates the Certification Office’s commitment to excellence through quality people management.
+Sarah Bedwell, the Certification Officer, said:
+“I’m really proud of everyone for achieving this award – it recognises how well we all work together and our commitment to providing a good service. We will build on our success by continuing to develop together and deliver improvements for our customers and stakeholders.  The award, recognises a highly empowered workforce, supportive management and an embedded commitment to developing individuals. Silver is a fantastic achievement and something only 20% of the organisations that IIP assess achieve.”
+Investors in People (IIP) aims to make work better through investing in the right blend of talent, motivation and leadership. The IIP framework assesses organisations in three areas:
+•	Leading: Inspiring people ; living the organisation’s values and behaviours; and empowering and involving 
+        people
+•	Supporting: Managing performance; rewarding and recognising high performance; and structuring work 
+•	Improving: Building capability; delivering continuous improvement; and creating sustainable success
+These are some of the things the assessor said:
+“The Certification Office works as a team aiming to provide an open, accessible and efficient service… [P]eople confirmed they have clear direction, guidance and support from managers. People believe they are trusted and have been encouraged to get involved and/or participate in projects and initiatives. Partnerships with ACAS and BEIS have strengthened. Business as usual continues and there is now a focus on conducting virtual hearings.”
+“Daily meetings have been embraced and people believe this has created greater cohesion across the team. Telephone conversations are encouraged to help minimise emails. Remote working has been a positive experience, and everyone will have a choice about when and how they return to the office. This will be a blended approach with plans in place to work with different colleagues each week.”
+“The Certification Office welcomes feedback. It has continued to improve systems, processes and how it manages and develops people. The team are optimistic about future developments and are keen to capture the positives on how they have worked during the pandemic. Increased delegation has created a greater level of trust and improved accountability. This has been instrumental in helping to achieve a higher level of accreditation as an Investors in People organisation”
+5 October 2020
+Voice merged into Community on 1 October 2020. Please note that Voice ceased to exist from 1 October 2020 and has been removed from the list of trade unions maintained by the Certification Officer.
+15 September 2020
+Breach of union rules decision: Dunbobbin v UNISON (D/13/20-21)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer dismissed the application upon withdrawal by the applicant.
+24 August 2020
+An application to register the Instrument of Transfer of Voice to Community was received by the Certification Officer on 19 August 2020.
+21 July 2020
+Breach of union rules decision: Simpson v Unite the Union (4) (D/2-12/20-21)
+Mr Simpson made 12 complaints of breach of union rules in relation to his appeal hearing. The Certification Officer struck out the complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they have no reasonable prospect of success and/or are otherwise misconceived.
+13 July 2020
+App Drivers and Couriers Union has been entered on the list of trade unions held by the Certification Officer with effect from 13 July 2020.
+9 July 2020
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament on 9 July 2020. The report describes the work of the Certification Officer over the year 1 April 2019 to 31 March 2020 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2018.
+1 July 2020
+Breach of union rules decision: Professor Pollock v British Medical Association (D/1/20-21)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer dismissed the application upon withdrawal by the applicant.
+29 June 2020
+Criminal Justice Workers Union (CJWU) has been entered on the list of trade unions held by the Certification Officer with effect from 29 June 2020.
+12 June 2020
+Certification Office’s
+Operational Plan for 2020-2021
+published.
+27 March 2020
+Change of Name: National Hairdressers’ Federation Limited to National Hair and Beauty Federation Limited
+The Certification Officer has approved an application from National Hairdressers’ Federation Limited to change its name to National Hair and Beauty Federation Limited with effect from 27 March 2020.
+25 March 2020
+Coronavirus (COVID-19) – Impact on Trade Unions and Employers’ Associations
+The Certification Officer recognises that  trade unions and employers’ associations may find it difficult to comply with some of the  requirements set out in the Trade Union and Labour Relations (Consolidation) Act 1992 (“the Act”) because of the impact of the coronavirus pandemic
+The Certification Officer is clear that the priority for trade unions must be to comply with the government’s guidance on dealing with the pandemic, and that the safety of their staff and members is paramount.
+Where a trade union believes that it cannot comply with the Act, that it will miss any deadlines set for it by the Certification Officer, or that it must breach its rules relating to any of the matters set out in Section 108A of the Act, it should seek to notify the Certification Officer at the earliest opportunity.
+The Certification Officer will consider any representations made to her relating to any of these issues on a case-by-case basis, and she will seek to accommodate any requests made in those representations. The health and safety of Union Members, staff and the general public will be her primary concern.
+It is important to note that the Certification Officer and her staff will be working away from the office for the foreseeable future.  If you need to contact us please do so by email. It would be helpful if you could copy all emails to info@certoffice.org to ensure that we can deal with your issue if your contact is not available.
+It is possible that, whilst our premises are closed,  we may not be able to offer our full range of service or to reply to you as quickly as usual. You should, however, continue to contact us as normal and we will get back to you as soon as you can.
+18 March 2020
+Union Workers’ Union has been entered on the list of trade unions held by the Certification Officer with effect from 18 March 2020.
+24 February 2020
+Breach of Union Rules decision:St John v Unite the Union (D/29/19-20)
+The applicant made one complaint under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached a provision of its EC Guidance relating to the election of workplace representatives.
+Following a hearing on 7 January 2020, the Certification Officer refused the complaint.
+20 February 2020
+The City Screen Staff Forum has been removed from the list of trade unions held by the Certification Officer with effect from 20 February 2020 because it has ceased to exist.
+28 January 2020
+Independent Democratic Union merged into Community on 27 January 2020. Please note the Independent Democratic Union ceased to exist from 27 January 2020 and has been removed from the list of trade unions maintained by the Certification Officer.
+22 January 2020
+Leicestershire Overmen Deputies and Shotfirers Association has been removed from the list of trade unions held by the Certification Officer with effect from 08 January 2020 because it has ceased to exist.
+13 January 2020
+Breach of statutory balloting procedures (D/27-28/19-20)
+The applicant made two complaints under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached rules relating to the appointment and/ or removal of a person from office.
+Following a hearing on 17 December 2019, the Certification Officer refused both the complaints.
+10 January 2020
+Breach of statutory balloting procedures (D/26/19-20)
+Mr Crew made a complaint under s46 of the Trade Union and Labour Relations (Consolidation) Act 1992 relating to the election for Assistant General Secretary for the Union’s Aegon Branch. The Certification Officer upheld the complaint and made an enforcement order in relation to the breach of Section 46(1)(a) of the 1992 Act.
+17 December 2019
+Breach of Union Rules decision:Jones v UNISON (D/25/19-20)
+Mr Jones made a complaint of a breach of union rule relating to the 2019-2021 NEC Election Procedures. The Certification Officer struck out the application under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+22 November 2019
+Breach of Union Rules decision:Dunham v Society of Radiographers (D/24/19-20)
+Mr Dunham made a complaint under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached a disciplinary rule in relation to the disciplinary proceedings. The Certification Officer dismissed his complaint.
+11 November 2019
+An application to register the Instrument of Transfer of Independent Democratic Union to Community was received by the Certification Officer on 8 November 2019.
+CU Staff Consultative Group has been removed from the list of trade unions held by the Certification Officer with effect from 11 November 2019 because it has ceased to exist.
+4 November 2019
+Breach of Union Rules decision: Hussain v CWU (2) (Part 1)  (D/20-23/19-20)
+Mr Hussain made 5 complaints of breach of union rules in relation to the elections at the South East No.5 branch of the Union. The Certification Officer struck out complaints 2-5 under Section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+Complaint 1 is yet to be determine by the Certification Officer.
+25 October 2019
+Scottish Building Federation has been removed from the schedule of employers’ associations held by the Certification Officer because it ceased to meet the definition of an employers’ association under the TULRC 1992 Act.
+22 October 2019
+WALGAS TU has been entered on the list of trade unions held by the Certification Officer with effect from 21 October 2019.
+Radio, Electrical and Television Retailers’ Association (RETRA) Limited has been removed from the schedule of employers’ associations held by the Certification Officer because it ceased to meet the definition of an employers’ association under the TULRC 1992 Act.
+22 October 2019
+Breach of Statute decision: Parlour v NASUWT (D/19/19-20)
+Mrs Parlour made one complaint under s46 of the Trade Union and Labour Relations (Consolidation) Act 1992 relating to the election of the General Secretary.  The Certification Officer upheld the complaint  but did not find it appropriate to make an enforcement order as the union had already started the process of electing a General Secretary.
+22 October 2019
+Breach of union rules decision: Watkins v British Medical Association (D/13-18/19-20)
+Dr Watkins  made six complaints of breaches of rules relating to the union’s disciplinary procedure.  The Certification Office dismissed complaints 2-6.  Complaint 1 was conceded by the union.  The Certification Officer declined to make an enforcement order as Mr Watkins period of suspension ended and had no bearing for his eligibility to stand for Council elections in 2018.
+10 October 2019
+Mastic Asphalt Council has been removed from the list of employers’ associations held by the Certification Officer because it ceased to meet the definition of an employers’ association under the TULRC 1992 Act.
+20 September 2019
+British Allied Trade Federation has been removed from the schedule of employers’ associations held by the Certification Officer with effect from 20 September 2019 because it ceased to meet the definition of an employers’ association under the TULRC 1992 Act.
+5 September 2019
+The
+Annual Report
+of the Certification Officer, Sarah Bedwell, was laid before Parliament today 5 September 2019. The report describes the work of the Certification Officer over the year 1 April 2018 to 31 March 2019 and provides detailed information on all trade unions and employers’ associations. The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2017.
+31 August 2019
+R&C Trade Union has been removed from the list of trade unions held by the Certification Officer with effect from 31 August 2019 because it has ceased to exist.
+30 August 2019
+Political funds decision: Oley & Others v Unite the Union (D/12/19-20)
+Mr Oley and Others made a complaint under section 72A(1) of the Trade Union and Labour Relations (Consolidation Act) 1992 for an alleged breach of Section 71(1) against the union for using £1,965.34 from its General Fund for political purposes. The Certification Officer made a declaration but did not make an Order as the Union had repaid the monies in its General Fund
+02 August 2019
+Breach of union rules decision: Watkins v British Medical Association (D/11/19-20)
+Dr Watkins made a number of complaints of breach of union rules in relation to disciplinary proceedings. The Certification Officer struck out his Complaint 7 under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had no reasonable prospect of success.
+25 July 2018
+The Certification Officer’s Annual Report 2018-19 will not be published in July 2019 as planned. It will now be published after the Parliamentary summer recess.
+05 July 2019
+Breach of union rules decision: Tavsanoglu v GMB (D/8/19-20)
+Dr Tavsanoglu made a complaint of breach of union rule in relation to her alleged removal from office. The Certification Officer struck out the application under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+3 July 2019
+Breach of union rules decision: Bell v Unite the Union (D/10/19-20)
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+2 July 2019
+Bluechip Staff Association merged into Community on 2 July 2019. Please note that Bluechip Staff Association ceased to exist from 2 July 2019 and has been removed from the list of trade unions maintained by the Certification Officer.
+26 June 2019
+Breach of union rules decision: Simpson v Unite the Union (D/9/2019-20)
+Mr Simpson made 3 complaints of breach of union rules in relation to disciplinary proceedings. The Certification Officer struck out complaint 3 under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it had reasonable prospect of success and/or is otherwise misconceived.
+Complaints 1 and 2 were struck by the Certification Officer in the decision D/5-6/19-20.
+19 June 2019
+Breach of union rules decision: Dinsdale v Unite the Union
+Mr Dinsdale made 3 complaints of breach of union rules in relation to the election of the Sellafield Site Shop Stewards and the Sellafield Branch Committee . The Certification Officer struck out complaint 3 under Section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+Complaints 1 and 2 have yet to be determine by the Certification Officer.
+7 June 2019
+CWOATA Trade Union has been entered on the list of trade unions held by the Certification Officer with effect from 07 June 2019.
+6 June 2019
+Breach of union rules decision: Simpson v Unite the Union
+Mr Simpson made 3 complaints of breach of union rules in relation to disciplinary proceedings. The Certification Officer struck out complaints 1 and 2 under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they have no reasonable prospect of success and/or are otherwise misconceived.
+Complaint 3 has yet to be determined by the Certification Officer.
+6 June 2019
+Breach of union rule decision: Dosanjh v POA
+Mr Dosanjh made a complaint of breach of union rule in relation to the election of the Deputy General Secretary. The Certification Officer dismissed the application upon withdrawal by the applicant.
+24 May 2019
+An application to register the Instrument of Transfer of Bluechip Staff Association to Community was received by the Certification Officer on 16 May 2019.
+20 May 2019
+Breach of union rule decision: Bromfield v GMB
+Mr Bromfield made two complaints of breach of union rule in relation to disciplinary proceedings. The Certification Officer struck out the application under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+12 April 2019
+Breach of union rules decision: McFadden v Unite the Union
+The applicant made a number of complaints under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached its rules relating to disciplinary proceedings.
+Following a preliminary hearing on Thursday 21 March 2019, the Certification Officer determined that the complaints would proceed to a full hearing to decide the applicant’s complaints
+5 April 2019
+Breach of union rule decision: Newton v Musicians’ Union
+Mr Newton made a complaint of breach of union rule in relation to disciplinary proceedings. The Certification Officer struck out the application under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+3 April 2019
+Breach of union rule decision: Connolly v Usdaw
+The applicant made one complaint under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached rules relating to disciplinary proceedings.
+The Certification Officer made a declaration that the Union breached its rule in removing her from her position as a shop steward.
+The Certification Officer declined to make an enforcement order.
+1 April 2019
+Perth and District Master Plumbers Association has been removed from the schedule of employers’ associations held by the Certification Officer because it dissolved on 31 December 2018.
+11 March 2019
+Breach of union rule decision: Morley v GMB
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+8 February 2019
+Breach of union rule decision: Kelly v Musicians’ Union
+The applicant made six complaints under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached rules relating to disciplinary proceedings.
+A hearing on the first complaint was held on 8 January 2019. Following the hearing, the Certification Officer upheld the complaint and considered it appropriate to make an enforcement order. The Certification Officer ordered that:-
+Mr Kelly be restored to membership of the Musicians’ Union
+Mr Kelly be reinstated to the Recording and Broadcast Committee
+Mr Kelly be restored as an Approved Musicians’ Union Contractor
+The Union must not remove Mr Kelly’s Approved Musicians’ Union Contractor Status, or include him within the Ask us First List, on the basis of any disciplinary or other Union process which arises from Mr Kelly’s membership of the Union and which is based on information which was considered as part of the disciplinary process which began with the General Secretary’s letter of 24 January 2018.
+24 January 2019
+Access to accounting records decision: Ali v RMT
+This application was made under Sections 30(2)(a), 30(2)(b) and 30(2)(c) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant
+15 January 2019
+Lanarkshire Master Plumbers’ Association has been removed from the schedule of employers’ associations held by the Certification Officer because it dissolved on 31 December 2017.
+13 December 2018
+Breach of union rule decision: Robinson v GMB
+The applicant made one complaint under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached rules relating to removal from office.
+Following a hearing on 28 November 2018, the Certification Officer refused the complaint.
+12 December 2018
+Breach of union rule decision: Leakey v Unison
+This application was made under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer dismissed the application upon withdrawal by the applicant
+5 December 2018
+Breach of union rule decision: Blackledge v University and College Union
+The applicant made seven complaints under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached rules relating to disciplinary proceedings.
+Following a hearing on 13 November 2018, the Certification Officer refused all these complaints.
+3 December 2018
+The application for a certificate of independence from Cleaners and Allied Independent Workers Union (CAIWU) was approved by the Assistant Certification Officer on 3 December 2018
+26 November 2018
+Breach of union rule decision: Lascelles v Prospect
+Upon an application made by Mr Lascelles under section 108A(1) of the Trade Union and Labour Relations Act 1992 that Prospect had breached an implied rule of the union relating to the balloting of members on any issue other than industrial action.
+The application is dismissed upon withdrawal by Mr Lascelles.
+19 November 2018
+Breach of union rules decision: Hussain v Communication Workers Union
+The applicant made two complaints under Section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 relating to branch elections.  Prior to the hearing, the union conceded that the breaches had occurred. The Certification Officer upheld two complaints in relation to a breach of rules of the branch constitution and considered it appropriate to make an enforcement order. The Certification Officer ordered that:-
+The Union undertake the remaining stages of the current ballot, which was originally concluded in December 2017 and which is the subject of the complaints made by Mr Hussain, in accordance with the Union’s Rules. The result of the ballot should be declared by 3 December 2018.
+12 November 2018
+Breach of union rules decision: Taylor v Unite the Union
+The applicant made three complaints under Section  108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 relating to the union’s West Midlands Regional Committee elections.
+The Certification Officer  dismissed  the application upon withdrawal by the applicant.
+31 October 2018
+Psychotherapy and Counselling Union has been entered on the list of trade unions held by the Certification Officer with effect from 31 October 2018.
+23 October 2018
+Breach of union rules decision: Armstrong v Unite the Union
+The applicant made a complaint under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached a disciplinary rule in relation to the applicant’s suspension from a branch office.
+The Certification Officer dismissed this complaint by a decision dated 15 October 2018.
+23 October 2018
+Breach of union rules and breach of statute decision: McAllister v Usdaw
+The applicant made one complaint under Section 55(1) and two complaints under Section  108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 relating to the union’s presidential and council elections.
+The Certification Officer  dismissed  the application upon withdrawal by the applicant.
+9 October 2018
+Breach of union rules decision: Coyne & Brooks v Unite the Union (2)
+The applicants made 10 complaints in relation to the 2017 election of the General Secretary of Unite the Union. This decision of Assistant Certification Officer, Mr Jeffrey Burke QC, deals with complaints 2 to 10 that were determined following a five day hearing held between 25 and 29 June 2018. The Assistant Certification Officer dismissed all nine complaints.
+Complaint one was determined following a hearing on 27 March 2018 before Mr Burke QC. In a decision dated 4 May 2018 he dismissed the complaint.
+D/2/18-19
+2 October 2018
+Poole Greyhound Trainers Union has been entered on the list of trade unions held by the Certification Officer with effect from 2 October 2018.
+28 September 2018
+Breach of union rules decision: Peros v Napo - the Trade Union and Professional Association for Family Court and Probation Staff
+The applicant made four complaints Under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 concerning breaches of union rules in relation to disciplinary proceedings against him.
+The Certification Officer upheld all the complaints but declined to make an Enforcement Order.
+11 September 2018
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the Cleaners and Allied Independent Workers Union (CAIWU). Any persons who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+14 August 2018
+Change of Name: The Society of Chiropodists and Podiatrists to The College of Podiatry
+The Certification Officer has approved an application from The Society of Chiropodists and Podiatrists to change its name to The College of Podiatry with effect from 13 August 2018.
+9 August 2018
+ASPSU has been removed from the list of trade unions maintained by the Certification Officer because it ceased to be a trade union on 31 July 2017.
+25 July 2018
+Breach of union rules decision: Gates v Society of Chiropodists and Podiatrists
+The applicant made a complaint under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the Union had breached a provision of its handbook in relation to a representative post in NHS Highland.
+On 16 July 2018 the Certification Officer refused this complaint having found that the handbook does not form part of the Union’s rules.
+18 July 2018
+The Certification Officer’s Annual Report 2017-2018 will not be published in July 2018 as planned. It will now be published after the Parliamentary summer recess.
+5 July 2018
+National Union of Mineworkers (North East Area) and National Union of Mineworkers (Scotland Area) have been removed from the schedule of trade unions on the grounds that neither of them meet the statutory definition of a trade union.
+2 July 2018
+Britannia Staff Union has been removed from the list of trade unions maintained by the Certification Officer because it ceased to exist on 1 July 2018.
+8 June 2018
+Breach of union rules decision Dawson v University and College Union
+The applicant made two complaints under 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union had breached its rules  relating to the disciplinary process. The Certification Officer  dismissed  the application upon withdrawal by the applicant.
+7 June 2018
+Scottish Colliery Enginemen Boilermen and Tradesmens Association has been removed from the schedule of trade unions as it ceased to be a trade union on 1 March 2018.
+9 May 2018
+Change of Name: Retained Firefighters Union to Fire and Rescue Services Association.
+The Certification Officer has approved an application from Retained Firefighters Union to change its name to Fire and Rescue Services Association with effect from 9 May 2018.
+9 May 2018
+Breach of union rules decision Dinsdale v GMB
+The applicant made two complaints under 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 that the union had breached its rules around branch elections. The Certification Officer refused both of these complaints.
+4 May 2018
+Breach of union rules decision Coyne & Brooks v Unite the Union
+The applicants  made 10 complaints in relation to the 2017 election of the General Secretary of Unite the Union.   Assistant Certification Officer, Mr Jeffrey Burke QC, held a hearing on 27 March 2018, to determine the preliminary point, dealt with in Complaint 1, that, under the Union’s rules, there was no power to hold the election at all, at the time it was held.  The Assistant Certification Officer resolved this preliminary point in favour of the Union.  The remaining complaints will be heard over 5 days commencing on 25 June 2018.  The details of the venue will be confirmed shortly.
+2 May 2018
+Breach of union rules decision Cullen v Unite the Union
+Mr Cullen made a complaint of breach of union rules in relation to removal from a post. The Certification Officer struck out the application under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that it has no reasonable prospect of success and/or is otherwise misconceived.
+1 May 2018
+NACO merged into USDAW on 1 May 2018. Please note that NACO ceased to exist from 1 May 2018 and has been removed from the list of trade unions maintained by the Certification Officer.
+23 March 2018
+Breach of union rules decision Mr M Rolfe v POA
+Mr Rolfe made three complaints of breach of union rules in relation to a disqualification from holding NEC posts until 2016.  Two complaints were dismissed upon withdrawal by Mr Rolfe.  The Certification Officer upheld one complaint in relation to a breach of union rule 10.9 and considered it appropriate to make an enforcement order.  The Certification Officer ordered that:-
+The NEC remove the disqualification of Mr Rolfe from holding any National Executive post which was imposed on him under rule 10.9 following his resignation as a Prison Officer on 3 May 2017.  This order will take effect from the date of this decision.
+15 March 2018
+Breach of union rules decision Pollock v Accord
+The applicant made a complaint alleging that the Union breached a rule relating to its Executive Committees. The complaint was dismissed upon withdrawal by the applicant.
+7 March 2018
+The application for a certificate of independence from National House Building Council Staff Association was approved by the Assistant Certification Officer on 7 March 2018
+7 February 2018
+Change of Name: Leeds Building Society Staff Association to Leeds Building Society Colleague Association.
+The Certification Officer has approved an application from Leeds Building Society Staff Association to change its name to Leeds Building Society Colleague Association with effect from 7 February 2018.
+5 February 2018
+Association of Somerset Inseminators has been removed from the list of trade unions maintained by the Certification Officer because it ceased to exist on 1 September 2017.
+2 February 2018
+Access to accounting records decision: Mr Markham v GMB
+Mr Markham made a complaint alleging that GMB breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access branch accounting records. The Certification Officer upheld the complaint after the union conceded the breach. No enforcement order was made as Mr Markham had been granted access to the requested records.
+1 February 2018
+Staff Union West Bromwich Building Society merged into Community on 1 February 2018. Please note that Staff Union West Bromwich Building Society ceased to exist from 1 February 2018 and has been removed from the list of trade unions maintained by the Certification Officer.
+19 January 2018
+Breach of union rules decision Chisholm v Unite the Union
+The applicant made two complaints under 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 about her alleged removal from office as branch secretary. The Certification Officer refused both of these complaints.
+16 January 2018
+Breach of union rules decision Boswell and Ors v United Road Transport Union (URTU)
+The claimants made three complaints alleging that URTU had breached its rules relating to disciplinary proceedings. The Assistant Certification Officer upheld one complaint that the union had breached its rules and dismissed the other two complaints. The ACO has now received further submissions from parties following the findings in this decision and is now considering the appropriate remedy.
+9 January 2018
+National Union of Mineworkers (Northumberland Area) has been removed from the list of trade unions maintained by the Certification Officer because it ceased to exist on 30 November 2017.
+19 December 2017
+Breach of union rules decision Prof Barron v University College Union
+Prof Barron made nine complaints of breaches of rule of the LSE branch of the UCU pursuant to s.108A(2) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Assistant Certification Officer (ACO) made a declaration that breaches had occurred in relation to complaints 2 and 8.
+Complaint 2 – the ACO made a declaration that the union had breached 9.1 of the LSE branch rules by failing to ensure the branch committee appointed a returning officer for elections.
+Complaint 8 – the ACO made a declaration that the union breached rule 11 of the LSE branch rules by failing to ensure the delegates to the 2017 Congress were elected from members of the LSE branch.
+The ACO did not make any enforcement orders.
+Complaint 3 was dismissed as it fell outside the Certification Officer’s jurisdiction. Complaint 5 was dismissed as it was submitted out of time. Complaints 1,4,6,7 and 9 were dismissed as no breach or threatened breach had been found.
+19 December 2017
+An application to register the Instrument of Transfer of Staff Union West Bromwich Building Society (SUWBBS) to Community was received by the Certification Officer on 18 December 2017.
+12 December 2017
+Breach of union rules decision Dr Elliott & Dr Borbora v British Medical Association
+Dr Elliott made four complaints and Dr Borbora made three complaints alleging breaches of union rule relating to disciplinary procedures under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+The Certification Officer refused both Dr Elliott’s and Dr Borbora’s applications.
+14 November 2017
+Breach of union rules decision Mr Alec McFadden v Unite the Union
+The applicant made two complaints under section 108A(1) of the Trade Union Labour Relations (Consolidation) Act 1992 that Unite the Union had breached its rules relating to disciplinary proceedings. Following submissions from the parties on two preliminary issues the Assistant Certification Officer, appointed by the Certification Officer to hear the complaints, decided to uphold the applicant’s complaints of breach of rules.
+13 November 2017
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the National House Building Council Staff Association (NHBC Staff Association). Any persons who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+3 November 2017
+Confederation of British Surgery has been entered on the list of trade unions held by the Certification Officer with effect from 3 November 2017.
+30 October 2017
+Breach of Union Rule decision: Mr Tully v National Crime Officers Association
+The applicant made five complaints under section 108A(1) of the Trade Union Labour Relations (Consolidation) Act 1992 that the National Crime Officers Association had breached its rules relating to disciplinary proceedings. The Certification Officer made five declarations that the union had breached its rules. The following enforcement orders were made:
+1.The National Executive Committee’s decision at its meeting on 7 to 8 September 2016 to expel Mr Tully from membership of the NCOA is null and void.
+2.The Union make arrangement to restore Mr Tully to membership of the NCOA by 19 November 2017.
+13 October 2017
+Financial irregularity decision: National Union of Mineworkers (Northumberland Area)
+The Certification Officer has decided not to exercise his discretion to appoint an inspector to investigate the financial affairs of National Union of Mineworkers (Northumberland Area). He has written to the union to inform them of his decision and his reasons. The letter to the union, which contains background information and comment, is published here.
+21 September 2017
+CU Staff Consultative Group has been entered on the list of trade unions held by the Certification Officer with effect from 21 September 2017.
+13 September 2017
+Breach of Union Rules Decision: Penkethman & Walker v Communication Workers union
+Ms Penkethman and Mr Walker made one complaint alleging a breach of rule relating to canvasing during the 2017 elections in the Midland No 7 branch of the CWU under section 108A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992.  Mr Walker made a further separate complaint relating to the receiving of a voting paper during the same election.
+The Certification Officer refused both of the claimants’ applications
+4 September 2017
+Welsh Local Government Association was added to the list on 12 June 2017.
+1 September 2017
+Association of Teachers and Lecturers and National Union of Teachers amalgamated to form National Education Union on 1 September 2017. Please note that both Association of Teachers and Lecturers and National Union of Teachers ceased to exist from 1 September 2017 and have been removed from the list of trade unions maintained by the Certification Officer. The new, amalgamated, union, National Education Union, has been added to the list.
+21 August 2017
+The application for a certificate of independence from the United Voices of the World was approved by the Assistant Certification Officer on 21 August 2017.
+Change of Name: Graphic Enterprise Scotland to Print Scotland - The Certification Officer has approved an application from “Graphic Enterprise Scotland” to change its name to “Print Scotland” with effect from 21 August 2017.
+Ellington Branch of the North East Area of the National Union of Mineworkers has been removed from the list of trade unions maintained by the Certification Officer because it ceased to exist on 21 August 2017
+9 August 2017
+Breach of Union Rules Decision: McFadden v Unite the Union
+The claimant alleges that Unite the Union breached its rules in relation to disciplinary proceedings against him. Following a preliminary hearing the Assistant Certification Officer identified the issues in dispute which fall to be determined at a full hearing of the complaints. The Certification Officer also identified a preliminary issue to be decided by him before any further hearing.  He set directions for the full hearing.
+2 August 2017
+Change of Name: National Association of Stable Staff to National Association of Racing Staff
+An application to change the name of National Association of Stable Staff to National Association of Racing Staff was approved on 2 August 2017.
+18 July 2017
+The
+Annual Report
+of the Certification Officer, Gerard Walker, was laid before Parliament today 18 July 2017.  The report describes the work of the Certification Officer over the year 1 April 2016 to 31 March 2017 and provides detailed information on all trade unions and employers’ associations.  The statistical information it contains is drawn from the annual returns received during the reporting period, which relate mainly to the year ending 31 December 2015.
+22 May 2017
+Burgess and ors, Wakefield,  Bannister and Rogers v UNISON: The Public Service Union
+The applicants made 16 complaints that UNISON had breached its rules in relation to its 2015 General Secretary election. Many of these complaints contained multiple allegations of breaches. In addition it was alleged that the Union breached section 49(4) and 49(6) of the 1992 Act  also in relation to the 2015 UNISON General Secretary election.
+The Assistant Certification Officer made decisions relating to all of the above complaints. She made one declaration that the union had breached its rules. No enforcement order was made.
+22 May 2017
+National Union of Mineworkers (Scottish Area) has been removed from the schedule of trade unions as it ceased to be a trade union on 22 May 2017.
+19 May 2017
+Breach of union rules decision: Mr K Johnson v GMB
+The applicant made four complaints under section 108A(1) of the Trade Union Labour Relations (Consolidation Act) 1992 that the GMB had breached rules of the Union relating to matters specified in section 108A(2).
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+28 April 2017
+An application to register the Instrument of Amalgamation of the Association of Teachers and Lecturers and the
+National Union of Teachers was received on 25 April 2017.
+24 April 2017
+Fencing Contractors Association has been removed from the schedule of employers’ associations maintained by the Certification Officer because it dissolved on 31 December 2016
+1 April 2017
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the United Voices of the World. Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+20 March 2017
+Lancaster Morecambe and South Lakeland Master Plumbers Association was removed from the List of Employers’ Associations with effect from 17 March 2017 as it ceased to be an Employers’ Association.
+20 March 2017
+Listings decision: Disabled Workers Union
+Under section 3(3) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer refused the application by Disabled Workers Union to be entered in the list of trade unions.
+10 March 2017
+Mr Fernandez and Ors v Unite the Union
+The claimants made four complaints of that the Union breached its rules on relation to branch officer elections in union’s LE/2000 Branch and one complaint of a breach of section 30 (2) of the 1992 Act in relation to the request for access to accounting records. The Certification Officer upheld one complaint of breach of rule and dismissed the other complaints. No enforcement order was made.
+23 January 2017
+Mathewson v NUM
+Mr Mathewson made seven complaints alleging the union had breached its rules and one complaint of the union’s breach of Chapter IV of the Trade Union and Labour Relations (Consolidation) Act 1992. Following correspondence, the Certification Officer struck out all eight complaints under section 256ZA(1)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992 on the grounds that they had no reasonable prospect of success and/or were otherwise misconceived.
+23 January 2017
+The Union of Construction, Allied Trades and Technicians (UCATT) merged into Unite the Union on 1 January 2017. Please note that UCATT ceased to exist from 1 January 2017 and has been removed from the list of trade unions maintained by the Certification Officer
+20 January 2017
+UFS merged into Community on 1 January 2017. Please note that UFS ceased to exist from 1 January 2017 and has been removed from the list of trade unions maintained by the Certification Officer.
+20 January 2017
+Broadcasting Entertainment Cinematograph and Theatre Union merged into Prospect on 1 January 2017. Please note that Broadcasting Entertainment Cinematograph and Theatre Union ceased to exist from 1 January 2017 and has been removed from the list of trade unions maintained by the Certification Officer.
+10 January 2017
+Laws v GMB
+The applicant made a complaint under section 108A(1) of the Trade Union Labour Relations (Consolidation Act) 1992 that the GMB had breached rules of the Union relating to matters specified in section 108A(2).
+The Certification Officer dismissed the application upon withdrawal by the applicant.
+1 December 2016
+An application to register the Instrument of Transfer of UFS to Community was received by the Certification Officer on 17 November 2016.
+16 November 2016
+Abrahams & Ors v URTU
+The applicants made three complaints relating to the 2016 Election for General Secretary of the Union. These included two alleged breaches of Chapter IV of the Trade Union and Labour Relations (Consolidation) Act 1992 and one alleged breach of one of the Union’s rules. The Certification Officer upheld all three complaints and made a single enforcement order in relation to the breach of Section 47(1) of the 1992 Act – Complaint 2.
+9 November 2016
+The Association of Principal fire Officers (APFO) merged into Prospect on 7 November 2016. Please note that APFO ceased to exist from 6 November 2016 and has been removed from the list of trade union maintained by the Certification Officer.
+27 October 2016
+Beaumont v Unite the Union (No.5)
+The claimant made seven complaints that the union had allegedly breached its rules in relation to eligibility to hold lay office on its Executive Council, and related issues.  The Certification Officer dismissed all the complaints.
+24 October 2016
+An application to register the Instrument of Transfer of Broadcasting Entertainment Cinematograph and Theatre Union to Prospect was received by the Certification Officer on 18 October 2016.
+19 October 2016
+Burgess & Ors, Rogers, Wakefield and Bannister v UNISON: The Public Service Union
+The claimants alleged that Unison breached its rules and the 1992 Act in relation to the election for the position of General Secretary of UNISON in late 2015. At the preliminary hearing on 6th October 2016, the Assistant Certification Officer determined that the complaints from all four applicants should be consolidated and determined at a single hearing. In addition the issues to be determined were identified and agreed. The ACO also gave directions for the full merits hearing which is to be heard on 19,20 and 21 December 2016.
+15 September 2016
+Pursuant to section 4 of the Trade Union and Labour (Relations) Consolidation Act 1992 (“the 1992 Act”), the Certification Officer removed the National Association of Colliery Overmen, Deputies and Shotfirers from the list of trade unions on the grounds that it is no longer a trade union within the meaning of the 1992 Act (
+Listings Decision: National Association of Colliery Officials Deputies and Shotfirers (CO/L/2/16-17)
+).
+30 August 2016
+Bannister v UNISON: The Public Service Union
+Mr Bannister brought five complaints in which he alleged that UNISON: The Public Service Union breached its rules in relation to the UNISON 2015 General Secretary election. Three of Mr Bannister’s complaints were struck out under section 256ZA(1)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992 on the basis that they had no reasonable prospect of success and/or were otherwise misconceived. The remaining two complaints are to proceed to a full hearing in order to be determined.
+26 August 2016
+Brough v Union of Construction, Allied Trades and Technicians (UCATT) (No. 2)
+Mr Brough made a complaint alleging that UCATT had breached section 24(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 by failing to ensure, so far as is reasonably practicable, that the entries in its register of members were accurate and kept up-to-date. The Certification Officer upheld the complaint but considered it was inappropriate to make an enforcement order.
+24 August 2016
+Society of Local Council Clerks has been removed from the schedule of trade unions as it ceased to be a trade union on 17 August 2016.
+18 August 2016
+The Certification Officer has approved an application from “Cinema Exhibitors Association Ltd” to change its name to “UK Cinema Association Ltd” with effect from 18 August 2016.
+Shield Guarding Staff Association has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 21 May 2016.
+17 August 2016
+Association of Local Council Clerks has been entered on the schedule of trade unions held by the Certification Officer with effect from 16 August 2016.
+9 August 2016
+Forbes v Scottish Secondary Teachers’ Association
+Mr James Forbes made two complaints against the Scottish Secondary Teachers’ Association (“the Association”) in which he alleged that the Association breached its rules in relation to its internal disciplinary procedure and breached section 47(1) of the Trade Union and Labour Relations (Consolidation) Act 1992. Mr Forbes died on 18 April 2016. On 20 July 2016 his complaints were withdrawn on behalf of his estate. The Certification Officer dismissed Mr Forbes’ complaints upon withdrawal by his estate.
+14 July 2016
+The
+Annual Report of the Certification Officer (2015-2016)
+is published and laid before Parliament. It is available to be downloaded from the Certification Officer’s website.
+7 July 2016
+Bentham v Union of Construction, Allied Trades and Technicians (UCATT) (No. 3)
+Mr Bentham brought two complaints in which he alleged that UCATT breached its rules in relation to its internal disciplinary procedure. The complaints were struck out under section 256ZA(1)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”) on the basis that they had been brought to the Certification Officer outside the time limits set out in section 108A(6) and (7) of the 1992 Act.
+24 June 2016
+National Union of Mineworkers (Leicester Area) removed from the list of trade unions maintained by the Certification Officer following a decision by the Certification Officer that it was no longer a trade union within the meaning of the Trade Union and Labour Relations (Consolidation) Act 1992 (
+Listings Decision: National Union of Mineworkers (Leicester Area) (CO/L/16-17)
+).
+2 June 2016
+The application for a certificate of independence from the Artists’ Union England was approved by the Assistant Certification Officer on 2 June 2016.
+11 May 2016
+Whatman International Staff Association has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 9 October 2015.
+31 May 2016
+Fletcher v Unite the Union
+The claimant made a complaint alleging that Unite the Union breached section 30(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply with his request to access accounting records of the union. Upon the union providing the records the claimant withdrew the complaint. The complaint was dismissed upon withdrawal by the claimant.
+17 May 2016
+Fernandez Castillo and Ors. v Unite the Union
+The claimants alleged that Unite the Union breached its rules in relation to the 2015 Branch LE/2000 election and breached section 30(2)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992. At the preliminary hearing the Certification Officer determined which branch constitution was valid at the time of the election and that the Branch Balloting Protocol constituted rules of the union. The Certification Officer also determined which complaints made by the claimants would proceed to a full hearing.
+17 May 2016
+Brough v Union of Construction, Allied Trades and Technicians (UCATT) (No 3)
+Mr Brough made two complaints alleging the union had breached its rules relating to disciplinary matters.  Following correspondence, the Certification Officer struck out both complaints under section 256ZA(1)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992 on the grounds that they had no reasonable prospect of success and/or were otherwise misconceived.
+4 May 2016
+Chapman v Community
+Mr Chapman made five complaints relating to disciplinary proceedings by the Union. Mr Chapman alleged that the Union breached a number of its own rules during disciplinary proceedings against him and in handling a complaint by him against another Union member. The Certification Officer refused four of the claimant’s applications but declared in the claimant’s favour on the fifth complaint. The Certification Officer did not make any enforcement order.
+13 April 2016
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the Artists’ Union England. Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+30 March 2016
+Cleaners and Allied Independent Workers Union (CAIWU) has been entered on the list of trade unions held by the Certification Officer with effect from 16 March 2016.
+22 March 2016
+Henderson v GMB
+Mr Henderson made five complaints relating to the Union’s election for the position of General Secretary and Treasurer. These included four alleged breaches of 47(1) Trade Union and Labour Relations (Consolidation) Act 1992 and one alleged breach of one of the Union’s by-laws. The Certification Officer refused all five of the claimant’s applications.
+16 March 2016
+The Association of Professional Ambulance Personnel has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 31 December 2015.
+12 January 2016
+Mills v Unite the Union
+The claimant made a complaint alleging that Unite the Union had breached section 30(2)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992 in failing to comply within 28 days with her request to access accounting records of the union. The Certification Officer upheld the complaint and made an enforcement order.
+25 November 2015
+Sweeney (No. 2) v Union of Construction, Allied Trades and Technicians (UCATT)
+Mr Sweeney brought two complaints in which he alleged that UCATT breached its rules in not paying his or the person accompanying him their travel expenses in order to attend an appeal hearing before the General Council of UCATT. The complaints were struck out under section 256ZA(1)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992 on the grounds that they had no reasonable prospect of success and/or were otherwise misconceived.
+18 November 2015
+The Union of Country Sports Workers has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 30 June 2015.
+17 November 2015
+Rowlandson v UNISON
+Mr Rowlandson made five complaints alleging that the union had breached its rules in relation to branch elections and one complaint in relation to disciplinary procedures. The union conceded breaches for four of the six complaints and the Certification Officer declared, by consent, that the relevant rules had been breached as alleged. He made a single enforcement order in relation to these complaints. The Certification Officer refused to make a declaration on the remaining two complaints.
+22 October 2015
+Radford v Equity (No.2)
+Mr Radford made three complaints alleging that the union had breached two of its rules in relation to disciplinary procedures. The Certification refused  the claimant’s application in relation to the first complaint. The Certification Officer upheld the second and third complaints for which he also made enforcement orders. The decision was issued to the parties on 22 October 2015 and reviewed, following an application from the Union, on 12 November 2015.
+15 October 2015
+Ritson v National Union of Teachers (NUT)
+Mr Edward Ritson made six complaints alleging that the NUT breached its rules in relation to the nomination procedure followed by its Sefton Branch for local officers and committee. Following a settlement between the parties, Mr Ritson withdrew his complaints, which were dismissed by the Certification Officer upon withdrawal.
+2 October 2015
+Murray v Unite the Union
+Mr Murray made a complaint alleging that the union had breached one of its rules in relation to the election of the Scottish Regional representative to its Executive Council  that took place in 2015. The union conceded a breach of the rule. The Certification Officer made an enforcement order that the election be re-run.
+1 October 2015
+The Bus Workers Alliance has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 29 May 2015.
+3 September 2015
+The Certification Officer refused the application by Equal Justice to be entered in the list of trade unions (
+Listings decision: Equal Justice
+).
+11 August 2015
+The Federation of Professional Railway Staff has been removed from the list of trade unions maintained by the Certification Officer because it dissolved on 30 June 2015.
+The Pop-Up Union has been removed from the list of trade unions maintained by the Certification Officer. The Certification Office last had contact with the Pop-Up Union in May 2013, when it was entered on the list of trade unions. Since then all attempts at contacting the organisation have been unsuccessful. It appears that the Pop-Up Union had ceased to exist by the end of 2013. In the circumstances it never came under a duty to supply this office with an annual return.
+30 July 2015
+British Ceramic Confederation has been removed from the schedule of employers’ associations held by the Certification Officer with effect from 30 July 2015 because it is no longer an employers’ association.
+29 July 2015
+Brough v Union of Construction, Allied Trades and Technicians (UCATT)
+Mr Brough made a complaint alleging that the union had breached its rules in relation to its internal disciplinary procedure. The Certification Officer dismissed the complaint.
+20 July 2015
+The
+Annual Report of the Certification Officer (2014-2015)
+is published and laid before Parliament. It is available to be downloaded from the Certification Officer’s website. Hard copies of the report are available upon request to the Certification Office (info@certoffice.org).
+25 June 2015
+The Certification Officer has approved an application from “Local Government Yorkshire and Humber” to change its name to “Yorkshire and Humber (Local Authorities) Employers’ Association” with effect from 25 June 2015.
+23 June 2015
+Wilson v UNISON: The Public Services Union
+The claimant alleged that the union breached its rules in relation to a ballot of members of the Doncaster Local Government Branch Retired Members Section. The application was struck out under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the grounds that the complaint advanced by the claimant had no reasonable prospect of success and/or was otherwise misconceived.
+19 June 2015
+The Staff Association of Bank of Baroda (UK Region) merged into Unite the Union on 19 June 2015. Please note that the Staff Association of Bank of Baroda (UK Region) ceased to exist from 18 June 2015 and has been removed from the list of trade unions maintained by the Certification Officer.
+4 June 2015
+The application for a certificate of independence from the National Crime Officers Association was approved by the Assistant Certification Officer on 4 June 2015.
+3 June 2015
+Stevens v Union of Democratic Mineworkers
+The claimant brought five complaints against the Union of Democratic Mineworkers. The complaints alleged breaches of rule relating to:
+the notices required for branch meetings;
+the voting of a branch delegate at the Union’s Council;
+the election of a National Executive Committee member;
+the attendance of a trustee at a National Executive Committee; and
+a rule change relating to sections of the union.
+Two of these complaints were upheld, two were dismissed and one was struck out by the Certification Officer under section 256ZA(4) of the Trade Union and Labour Relations (Consolidation) Act 1992. The Certification Officer did not make any enforcement orders.
+22 May 2015
+National Association of Colliery Overmen, Deputies and Shotfirers (South Wales Area) has been removed from the schedule of trade unions maintained by the Certification Officer because it dissolved on 22 May 2015.
+19 May 2015
+Todd v Unite the Union
+The claimant brought five complaints against Unite the Union. The complaints alleged breaches of rule relating to the complainant being prevented from speaking to the National Industrial Sector Committees of the Union and the handling of her complaints relating to the issue. The Certification Officer struck out all five complaints under section 256ZA of the Trade Union and Labour Relations (Consolidation) Act 1992 on the grounds that the complaints had no reasonable prospect of success and/or were otherwise misconceived.
+15 May 2015
+Boothroyd v UNISON
+The claimant made a complaint alleging that UNISON breached its rules in removing him from membership. The claimant withdrew his complaint on the Union reinstating his membership. The Certification Officer dismissed the complaint upon withdrawal by the claimant.
+15 May 2015
+Beaumont (No. 4) and Mansell v Unite the Union
+The claimants brought five complaints against Unite the Union. One complaint related to eligibility to sit on its Executive Council and was upheld. The other four related to the Executive Council election in 2014 Two of these complaints were upheld and two were dismissed. The Certification Officer did not make any enforcement orders.
+7 May 2015
+An application to register the Instrument of Transfer of the Staff Association of Bank of Baroda (UK Region) to Unite the Union was received by the Certification Officer on 7 May 2015.
+6 May 2015
+The Certification Officer has approved an application from “Whatman Staff Association” to change its name to “Whatman International Staff Association” with effect from 6 May 2015.
+5 May 2015
+Unity merged into GMB on 16 April 2015. Please note that Unity ceased to exist from 15 April 2015 and has been removed from the list of trade unions maintained by the Certification Officer.
+17 April 2015
+Street and Street v UNISON (on remission from the EAT)
+The complaint, as remitted to the Certification Officer by the Employment Appeal Tribunal, following the Certification Officer’s decision
+(D/28-29/12-13)
+and EAT judgement (UKEAT/0256/13) was dismissed by the Certification Officer.
+16 April 2015
+European SOS Trade Union has been entered on the list of trade unions held by the Certification Officer with effect from 13 April 2015.
+26 February 2015
+Newspaper Society has been removed from the list of employers’ associations maintained by the Certification Officer because it ceased to exist on 16 June 2014.
+11 February 2015
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the National Crime Officers Association. Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+9 February 2015
+Equality For Workers Union (EFWU) has been entered on the list of trade unions held by the Certification Officer with effect from 09 February 2015.
+23 January 2015
+The application for a certificate of independence from the Independent Workers Union of Great Britain (IWGB) was approved by the Certification Officer on 23 January 2015.
+20 January 2015
+R&C Trade Union has been entered on the list of trade unions held by the Certification Officer with effect from 20 January 2015.
+25 November 2014
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from the Independent Workers Union of Great Britain (IWGB). Any person who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+21 November 2014
+Yorkshire Independent Staff Association (YISA) merged into Aegis the Union on 21 November 2014. Please note that YISA ceased to exist from 20 November and has been removed from the list of trade unions maintained by the Certification Officer.
+19 November 2014
+Driver and General Union has been entered on the list of trade unions held by the Certification Officer with effect from 18 November 2014.
+3 November 2014
+Artists’ Union England has been entered on the list of trade unions held by the Certification Officer with effect from 3 November 2014.
+The Instrument of Transfer in respect of the merger of the British Association of Colliery Management – Technical Energy and Administrative Management (BACM-TEAM) to Prospect was registered by the Certification Officer on 3 November 2014. The Instrument comes into effect on 3 November 2014.
+BACM-TEAM ceased to exist with effect from the date of registration of the Instrument and its name has been removed the Certification Officer’s list of trade unions.
+29 October 2014
+Driver and General Union has been entered on the schedule of trade unions held by the Certification Officer with effect from 29 October 2014.
+22 October 2014
+Aberdeen Fish Curers & Merchants Association Ltd has been removed from the schedule of employers’ associations maintained by the Certification Officer because it dissolved on 19 September 2014.
+3 October 2014
+An application to register the Instrument of Transfer of YISA (Yorkshire Independent Staff Association) to Aegis was received by the Certification Officer on 3 October 2014.
+17 September 2014
+An application to register the Instrument of Transfer of British Association of Colliery Management - Technical Energy and Administrative Management (BACM-TEAM) to Prospect was received by the Certification Officer on 17 September 2014.
+13 August 2014
+Artists’ Union England has been entered in the schedule of trade unions held by the Certification Officer with effect from 1 August 2014.
+29 July 2014
+PTSC has been entered on the list of trade unions held by the Certification Officer with effect from 29 July 2014.
+22 July 2014
+London Fish Merchant Association (Billingsgate) Limited has been removed from the schedule of employers’ associations held by the Certification Officer with effect from 22 July 2014 because it is no longer an employers’ association.
+4 July 2014
+Covent Garden Tenants Association Ltd has been removed from the schedule of employers’ associations held by the Certification Officer with effect from 2 July 2014 because it is no longer an employers’ association
+25 March 2014
+The application for a certificate of independence from the PPU was approved by the Certification Officer on 25 March 2014.
+13 January 2014
+Notice is hereby given that that an application for a certificate of independence under section 6 of the Trade Union and Labour Relations (Consolidation) Act 1992 has been received from PPU. Any persons who wishes to submit any information relevant to this application should do so within one calendar month of the date of this notice.
+
+---
+
+### Tender Opens for Peer Review Independent Expert Panel
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/tender-opens-for-peer-review-independent-expert-panel
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 186
+- **Unique ID:** `4787f6a3a4a216d8`
+
+#### Content:
+
+We are launching a tender to appoint a panel of Independent Experts who will act as a quality assurance mechanism to ensure the consistency of Peer Review Reports and ratings. We intend to enter into three individual contracts. This initiative is not about recruiting Peer Reviewers. It is focused on appointing Independent Experts to support and oversee the Peer Review Scheme.
+The current contract is coming to an end and we are committed to the Peer Review Scheme as it plays a critical role in maintaining public confidence in the legal aid system.
+Further information and how to apply can be found in the Tender Notice at
+LAA Peer Review Independent Expert Panel
+on the GOV.UK tender service.
+The Ministry of Justice is using the E-Sourcing Portal, Jaggaer, for this procurement which means the ITT is available only in electronic form.
+The tender submission deadline is 1 May 2026 at 12:00pm.
+To access this procurement opportunity:
+Log on to
+Jaggaer
+Search for the ITT using reference: ITT_10258 – LAA Peer Review Independent Expert Panel, to be able to view the ITT documents and submit a response.
+
+---
+
+### Scottish space companies pioneer next-generation satellite communications with SpaceX launch
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/scottish-space-companies-pioneer-next-generation-satellite-communications-with-spacex-launch
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 427
+- **Unique ID:** `e8479d85d59d3d12`
+
+#### Content:
+
+The satellites, developed by Spire Global and AAC Clyde Space in Glasgow, are backed by UK Space Agency funding delivered through the European Space Agency’s Pioneer Programme, which helps emerging UK space companies become new mission providers. The Pioneer Programme falls within the programme of Advanced Research in Telecommunications Systems (ARTES).
+The government has identified satellite communications as a priority area for further support, due to its increasingly important role in both civil and defence applications, from delivering broadband services to remote areas to providing secure connectivity for military operations. As part of this commitment, the UK Space Agency will invest more than £600 million in satellite communications research & development over the coming years.
+Optical inter-satellite links tested by Spire Global UK
+One of the satellites was launched by Spire Global UK to test an innovative optical inter-satellite link (ISL) payload. Designed to demonstrate high-speed laser crosslinks on a compact 6U platform, the mission aims to significantly reduce data latency for aviation, maritime, weather and space-weather services. The technology, once validated, will support near-real-time global data delivery across nanosatellite constellations.
+AAC Clyde Space demonstrates UK’s high-volume production capability
+As part of the xSPANCION project, two satellites were developed by AAC Clyde Space, in collaboration with several UK partners, including Bright Ascension Ltd., the University of Strathclyde, the Satellite Applications Catapult, Alden Legal and D-Orbit UK. These satellites represent the first in-orbit demonstration of the UK’s emerging high-volume, low-cost satellite production and operations capability.
+The satellites will form part of VIREON™, AAC Clyde Space’s new constellation designed to enhance decision-making across agriculture, forestry and environmental management, delivering space-enabled insights to governments, industry and environmental organisations.
+Supporting growth and innovation in Scotland and across the UK
+Together, the missions strengthen British capability across optical ISL technologies, volume manufacturing, advanced operations platforms and high-skilled jobs across the UK supply chain. They also demonstrate Glasgow’s position as the leading city for small satellite manufacturing in Europe.
+Henny Sands, Head of Telecommunications at the UK Space Agency, said:
+This Transporter-16 launch marks an important step forward for the UK’s ambitions in next-generation satellite communications. By supporting both breakthrough optical technologies and high-volume production methods, we are enabling British companies to lead in the markets that will define the future of global connectivity.
+Companies can also apply to an open funding call from the UK Space Agency’s Connectivity in Low Earth Orbit (C-LEO) programme, with £30 million currently available to support the development of new components and technologies for satellite constellations, with a further funding call due to open later this year.
+
+---
+
+### HMA Moscow Nigel Casey's interview on UK-Russia relations
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/hma-moscow-nigel-caseys-interview-on-uk-russia-relations
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 3742
+- **Unique ID:** `f0bbc2bda4edaf00`
+
+#### Content:
+
+Russia and the UK have gone through different periods in their histories—the countries were allies, and they were at war with each other. How would you characterize these relations now?
+It’s not what we wanted, it’s not the relationship we wanted, it’s not the relationship we were trying to build when I was last working here in Moscow 20 years ago, and it’s not the relationship that a succession of British Prime Ministers, from Lady Thatcher to Tony Blair, invested a lot of time in trying to build with their Soviet and Russian counterparts in the late 80s, 90s, early 2000s, but I think bilateral relations don’t exist in a vacuum.
+They are inevitably shaped by the context. And the most important fact in the current context is Russia’s invasion of a sovereign European state, and that is, that is the single biggest fact which dominates and defines our current relationship. If and when that ends, the possibility of a different relationship will reopen.
+What would London like to see for Russia and its role in the world? What is the current real goal of British policy towards Russia?
+We would like normal, predictable relations with Russia, free of threats and hostility. What happens in Russia is none of our business, but how Russia operates globally, especially in Europe, is important. And this is what will determine the future. In the 2000s, there was a broad, positive agenda: science, education, culture, defence, counterterrorism, and climate change. We had ambitious plans. Obviously, circumstances have fundamentally changed, and the key thing we must achieve first and foremost is ending the military conflict in Ukraine. After that, I believe the context will change, and I personally hope that this will gradually allow for the restoration of normal relations.
+You mentioned the 1990s and 2000s. Do you consider that the best time for UK-Russia relations?
+I first joined the embassy in 2003, when President Vladimir Putin paid a state visit to London. We had a lot of investment in Russian energy – BP and Shell, in particular, were active here. There were also investors in other sectors of the economy. Conversely, investors from Russia were active in the UK. Relations were experiencing a kind of heyday back then. For me, personally, that was a turning point; I saw what could happen. I doubt anything has improved since then.
+Do you currently see any interest from British companies in returning to the Russian market?
+Businesses are taking a sober view of the Russian market. They’ve noticed the restrictions imposed on foreign investors. And when it comes to strategic economic sectors, especially energy, it’s clear that the context has changed significantly since 2003. They’ll be cautious.
+How many Russian assets are frozen in the UK, and what share of these funds are held by private individuals, and what’s the worth of Russian sovereign assets? The Kremlin has stated that it is prepared to transfer some of the sovereign assets frozen in the US to the Peace Council, with the remaining funds “directed to the restoration of territories damaged during the fighting, after a peace treaty between Russia and Ukraine is concluded.” Is the UK prepared to negotiate a similar option with Russia?
+The UK does not participate in the Peace Council. Like Russia, we are studying and trying to understand this concept. Therefore, we don’t know whether this initiative was serious or more rhetorical.
+We worked closely with G7 countries in developing the sanctions. G7 finance ministers have clearly established a link between the future of Russia’s frozen assets and the end of Russia’s war on compensation. In our understanding, there is a clear connection between these two.
+I don’t have precise figures on the distribution of assets in the UK. The total value of frozen Russian assets in G7 countries is approximately $285 billion, and the majority are held in Euroclear. For this reason, we will act in tandem with our G7 partners, although the UK has had a legally autonomous sanctions regime since leaving the European Union.
+Is the Peace Council an alternative to the UN?
+It’s too early to judge. We haven’t joined the Peace Council. Like Russia, we’re studying it, trying to understand its goals and intentions. We haven’t ruled out joining later, but I think it’s too early to judge how far its powers will extend and what its impact will be.
+If the potential asset unfreezing, as you say, is related to funding the reconstruction of devastated territories, could we be talking about reconstruction on both sides of the line of contact?
+To be frank, no one is working on this matter at that level of detail yet.
+How do you assess the effects of the sanctions regime on the UK economy? And don’t you think the sanctions’ impact on Russia is close to exhausting itself, with absurd situations emerging at various levels? Students’ tuition payments are being blocked, and even members of the Royal Family, including Princess Eugenie, alongside British businesses are being accused of evading sanctions.
+I understand that many consider sanctions a blunt instrument, noting their unintended consequences. But the goal of our sanctions policy is not to punish individual Russians, but to reduce the resources available for waging the war and end it as quickly as possible. The impact of sanctions on the UK economy is not a significant factor. We obtain oil and gas from other sources, primarily from Norway.
+Despite rising prices?
+This is more related to the current crisis in the Persian Gulf.
+In February, you switched to issuing visas primarily electronically. Can you provide up-to-date statistics on visas issued to Russians?
+We recently introduced e-visas for the entire world, and this simplifies the process of applying for visas to visit the UK. This means that you only need to visit the visa application centre once instead of twice. And you can keep your passport while your visa application is processed. In each of the last three years, we have issued over 40,000 visas to Russian citizens, and approximately 93% of all applications were approved. This is a fairly high percentage by global standards.
+How are Russians generally treated in Britain, and how are Britons treated in Russia?
+There was a strong shock in British society in response to what Russia did in Ukraine. I don’t think people understand how we got to this point. But I live in West London, and in my area there’s a Russian school, an Orthodox church, and I hear Russian spoken on the street outside my house almost every day, often quite loudly. No one’s afraid. Russophobia, in my view, is a myth. It doesn’t exist in the UK. And in Moscow, I don’t sense any hostility towards the UK or Europe from Russians. I don’t encounter any of that in my contacts with Russians.
+Did you learn about Russia as a child? How did you react to the prospect of working in Moscow? Has your attitude changed now?
+I first came to Russia in 1986, on a school trip to Moscow and then to Leningrad. I still have photographs of myself standing on the bridge right here, with the Kremlin in the background. Like almost every schoolchild in Britain, I studied Russian history; we all read about the Revolution, the Soviet Union’s role in defeating Nazism, and Stalin. My mother took me to see The Nutcracker.
+Russian literature—especially in film—is very popular in Britain. We all grew up with Russian culture and Russian history. I myself grew up perceiving Russia as part of European history, as a major force in European history. And a significant part of European culture—Russian culture is European culture from our perspective. My view hasn’t fundamentally changed since I came here.
+But the UK trains Ukrainian military personnel, participates in the development of Ukrainian Armed Forces plans and operations, and hasn’t ruled out sending its troops to Ukraine. It also supplies Ukraine with weapons, and recently, following the British Storm Shadow missile strikes on Bryansk, you were summoned to the Foreign Office. Does the UK consider Russia an enemy?
+We don’t use that term or think of Russia in those terms. We say openly and honestly that we view Russia as a threat. The UK’s National Security Strategy identifies Russia as the most pressing threat. It’s a response to Russia’s actions over the past couple of decades: the use of military force in Crimea and Donbas in 2014 and 2015, the war with Ukraine, acts of sabotage, assassinations and assassination attempts, cyberattacks, disinformation. That’s how we see the picture from our perspective and respond.
+But we don’t view Russia as an enemy, and never have. We were allies in both world wars. Last year, I was able to travel to Arkhangelsk and Murmansk to pay tribute to the British soldiers who sacrificed their lives delivering aid to the Soviet Union. This is also our shared memory and part of our heritage. We also think of Russia in those terms.
+What’s the difference between “enemy” and “threat”?
+I think the term “enemy” implies we’re seeing something constant. We don’t see it that way. We see specific actions by Russia that pose a threat. If those actions change, our perception will change too.
+How did the conversation go at the Foreign Ministry after you were summoned there about the strikes on Bryansk?
+I’m a diplomat, and I prefer private conversations to remain private. I’d prefer to keep this discussion between us and the Foreign Ministry.
+How do you assess the prospects for a peaceful settlement in the trilateral Russia-Ukraine-US negotiating format?
+We fully support this process. The idea that we’re trying to undermine it is false. On the contrary, we want it to succeed. We want the military conflict to end at the earliest possible opportunity.
+In the context of these negotiations, Russia raised issues that it calls “the root causes of the crisis”, which extend beyond Russia-Ukraine relations. These include questions of the European security architecture and relations with NATO.
+If you want Europe to be part of a future agreement, you’ll have to consult with Europe at some point. That’s how international politics works. Therefore, we are in constant dialogue with Washington and Kyiv in order to contribute constructively to this process. We don’t want to undermine or replace the current dialogue. We want it to succeed. But in order for it to succeed, we must take into account the interests of Europeans, because the security of the continent is at stake.
+Is the trilateral format sufficient, in your view?
+The trilateral format is preferable. We support it and are not seeking to join it at this stage. But there must be interaction between this process and us.
+Based on the progress of the trilateral negotiations on a settlement in Ukraine, do you believe that an end to the conflict is possible this year?
+I hope so. But if we look at the current state of the negotiations from our perspective, it seems that Russia is insisting on its positions without willing to offer a compromise or even a hint of a compromise. Negotiations are about moving towards the position of the other party.
+Characterizing Russia’s position, how do you assess Donald Trump’s statement linking the lack of progress in the negotiations to Volodymyr Zelenskyy’s position?
+I’ve been working in Moscow for two years and haven’t seen a softening of Russia’s position. As a diplomat, I don’t think this is the kind of approach that can lead to a deal. Perhaps it’s not even intended to be one.
+After the American settlement plan emerged, the EU3 developed its own plan. It turned out there were many differences between them. Why? What are the fundamental differences?
+I don’t see much difference between the US and European approaches. The fundamental issue here is Ukraine’s survival as a sovereign state. And that requires security guarantees. Ukraine would like to join NATO. Russia said that was unacceptable. We, together with our American and European colleagues, developed an alternative: the Ukrainians would be able to have strong armed forces of their own, reinforced by a military presence from the UK and other willing parties after a peace agreement, with a guarantee of American support in the event of an attack on these forces.
+Russia rejects the presence of NATO or European troops on the ground. But if the alternative is paper guarantees similar to the Budapest Memorandum, then it’s unlikely that Ukrainians will be confident that their future is secure.
+The “Coalition of the Willing” concept will only be activated in the context of a peace agreement reached by the United States, Ukraine, and Russia. It must be agreed upon by all parties, including the United States and Russia. And this cannot be done in opposition to what the United States or Ukraine want. I see no contradiction here. Fundamentally, to end the war permanently, we need to develop a framework that guarantees the war will not resume, because the fighting has effectively been going on since 2014, for 12 years now, and a firm end must be reached.
+It’s complicated. Russia itself can offer something constructive and credible. But if it’s the same answer they offered in Istanbul in 2022—namely, a security guarantee over which Russia has veto power—then it’s not credible. We need to resolve this issue together, and that’s what we’re all working on. Russia has repeatedly insisted that this is not a war over territory. We agree—it’s a question of Ukraine’s sovereignty.
+The SVR reported on the possible transfer of British military developments in nuclear technology to Ukraine. London denied this. Even without this context, do you believe Ukraine could possess nuclear weapons? If so, why and under what conditions?
+I can repeat that this is a false story that magically appeared on February 24. No, we do not see Ukraine as a nuclear state. It is legally a non-nuclear state under the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). We are very firmly committed to the NPT. And we, like Russia, were signatories of the Budapest Memorandum and participants in the withdrawal of the Soviet nuclear arsenal from Ukrainian territory. So the idea that we would now want to return it is completely nonsensical.
+How did London react to the recent US decision to ease sanctions against Russian oil? Is the UK participating in consultations on this issue?
+We have not advocated for easing sanctions on the Russian energy sector, and this is not our policy.
+US President Donald Trump has spoken of his readiness to discuss the process of lifting sanctions against Russia after the conflict in Ukraine ends. Is the UK prepared for this?
+I look forward to a collective discussion on the future of sanctions policy at the G7 level, including in the context of a peace agreement. It’s difficult to imagine peace in Ukraine being imminent, so this is not a pressing issue at this time.
+In a recent BBC interview, you compared Russia to the looking-glass world from Carroll’s books. How, in this context, do you explain the difference in the UK’s response to Russia’s military operation in Ukraine and the US military operations in Venezuela and Iran? Don’t you think this resembles a looking-glass policy?
+I used this metaphor because Alice in Wonderland has become part of our shared culture, to try to describe for the British what it’s like to come from our side of the mirror and live in a world where, contrary to everything we know and believe, the rest of the world is supposedly seeking to destroy Russia. This is simply not the reality we know.
+As for Iran and Venezuela, we were not involved in either of these operations. And we have clearly stated our position that the best solution to the Iranian nuclear program is negotiations. Incidentally, in the old days, when I was last here, we worked quite successfully with Russia on this issue. We share the same fundamental position as Russia: Iran must not possess nuclear weapons.
+We call for a de-escalation of this war and are deeply concerned about the consequences, just as we are concerned about Iran’s attacks on Gulf states that are not involved in military action. I know that in Russia, it’s common to hear criticism of the UK for supporting US military operations, but this is not what’s happening today.
+Yet, the response to the situation in Ukraine, on the one hand, and in Venezuela and Iran, on the other, is radically different.
+In both cases, our approach is based on international law. In Ukraine, from our perspective, we are helping to defend against armed attack in accordance with the UN Charter. In the Persian Gulf, we are helping our allies defend against armed attack by Iran in accordance with the UN Charter. I think there is a fundamental consistency here in our broader approach to international relations.
+We have not supported, condoned, or participated in US or Israeli actions against Maduro or Ayatollah Khamenei. As for Ukraine, Volodymyr Zelenskyy has repeatedly stated that there have been attempts to kidnap and assassinate him. Our policy is based on what we consider legitimate under international law.
+Military operations have previously often been explained as a fight for democracy. But Pentagon Secretary Pete Hegseth, in response to the strikes on Iran, said: “No stupid rules of engagement, no nation-building, no democracy-building… we fight to win, and we don’t waste time or lives.” In your view, does this mean that the slogan of fighting for democracy is no longer relevant? Does the UK have this in mind when formulating its foreign policy?
+We have never fought wars for democracy. You quoted the US Secretary of State for War, not the British one. In Afghanistan, it was a response to the 9/11 terrorist attacks. In Iraq, it was a response to Iraq’s alleged possession of weapons of mass destruction. In Libya or Kosovo, it was a response to protecting civilians. The phrase you quote doesn’t define UK policy.
+Does the fight for democracy figure in your policy of supporting non-state actors and civil society organizations?
+No, we don’t use that term, and it’s certainly not our policy today. You know, we don’t interfere in the internal affairs of other countries, including Russia.
+Is the UK considering involvement in a conflict in the Middle East?
+We will not be drawn into a wider war in the Persian Gulf. We are consulting with the US and other allies on how to promote the openness of international shipping lanes in the Strait of Hormuz. These consultations, I would say, are at an early stage, but they will continue. And if a clear and adequate concept emerges, I am confident that the UK, like others, will be ready to play its part.
+The UK and France have begun actively creating a new “nuclear umbrella” over Europe, in addition to the US one. In March, it was announced that the UK, like Germany, agreed to host French nuclear forces on its territory. Do you really believe that this reduces the risk of nuclear weapons use or incidents, rather than increasing it?
+We have a minimum nuclear deterrent, which has always been tied to NATO. And nothing has changed except that we decided to slightly increase the number of warheads in our arsenal. But we’re talking about a few dozen, a minor change.
+This reflects changes in European security: the deployment of Iskander missiles in Kaliningrad and Oreshnik missiles in Belarus, the growth of China’s nuclear arsenal, and the development of missile defence systems. Our goal is to maintain a reliable minimum deterrent to prevent war on the continent. I consider the irresponsible rhetoric we hear from Russian commentators about using nuclear weapons against European cities as a way to wake us up. Anyone who understands anything about nuclear war knows why. We are trying to ensure a deterrent so that it is never needed.
+To prevent war, there must be no doubt about Europe’s readiness and ability to defend itself. No one in Europe wants a war with Russia. Everyone understands that it would be a catastrophe and must be prevented. We are trying to remove any ambiguity on this issue.
+With the expiration of the New START Treaty, Moscow and Washington are talking about the need for a new strategic arms control agreement. The US is insisting on China’s inclusion, while Russia is insisting on the UK and France. Is London prepared to do so?
+We are committed to the Treaty on the Non-Proliferation of Nuclear Weapons. The next Review Conference will soon be held in New York, and it is important that it remains vibrant and effective. In recent decades, it has been supported by the architecture of US-Russian (previously US-Soviet) strategic arms control agreements. Looking at the numbers, including China’s significant arms build-up, it doesn’t make much sense at this stage of the process to include the nuclear arsenals of the UK or France. We have fewer than 300 nuclear warheads compared to thousands held by the major nuclear powers. It would make more sense to include China first.
+France, like the UK, has a strictly defined and limited stockpile of nuclear weapons, and their goal is to make clear that we have deterrence and a response to the threat of nuclear use by another state. This will not fundamentally change. One of the reasons I’m here, and one of the reasons we consider relations with Russia important, is that in situations of heightened tension, it’s crucial that we communicate clearly and unambiguously. Misunderstandings are dangerous.
+Has the old system of international relations finally broken down? What does London envision for a new one, and does it appreciate the costs—the expenses, the sacrifices—that may accompany its formation?
+We live in a more chaotic and unstable world; that’s absolutely clear. And we want to try to achieve greater stability, greater predictability in interstate relations, and a greater focus on mutually beneficial outcomes. We haven’t abandoned the UN, which is scheduled to elect a new Secretary-General this year. We remain a permanent member of the Security Council, as does Russia, and we have a vested interest in the future of this organization.
+I don’t think we should rejoice in the chaos and unpredictability of the world. It’s bad for our security and prosperity, and it’s bad for Russia, too. Our job is to mitigate conflicts, reduce uncertainty and tension, not increase them.
+
+---
+
+### Bluetongue: latest situation
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/bluetongue-latest-situation
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 1318
+- **Unique ID:** `a320cad2d0769eeb`
+
+#### Content:
+
+Contents:
+Total number of cases
+Latest updates
+Risk level
+Control zones
+Moving animals and animal products
+Vaccination and biosecurity
+Livestock identification and movement rules
+Importing animals and animal products
+Webinars, leaflets, videos and posters
+Defra
+’s bluetongue control strategy
+Be vigilant for
+signs of bluetongue and report it
+if you suspect it.
+Total number of cases
+There have been 328 cases of bluetongue in Great Britain in the 2025 to 2026 bluetongue season (since 1 July 2025). In:
+England, there have been 306 cases of bluetongue – including 295 cases of only
+BTV-3
+, 4 cases of only
+BTV-8
+and 7 cases with both
+BTV-3
+and
+BTV-8
+Wales, there have been 22 cases of
+BTV-3
+There have been no cases in Scotland.
+The location of all premises in Great Britain where one or more animals have tested positive by
+PCR
+for bluetongue serotype 3, serotype 8 or serotype 12 is available on the
+bluetongue case map
+.
+There are 5 confirmed cases of
+BTV-3
+in Northern Ireland
+.
+Latest updates
+27 March 2026
+One new case of
+BTV-3
+was confirmed in England on 27 March 2026 following a report of suspicious clinical signs:
+1 calf in West Yorkshire tested following the finding of brain deformities at postmortem – born alive but lethargic and did not feed
+24 March 2026
+One new case of
+BTV-8
+was confirmed in England on 24 March 2026 following a report of suspicious clinical signs:
+1 cow in East Sussex tested following a late term abortion/stillbirth
+23 March 2026
+One new case of
+BTV-3
+was confirmed in England on 23 March 2026 following a report of suspicious clinical signs:
+1 calf in Lancashire born blind
+20 March 2026
+Three new cases of
+BTV-3
+were confirmed in England on 20 March 2026 following a report of suspicious clinical signs:
+2 calves in Hampshire had neurological signs including star gazing and head tilt
+2 cows in Cumbria tested following reports of decreased fertility and the birth of a blind calf
+1 calf in Staffordshire born dull – small and weak and failed to adapt
+19 March 2026
+One new case of
+BTV-3
+was confirmed in England on 19 March 2026 following a report of suspicious clinical signs:
+1 calf in Kent born with head and neck malformation and blindness – crusty lesions around muzzle and failed to thrive
+One new case of
+BTV-8
+was confirmed in England on 19 March 2026 following a report of suspicious clinical signs:
+1 calf in Cornwall born with neurological signs, involuntary eye movement and discolouration around the muzzle
+9 March 2026
+Two new cases of
+BTV-3
+were confirmed in England on 9 March 2026 following a report of suspicious clinical signs:
+1 calf in Devon born with neurological signs, calf is unwilling to suck and has slight discolouration of nose
+1 calf in Cheshire born with neurological signs and 1 cow (dam of the calf) tested positive
+6 March 2026
+One new case of
+BTV-8
+was confirmed in England on 6 March 2026 following private testing:
+1 bull in Cornwall tested positive for
+BTV-8
+following private testing post semen collection
+5 March 2026
+Two new cases of
+BTV-3
+were confirmed in England on 5 March 2026 following a report of suspicious clinical signs:
+1 calf in Cornwall born blind and with neurological signs – several other calves with similar clinical signs were not tested
+2 calves in Cornwall born with neurological signs and 1 cow (dam of the twin calves) tested positive
+4 March 2026
+One new case of
+BTV-3
+was confirmed in England on 4 March 2026 following a report of suspicious clinical signs:
+4 bovines in Devon including 3 cows and the calf of one of the cows following fertility issues and abortions in the herd
+One new case of
+BTV-3
+was confirmed in England on 4 March 2026 following private testing:
+2 barren cows in Devon tested positive following private testing
+3 March 2026
+Three new cases of
+BTV-3
+were confirmed in England on 3 March 2026 following reports of suspicious clinical signs:
+1 calf in Cumbria with brain cavitation on postmortem
+1 cow tested following the birth of its calf in Staffordshire born with lesions on tongue
+1 newborn calf in Devon born with no brain tissue and 2 cows (one was the calf’s dam)
+One new case of
+BTV-3
+was confirmed in England on 3 March 2026 following private testing:
+1 cow in Oxfordshire tested positive following private testing post oocyte collection
+Risk level
+Temperatures remain low, and experts consider the risk of onward spread by vectors in England to be negligible. There is however still a risk that animals can get infected from infected germinal products.
+The risk of incursion of bluetongue virus (including serotypes not currently circulating in England) from all routes remains at medium (occurs regularly) although the risk of airborne incursion is now negligible.
+Control zones
+Check if you’re in a zone on the
+bluetongue zone map
+.
+Read the
+details of each zone
+.
+England: country-wide restricted zone
+The whole of England is in a bluetongue restricted zone. You can move animals within England without a specific bluetongue licence or pre-movement testing.
+You need a specific licence to freeze germinal products (semen, ova and embryo) anywhere in England and testing is required. Keepers are responsible for the cost of sampling, postage and testing.
+There is more detail in the declaration
+.
+Wales: country-wide restricted zone
+An
+all-Wales restricted zone
+was introduced from 00:01am on 10 November 2025. This has the following effects:
+end of temporary control zone
+– the temporary control zone and its restrictions have ended
+end of premises-level restrictions
+– individual premises across Wales are no longer subject to bluetongue-specific movement or control restrictions
+free movement of livestock
+– livestock movements between England and Wales no longer require bluetongue vaccination or mitigation measures
+continued restrictions on germinal products
+– you must continue to test donor animals before freezing and marketing germinal products, as this provides quality assurance and reduces the risk of longer-term bluetongue transmission
+Moving animals and animal products
+Find out about:
+moving animals within the restricted zone
+general licences to move animals and germinal product from the restricted zone to Scotland or Wales
+moving, freezing and storing germinal product
+moving certain animals from Northern Ireland to Great Britain
+Vaccination and biosecurity
+Find out about:
+BTV-3
+vaccination
+how to slow the spread of bluetongue
+Livestock identification and movement rules
+Find out about:
+keeping cattle, bison and buffalo in England and Wales
+keeping sheep and goats in England
+keeping deer in England: tagging, movement and record keeping rules
+Contact the Animal and Plant Health Agency (
+APHA
+)
+if you keep camelids (such as llamas or alpacas) or you’re unsure about the rules.
+Importing animals and animal products
+Check the rules on
+imports, exports and EU trade of animals and animal products
+.
+Webinars, leaflets, videos and posters
+Watch recordings of
+bluetongue webinars
+.
+Find
+leaflets, videos and posters about bluetongue
+.
+Defra
+’s bluetongue control strategy
+Defra
+controls cases of bluetongue by following the
+Bluetongue: disease control framework in England
+.
+Historical cases
+The first cases of bluetongue virus serotype 3 (
+BTV-3
+) of the 2025 to 2026 vector season was confirmed on 11 July 2025.
+Prior to this
+Defra
+confirmed 160
+BTV-3
+cases in England and 2 from high risk moves in Wales between 26 August 2024 and 31 May 2025. One case of bluetongue virus serotype 12 (BTV-12) was confirmed in England on 7 February 2025 Giving a total of 163 cases.
+Between November 2023 and March 2024
+Defra
+confirmed 126
+BTV-3
+cases in England on 73 premises (119 cattle and 7 sheep). These
+BTV-3
+cases were the first UK BTV incursions for over 15 years.  Prior to these cases the last confirmed outbreak of bluetongue was an outbreak of bluetongue virus serotype 8 (
+BTV-8
+), which took place over 2007 to 2008.
+
+---
+
+### We’re hiring – looking for scientific experts for high-profile roles
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/were-hiring-looking-for-scientific-experts-for-high-profile-roles
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 418
+- **Unique ID:** `3c91311cf266d29f`
+
+#### Content:
+
+The
+UK
+government is currently advertising several high-profile roles for scientific experts. These positions offer a unique chance to inform policy and decision making at the highest levels and an opportunity to make a significant impact on national policy.
+Professor Dame Angela McLean said:
+Looking to use your expertise to put excellent science advice at the heart of decision making? Then consider joining the ranks of science advisers to government. These roles are exciting, challenging and rewarding, so I encourage you to consider applying.
+Chief Scientific Adviser roles
+Chief Scientific Advisers
+(
+CSAs
+) provide independent science advice to ministers and departments, lead their department’s science systems, and contribute to evidence-based decision making. These are positions directly employed by a government department or arm’s-length body, usually for a minimum of 4 days a week and for a period of at least 3 years.
+Who should apply
+We encourage applications from individuals with:
+Strong scientific and/or engineering backgrounds and expertise
+A passion for applying scientific knowledge to real-world challenges
+A desire to move into a government role at the intersection of science and government
+Current
+CSA
+vacancies
+Chief Construction and Scientific Adviser, Ministry of Housing, Communities and Local Government
+Scientific Advisory Committees and Councils (
+SACs
+) positions
+SACs
+help government departments (and their arm’s-length bodies) to access, interpret and understand the full range of relevant scientific information, and to make judgements about its relevance, potential and application.
+SAC
+member positions are part-time roles, which vary in terms of minimum time and length requirements. They are conducted at the same time as your existing work activities.
+Who should apply
+We encourage applications from individuals with:
+Strong scientific and/or engineering backgrounds and subject-matter expertise
+A passion for applying scientific knowledge to real-world challenges
+A desire to work in government and closely influence policymaking but without moving away from academia
+Current
+SAC
+vacancies
+Science & Technology Ethics Advisory Committee Members
+If you are interested in joining a
+SAC
+, membership is usually through an open public appointment. Opportunities are advertised on the
+Apply for a public appointment
+page.
+Other
+Current vacancies will be advertised here
+Diversity and inclusion
+The Civil Service is committed to attract, retain and invest in talent wherever it is found. To learn more, please see the
+Civil Service People Plan (opens in a new window)
+and the
+Civil Service Diversity and Inclusion Strategy (opens in a new window)
+.
+To find out more about science advisory systems, see our
+how-to guide for academic engagement with government
+.
+
+---
+
+### TRA initiates first absorption review
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/tra-initiates-first-absorption-review
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 342
+- **Unique ID:** `a74daf6fbc295c87`
+
+#### Content:
+
+The Trade Remedies Authority has today (30 March 2026) initiated its first absorption review.
+Absorption reviews
+are one of a number of different types of review that the TRA can conduct while a trade remedy measure is in place. They investigate whether an anti-dumping measure on a particular product is having its intended effect or if it has been absorbed (resulting in the prices of imports failing to reflect the imposition of the measure).
+The absorption review initiated today follows an application from a UK producer of excavators which claimed that the
+anti-dumping measure imposed in May 2025
+(as well as the provisional anti-dumping measure imposed in December 2024) is being absorbed  and is therefore not having its intended effect of reducing the injury caused by dumped excavators entering the UK.
+The
+anti-dumping duties
+range from 18.81% for a sampled exporter to 40.08% for the residual rate. They apply to imports of excavators from China weighing 11 tonnes or more, but less than 80 tonnes.
+The review will consider:
+export, resale and subsequent selling prices of the imported excavators;
+whether the anti-dumping duty has led to movements in resale prices and subsequent selling prices;
+and any other factors which may have had an impact on prices.
+Following the conclusion of the review, the TRA will either recommend to the Secretary of State for Business and Trade that the duty should remain unchanged or that it should be varied. If the TRA recommends that the duty should be varied, the variation can be applied to some or all of the goods subject to the review.
+Interested parties can take part in this absorption review by registering on the TRA’s
+public file
+by 14 April 2026.
+Background
+The Trade Remedies Authority is the UK body that investigates whether new trade remedy measures are needed to counter unfair import practices and unforeseen surges of imports.
+The UK trade remedies regime is set by the Taxation (Cross-Border Trade) Act 2018 and the Trade Act 2021, which operationalise the World Trade Organisation (WTO) agreements covering trade remedies.
+
+---
+
+### Hundreds of Best Start Family Hubs open nationwide
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/hundreds-of-best-start-family-hubs-open-nationwide
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 1455
+- **Unique ID:** `3e4ed832f5d78ee3`
+
+#### Content:
+
+Families across England struggling with the cost of living can save money on services including free stay and play sessions for babies and young children, as hundreds of new Best Start Family Hubs open nationwide, building on the legacy of Sure Start.
+Parents will be able to access help with infant feeding, parenting advice and early support for children with SEND, in one place, reducing the need to pay for private classes or specialist support.
+This support forms part of the government’s wider efforts to make family life easier, including publishing new evidence-backed guidance on screen time this week in response to parents’ calls for support.
+On top of savings of up to £200 a year through free stay and play sessions, many hubs will also provide access to debt advice and welfare guidance, which could help families access support they may otherwise miss and improve their financial position.
+Over 200 new Best Start Family Hubs in areas not previously funded are now open to families, as the government delivers on its pledge to ensure there is a hub in every council area. These form the first wave of up to 1,000 hubs across all local authorities by the end of 2028, with 800 expected to be operating as Best Start Family Hubs by the end of April.
+New guidance
+sets out the government’s plans to bring services families rely on together under one roof, making it easier to get help at the right time – reimagining Sure Start for the modern age through a more joined-up system of support.
+The government is also making a new commitment to deliver up to 2,000 satellite locations by the end of 2028 – based in health centres, leisure centres, libraries and churches – so families experience seamless support in the places they already go.
+The programme builds on the legacy of Sure Start, while updating family services for the modern world – combining face-to-face and digital support, strong partnerships with early years settings, and better use of existing community partners and spaces.
+Education Secretary Bridget Phillipson said:
+Children growing up in our country deserve the best start in life, but for too long, too many families have been navigating the pressures of parenthood without the support they need.
+Best Start Family Hubs will revitalise family services - bringing together health, parenting support and practical advice in one place, free and close to home, so that parents can get the help they need, when they need it.
+I’ve seen the difference Sure Start made in my community, and why it’s so important that we bring that support back today, reimagined for a new generation of families.
+Whether it’s advice on child development, help with additional needs, or simply a friendly face in the community, this government is putting the support so many families used to rely on, back into each and every community.
+The new Best Start Family Hubs are backed by £900m of investment over the next three years – including half a billion to deliver hubs nationwide, £200 million for the Healthy Babies services, and a further £200 million to fund SEND practitioners in every hub.
+Every Best Start Family Hub will include dedicated outreach workers to reach families, alongside a practitioner to help identify additional needs early – particularly those who might otherwise fall through the cracks – helping them access the right support sooner without being passed between services.
+Alongside this, Healthy Babies support will be delivered through Best Start Family Hubs - bringing together health and early support such as midwifery, health visiting, infant feeding and perinatal mental health support so families get a more joined-up experience from day one.
+Health Secretary Wes Streeting said:
+I want babies born this year to grow up as the healthiest generation than any before it - and that means building good habits early.
+We know that the earliest years of a child’s life shape everything that follows. But for too long, families have had to navigate a maze of services at the very moment they need simple, straightforward help.
+We’re making it easier for families to get the right support in one place - from pregnancy onwards.
+That means spotting problems earlier, stepping in sooner, and moving care closer to the communities that need it most.
+With significant investment over the next three years, Best Start Family Hubs and Healthy Babies services will play a key role in improving school readiness, supporting early development and helping parents manage the cost of living. Hubs will also be able to host school-based nurseries, bringing childcare together with family support, health visiting and early SEND identification under one roof – giving families more joined-up support.
+New guidance sets out the full support families can expect from Best Start Family Hubs, bringing together help from pregnancy through to school age in one joined-up offer. It comes as the government prioritises cost of living to make life more affordable for families – from support with managing screen-time to major cost of living support for families, including saving eligible parents an average of £8,000 a year through funded childcare, up to £450 a year through free breakfast clubs, up to £500 a year through the expansion of free school meals, and around £300 a year through Holiday Activities and Food programmes, alongside the expansion of Best Start school-based nurseries.
+Brigitte Gater, Managing Director of Children’s Services at Action for Children, said:
+Best Start Family hubs are at their best when they bring together trusted local partners to reach families in ways that work for them.
+As a national charity delivering local family hub services across England, Action for Children has seen how collaboration between local authorities, community groups and specialist providers helps services adapt quickly to what families need, whether that’s trialling new approaches, reaching families who might otherwise be missed, or joining up support around the whole family.
+That shared commitment to learning and adapting is what enables services to deliver the best outcomes for children and families.”
+Neil Leitch, CEO of the Early Years said:
+We welcome the announcement of the Best Start in Life Family Hubs opening this week. They have the potential to make a real difference for families, particularly those in disadvantaged areas, as long as they are fully joined up with local early years provision to deliver meaningful, long-term support.
+This is a positive step, and we stand ready to work with ministers to help ensure that the rollout of Best Start family hubs – and the wider Best Start in Life strategy – delivers the high-quality care, education and support that families both need and deserve.”
+Jodie Reed, co-CEO of family support charity, Home-Start UK
+By working hand-in-hand with children’s centres and family hubs the national network of Home-Start charities has shown how partnership with community-based charities and voluntary organisations increases reach to families in greatest need.
+The strong and trusting relationships our trained community volunteers build with families over months of home-visiting gives parents the confidence and encouragement they need to access the services they need. Services for the community, delivered by the community like this build connection and maximise impact for children.
+Jane van Zyl, CEO at Working Families said;
+We welcome the Government plans to launch 200 new Best Start Family Hubs across every local authority in England by 2028.
+These hubs aim to bring together services that support families. Too many families are currently cut off from early years support, particularly in lower-income areas. This initiative could be a step toward changing that, and local implementation will be key.
+At Working Families, we know how much families benefit when the right help is easily accessible, early on, and we’ll be watching closely to see how this promise translates into real change for parents and carers
+Sarah Ronan, Executive Director, Early Education and Childcare Coalition said:
+These plans make clear that working in partnership across the system is how we wrap support around families at the earliest opportunity. Meeting families where they are, removing barriers to accessing support and actively shaping the system with families is key - we welcome the crystal clear focus on these principles throughout the guidance.
+We all have a role to play in making sure that every child, in every community gets the best start in life and we are particularly pleased to see Government recognise the importance of early education and childcare in achieving that.
+Having the support of Best Start Family Hub staff in navigating childcare entitlements will help ensure that parents find a setting that suits their child’s needs and, crucially, that they get the education and care that supports them to thrive.
+DfE media enquiries
+Central newsdesk - for journalists 0203 371 4832
+
+---
+
+### Major breakthrough in improved insurance products for female sports stars
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/major-breakthrough-in-improvised-insurance-products-for-female-sports-stars
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 1367
+- **Unique ID:** `9a825dbb639d2e8b`
+
+#### Content:
+
+Miscarriage as a result of a sporting accident is included for the first time in personal accident insurance
+Arising from Karen Carney’s Independent Review of Women’s Football and the government’s Women’s Football Taskforce, the project is backed by government and spearheaded by Loughborough University and leading insurers
+Female athletes are set to benefit from changes to insurance products that reflect their real-world needs as the government continues to drive a Decade of Change in women’s and girls’ sport.
+The Women’s Football Taskforce, chaired by Sports Minister Stephanie Peacock, commissioned Loughborough University to work with leading insurance providers and brokers, and the sports sector, to offer more appropriate support for female athletes.
+The move will address blind spots in existing cover when athletes experience pregnancy, menopause, contraception for health conditions and Relative Energy Deficiency in Sport (RED-S). The taskforce was set up to progress the recommendations of former footballer Karen Carney OBE’s independent review of women’s football.
+Female athletes disproportionately experience a number of health conditions, including RED-S, a complex syndrome of low energy availability, where an athlete’s food intake does not meet the energy demands of their activities or training, resulting in metabolic, hormonal and physiological changes that can cause injury. The most common indicators include stress fractures and changes to the menstrual cycle.
+The insurance brokers on the working group are now considering how best to provide tailored or specialist products to better protect female athletes throughout their sporting career, giving them greater security of knowing their health and livelihoods are properly supported. This includes reviewing exclusion criteria within relevant insurance products.
+Minister for Sport, Stephanie Peacock said:
+It is incredibly welcome to see this positive change driven by the Women’s Football Taskforce. I would like to pay tribute to the insurers and particularly to Professor Jo Maher for driving this work forward in order to make a tangible difference to the products offered to sportswomen.
+With the Women’s T20 Cricket World Cup coming later this year, the Tour de France Femmes Grand Départ in 2027, and our bid for the 2035 FIFA Women’s World Cup, the momentum behind women’s sport has never been greater. I am proud that the UK is leading the world in driving positive change for women and girls in sport.
+Former England and Great Britain footballer Karen Carney OBE, said:
+Seeing the recommendations being taken seriously and resulting in tangible improvements is always amazing.
+This development coming to fruition justifies why the report was important and I’d like to thank all the people involved that helped make this happen.
+Today marks another positive step to widening the support available for female athletes.
+Pro-Vice Chancellor for Sport, Loughborough University Professor, Jo Maher - the lead of the project said:
+Developing products for female athletes marks an important step in ensuring we drive world class and equitable standards in women’s sport.
+I would like to thank all of the partners from the insurance industry for listening to colleagues from across the sports sector and responding so positively.
+Together we can level the playing field and continue to build on the brilliant performances of our national teams and athletes.
+Progress to-date
+The first exclusion that has now been written back into a policy is by Aon, who have extended their personal accident policies to include miscarriage as a result of a sporting accident as standard.
+The British Insurance Brokers Association (BIBA), who themselves have a manifesto commitment to support women in sport, are working with brokers such as Aon, Willis, Miller, Howden and Marsh on which current exclusions can be written back into policies.
+Specialist insurer AXIS are reviewing their professional sports personal accident products in partnership with their distribution partners, and evaluating enhancements of their products to better support female athletes.
+The Association for British Insurers (ABI), together with leading insurers including Vitality, are reviewing available insurance and terms available for female athletes across the wider industry, to enable them to have access to the insurance they require and are aware of the broad range of insurance available.
+Education and awareness materials, backed by the ABI and BIBA, will be developed so that athletes, clubs and National Governing Bodies can access clear guidance on the type and range of tailored cover available to them.
+The working group is engaging with the sports sector to ensure the female athlete is placed at the heart of any changes, including UK Sport, the Lawn Tennis Association (LTA), The Football Association (FA), Premiership Women’s Rugby (PWR), England Netball, Women’s Super League Football (WSL Football), the England & Wales Cricket Board (ECB), UK Athletics and Loughborough Lightning.
+BIBA Chief Executive, Graeme Trudgill said:
+We recognise the importance of this initiative and support the work of the taskforce and the industry to make insurance products more inclusive for female athletes.
+We are committed to engaging with our specialist insurance brokers to provide assistance wherever we can, and welcome the opportunity to contribute to new guidance in this area.
+ABI Head of Health and Protection, Rebecca Ward, said:
+We have been supporting valuable cross-sector collaboration between insurers, government and the sports community through the Women in Sport Insurance Taskforce.
+This initiative explores how our sector can support the needs of female athletes and provide a vital safety net throughout their careers. We will continue to support the Taskforce as its work progresses.
+Aon Client Management Director, Dawn Luby said:
+Aon is committed to closing the gap in athlete support by tailoring our products to the real-world needs of women and girls in sport.
+We’ve already taken steps with our insurer partners and extended our personal accident policies to include miscarriage as a result of a sporting accident as standard.
+It has been a privilege to play a role in this significant step forward for the health of female sporting professionals.
+WTW Head of Sport, Louis Elwood said:
+WTW is committed to helping set new standards in professional sport, and we are proud to bring our risk, insurance, and advisory expertise to support the continued growth of the women’s game.
+By working in close partnership with stakeholders across the sporting ecosystem, we aim to drive innovation, enhance standards, and help shape a resilient and sustainable future for professional women’s sport
+ENDS
+The first stage of the project will examine the viability and feasibility of designing new insurance products that deliver specific value for women in sport. This includes reviewing income protection products and current blind spots in insurance.
+This announcement is part of the government’s wider mission to drive a Decade of Change for women’s and girls’ sport.
+At every level the government is backing removing barriers to women participating in sport. Earlier this year it was announced that 1000 community projects across the UK are benefitting from new all-weather pitches, extended playing hours through floodlighting, and modern changing facilities designed to welcome underserved groups like women and girls.
+Following the Lionesses’ defence of their European title last summer,
+the Government announced plans to more than double the share of primetime slots dedicated to women’s and girls’ teams
+, with a clear long-term target of reaching equal access as demand grows.
+The UK’s growing calendar of major women’s sporting events underlines that ambition from the hugely successful Women’s Rugby World Cup 2025, whose legacy programme Impact 25 has reached 850 clubs and 37,000 women and girls across the country, to the upcoming Women’s T20 Cricket World Cup 2026, the Tour de France Femmes Grand Départ 2027, and the government’s support for the bid to bring the 2035 FIFA Women’s World Cup to the UK.
+The purpose of the Women’s Football Taskforce, chaired by Sports Minister Stephanie Peacock, is to progress the recommendations of Karen Carney OBE’s independent review of women’s football. The Women’s Football Taskforce brings together stakeholders from across industry and government departments which have a responsibility for driving forward recommendations from the review, with the overarching objective of creating a sustainable future for women’s football.
+The Women’s Sport Taskforce, chaired by Sports Minister Stephanie Peacock and launched at the Women’s Rugby World Cup 2025, aims to connect the entire sector in order to actively share best practice and innovation and address barriers and challenges facing women participating in sport.
+
+---
+
+### Grave of officer missing since 1940 identified in France
+
+- **Source:** GOV.UK
+- **URL:** https://www.gov.uk/government/news/grave-of-officer-missing-since-1940-identified-in-france
+- **Published Date:** 2026-03-30
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 550
+- **Unique ID:** `644bb08498b6028c`
+
+#### Content:
+
+A rededication service for 2nd Lieutenant Ronald Douglas Elmer Speed was organised by the
+MOD
+’s Joint Casualty and Compassionate Centre (
+JCCC
+), also known as the ‘War Detectives’. The service was held at Warhem Communal Cemetery, France on 27 March 2026.
+2Lt Ronald Douglas Elmer Speed (courtesy of the Speed family)
+JCCC
+Caseworker, Nicola Nash, said:
+I am grateful to the researcher who originally submitted evidence suggesting the location of the grave of this Officer. It was wonderful to see the descendants of 2nd Lieutenant Speed attend the service in the place of his parents and siblings, who were devastated when Ronald was lost. We will remember them.
+Second Lieutenant Speed, 1919 - 1940
+Ronald was the only child of Douglas Charles Leyland Speed and Myrtle Deering, both of Kent. He grew up on his family’s estate, Knowlton Court, which was near Goodnestone in Kent. He was educated at St. Aubyn’s Preparatory School in Rottingdean, East Sussex before going to Eton College. With both his father and Grandfather serving as British Army Officers, it was no surprise that in June 1937, Ronald successfully passed the Army Entrance Examination and entered the Royal Military Academy Sandhurst. On 26 June 1939, Ronald was gazetted as a Second Lieutenant and was subsequently posted to his first choice of regiment, the Coldstream Guards. By December 1939, he had joined the 2nd Battalion and embarked for France to join the British Expeditionary Force.
+On 1 June 1940, Ronald was serving with one of four companies holding the line of Hondschoote Canal, close to Warhem. During the morning, this position was subject to heavy enemy shell and mortar fire, and his company was forced to retire. During the engagement, a shell exploded close to the spot where Ronald was standing and was later seen by his men lying mortally wounded. Sadly, the intensity of the battle meant it was impossible for any members of his company to examine him. The location of Ronald’s body was never discovered, and he was subsequently listed as missing.
+Recently a case was submitted to the
+CWGC
+claiming that Second Lieutenant Speed was buried in Warhem Communal Cemetery, France. The grave in question was originally recorded as belonging to an unknown Second Lieutenant of the 2nd Battalion, Coldstream Guards. Ronald was the only officer of this rank and regiment still missing from this particular action near Dunkirk.
+The service today was supported by serving soldiers from the Coldstream Guards.
+2Lt Speed's family with the military party (Crown Copyright)
+Nephew of 2nd Lieutenant Ronald Douglas Elmer Speed, Hugh Sturges said:
+It was such a nice surprise to find out about Ronnie’s final resting place, whose portrait has been sitting above the dining room table for years. We were so grateful for the lovely service and all the effort put in by everyone.
+The headstone was replaced by Commonwealth War Graves Commission (
+CWGC
+).  Director of the Commemorations at the
+CWGC
+Richard Hills said:
+We are honoured to rededicate the grave of Second Lieutenant Ronald Douglas Speed, who is buried in a previously unidentified grave at Warhem communal cemetery in France. His newly engraved named headstone ensures he is appropriately commemorated, now and for generations to come. We reaffirm our commitment to care for Second Lieutenant Speed’s grave in perpetuity.
+
+---
+

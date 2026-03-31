@@ -1,5 +1,176 @@
 [
   {
+    "url": "https://www.gov.uk/government/news/simpler-household-recycling-rules-come-into-force-across-england",
+    "title": "Simpler household recycling rules come into force across England",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:33.217325+00:00",
+    "content_hash": "b1705f4471113090218853cf0af1cf0b",
+    "unique_id": "6644800a2bc059f3"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/fuel-finder-for-drivers-factsheet",
+    "title": "Fuel Finder for drivers: Factsheet",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:36.685132+00:00",
+    "content_hash": "f30e048279a181947e855842d3a560d7",
+    "unique_id": "55351346ad8936fe"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/government-response-to-non-crime-hate-incidents-final-report",
+    "title": "Government response to non-crime hate incidents final report",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:39.936275+00:00",
+    "content_hash": "b75031845a26b364ed4407cde715d362",
+    "unique_id": "0de6e2145af77a80"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/support-for-keep-britain-working-ramps-up-across-employers-and-regions",
+    "title": "Support for Keep Britain Working ramps up across employers and regions",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:43.009271+00:00",
+    "content_hash": "92562770776c47075ddb4a175caf12ae",
+    "unique_id": "16240a494e39be11"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/fuel-finder-now-helping-drivers-shop-around-for-the-best-deals",
+    "title": "Fuel Finder now helping drivers shop around for the best deals",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:46.146085+00:00",
+    "content_hash": "811159adc0688b7529abd2dd60bdd7ad",
+    "unique_id": "e60d7e3239ee7eb7"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/inspections-target-smashed-with-10000-health-checks-on-water-network",
+    "title": "Inspections target smashed with 10,000 health checks on water network",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:48.054764+00:00",
+    "content_hash": "27fbdeb7afa10367842bd6a656c1daf5",
+    "unique_id": "031665f637c21098"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026",
+    "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:50.377289+00:00",
+    "content_hash": "ce76c262960a9dfd22b275625fba82f0",
+    "unique_id": "40194d392fd28725"
+  },
+  {
+    "url": "https://www.gov.uk/government/speeches/the-uk-stands-ready-to-engage-constructively-with-all-parties-and-expects-cop31-to-be-a-moment-of-delivery-uk-statement-at-the-briefing-by-the-cop31",
+    "title": "The UK stands ready to engage constructively with all parties and expects COP31 to be a moment of delivery: UK statement at the briefing by the COP31 Presidency",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:53.645127+00:00",
+    "content_hash": "0d28284eac75caec5e95470bf6e17543",
+    "unique_id": "b0f6ab80343d3939"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/largest-ever-enforcement-workforce-protecting-waterways-from-pollution",
+    "title": "Largest ever enforcement workforce protecting waterways from pollution",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:45:56.860068+00:00",
+    "content_hash": "f098f30582f570f9cccec5c8ff530f18",
+    "unique_id": "bab769620ad2996e"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+    "title": "Certification Officer: Announcements",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:03.385787+00:00",
+    "content_hash": "720ad8b346d3c10d2ae875b5a4bfbe4b",
+    "unique_id": "2a3dc45b16fe7521"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/tender-opens-for-peer-review-independent-expert-panel",
+    "title": "Tender Opens for Peer Review Independent Expert Panel",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:06.131353+00:00",
+    "content_hash": "1a308561699f94dde208cfbea3c2d2b0",
+    "unique_id": "4787f6a3a4a216d8"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/scottish-space-companies-pioneer-next-generation-satellite-communications-with-spacex-launch",
+    "title": "Scottish space companies pioneer next-generation satellite communications with SpaceX launch",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:09.513241+00:00",
+    "content_hash": "4cd6a3efa6e8cb0a30dcea0472dd25f3",
+    "unique_id": "e8479d85d59d3d12"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/hma-moscow-nigel-caseys-interview-on-uk-russia-relations",
+    "title": "HMA Moscow Nigel Casey's interview on UK-Russia relations",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:12.095516+00:00",
+    "content_hash": "e3f0dde966f8a5e2d30c44b4e914b3b6",
+    "unique_id": "f0bbc2bda4edaf00"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/bluetongue-latest-situation",
+    "title": "Bluetongue: latest situation",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:15.565673+00:00",
+    "content_hash": "52a7bc134ac988dab275ade52230907d",
+    "unique_id": "a320cad2d0769eeb"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/were-hiring-looking-for-scientific-experts-for-high-profile-roles",
+    "title": "We’re hiring – looking for scientific experts for high-profile roles",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:18.970460+00:00",
+    "content_hash": "0d2b397433ece8dbd9330c95fa423525",
+    "unique_id": "3c91311cf266d29f"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/tra-initiates-first-absorption-review",
+    "title": "TRA initiates first absorption review",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:21.000555+00:00",
+    "content_hash": "89ac471360152287ae10cd3f341b4ddb",
+    "unique_id": "a74daf6fbc295c87"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/hundreds-of-best-start-family-hubs-open-nationwide",
+    "title": "Hundreds of Best Start Family Hubs open nationwide",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:24.588067+00:00",
+    "content_hash": "6301ef9fa3ca97a69fbc5a427aabeeee",
+    "unique_id": "3e4ed832f5d78ee3"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/major-breakthrough-in-improvised-insurance-products-for-female-sports-stars",
+    "title": "Major breakthrough in improved insurance products for female sports stars",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T02:46:28.046463+00:00",
+    "content_hash": "6c4babd414b42361d9eb1bf74eab9062",
+    "unique_id": "9a825dbb639d2e8b"
+  },
+  {
+    "url": "https://www.gov.uk/government/news/grave-of-officer-missing-since-1940-identified-in-france",
+    "title": "Grave of officer missing since 1940 identified in France",
+    "date": "2026-03-30",
+    "source": "GOV.UK",
+    "scraped_at": "2026-03-31T06:39:15.135572+00:00",
+    "content_hash": "0f30cd260ee4683e169bc476a91b6756",
+    "unique_id": "644bb08498b6028c"
+  },
+  {
     "url": "https://www.gov.uk/government/news/time-to-pay-up-government-unveils-toughest-crackdown-on-late-payments-in-over-25-years",
     "title": "Time to Pay Up: Government unveils toughest crackdown on late payments in over 25 years",
     "date": "2026-03-24",

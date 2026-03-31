@@ -113,7 +113,7 @@ async def run_all() -> None:
             await asyncio.sleep(3)
 
     # ── Save summary report ───────────────────────────────────
-    report_path = save_summary_report(summary)
+    # Removed saving summary report to avoid writing to summary_report.md
 
     # ── Final summary table ───────────────────────────────────
     elapsed = int((datetime.now(timezone.utc) - start_time).total_seconds())
@@ -142,11 +142,11 @@ async def run_all() -> None:
     print("  " + "-" * 46)
     print(f"  {'TOTAL':<14}  {total_saved:>7}  {total_skipped:>9}  {total_errors:>7}")
     print("=" * 62)
-    print(f"  ⏱  Elapsed    : {elapsed}s")
-    print(f"  📄 Summary    : {report_path}")
-    print("  📁 Markdown   : data/markdown/")
-    print("  🗂  Index      : data/processed/")
-    print("  📋 Checkpoints: data/processed/checkpoints.json")
+    print(f"    Elapsed    : {elapsed}s")
+    print(f"   Summary    : Not saved (disabled)")
+    print("   Markdown   : data/markdown/")
+    print("    Index      : data/processed/")
+    print("   Checkpoints: data/processed/checkpoints.json")
     print("=" * 62)
     print()
 

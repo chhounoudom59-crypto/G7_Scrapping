@@ -250,5 +250,59 @@
     "scraped_at": "2026-03-24T02:39:09.636062+00:00",
     "content_hash": "7027ee26807c873403c86206b764773f",
     "unique_id": "72c9bd3c97c9788f"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/proche-et-moyen-orient-le-gouvernement-appelle-a-l-unite-pour-defendre-les-interets-de-la-france",
+    "title": "Near and Middle East: the Government calls for unity to defend France’s interests",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-31T02:54:03.301699+00:00",
+    "content_hash": "c9db3e5c219845348d9e6ab6ed3c3f37",
+    "unique_id": "b5b8c531307cebe2"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/reunion-sur-les-finances-publiques",
+    "title": "Meeting on public finances",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-31T02:54:45.994181+00:00",
+    "content_hash": "7086e885f7644b2db7c6b24e9c231c82",
+    "unique_id": "fb126525930bd472"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/crise-energetique-envoi-anticipe-du-cheque-energie-2026",
+    "title": "Energy crisis: early sending of the 2026 energy check",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-31T02:55:19.537118+00:00",
+    "content_hash": "29342ee2fe5ae8c41821efd91e37e1cd",
+    "unique_id": "949cb7ae837454ba"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/hommage-national-a-lionel-jospin",
+    "title": "National tribute to Lionel Jospin",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-31T02:55:56.875113+00:00",
+    "content_hash": "c394afff527cd27e2c608b49c29f339a",
+    "unique_id": "bbb961753bcccdca"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/ce-qui-change-en-avril-2026",
+    "title": "What changes in April 2026",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-31T02:56:26.589853+00:00",
+    "content_hash": "805a56e4ff968e4edf7902c6f8c0db8f",
+    "unique_id": "633dae3f30a6818b"
+  },
+  {
+    "url": "https://www.gouvernement.fr/actualite/heure-d-ete-cinq-informations-cles-a-savoir",
+    "title": "Summer time: five key things to know",
+    "date": "",
+    "source": "Gouvernement.fr",
+    "scraped_at": "2026-03-31T02:56:55.861207+00:00",
+    "content_hash": "2fdee6ba84bcd457cd0611e7584e3387",
+    "unique_id": "79163b30226d22bd"
   }
 ]

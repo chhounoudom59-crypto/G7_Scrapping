@@ -15115,3 +15115,798 @@ See all articles
 
 ---
 
+### Near and Middle East: the Government calls for unity to defend France’s interests
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/proche-et-moyen-orient-le-gouvernement-appelle-a-l-unite-pour-defendre-les-interets-de-la-france
+- **Published Date:** 
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 5041
+- **Unique ID:** `b5b8c531307cebe2`
+
+#### Content:
+
+Near and Middle East: the Government calls for unity to defend France’s interests
+Published on March 25, 2026
+, modified on March 26, 2026
+VIDEO. On Wednesday March 25, 2026, the Prime Minister spoke before the National Assembly on the situation in the Near and Middle East, in accordance with article 50-1 of the Constitution.
+Illustrative image -
+Source: Government Information Service
+The Prime Minister, Sébastien Lecornu, spoke to deputies on March 25, 2026 to take stock of the situation in the Near and Middle East. He called for unity to defend France's interests in the context of this crisis.
+As part of the application of article 50-1 of the Constitution, this declaration is followed by a debate in the National Assembly.
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government
+Speech by Prime Minister Sébastien Lecornu to the National Assembly on the situation in the Middle East
+Transcription
+Enlarge
+Close
+Transcription
+Sébastien LECORNU
+Thank you very much, Madam President of the National Assembly.
+Ladies and Gentlemen, Mr. Chairman of the Foreign Affairs Committee, Mr. Chairman of the Defense Committee, first of all, I want to pay tribute once again to Major Arnaud FRION, who died for France in Iraq, as well as to our soldiers injured in the accomplishment of their mission. I want to express to his family, his loved ones, his brothers in arms, the solidarity of the entire nation and its recognition. This tribute is not a preamble, it already says the essential in many respects. Because what is playing out today in the Near and Middle East is not a distant crisis.
+This is not another crisis. It is a war that is spreading, which hits civilian infrastructure, which threatens maritime security and which permanently destabilizes an entire region and which can go as far as a form, as we know, we fear, of globalization. It would be easy, at such a moment, to give up, to settle for a form of discouragement and to paint the future in black. Easy to describe a world given over to brute force, to the law of the strongest, to the domination of power relations. Easy to say humanity is ever more dependent on the curses of black gold. That would be true, but it would be insufficient, because the role of the Government is not to comment on the chaos of the world, it is to act. To act to protect the French, to act to defend the interests of the nation, to act with our partners, and to assume before you and with you the particularly complex consequences that this new situation imposes on our country.
+Because yes, this crisis concerns us directly. It concerns us through the hundreds of thousands of French people present in the region. It concerns us through our deployed forces. It concerns us through our strategic partners with whom we have common interests. It concerns us through the fight against terrorism and against nuclear proliferation. It concerns us through freedom of navigation. Finally, it obviously concerns us through energy, therefore through our economy and through the purchasing power of the French.
+It therefore deeply questions our dependencies. And from this reality arise two immediate and concrete consequences for France which I want to detail before you during this debate. The first is naturally, Madam Minister, military. The second is energetic.
+The first consequence is military because France is historically present in the region, because it acts, because it must assume its global responsibilities. Today, more than 5,000 soldiers, sailors and airmen are engaged in the Near and Middle East. In southern Lebanon, 700 French soldiers are involved in the UNIFIL peacekeeping operation. We are also present in Iraq and Jordan with Operation Chammal to fight Daesh and train our partners. We have defense agreements with Qatar, Kuwait and the United Arab Emirates. In the latter country, 1,000 soldiers are deployed within a cuirassier regiment, a naval base and an air base.
+From the start of the crisis, air capabilities and ground-to-air defense assets were sent as reinforcements. They contributed to the protection of the Emirates' airspace. Finally, the National Navy
+
+involves a large volume of buildings, structured around the Charles de Gaulle naval air group, frigates and amphibious helicopter doors. They are deployed in the Eastern Mediterranean, the Red Sea and the Indian Ocean. They provide intelligence, surveillance and protection missions at sea and in the air, that is to say reassurance for the benefit of our allies and partners in the region.
+France is a reliable partner, our armies are reactive, and few armies are capable of deploying as quickly as ours. France did it, and if France is listened to, it is because it is there, and very often, we end up only listening to those who are there. This choice makes sense, but it also clearly has a price.
+And this is precisely why we must draw all the consequences. I would like to thank Parliament for adopting the Military Programming Law three years ago. Between 2017 and 2027, the budget of our armies will have doubled. It's not a detail, it's a strategic choice and it's structuring. But today this choice must be amplified. The war in the Near and Middle East, like that in Ukraine, shows us a simple thing, the return of medium- and high-intensity conflicts and with it the return of demands for mass, agility, speed and endurance, but also technological leaps as brutal as they are essential, without forgetting the support and preparation functions of the forces which unfortunately bore the brunt of the decisions taken in the 2000s.
+Ladies and Gentlemen, we must speed up the examination of the Military Programming Law and its updating. This is why it will be updated from April under the authority of the minister. It will be presented to the Council of Ministers on April 8 and entered the week of May 4 in the National Assembly and June 1 in the Senate. I thank the parliamentarians for accepting this acceleration and this modification, Mr. President Jean-Michel JACQUES, of the timetable, but you know, more than anyone else as yourself, a veteran, we cannot wait. The emergency is obviously the ammunition. We plan to invest an additional 8.5 billion euros in orders between 2026 and 2030, which are added to the 16 billion euros of the LPM voted in 2023. It is essential and I want everyone to realize it, it is colossal. In total, it is as if the annual budget of the armies, at the beginning of the 2000s, had been exclusively devoted to the purchase of only ammunition. This updated military programming law will have devoted four times more financial effort to munitions than the previous law. The effort will also focus on ground-air defense, with the best defense system in the world, on early warning, on drones, and in particular the fight against drones, including interceptor drones and remotely operated munitions, which must finally be able to be produced en masse and at controlled costs.
+Because, ladies and gentlemen, we must now review our models more thoroughly. When a drone costing a few thousand euros mobilizes a missile costing several million, our entire concept of weaponry must be rethought. This is one of the lessons of this war, as for Ukraine. Several innovative French companies are now able to produce interceptor drones. I will inaugurate with Minister Catherine VAUTRIN in Essonne, in the coming weeks, a new production factory from which thousands of drones will be produced per month. This is one of the effects of the decisions we have taken, and I thank you for it. Quantity and quality, cost and efficiency, innovation and speed, saturation ammunition, but also precision and therefore decision-making ammunition. It is a military issue, it is also an industrial issue and therefore an issue of independence and therefore of freedom.
+And this priority calls, ladies and gentlemen, for new urgent investments, decided and proposed by the Government. First, to help the transformation of our civil industry, with a new dual industry plan of 300 million euros. To relocate production lines for critical components useful for national defense, to modernize others and to help civilian industries invest in defense innovation, manufacturers are taking risks
+
+for the defense of the country. So the state must help them more. Ministers will present precisely this plan in the coming days. Then, with the imminent creation of the France Munitions platform, which will be a unique ammunition wholesaler to meet the needs of the French armies but also of our allies and of course our many export customers. It will make it possible to consolidate orders to manufacturers, thus finally accelerating the transformation of industrial production tools and ultimately therefore increasing the production of munitions in France. It's essential. Financing will have to be provided both by the State, but also by private money, private investors, because they also now have a clear responsibility, identified in the rearmament effort.
+Other measures will be presented by the Ministers of the Economy and the Armed Forces tomorrow. This is the first time, I emphasize, in a very long time, that civil ministries have mobilized around the Ministry of the Armed Forces. It was one of the conditions for success, we finally got there. This effort will also involve European mobilization. Because if defense is a matter of independence, and therefore falls, I repeat, within the competence of States alone, it would also be absurd to have, in a common market, not to organize between European States a much more coherent industrial and financial strategy.
+The European Defense Industrial and Technological Base is a necessity, we know that. It is also above all an opportunity for France, because our industries must be more offensive towards our immediate neighbors. There is no inevitability and they must therefore adopt their strategy. So why do these decisions matter today? Because if France is present in the Mediterranean, in the Gulf, in Lebanon, in Djibouti, in Romania, in the Baltic, it is because decisions were taken yesterday or the day before yesterday by our elders. We never just decide for today, we decide for tomorrow's crises. We never decide for the time of crisis management, in the short term or for a war, but for the following ones in the long term.
+Basically, the conclusion is simple. If we want to be independent in accordance with the Gaullist heritage maintained since then by all the Presidents of the Republic, we must be capable of defending ourselves. And if we want to be able to defend ourselves, we must invest even more for now, but also for tomorrow.
+But, ladies and gentlemen, this response cannot only be budgetary. It is also organizational, it is also legal, it is also national and therefore political, intellectual and cultural. Because the reality of contemporary crises is clear. They are fast, hybrid, unpredictable. They combine the military, the economic, the cyber, the information, the energy. They target our interests, but also our collective capacities to react. They accumulate more than they follow one another. Faced with this, the State must be ready, prepare, and update itself.
+This is the meaning of the new state of national security alert regime that we will propose to you in the military programming law. A new framework which will allow, in the event of a threat and when circumstances require it, to temporarily adapt our rules to accelerate decisions, simplify procedures, and remove the blockages which currently slow down the conduct of our strategic projects. This is the meaning of other measures that will be proposed to you by the Government on the fight against drones, the management of strategic stocks or reserves for which we will continue our efforts. Because it would not be acceptable if, faced with an imminent threat, the nation was hampered by its own slowness. Our competitors do not impose these constraints on themselves. We cannot be the only ones to impose them on ourselves when our security is at stake. It is certainly not a question of calling into question the rule of law, it is quite simply a question of giving it, finally, the means to be effective in times of crisis. This applies to the production of munitions, it applies to industrial defense programs, it also applies to the mobilization of our civil and military capabilities. Basically, it is the same requirement: adapting a
+
+state designed for peacetime to a world which is no longer quite so.
+The update of military programming will therefore not only be budgetary. It will draw deeper conclusions about our organization to adapt to current and future crises and by confronting the military state more than ever with its civilian component.
+Ladies and Gentlemen, the second consequence is obviously energetic, as much as it constitutes our independence, like military subjects. Because the first effect of this war, for the French, is obviously, incontestably, the price of energy. But, to fully understand what is happening, we must put the precise words, restore order and clarity to what is happening. First, we are facing a crisis of price volatility. A volatility linked to the unpredictability of the actors in this conflict, including among our own allies. Volatility linked to uncertainty over its duration. Volatility, finally, fueled by speculative behavior which amplifies market movements and de facto imports inflation from outside.
+But ultimately, this crisis is above all, and for the moment, a traffic crisis. Because what is at stake today are maritime routes, it is the freedom of tankers, it is flows. The Strait of Hormuz, through which an essential part of the world's oil and gas passes, is more than under tension, as you know. Yesterday's statements by Iran on the passage of non-hostile ships is now possible, I quote, is perhaps a sign of a change of phase in this crisis. We must of course remain vigilant, cautious, to say the least. The most contradictory declarations have been coming together almost without pause for three weeks, fueling, once again, this price volatility. And we must do everything so that this circulation crisis does not become a production crisis. Because if energy infrastructure were to be lastingly hit in the region, in both a vertical and horizontal escalation, as we have seen over the last 48 hours, then we would change the nature of the crisis. We would fall into a deeper, more systemic, more lasting crisis, much more difficult to control.
+But, I want to be very clear to the national representation, there is no risk of shortage for our country today. Our supplies are secure, our oil stocks can be mobilized, our system is holding up. We are not in the same situation as in 2022 or 2023 where we were dependent on Russia. And our nuclear fleet is in a much higher efficiency situation compared to the year 2022.
+We are facing, ladies and gentlemen, a problem of energy costs, not a problem of access to energy. And it is precisely in this area that the Government directs and adapts its action under the authority of the ministers concerned. This is and it obviously acts downstream, where the French are directly experiencing the effects of the crisis. We have worked closely with distributors to control margins and avoid any windfall effect. We have tools of coercion, but dialogue has been favored since the start of the crisis, and it must be recognized and emphasized that it has produced results.
+But, I say it with the same clarity as at the start of the crisis, I want to lay down a simple principle: prices cannot rise very quickly when the markets are racing and fall much more slowly when they relax. It's a question of respect for the consumer. We will enforce this principle. And the DGCCRF agents were fully mobilized. The controls, you know, are massive, as much as we would like, but in any case, I repeat, they have produced effects. And we will not hesitate to use all the tools at our disposal if necessary. But we also act on the production and processing chain. This is the meaning of the decision which was taken at the start of the week to allow the Gravenchon refinery to increase its capacities. Because in a crisis like this, every link counts, supply of course, refining and distribution.
+I also want to get rid of a lead straight away without being polemical. No general check, no global measure
+
+blindly will not be effective in the current crisis. This has been attempted in the past, it is very costly for public finances. And behind a check, very quickly there is generally a tax or a very serious repercussion for public deficits. For those sometimes eager to imitate what our European neighbors are doing without looking at what they are really doing in detail, I would like to remind you that Italy has canceled credits from the Ministry of National Education, the Interior and Health to finance these recent measures to restore egg-laying. This is also a lesson that we collectively learned from the budgetary debates this fall and I remind you that we cannot here emphasize the singularity of our energy model and compare ourselves with neighboring countries which depend much more than us on the Gulf countries and particularly on gas coming from Qatar to Italy.
+Many proposals were made to lower the cost of energy and once again, I return to them without polemical spirit to enlighten the public debate as the spirit of this debate requires. Some want to reduce VAT on energy. Other countries have tried it, notably, as you know, Poland in February 2022. In the end, the VAT was captured by the intermediary players and the price at the pump did not change. Worse, feedback showed that when VAT was reinstated, prices increased because intermediaries subsequently retained their margin. The reduction in VAT is an ineffective measure, but also ruinous for public finances, as well as for consumers. Others propose, as we heard yesterday during questions to the Government, to return to the floating tax on energy products, better known by the acronym TIPP. I would like to point out that this experiment cost public finances 2.7 billion euros, for an average effect of only 2 euro cents per liter. The effectiveness of such a maneuver is therefore objectively and rationally almost zero. The Court of Auditors then estimated that this measure had generated a loss of 600 million euros in 2004, for a simple reason: when the price increases, the quantities sold decrease.
+Once again, I hope that the political class as a whole, our opponents as well as our supporters, without polemical spirit, take into account past experiences and feedback as they have been drawn up by the best experts.
+However, there is no question of abandoning the actors, the French men and women most exposed. Fishermen, directly affected by the increase in fuel prices, are the subject of initial emergency measures with cash flow arrangements, deadline extensions and increased support. But we know that this will not be enough. I asked the minister to go further. The European Commission was contacted today and the Council on Monday should allow progress to be made, particularly on direct aid measures that have so far been prohibited. Farmers faced not only with rising fuel prices, but therefore
+de facto
+to the rise in fertilizer prices, are also supported. And beyond the emergency, we are preparing a fertilizer plan to reduce our dependence and strengthen our agricultural independence. This plan aims to finally limit, if I dare say, the need for fertilizer input, in particular optimization of quantities, to substitute as much as possible organic inputs in relation to mineral fertilizers and to produce carbon-free mineral fertilizers in France.
+We must admit that we are far too late. This crisis can allow us to catch up. Other sectors are also affected. I am thinking in particular of self-employed health professionals and industrial sectors such as chemistry, which are highly exposed to the cost of energy. Other sectors, which I am not mentioning here, since we did so earlier during questions to the Government, are obviously concerned. Announcements have been made, but I say, more will come. Because in a crisis of this nature, we must know how to constantly adapt our responses. It is obvious that the crisis will evolve day by day. We will have to be very flexible, very adaptable. I therefore asked all ministers to prepare for all scenarios, including the most difficult and serious.
+But, at the same time, we must also put an end to a misconception:
+
+no, the State is not profiting from the crisis. Déjà, car l'État, c'est la nation tout entière, ce qui pourrait être perçu comme un gain d'un côté, et on le sait tous, compensé par une perte ailleurs, soutien aux filières, dépenses publiques supplémentaires, impact sur l'activité économique, dont la baisse de la consommation et diminution des rentrées fiscales. D'ailleurs, Monsieur le ministre de l'Économie et des Finances, les prévisions de l'INSEE publiées hier tablent sur un ralentissement de la croissance de 0,3 % à 0,2 % sur les deux premiers trimestres. Finally, and here too, you know it, but it is useful to remember it, the crisis is driving up sovereign interest rates. It is already becoming more expensive for France to borrow to finance its debt. The French debt footprint rate has increased by 15% since February 27.
+This is why we will make a simple commitment: total transparency in this matter. Elle permettra de répondre aux questions, de dissiper les doutes, d'entraver les fantasmes ou les mensonges qui nuisent au consentement à l'impôt et portent atteinte, je le dis clairement, au patriotisme. Because the only beneficiaries of this crisis are the countries producing fossil fuels on which we are still too dependent today. Et celles et ceux qui pointent du doigt l'État sont les mêmes qui parfois, il y a seulement 3 semaines, refusaient la décarbonation de notre modèle énergétique.
+That being said, Parliament, Madam President of the National Assembly, will therefore be fully involved. Une première restitution interviendra dès le mois d'avril, et chacun pourra juger sur pièce de la réalité des effets budgétaires de cette crise sur le terrain économique, mais aussi sur le terrain budgétaire et fiscal. But I also say it clearly, everyone will have to share the constraint. Because things are never as simple as they are sometimes presented by some, especially between two electoral campaigns. But beyond immediate management, this crisis, as I said, reminds us of a deeper reality. Our dependence on fossil fuels remains too great. And this is why the answer cannot be solely cyclical. And perhaps more than usual, it must be strategic and long-term. Because unfortunately, the two wars we are experiencing are only the beginning of new disruptions.
+The world we knew before 2022 has unfortunately, I believe, come to an end. And we must accelerate the structural transformation of our economy and our uses.
+For years, France has made a clear choice: nuclear power and renewable energies, both. Parce qu'il nous faut une électricité abondante, parce qu'il nous faut une électricité décarbonée, parce qu'il nous faut une électricité souveraine. The multi-annual energy program is part of this logic. It must be held, it must be accelerated. Yesterday, a crisis of this nature would have immediately brought our economy to the ground. The war in Ukraine has already shown this. Many believed that Europe could not do without Russian gas. Yet she did it. For what ? Because there was anticipation, because there was coordination, because there was solidarity. La leçon est claire, seule l'indépendance énergétique protège durablement et les déclarations américaines de cette nuit nous renforcent dans cette conviction et nous incitent à aller plus loin et plus vite. Decarbonization is not only a climate requirement, it is a requirement for independence, and therefore, freedom. Every French person can see this at the pump. Produire davantage chez nous, électrifier nos usages, réduire nos dépendances, tirer les leçons de la crise, c'est investir utilement l'argent des Français pour les protéger et certainement pas de dépenser de l'argent du contribuable pour financer l'économie fossile de pays lointains dont nous sommes dépendants. It means stopping suffering this crisis, nor the following ones, because, ladies and gentlemen, we know, there will be others.
+Comme je les ai annoncés à la publication de la PPE, il y aura un plan d'électrification des usages afin de diminuer nos dépendances aux hydrocarbures. Dans le logement, dans la mobilité, dans l'industrie ou l'artisanat, un plan sera présenté dès la semaine prochaine pour décarboner la mobilité des particuliers, des artisans, des professionnels, ou encore pour réduire la dépendance aux hydrocarbures de certaines filières. Basically, it is
+
+t toujours la même logique : tirer de chaque crise, non pas seulement des mesures d'urgence de court terme, mais des décisions enfin durables et structurelles. Because again, we don't just decide for today, we decide for tomorrow's crises.
+Mesdames et Messieurs les députés, agir ici tout de suite avec des mesures d'urgence, agir ici tout de suite pour demain avec les mesures qui anticipent les crises du pétrole à venir et qui seront à répétition, agir là-bas, à la source, au Proche et Moyen-Orient, pour protéger nos ressortissants, nos intérêts et nos valeurs. Faced with this situation, France is not a spectator. France is a responsible power, and as such, it is acting. It acts diplomatically, Minister for Europe and Foreign Affairs, by allowing de-escalation scenarios. She acts on the United Nations Security Council. It acts with its European partners who have displayed a common position, which has not always been easy in recent years. She acts as president of the G7. It acts on the ground, alongside its partners and allies. Et surtout, elle propose : l'arrêt des frappes, notamment contre les infrastructures civiles, une solution diplomatique globale, la cessation des hostilités au Liban, le respect de son indépendance et de son intégrité territoriale, le renforcement de l'armée libanaise, une solution politique.
+I want to salute the courageous decisions, particularly taken by the Lebanese authorities in recent days. They are, ladies and gentlemen, historic. The delegate minister will have the opportunity to go there. In any case, once this war is over, we will have to ask ourselves the question of the international presence in Lebanon. Et lorsque les conditions seront réunies, la mise en place d'une mission internationale destinée à garantir la liberté de navigation dans le détroit d'Ormuz, dans une logique de protection comme nous avons su le faire avec notre marine nationale en mer Rouge.
+But I want to be clear, France is not a party to the conflict. It will not participate in war operations to open this strait by force. She will not allow herself to be drawn into a war she did not choose.
+[Applause].
+Mais elle est prête à prendre ses responsabilités pour sécuriser les routes maritimes dans le cadre du droit international et avec ses partenaires car c'est son rôle de membre permanent du Conseil de sécurité et de grande puissance maritime mondiale.
+Finally, I want to say a word, and to conclude, about our nationals. Nearly 400,000 French people are present in the region, residents or visitors. Le Quai d'Orsay, Monsieur le ministre, nos ambassades, nos consulats sont pleinement mobilisés pour les protéger et les accompagner, les aider à revenir en France. Many flights have been chartered for their return to France, others are still planned. Our consular agents have been mobilized since the start of the crisis and will continue to be until it ends. Je veux les en remercier chaleureusement et publiquement pour le travail admirable qu'ils ont rempli dans une des crises les plus difficiles de ces dernières années.
+[Applause].
+Ladies and Gentlemen, basically, this crisis poses a simple question. Le monde peut-il encore être organisé autour de la sécurité collective, du multilatéralisme, et quelles sont les nations encore capables de les défendre ? Je le crois, et c'est une permanence française depuis de nombreuses décennies, la France en est une, parce qu'elle a une politique de défense, parce qu'elle a une politique étrangère, parce qu'elle a une politique énergétique, parce qu'elle a une politique de partenariat qui refuse l'alignement systématique, c'est le moins que l'on puisse dire, parce qu'elle veut agir concrètement là où d'autres pays se condamnent, malheureusement, parmi nos voisins, à commenter.
+To use the words of the President of the Republic: “to be free, you must be powerful”. It is up to us to continue collectively, and whatever our political sensitivities, to draw all the consequences for France.
+I thank you for that.
+[Applause]
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+International
+›
+Foreign policy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend
+
+s not to include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 5 + 7
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+Catherine Vautrin
+Jean-Noel Barrot
+On the same theme
+Iran - Israel - Palestinian Territories: advice for French nationals
+News
+                                                    · Foreign policy
+France secures its supplies of minerals and metals
+News
+                                                    · Politique étrangère
+United Kingdom: new electronic travel authorization
+News
+                                                    · Foreign policy
+Armenian Genocide Commemoration Ceremony
+News
+                                                    · Foreign policy
+Also read
+Meeting on public finances
+News ·
+                         Public finances
+Published on March 27, 2026
+What changes in April 2026
+News ·
+                         Daily life
+Published on March 24, 2026
+3133 to report abuse towards a vulnerable adult
+News ·
+                         Elderly
+Published on March 24, 2026
+Tribute to Lionel Jospin
+News ·
+                         Government
+Published on March 23, 2026
+Voir tous les articles
+
+---
+
+### Meeting on public finances
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/reunion-sur-les-finances-publiques
+- **Published Date:** 
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 2454
+- **Unique ID:** `fb126525930bd472`
+
+#### Content:
+
+Meeting on public finances
+Published on March 27, 2026
+, modified yesterday at 3:04 p.m.
+VIDEO. The Prime Minister, Sébastien Lecornu, spoke on March 27, 2026 on the state of public finances during a meeting of ministers in Bercy.
+Illustrative image -
+Source: Government Information Service
+The Prime Minister praised the work accomplished by the Government to ensure a public deficit lower than expected, due to government stability.
+He also recalled that the budgetary trajectory must be maintained “
+to take into account the geopolitical context and therefore its macroeconomic impacts”.
+Maintaining prudence and the solidity of these forecasts seems absolutely key to me (...). Political stability mechanically creates revenue (...). And this evening, the ministers will be asked to speak on sector support measures.
+Sébastien Lecornu
+Bercy, March 27, 2026
+YouTube is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+Source: Government Information Service
+Introductory remarks by Sébastien Lecornu, Prime Minister, at a meeting in Bercy on public finances.
+Transcription
+Enlarge
+Close
+Transcription
+Sébastien LECORNU
+Ladies and Gentlemen Ministers,
+Ladies and Gentlemen Directors,
+Thank you for making yourself available for this meeting, which was actually planned for a long time, but which is combined with the release of INSEE this morning on the balance of the public deficit for last year. We'll come back to that in a moment. This is one of the elements of context, obviously, of this meeting. And I thank Fabrice LENGLART, the Director General of INSEE and the teams for the important work that has been accomplished in recent days to finalize, obviously, the target.
+This meeting was initially called, obviously, to take into account the geopolitical context and therefore its macroeconomic impacts. We will say that what is happening in the Middle East, obviously, is more worrying, I will not return to that, I have spoken on numerous occasions this week in the National Assembly and the Senate.
+Finally, above all, we have crises which follow one another, but which accumulate at the same time, since all of this, obviously, does not rule out our Ukrainian drama. All this does not crush the debate on customs duties either, another subject that we have to know and have had to know, obviously, throughout the year 2025. And therefore, obviously, the contextual elements weigh heavily on the outlook for public finances. And obviously the lack of a majority in the National Assembly creates some additional constraints. Just perhaps to react on 2025, and having had, with successive ministers, the honor of directing, of piloting this affair, in any case for the end of the year, September to December, and through this figure, I also want to have a thought for François BAYROU and for all the ministers who preceded us.
+Basically, how do we achieve this result and what are the ingredients? In a somewhat principled way, I think it's obviously interesting. We experienced “whatever it takes”. I believe that we can say that transparent control of public finances must be done whatever happens from now on. And the “whatever happens” has enormous value because last year has already been marked by shock bumps.
+I was talking about customs duties. Remember the impact this had in a big way. And basically, dialogue within ministries, between ministries, and I will come back to this, with social security and the world of local authorities, this transparent management is absolutely key. And I clearly saw that, on the monthly statements of September, October, November, December, for what I had to know, that this transparency is absolutely key.
+So, I obviously suggest that we don't change our method. We've already been doing this since January, but it's absolutely obvious. The second thing, and I thank you for this, Mr. Minister of the Economy and Finance, with your teams, and the teams, obviously, of the Minister of the Budget, is that the initial forecasts are cautious, initially cautious. That doesn't mean they're hard, it doesn't mean they're frugal, it doesn't mean they're fake, it means we do everything to make them happy.
+
+are true and just. And since there's not a lot of good news out there, I think these cautious baselines are absolutely essential. And at the risk of having a good surprise like this morning, these are good surprises that must be put into perspective when we are still at a 5.1% deficit, no reason to be satisfied or to congratulate ourselves.
+In any case, if this morning INSEE had told us that the deficit was not at 5.4 but at 5.5 or 5.6, I have no doubt of the reactions on the financial markets, also on the news channels or, in any case, in the political world. Maintaining caution and solidity in these forecasts seems absolutely key to me.
+And the third point, I say it without overdoing it but it must still be emphasized, political stability mechanically creates revenue, that's it. I believe that when we look closely at the way in which the figure is constructed over the whole of 2025, we also saw it clearly on the
+spreads
+with the different moments in which the motions of censure could be tabled and others, at a given moment, and moreover we felt it ourselves in the life of the country, the fact that the boat was leaving again and that things were working again, recreated perspectives which obviously allowed us to have revenues coming in
+.
+So that’s key. So, I think that the trio controls spending in transparency whatever happens, whatever the internal or external crises and to that a sincerity in the initial forecasts and, obviously, the question of stability, leads us in my opinion to be able to explain why this morning it is 5.1% deficit and not 5.4%.
+Now, obviously, I wanted this meeting. Thank you for welcoming me to Bercy. It's a way to also support the teams, because I don't like Bercy very much-
+bashing
+that we can hear here or there, because at the end of the day, there are parliamentarians who vote or not on finance laws or financing laws for social security. There are ministers who endorse, so the public service, by definition, does its job. Perhaps we need to remind ourselves of this at times when some want to call into question, and you recalled this this morning, Minister, the probity, the very quality of those who provide public service in local authorities. And so I wanted to say it anyway in passing.
+For 2025-2026, the transition from 2025 to 2026, this meeting will allow us to document a little the possible macroeconomic impact, well, possible, the macroeconomic impact of what is happening in the Near and Middle East, and possibly, depending on the scenarios, the sustained, more sustained intensity, or sustainability, obviously, of this crisis. And it will be interesting, obviously, to compare it with what our intelligence services do elsewhere.
+2) to take stock of the first quarter, because we are at the end of the first quarter, and therefore already starting to give ourselves some visibility points. And I would obviously like us to refine safety piloting. I think the Minister of Health and the Minister of Solidarity are here. We already had a meeting a few days ago. On sick leave, we can clearly see that there we have a macro aggregate. I am not talking about individual situations, obviously, of French people who are affected by the disease. Finally, at macro level, we have a very worrying drift in the budgetary area of ​​sick leave. This is one of the points, if we deal with them too late in the year, we will not be able to have possible, useful and effective action. So these are obviously points to which I want to come back.
+Then the local authorities, according to the work of Françoise GATEL, municipal, senatorial elections. We must be clear, we have clearly spared local authorities and particularly municipalities. It’s a choice that was made. So, we still have a trend that continues to increase for local authorities. So, that obviously also requires planning, because that basically means that it is the State which makes most of the savings. We did it hard on social security, but within the limits of the political perimeter that we knew about the PLFSS vote. Local authorities, in conjunction with our friends in the Senate, we were very careful to ensure that they were not solicited. Which, moreover, for
+
+our current energy crisis affairs will also help protect communities, despite what some have said in recent days.
+But anyway, that also means that the State agrees, in any case we wouldn't get 5.1 this morning if the State didn't make a lot of savings. And that is also one of the points where it still has to be said clearly, because there is fat in certain places, but in other places, to know a certain number of ministries well, we are already at the end of what we can ask for. So that raises the question, and David AMIEL has started to do it, of how we build the finance bill for 2027, how we manage this matter upstream, and that is obviously for me an absolutely key subject in this morning's meeting to give ourselves visibility and seek ways of compromise, of discussion, in transparency obviously with Parliament.
+Last point, all of this is worthless if at the same time we don't make some structural reforms along the way. Some are being prepared for local authorities, others came out of the council of ministers this week, linked in particular to discussions between social partners. I think very strongly about unemployment insurance, and congratulations to the ministers for the dialogue and the fluidity with which all this is permitted. I just remind you anyway, because things need to be said, the suspension of the pension reform was also done to allow a social dialogue which had been completely blocked for two or three years now, two or three years, to start again. Well, unemployment insurance, in a cruising year, is practically 900 million euros in savings. It’s structural, the financial markets see it.
+These aren't the big nights that some people are hoping for, but that's a good thing, for the big nights, there's a presidential election. In any case, for the moment, we clearly see that we are capable of delivering. Next week, Parliament takes up the text in which I strongly believe, on social and tax fraud, in which there are billions of potential euros to be collected, again, at cruising speed. All of these are structural reforms, so we must also be able to manage them, in parallel, basically, with the budgetary construction for next year.
+That being said, the ministers will speak this evening on more energy-related subjects. I have already seen, here and there, some people saying that there would be a prize pool, etc. No, when we have a 5.1% deficit, there is no kitty. So we have already had some absolutely staggering lies saying that the State would enrich itself thanks to an energy crisis. It would be the first time in history. So I say: no. I think we spent our week explaining it. Now, we will have the same people, perhaps moreover, or not always, well in any case their cousins, explaining to us that because we are at a 5.1% deficit, there is room for maneuver. Well, this is all completely astonishing. Finally, we are more used to dealing with a political debate which is a bit astonishing. Which, moreover, can also explain why public finances are where they are, because those who sometimes lectured us on the deficit last fall are the first this week to ask us for blind checks, etc. And sometimes not necessarily in the political groups that one might expect. So I want us to keep this management whatever happens. And this evening, the ministers will be asked to speak on sector support measures which have been designed to be in fact support plans for activity. Certainly not things that are completely unrealistic or that would not be effective.
+Basically, it's about talking about certain sectors: fishermen, farmers, transporters, sometimes in particular geographical areas, insularity, Corsica or overseas, basically how do we ensure that the activity does not stop? And I think that this is also one of the lessons of the work that has been done for 2025. It is also the activity and the growth that still make it possible to hold on despite everything. And so, it will be done this evening on aid, I will say it straight away, which will therefore be sectoral, which will be targeted and which will be by
+
+definition monthly renewable, but with very fine management because basically, this war can end quickly, as it can also last a long time. And so, we will have to be creative in the way we support these different sectors and go about it a little differently. So.
+In any case, thank you to everyone for the mobilization and the work accomplished. I thank the press for making this meeting possible. Thank you very much.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Public finances
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 3 - 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+Catherine Vautrin
+Roland Lescure
+Maud Bregeon
+Jean-Noel Barrot
+David Amiel
+Philippe Tabarot
+On the same theme
+Small parcel tax: how does it work?
+News
+                                                    · Public finances
+Budget 2026: the Prime Minister commits the Government to responsibility
+News
+                                                    · Public finances
+Budget 2026: Sébastien Lecornu defends a compromise budget
+News
+                                                    · Public finances
+Budget 2026: the Prime Minister details his priorities
+News
+                                                    · Public finances
+Also read
+Near and Middle East: the Government calls for unity
+News ·
+                         Foreign policy
+Published on March 25, 2026
+What changes in April 2026
+News ·
+                         Daily life
+Published on March 24, 2026
+3133 to report abuse towards a vulnerable adult
+News ·
+                         Elderly
+Published on March 24, 2026
+Tribute to Lionel Jospin
+News ·
+                         Government
+Published on March 23, 2026
+See all articles
+
+---
+
+### Energy crisis: early sending of the 2026 energy check
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/crise-energetique-envoi-anticipe-du-cheque-energie-2026
+- **Published Date:** 
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 586
+- **Unique ID:** `949cb7ae837454ba`
+
+#### Content:
+
+Energy crisis: early sending of the 2026 energy check
+Published yesterday at 7:13 p.m.
+, modified yesterday at 8:41 p.m.
+3.8 million low-income households will automatically receive the energy check from April 1, 2026. Nearly 700,000 additional households will receive it from May 1.
+Illustrative image -
+Source: AdobeStock
+Strong international tensions
+result in France, in particular, in an increase in fuel prices. To support the most modest French people, the Government announces the launch,
+from April 1, 2026
+, from the 2026 energy check campaign.
+Also read:
+Fuel: Where to find the cheapest gas station?
+The energy check has been paid every year since 2018 to several million households,
+under resource conditions
+, in order to help them pay
+their electricity, gas or fuel bills.
+This year, they are
+3.8 million households, or more than 6 million French people
+, who will be affected by this boost to purchasing power. The system has also been expanded:
+nearly 700,000 additional households
+will receive the energy check from May 1st.
+The amount of the 2026 energy check will reach
+153 euros on average per household
+, for 600 million euros mobilized from the state budget.
+X (Twitter) cards is disabled.
+Authorize the deposit of cookies to access this functionality
+Allow
+The energy check is
+sent automatically to the French people concerned
+:
+either by mail,
+or electronically, if the e-check service has been activated by the beneficiary.
+A counter is open to allow those who have not been identified to assert their rights.
+Check your eligibility for the energy check
+An immediate support plan for economic activity
+The Government is setting up a
+n immediate support plan for the activity of the most affected economic sectors
+by the energy crisis, for a total cost estimated at nearly 70 million euros for the month of April 2026.
+The support concerns:
+VSEs/SMEs in road transport,
+the fishing sector,
+the agricultural sector,
+the cash flow of companies in the most affected sectors.
+These targeted measures will be supplemented by
+actions to reduce dependence on imported hydrocarbons in the long term.
+Read the details of the measures to support the economy
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Environment
+›
+Energy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 4 + 0
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Maud Bregeon
+On the same theme
+Fuel: where to find the cheapest gas station?
+News
+                                                    · Energy
+Reopening of MaPrimeRénov’
+News
+                                                    · Energy
+PPE 3: France’s new energy roadmap
+News
+                                                    · Energy
+Time change: what you need to know about the transition to winter time
+News
+                                                    · Energy
+Also read
+National tribute to Lionel Jospin
+News ·
+                         Government
+Published yesterday
+Summer time: five key things to know
+News ·
+                         Daily life
+Published yesterday
+Meeting on public finances
+News ·
+                         Public finances
+Published on March 27, 2026
+Near and Middle East: the Government calls for unity
+News ·
+                         Foreign policy
+Published on March 25, 2026
+See all articles
+
+---
+
+### National tribute to Lionel Jospin
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/hommage-national-a-lionel-jospin
+- **Published Date:** 
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 612
+- **Unique ID:** `bbb961753bcccdca`
+
+#### Content:
+
+National tribute to Lionel Jospin
+Published yesterday at 4:34 p.m.
+, modified yesterday at 10:53 p.m.
+A national tribute was paid to Lionel Jospin on March 26, 2026.
+Illustrative image -
+Source: Matignon photographic service
+A look back at the national tribute to Lionel Jospin at Les Invalides: the speech by the President of the Republic in the presence of members of the Government.
+Enlarge the visual
+National tribute to Lionel Jospin -
+Source: Matignon photographic service_Arrival of the Prime Minister and the President of the Republic
+Enlarge the visual
+National tribute to Lionel Jospin_Arrival of the coffin -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin_Members of Government -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin_Speech by the President of the Republic -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin_Members of Government -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin_Speech by the President of the Republic -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin_Members of Government -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin -
+Source: Matignon photographic service
+Enlarge the visual
+National tribute to Lionel Jospin -
+Source: Photographic service of Matignon_Les Invalides
+Previous
+1
+on
+9
+Next
+Close
+National tribute to Lionel Jospin -
+Source: Matignon photographic service_Arrival of the Prime Minister and the President of the Republic
+Close
+National tribute to Lionel Jospin_Arrival of the coffin -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin_Members of Government -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin_Speech by the President of the Republic -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin_Members of Government -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin_Speech by the President of the Republic -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin_Members of Government -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin -
+Source: Matignon photographic service
+Close
+National tribute to Lionel Jospin -
+Source: Photographic service of Matignon_Les Invalides
+Also read
+Tribute to former Prime Minister Lionel Jospin
+The speech of the President of the Republic
+Tribute to former Prime Minister Lionel Jospin
+The biography of Lionel Jospin
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Institutions
+›
+Government
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 7 - 6
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+In this news
+Sébastien Lecornu
+On the same theme
+Tribute to Lionel Jospin
+News
+                                                    · Government
+The new composition of Sébastien Lecornu's Government
+News
+                                                    · Government
+What is a cabinet reshuffle?
+News
+                                                    · Government
+What to remember from the declaration of
+general policy of Sébastien Lecornu
+News
+                                                    · Government
+Also read
+Energy crisis: early sending of the 2026 energy check
+News ·
+                         Energy
+Published yesterday
+Summer time: five key things to know
+News ·
+                         Daily life
+Published yesterday
+Meeting on public finances
+News ·
+                         Public finances
+Published on 27 m
+
+2026
+Near and Middle East: the Government calls for unity
+News ·
+                         Foreign policy
+Published on March 25, 2026
+See all articles
+
+---
+
+### What changes in April 2026
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/ce-qui-change-en-avril-2026
+- **Published Date:** 
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 543
+- **Unique ID:** `633dae3f30a6818b`
+
+#### Content:
+
+What changes in April 2026
+Published on March 24, 2026
+Activity bonus, municipal councils, social assistance... Here is what changes in April 2026.
+What changes in April 2026 -
+Source: Government Information Service
+Municipal 2026
+Voted!
+More than 500,000 municipal councilors
+were elected in March 2026.
+They will then elect the mayor of their municipality for a period of 6 years.
+Approximately
+51,000 community advisors
+were also elected.
+Municipal 2026: the results of the second round
+The results of the second round of the 2026 municipal elections are available on the website of the Ministry of the Interior.
+News · Elections
+Published on
+                                    03/23/2026
+Read more on data.gouv.fr
+Activity bonus
+The finance law for 2026
+increases the activity bonus by 50 euros per month
+and per beneficiary, on average, from April 1.
+Funded by the State, the activity bonus
+supplements the income of low-income workers
+in order to encourage the exercise or resumption of a professional activity.
+Activity bonus: can you benefit from it?
+Social assistance
+Social assistance benefits from
+a helping hand
+from April 1.
+Active solidarity income (RSA), allowance for disabled adults (AAH), personalized housing assistance (APL) and family allowances will be
+revalued in line with inflation
+average for the year 2025, or 0.9%.
+Evaluate your rights to social benefits in a few clicks
+Income tax
+Kick-off of the 2025 income declaration campaign:
+from April 9 you will be able to check and complete
+your pre-filled declaration online.
+Depending on the department, you will have 6 to 8 weeks to do this.
+Consult impots.gouv.fr
+Summer time
+The days are getting longer, the temperatures are getting milder... and the time has passed into summer mode!
+The seesaw
+took place on the night of March 28 to 29: at 2 a.m., it was already 3 a.m.
+If there was official talk of
+end the time change
+, the subject is currently no longer on the agenda. The next time change remains scheduled for
+on October 25, 2026.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Daily life
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 2 + 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+On the same theme
+Summer time: five key things to know
+News
+                                                    · Daily life
+What changes in March 2026
+News
+                                                    · Daily life
+Municipality, intermunicipality, metropolis
+News
+                                                    · Daily life
+What changes in February 2026
+News
+                                                    · Daily life
+Also read
+Energy crisis: early sending of the 2026 energy check
+News ·
+                         Energy
+Published yesterday
+National tribute to Lionel Jospin
+News ·
+                         Government
+Published yesterday
+Summer time: five key things to know
+News ·
+                         Daily life
+Published yesterday
+Meeting on public finances
+News ·
+                         Public finances
+Published on March 27, 2026
+See all articles
+
+---
+
+### Summer time: five key things to know
+
+- **Source:** Gouvernement.fr
+- **URL:** https://www.gouvernement.fr/actualite/heure-d-ete-cinq-informations-cles-a-savoir
+- **Published Date:** 
+- **Scraped Date:** 2026-03-31
+- **Word Count:** 776
+- **Unique ID:** `79163b30226d22bd`
+
+#### Content:
+
+Summer time: five key things to know
+Published yesterday at 3:19 p.m.
+, modified yesterday at 10:27 p.m.
+Every spring, France sets its clocks forward by one hour. Historical origin, European rules, planned deletion… Here are five pieces of information to better understand the transition to summer time.
+Illustrative image -
+Source: AdobeStock
+France switched to summer time on the night of Saturday March 28 to Sunday March 29. At 2 a.m., it was already 3 a.m.
+The principle of time change has existed for more than a century
+The principle of summer time is not new. In France, it was first applied in 1916, during the First World War, with the aim of saving coal.
+After several modifications and its abandonment at the Liberation, the device was
+reintroduced in France in 1975
+, with a first application in 1976.
+Since then, the alternation between winter time and summer time has been part of the functioning of French legal time.
+The time change
+does not apply overseas
+, except for Saint-Pierre and Miquelon.
+The time change was introduced to save energy
+Summer time was reintroduced in 1975 in the context of the oil crisis of 1973-1974. The objective is then simple: reduce electricity consumption, particularly linked to lighting in the evening.
+By bringing legal time forward in the spring, human activities coincide more closely with natural evening light, which makes it possible to limit the use of artificial lighting.
+7 key actions to save energy on a daily basis
+Program your thermostat or your household appliances, favor cycling, reduce the duration of your showers: every action counts to reduce your energy consumption.
+News · Ecological transition
+Published on
+                                    12/28/2023
+The time change was supposed to be temporary
+Originally, this reintroduction was supposed to last for the duration of the energy crisis. The objective was to deal with an exceptional situation: the sudden rise in oil prices and the need to quickly reduce electricity consumption.
+In other words, the time change is seen as a short-term energy saving measure, and not as a lasting reform of the organization of time.
+This provisional measure was established over time because the electricity savings linked to lighting, although modest, were considered real.
+The date is the same throughout the European Union
+The time change has gradually become widespread and harmonized throughout the European Union. All Member States now apply the same dates.
+The changeover to summer time takes place every last Sunday in March. The return to winter time takes place every last Sunday in October.
+Concretely, when summer time changes, we move the clock forward by 60 minutes. At 2 a.m., it's 3 o'clock.
+And it's the opposite in October: when winter time changes, at 3 a.m., it's 2 a.m.
+The end of the time change has been considered… but not yet implemented
+The time change is the subject of debate, particularly with the widespread use of low-energy lighting.
+The European Parliament voted in 2019 on a project aimed at putting an end to seasonal time change from 2021. Each member state had to choose to keep either summer time or winter time throughout the year.
+The health crisis linked to Covid-19 has suspended this reform, and
+the text is currently no longer on the agenda
+. The seasonal time change therefore continues to apply.
+Share page
+Facebook
+Twitter
+LinkedIn
+Send
+Copy link
+News
+·
+Citizenship
+›
+Daily life
+·
+Environment
+›
+Energy
+Did you find the information you were looking for?
+Yes
+No, report a problem
+Return
+Your opinion interests us
+We recommend that you do not include personal data in the following fields. All fields are required.
+What information(s) were you looking for?
+You have 500 characters left. Your message must contain at least 20 characters.
+What happened?
+You have 500 characters left. Your message must contain at least 20 characters.
+Answer the following mathematical question: 5 - 2
+For example for 1 + 3, enter 4.
+Send
+Thank you for your response!
+The info.gouv.fr team thanks you for your response which will contribute to
+                        improving the site!
+On the same theme
+What is
+
+hange in April 2026
+News
+                                                    · Daily life
+What changes in March 2026
+News
+                                                    · Daily life
+Municipality, intermunicipality, metropolis
+News
+                                                    · Daily life
+What changes in February 2026
+News
+                                                    · Daily life
+Also read
+Energy crisis: early sending of the 2026 energy check
+News ·
+                         Energy
+Published yesterday
+National tribute to Lionel Jospin
+News ·
+                         Government
+Published yesterday
+Meeting on public finances
+News ·
+                         Public finances
+Published on March 27, 2026
+Near and Middle East: the Government calls for unity
+News ·
+                         Foreign policy
+Published on March 25, 2026
+See all articles
+
+---
+
