@@ -9,7 +9,7 @@ A **production-quality async Python pipeline** that scrapes official government 
 
 ## 📁 Project Structure
 
-```
+
 
 g7_scraper/
 │── main.py                    ← Async orchestrator — run this
