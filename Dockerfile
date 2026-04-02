@@ -1,46 +1,21 @@
 # =============================================================
 # Dockerfile — G7 Government Website Scraper
 # =============================================================
-# Multi-stage build keeps the final image lean.
-# Uses Python 3.12 slim (stable).
+# Using official Playwright image (Python 3.12 + Debian)
+# This image comes with browsers and dependencies PRE-INSTALLED.
 # =============================================================
 
-FROM python:3.12-slim AS base
+FROM mcr.microsoft.com/playwright/python:v1.44.0-bookworm AS base
 
 # ── Environment variables ─────────────────────────────────────
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
     PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
 
-# ── System dependencies ───────────────────────────────────────
+# ── System dependencies (additional) ─────────────────────────
 RUN apt-get update && apt-get install -y --no-install-recommends \
     cron \
     curl \
-    wget \
-    gnupg \
-    ca-certificates \
-    # Chromium dependencies for Playwright (manual list for Debian)
-    fonts-liberation \
-    fonts-unifont \
-    libnss3 \
-    libnspr4 \
-    libatk1.0-0 \
-    libatk-bridge2.0-0 \
-    libcups2 \
-    libdrm2 \
-    libxkbcommon0 \
-    libxcomposite1 \
-    libxdamage1 \
-    libxfixes3 \
-    libxrandr2 \
-    libgbm1 \
-    libasound2 \
-    libpango-1.0-0 \
-    libcairo2 \
-    libx11-6 \
-    libx11-xcb1 \
-    libxcb1 \
-    libxext6 \
     && rm -rf /var/lib/apt/lists/*
 
 # ── Working directory ─────────────────────────────────────────
@@ -51,8 +26,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip \
     && pip install --no-cache-dir -r requirements.txt
 
-# ── Install Playwright Chromium ───────────────────────────────
-RUN python -m playwright install chromium
+# (Playwright browsers are already in the base image!)
 
 # ── Copy project files ────────────────────────────────────────
 COPY . .
