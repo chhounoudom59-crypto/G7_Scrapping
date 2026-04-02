@@ -1,11 +1,8 @@
-# =============================================================
-# Dockerfile — G7 Government Website Scraper
-# =============================================================
-# Using official Playwright image (Python 3.12 + Debian)
+# Using official Playwright image (Python 3.12 + Ubuntu 22.04)
 # This image comes with browsers and dependencies PRE-INSTALLED.
 # =============================================================
 
-FROM mcr.microsoft.com/playwright/python:v1.44.0-bookworm AS base
+FROM mcr.microsoft.com/playwright/python:v1.44.0-jammy AS base
 
 # ── Environment variables ─────────────────────────────────────
 ENV PYTHONUNBUFFERED=1 \
